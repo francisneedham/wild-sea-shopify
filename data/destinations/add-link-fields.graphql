@@ -1,0 +1,9 @@
+mutation AddDestinationLinkFields($id: ID!, $definition: MetaobjectDefinitionUpdateInput!) {
+  metaobjectDefinitionUpdate(id: $id, definition: $definition) {
+    metaobjectDefinition {
+      id
+      fieldDefinitions { key name type { name } }
+    }
+    userErrors { field message code }
+  }
+}

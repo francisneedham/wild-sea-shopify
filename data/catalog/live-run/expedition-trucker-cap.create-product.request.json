@@ -1,0 +1,80 @@
+{
+  "input": {
+    "handle": "expedition-trucker-cap",
+    "title": "Expedition Trucker Cap",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Classic trucker cap built for long days on the watering life beyond the shoreline. Lightweight, breathable and designed for offshore and inshore adventures under the sun.</p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Breathable mesh back</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Adjustable snapback closure</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lightweight all-day confort</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Saltwater inspired design</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Built for offshore and inshore fishing</p></li></ul><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Made for anglers who live the expedition.</p>",
+    "status": "ACTIVE",
+    "productType": "Clothing",
+    "tags": [
+      "trucker fishing cap",
+      "fishing cap",
+      "saltwater fishing cap",
+      "offshore fishing",
+      "ocean lifestyle",
+      "fishing apparel",
+      "expedition wear",
+      "outdoor trucker hat",
+      "legacy-catalog-import",
+      "legacy-category-clothing"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ2586645",
+        "price": "25.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 24
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ab1f486f-b95a-4cad-912a-174b9dd30a1a/IMG_20260524_101456.jpg",
+        "contentType": "IMAGE",
+        "alt": "Expedition Trucker Cap"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3a23113e-1251-401e-af43-49ca4320a2dd/IMG_20260524_101552.jpg",
+        "contentType": "IMAGE",
+        "alt": "Expedition Trucker Cap"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3f377131-21b0-4c16-bfa4-e819978bf08d/IMG_20260524_101606.jpg",
+        "contentType": "IMAGE",
+        "alt": "Expedition Trucker Cap"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

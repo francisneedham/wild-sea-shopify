@@ -1,0 +1,84 @@
+{% doc %}
+  Loads shared Wild Sea editorial section styles through Shopify section assets.
+  No parameters required.
+
+  @example
+  {% render 'home-styles' %}
+{% enddoc %}
+
+{% stylesheet %}
+  .home-wrap {
+    width: min(100%, var(--page-width));
+    padding-inline: var(--site-gutter);
+    margin-inline: auto;
+  }
+  .home-section { padding-block: clamp(3.5rem, 7vw, 7rem); }
+  .home-heading { max-width: 16ch; margin: 0; font-size: clamp(2.75rem, 5.2vw, 5rem); line-height: .98; text-transform: uppercase; }
+  .home-kicker { margin: 0 0 1rem; font-size: var(--text-label); letter-spacing: .06em; }
+  .home-intro { max-width: 48ch; margin: 1.5rem 0 0; line-height: 1.8; }
+  .home-top { display: flex; justify-content: space-between; align-items: end; flex-wrap: wrap; gap: 1.5rem; margin-bottom: 2.5rem; }
+  .home-top > div { max-width: 55rem; }
+  .home-link { display: inline-flex; align-items: center; min-height: 2.75rem; padding-block: .6rem; border-bottom: 1px solid currentColor; text-decoration: none; font-size: var(--text-sm); }
+  .home-button { display: inline-flex; justify-content: center; align-items: center; min-height: 3.25rem; padding: .85rem 1.75rem; background: var(--theme-button); color: var(--theme-button-text); border: 1px solid var(--theme-button); text-decoration: none; font-size: var(--text-sm); font-weight: 700; }
+  .home-button:hover { text-decoration: underline; text-underline-offset: .25em; }
+  .home-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2rem; }
+  .home-card { min-width: 0; display: block; color: inherit; text-decoration: none; }
+  .home-card__media { position: relative; overflow: hidden; aspect-ratio: 3 / 2; background: var(--theme-border); }
+  .home-card__media img { width: 100%; height: 100%; object-fit: cover; }
+  .home-card__badge { position: absolute; inset: 1rem auto auto 1rem; max-width: calc(100% - 2rem); background: var(--theme-background); color: var(--theme-text); padding: .5rem .75rem; font-size: var(--text-label); }
+  .home-card__body { padding-block: 1.5rem 0; }
+  .home-card__kicker { margin: 0 0 .75rem; font-size: var(--text-label); }
+  .home-card h3 { margin: 0; font-size: clamp(1.75rem, 3vw, 2.5rem); line-height: 1.05; text-transform: uppercase; }
+  .home-card__text { margin: 1rem 0 0; max-width: 48ch; line-height: 1.7; font-size: var(--text-sm); }
+  .home-card .home-link { margin-top: .75rem; }
+  a.home-card:hover h3 { text-decoration: underline; text-underline-offset: .12em; }
+  .home-grid--categories { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: clamp(1.5rem, 4vw, 4rem); }
+  .home-grid--categories .home-card__media { aspect-ratio: 1; border-radius: 50%; }
+  .home-grid--categories .home-card__body { text-align: center; }
+  .home-grid--categories h3 { font-size: clamp(1.75rem, 3vw, 2.5rem); }
+  .home-grid--gallery { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: .5rem; }
+  .home-grid--gallery .home-card__media { aspect-ratio: 1; }
+  /* Photo carousel (Embla via [data-carousel], legacy .gallery: two per view, arrows top right). */
+  .home-carousel__viewport { overflow: hidden; }
+  .home-grid--carousel { display: flex; gap: 16px; touch-action: pan-y pinch-zoom; }
+  .home-grid--carousel > div { flex: 0 0 calc(50% - 8px); min-width: 0; }
+  .home-grid--carousel .home-card__media { aspect-ratio: auto; height: 380px; }
+  .home-carousel__controls { display: flex; gap: 8px; }
+  .home-carousel__controls button { display: grid; place-items: center; width: 46px; height: 46px; border: 1px solid var(--theme-border); background: none; color: inherit; cursor: pointer; transition: background .2s, opacity .2s; }
+  .home-carousel__controls button:hover { background: color-mix(in srgb, var(--theme-text) 8%, transparent); }
+  .home-carousel__controls button:disabled { opacity: .35; cursor: default; }
+  .home-carousel__controls svg { width: 16px; height: 16px; }
+  [data-carousel-static] .home-carousel__controls { display: none; }
+  .home-hero { position: relative; display: grid; align-items: end; min-height: min(850px, 90svh); overflow: hidden; }
+  .home-hero__media, .home-hero__shade { position: absolute; inset: 0; }
+  .home-hero__media img { width: 100%; height: 100%; object-fit: cover; object-position: center 55%; }
+  .home-hero__shade { background: linear-gradient(90deg, rgb(0 0 0 / .65), rgb(0 0 0 / .08)), linear-gradient(0deg, rgb(0 0 0 / .45), transparent 60%); }
+  .home-hero__content { position: relative; z-index: 1; padding-block: clamp(5rem, 10vw, 10rem) 3rem; }
+  .home-hero h1 { max-width: 12ch; margin: 0; font-size: clamp(4rem, 9.5vw, 9rem); line-height: .9; letter-spacing: -.025em; text-transform: uppercase; }
+  .home-hero .home-intro { max-width: 38ch; }
+  .home-hero__actions { display: flex; align-items: center; flex-wrap: wrap; gap: 1rem 2rem; margin-top: 2rem; }
+  .home-hero__caption { margin: 3rem 0 0; font-size: var(--text-label); }
+  .home-story { display: grid; grid-template-columns: 1fr 1fr; }
+  .home-story__image { min-height: 32rem; }
+  .home-story__image img { width: 100%; height: 100%; object-fit: cover; }
+  .home-story__copy { align-self: center; padding: clamp(2rem, 6vw, 6rem); }
+  .home-story__copy .home-link { margin-top: 1.5rem; }
+  .home-news-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2.5rem; }
+  .home-news-grid h3 { max-width: 25ch; font-size: clamp(1.75rem, 3vw, 2.75rem); }
+  @media (max-width: 989px) {
+    .home-grid { gap: 1.25rem; }
+    .home-grid--categories { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .home-story { grid-template-columns: 1fr; }
+    .home-story__image { min-height: 0; aspect-ratio: 3 / 2; }
+  }
+  @media (max-width: 649px) {
+    .home-grid, .home-news-grid { grid-template-columns: 1fr; gap: 2.5rem; }
+    .home-grid--categories { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2rem 1rem; }
+    .home-grid--gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .5rem; }
+    .home-grid--carousel > div { flex-basis: 85%; }
+    .home-grid--carousel .home-card__media { height: 320px; }
+    .home-grid--gallery > div:first-child { grid-column: 1 / -1; }
+    .home-grid--gallery > div:first-child .home-card__media { aspect-ratio: 2 / 1; }
+    .home-hero { min-height: 42rem; }
+  }
+{% endstylesheet %}

@@ -1,0 +1,56 @@
+{% doc %}
+  Outputs Shopify-hosted fonts, global layout variables, and scoped color schemes.
+  Reads global theme settings; no parameters required.
+
+  @example
+  {% render 'theme-styles' %}
+{% enddoc %}
+
+{%- liquid
+  assign body_font = settings.type_primary_font
+  assign heading_font = settings.heading_font
+  assign body_bold = body_font | font_modify: 'weight', 'bold'
+  assign body_italic = body_font | font_modify: 'style', 'italic'
+-%}
+
+{% style %}
+  {{ body_font | font_face: font_display: 'swap' }}
+  {% if body_bold and body_bold != body_font %}
+    {{ body_bold | font_face: font_display: 'swap' }}
+  {% endif %}
+  {% if body_italic and body_italic != body_font %}
+    {{ body_italic | font_face: font_display: 'swap' }}
+  {% endif %}
+  {% if heading_font != body_font and heading_font != body_bold and heading_font != body_italic %}
+    {{ heading_font | font_face: font_display: 'swap' }}
+  {% endif %}
+
+  :root {
+    --font-body-family: {{ body_font.family }}, {{ body_font.fallback_families }};
+    --font-body-style: {{ body_font.style }};
+    --font-body-weight: {{ body_font.weight }};
+    --font-heading-family: {{ heading_font.family }}, {{ heading_font.fallback_families }};
+    --font-heading-style: {{ heading_font.style }};
+    --font-heading-weight: {{ heading_font.weight }};
+    --page-width: {{ settings.max_page_width }};
+    --page-margin: {{ settings.min_page_margin }}px;
+    --input-corner-radius: {{ settings.input_corner_radius }}px;
+    --logo-width: {{ settings.logo_width }}px;
+    /* Legacy .wrap side padding: 64px desktop, 35px tablet, 22px mobile. */
+    --site-gutter: max(var(--page-margin), 64px);
+  }
+  @media (max-width: 1100px) { :root { --site-gutter: max(var(--page-margin), 35px); } }
+  @media (max-width: 760px) { :root { --site-gutter: max(var(--page-margin), 22px); } }
+
+  {% for scheme in settings.color_schemes %}
+    {% if forloop.first %}:root,{% endif %}
+    .color-{{ scheme.id }} {
+      --theme-background: {{ scheme.settings.background }};
+      --theme-background-image: {{ scheme.settings.background_gradient | default: 'none' }};
+      --theme-text: {{ scheme.settings.text }};
+      --theme-button: {{ scheme.settings.button }};
+      --theme-button-text: {{ scheme.settings.button_label }};
+      --theme-border: {{ scheme.settings.border }};
+    }
+  {% endfor %}
+{% endstyle %}

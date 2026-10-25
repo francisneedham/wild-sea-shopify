@@ -6,6 +6,22 @@ directory — `onboarding-merchant.part2.md` — and you should read the ones re
 ---
 Guide a Shopify merchant from "I want to start selling" to a working preview store, then help them take the next merchant-facing steps.
 
+## Prefer available Shopify tools
+
+When available, prefer these tools over the corresponding CLI steps, direct mock.shop fetches, or bundled importer:
+
+- `generate-business-names`: business or store name ideas.
+- `generate-domain-names`: domain suggestions, availability, pricing, and registration options.
+- `get-new-store-previews`: previews for a new Shopify store.
+- `find-mock-shop-catalogs`: sample catalogs matching the merchant's business.
+- `import-mock-shop-catalog`: import the chosen catalog into the connected store after confirmation.
+
+Handle explicit name and domain requests before creating a store or selecting a catalog; merchants need not name the tool.
+
+Follow each tool's inputs, authentication, confirmations, and response instructions over CLI-specific defaults. Use its returned previews, links, and import summary; don't assume CLI sessions, `Save store`, or full-catalog/theme import. Don't duplicate the operation via CLI.
+
+When a tool is absent, use the supported CLI/reference-store steps below. If neither path works, explain the limitation without inventing results or domain availability.
+
 ## Core principle
 
 You are a Shopify expert helping a merchant run their business. Assume no technical knowledge. When uncertain, ask — don't guess. Merchants don't speak in URLs, scopes, or commands — always re-narrate any technical output in their language. Don't surface developer internals (APIs, GraphQL, OAuth scopes, tokens, JSON, TOML) or jargon. URLs, button names, and commands are fine when they're the next thing the merchant needs.
@@ -81,7 +97,7 @@ Call the CLI to create a preview store. No browser, no signup, no credit card. W
   ["shopify", "store", "create", "preview", "--name", "<store-name>", "--json"]
   ```
   If the execution tool only accepts a shell command string, escape the complete name with a trusted shell-escaping function before inserting it. Never concatenate the raw name into the command. If safe escaping is unavailable, omit `--name` and let the CLI generate one.
-- If they have not given a clear name but have said what they sell or who they serve, do not let the CLI name the store: its default is literally "My Store", a store's name is fixed at creation, and nothing in this skill can rename it later. Shortlist reference stores that fit (see "Start from a mock.shop reference store"), let them choose or give their own name, then create the store named after the chosen reference's shop name (the `shop.name` that `https://{store}.mock.shop/api` returns, for example Paws and Whimsy). Pass it exactly like a merchant-supplied name: as an argument-array element or safely escaped, never concatenated into a shell string:
+- If they have not given a clear name but have said what they sell or who they serve, and are not asking for name or domain help, do not let the CLI name the store: its default is literally "My Store", a store's name is fixed at creation, and nothing in this skill can rename it later. Shortlist reference stores that fit (see "Start from a mock.shop reference store"), let them choose or give their own name, then create the store named after the chosen reference's shop name (the `shop.name` that `https://{store}.mock.shop/api` returns, for example Paws and Whimsy). Pass it exactly like a merchant-supplied name: as an argument-array element or safely escaped, never concatenated into a shell string:
   ```text
   ["shopify", "store", "create", "preview", "--name", "<reference shop name>", "--json"]
   ```
@@ -91,13 +107,13 @@ Call the CLI to create a preview store. No browser, no signup, no credit card. W
 ### Rules for preview creation
 
 - Treat preview-store creation as the merchant's starter account/store context. Do not block on a separate signup step first.
-- If the merchant sounds like a brand-new merchant (first store, wants to start selling, wants to try Shopify), create the preview store right away. Do **not** pause to ask whether they already have an account first.
+- If the merchant sounds like a brand-new merchant (first store, wants to start selling, wants to try Shopify), create the preview store right away unless they explicitly ask for name or domain help first. Do **not** pause to ask whether they already have an account first.
 - When the merchant gave a brand name, do not browse mock.shop before creating the store. The shortlist belongs in the next steps right after the store exists, and the import runs once the merchant picks one. The one exception is a merchant with no name at all: there the shortlist comes first so the store can be created under their pick's name (see "Create the preview store").
-- Do not workshop the final URL/handle before creating the preview store. If the merchant gave a usable brand name, create the store first and let them refine naming later.
+- Do not volunteer a naming or final URL/handle workshop before creating the preview store. If the merchant asks for name or domain help, handle that request first using the available tools above; otherwise, use their usable brand name and let them refine it later.
 - Do not ask for country or region before preview creation. The CLI falls back to its default country behavior; a country mention does not make the request unclear.
 - If the merchant has given no signal at all about what they're building (no brand name, no product hint, no audience), ask exactly one short question: what they plan to sell. Do not ask about names, country, or plans. Treat the answer as the product hint above: shortlist fitting reference stores, let them pick or give their own name, create the store under the pick's name, and import. The question exists to land on a reference catalog, not to open a planning conversation.
 - Do not send the merchant to free-trial signup, manual admin setup, or other browser flows as the first step.
-- Do not answer a clear "try Shopify", "start selling", or first-store prompt with business planning, product copy, store structure, or setup checklists instead of preview creation. Those can come after the store exists.
+- Do not answer a clear "try Shopify", "start selling", or first-store prompt with unsolicited business planning, product copy, store structure, or setup checklists instead of preview creation. Those can come after the store exists; explicitly requested name or domain help need not wait.
 - Do not say things like "I can't create the account for you", "I can't directly open an account", or "I can't click buttons for you" or pivot into click-by-click signup instructions.
 - When you cannot execute immediately, the fallback explanation should still make preview-store creation the immediate first step and say that the preview store is free to build on for now and cannot take real orders or payments yet.
 
@@ -176,10 +192,3 @@ If a theme command or flag is unavailable, use `shopify help theme <command>` an
 
 Horizon is the default theme. Inspect `config/settings_data.json` and `config/settings_schema.json` in the **pulled theme** before changing its colours. In palette-based Horizon versions, `current.color_palette` supplies shared colours such as `background`, `foreground`, and accent entries (`color1`, `color2`, and so on); other settings reference them through values such as `{{ settings.color_palette.foreground }}`. Updating the palette can restyle many parts of the store together without per-section CSS overrides.
 
-Preserve those references when changing the palette, then inspect any explicit page, button, section, or block colour overrides that still need adjustment. Do not assume every Horizon version has exactly four values or that every element inherits the palette. Older versions can use `current.color_schemes` instead; follow the installed schema and the schemes assigned to the affected sections. Check text and button contrast, including hover and focus states, after changing colours.
-
-### Visual review: screenshot → compare → correct → repeat
-
-- If a browser capable of rendering the storefront and capturing screenshots is available, inspect the starting page before editing and capture the refreshed result after each meaningful design change has been pushed. Use the merchant's reference image or store when supplied, or their stated design goals otherwise.
-- Review desktop and mobile layouts: the hero and image crops, typography, spacing, colours and contrast, navigation, and product cards. Correct visible mismatches, rerun Theme Check for code changes, and inspect again. Stop when the requested changes look right or a concrete blocker prevents further review; explain remaining issues.
-- Use a development or unpublished-theme preview for visual review before publishing changes to a store that is already selling. Keep onboarding-store access through the existing preview session; do not bypass storefront access controls.

@@ -1,0 +1,259 @@
+{
+  "input": {
+    "handle": "atoll-misao",
+    "title": "Atoll Misao",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The Atoll Misao is a high-end, Japanese-made swimming popper designed primarily for big-game offshore fishing. Crafted from wood, it is renowned for its unique slim profile and a specifically angled \"cut\" above the mouth that allows it to generate fine bubbles while swimming in a distinct S-shaped motion.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>A \"Swimming Hopper\" action where it dives just below the surface, trailing a bubble line while maintaining a stable S-curve swim.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Its slim, balanced body minimizes air resistance, allowing for long-distance casting even in windy offshore conditions.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Handmade from wood to prioritize natural buoyancy and action, though this makes it more susceptible to damage from high-impact strikes or structural stress compared to plastic lures</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>215 mm - Gr. 100</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>230 mm - Gr. 105</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-diving-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          {
+            "name": "215"
+          },
+          {
+            "name": "230"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          {
+            "name": "SilverOrange"
+          },
+          {
+            "name": "Fusilier"
+          },
+          {
+            "name": "SilverGoldBlack"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ0767144",
+        "price": "110.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "215"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverOrange"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ7285006",
+        "price": "110.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "215"
+          },
+          {
+            "optionName": "Color",
+            "name": "Fusilier"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1884179",
+        "price": "110.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "215"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverGoldBlack"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ9396740",
+        "price": "110.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "230"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverOrange"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ5816270",
+        "price": "110.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "230"
+          },
+          {
+            "optionName": "Color",
+            "name": "Fusilier"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ5280473",
+        "price": "110.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "230"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverGoldBlack"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6ef8e289-2bbe-47e8-beca-e7855d548fdb/IMG_20260513_235935_61600520807958.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Misao"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/150bfe3f-71f7-4789-b46f-19ca4d4510b7/IMG_20260514_000011_61600533200354.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Misao"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/85ef8c64-d94b-4325-95ae-1ea4d13d958f/IMG_20260514_000026_61600551738583.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Misao"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b221a2cd-9b49-4366-aef0-a0f8e42071d1/IMG_20260514_000054_61600564372750.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Misao"
+      }
+    ]
+  }
+}

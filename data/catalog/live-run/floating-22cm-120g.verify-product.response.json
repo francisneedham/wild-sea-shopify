@@ -1,0 +1,540 @@
+{
+  "product": {
+    "id": "gid://shopify/Product/15439415771249",
+    "handle": "floating-22cm-120g",
+    "status": "ACTIVE",
+    "title": "Glide Floating 22cm - 120g",
+    "resourcePublicationsV2": {
+      "nodes": [
+        {
+          "isPublished": true,
+          "publication": {
+            "id": "gid://shopify/Publication/178400395377"
+          }
+        },
+        {
+          "isPublished": true,
+          "publication": {
+            "id": "gid://shopify/Publication/178400428145"
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    },
+    "variants": {
+      "nodes": [
+        {
+          "id": "gid://shopify/ProductVariant/67841314553969",
+          "sku": "SQ8441079",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Black"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314586737",
+          "sku": "SQ8241258",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Blackbone"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314619505",
+          "sku": "SQ3121307",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Banana"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314652273",
+          "sku": "SQ9954176",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Coral"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314685041",
+          "sku": "SQ8361686",
+          "price": "70.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Carbon"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314717809",
+          "sku": "SQ2422357",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Holo black"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314750577",
+          "sku": "SQ3660400",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Holo blue"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314783345",
+          "sku": "SQ2750120",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Holo pink"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314816113",
+          "sku": "SQ7711059",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Mahi"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314848881",
+          "sku": "SQ7461328",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Nemo"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314881649",
+          "sku": "SQ6899363",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Pink"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314914417",
+          "sku": "SQ8806675",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Sarda"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314947185",
+          "sku": "SQ2533420",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Shark"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841314979953",
+          "sku": "SQ5868404",
+          "price": "60.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "YouPop"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    },
+    "media": {
+      "nodes": [
+        {
+          "id": "gid://shopify/MediaImage/46284885917809",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284885950577",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284885983345",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284886016113",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284886048881",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284886081649",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284886114417",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284886147185",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284886179953",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284886245489",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284886278257",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284886311025",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284886343793",
+          "status": "READY",
+          "mediaErrors": []
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    }
+  }
+}

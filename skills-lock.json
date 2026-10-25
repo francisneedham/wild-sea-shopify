@@ -7,6 +7,12 @@
       "skillPath": "skills/accessibility/SKILL.md",
       "computedHash": "612f913bcb03f0787b103c848cd7664b676a9aaf31f25d3270cc69cf5caaab95"
     },
+    "animation": {
+      "source": "display-design-studio/skills",
+      "sourceType": "github",
+      "skillPath": "skills/animation/SKILL.md",
+      "computedHash": "eaafc89032635aac03dd3e7acd6c11d8e096203fc66bb5e13864ac361db86279"
+    },
     "caveman": {
       "source": "display-design-studio/skills",
       "sourceType": "github",
@@ -14,16 +20,28 @@
       "computedHash": "1902fa0b569912d0c05736d8d98a72097d9b82719aac88c0c1d03bb546f9176d"
     },
     "grill-me": {
-      "source": "mattpocock/skills",
+      "source": "display-design-studio/skills",
       "sourceType": "github",
-      "skillPath": "skills/productivity/grill-me/SKILL.md",
-      "computedHash": "9cdbb4b8f7a3aeaef82e6230c9e823500d4a8a1214c726cf342cf9829d34fc7d"
+      "skillPath": "skills/grill-me/SKILL.md",
+      "computedHash": "0c496d8ea7a6c1011a6a3e045e9d927e67e582c83c84497f5010eba8fb65c45d"
+    },
+    "gsap": {
+      "source": "display-design-studio/skills",
+      "sourceType": "github",
+      "skillPath": "skills/gsap/SKILL.md",
+      "computedHash": "21374b57a4560cda2b9c2862f8e4c0dce8d0f757e0c34a4b330fef0ca6a84c50"
     },
     "junior-to-senior": {
-      "source": "juliusbrussee/skills",
+      "source": "display-design-studio/skills",
       "sourceType": "github",
       "skillPath": "skills/junior-to-senior/SKILL.md",
       "computedHash": "816d1cbcefd81bbd69628d04a7d67fe2762d63fb81092e0914c721d43fcd91fb"
+    },
+    "nuxt": {
+      "source": "display-design-studio/skills",
+      "sourceType": "github",
+      "skillPath": "skills/nuxt/SKILL.md",
+      "computedHash": "03fc229d7c6a300b2ded6d9f984b45d8a554c2c991199c54760893e627c91371"
     },
     "ponytail": {
       "source": "dietrichgebert/ponytail",
@@ -38,10 +56,16 @@
       "computedHash": "01f9f8a3feb3ea69c6c212d61189c610f96ef2cc363adc27fd314d78254bf6ae"
     },
     "shopify": {
-      "source": "Shopify/shopify-ai-toolkit",
+      "source": "display-design-studio/skills",
       "sourceType": "github",
       "skillPath": "skills/shopify/SKILL.md",
-      "computedHash": "7f14da325fc5381640c71627b1599be5536196433cbc656a16162bded73cc547"
+      "computedHash": "a8a922c6b2197cbc0f53b650d904838152b6819ab7b55a39768e78c64ac5c571"
+    },
+    "shopify-development": {
+      "source": "display-design-studio/skills",
+      "sourceType": "github",
+      "skillPath": "skills/shopify-development/SKILL.md",
+      "computedHash": "6391f6d358cf7e0adef6835e8b11942b8d4b6705addc40bf24d4502c386fb011"
     },
     "tailwind": {
       "source": "display-design-studio/skills",
@@ -59,7 +83,7 @@
       "source": "display-design-studio/skills",
       "sourceType": "github",
       "skillPath": "skills/vite/SKILL.md",
-      "computedHash": "867ff66238f3152e9c494339ad08dc432dd0df5bcf5cc7a00b61a72b580eb908"
+      "computedHash": "88ee465fd10f711efecc76e91e96accae2b229dda371614dcf219099c264a486"
     },
     "web-design-guidelines": {
       "source": "display-design-studio/skills",

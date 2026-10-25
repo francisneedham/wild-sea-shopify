@@ -1,0 +1,20 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650466132081",
+      "handle": "blue",
+      "displayName": "Blue",
+      "fields": [
+        {
+          "key": "label",
+          "value": "Blue"
+        },
+        {
+          "key": "swatch_color",
+          "value": "#3669A3"
+        }
+      ]
+    },
+    "userErrors": []
+  }
+}

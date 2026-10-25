@@ -1,0 +1,96 @@
+{
+  "input": {
+    "handle": "mc-works-x-fish-trippers-village-barbaro-788",
+    "title": "MC Works X Fish Trippers Village Barbaro 788",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Experience the power of the MC Works X Fish Trippers Village collaboration rod based off the MC Works EXPLOSION Full Contact 818CTR, designed for conquering large fish such as GT, Kingfish, and tuna in both fast-paced and extended battles. This expedition-sized XXL rod is lauded as the ultimate utility rod, boasting unparalleled castability, fighting performance, and reduced strain on the angler. What is also unique with this rods is that they are good for stickbaitds and poppers. </span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>LENGTH: 7'8 ”</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>LINE PE: # 8 ~ 12</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>LURE MAX: 300g </span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>DRAG MAX: 20KG</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Handmade in Japan.</span></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "Giant Trevally",
+      "GT",
+      "Tuna",
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ0014654",
+        "price": "680.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f5f78739-4a04-4a11-9de9-4adc35c4832f/Snimka%2Bzaslona%2B2024-12-14%2B121027.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works X Fish Trippers Village Barbaro 788"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a3acea12-a5b8-474a-b25f-36ceac3dbfb2/Snimka%2Bzaslona%2B2024-12-14%2B121044.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works X Fish Trippers Village Barbaro 788"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/19b9a7dd-4ab6-4066-90f2-606fd0478de2/Snimka%2Bzaslona%2B2024-12-14%2B120929.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works X Fish Trippers Village Barbaro 788"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7efe1c27-1de3-4aca-8aab-95eb586ada8e/A7402845-Editsssdsd-2+%283%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works X Fish Trippers Village Barbaro 788"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2600e105-7940-4113-a732-c63fbc9e6cd0/A7402848-Editsssdsd-2+%283%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works X Fish Trippers Village Barbaro 788"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1579708e-73c1-4d32-b0da-8816895f4ab0/A7403446.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works X Fish Trippers Village Barbaro 788"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/14fef0f0-5c1e-4a15-9a0d-f05ec778f2ab/MC%2BWrks%2BBarrbaro.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works X Fish Trippers Village Barbaro 788"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

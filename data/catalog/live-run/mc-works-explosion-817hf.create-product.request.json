@@ -1,0 +1,73 @@
+{
+  "input": {
+    "handle": "mc-works-explosion-817hf",
+    "title": "MC Works Explosion 817HF",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">This model inherits the action of the EX826HF and is one step up in power. It is not just strong, but is a heavy model that emphasizes ease of handling.<br />Anglers looking to catch 20kg or more yellowtail need a strong rod, but it is physically tough... This is recommended for anglers who are troubled by such a paradox.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Titanium hybrid PMNSG + KWSG guide</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">LENGTH 8'1”<br />LINE PE #6-10<br />CAST 100-200G<br />DRAG MAX 18kg</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ8456306",
+        "price": "620.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/59d91b39-d7ea-4477-a7b6-c08895c12bdf/Snimka%2Bzaslona%2B2025-01-21%2B123014.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 817HF"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/8d53b62c-fd78-4415-a323-7cc1cc370f75/A7402845-Editsssdsd-2+%283%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 817HF"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/452cfa9b-03e2-4f19-bd73-592224ef98b4/A7402848-Editsssdsd-2+%283%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 817HF"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

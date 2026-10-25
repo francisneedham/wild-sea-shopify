@@ -1,0 +1,42 @@
+mutation UpdateVendorBatch003 {
+  v0: productUpdate(product: {id: "gid://shopify/Product/15439417016433", vendor: "Good Bait"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v1: productUpdate(product: {id: "gid://shopify/Product/15439417376881", vendor: "Good Bait"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v2: productUpdate(product: {id: "gid://shopify/Product/15439417671793", vendor: "Good Bait"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v3: productUpdate(product: {id: "gid://shopify/Product/15439417835633", vendor: "Good Bait"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v4: productUpdate(product: {id: "gid://shopify/Product/15439418097777", vendor: "Hammerhead"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v5: productUpdate(product: {id: "gid://shopify/Product/15439418458225", vendor: "Hammerhead"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v6: productUpdate(product: {id: "gid://shopify/Product/15439418785905", vendor: "Indigo Blue"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v7: productUpdate(product: {id: "gid://shopify/Product/15439419113585", vendor: "Jumprize"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v8: productUpdate(product: {id: "gid://shopify/Product/15439419408497", vendor: "Jumprize"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v9: productUpdate(product: {id: "gid://shopify/Product/15439419703409", vendor: "Kikuchi Craft"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+}

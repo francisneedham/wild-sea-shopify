@@ -1,0 +1,9 @@
+query VerifyDestinationImage($id: ID!) {
+  node(id: $id) {
+    ... on MediaImage {
+      id
+      fileStatus
+      image { url width height }
+    }
+  }
+}

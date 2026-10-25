@@ -1,0 +1,84 @@
+{
+  "metafieldsSet": {
+    "metafields": [
+      {
+        "id": "gid://shopify/Metafield/191650261532785",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_made_in",
+        "value": "Japan"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650261500017",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_length_cm",
+        "value": "226.06"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650261467249",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_length_label",
+        "value": "7'5\""
+      },
+      {
+        "id": "gid://shopify/Metafield/191650261434481",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "12.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650261401713",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "250"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650261368945",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "25.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650261336177",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_length_cm",
+        "value": "238.76"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650261303409",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_length_label",
+        "value": "7'10\""
+      },
+      {
+        "id": "gid://shopify/Metafield/191650261270641",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "8.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650261237873",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "180"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650261205105",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "15.0"
+      }
+    ],
+    "userErrors": []
+  }
+}

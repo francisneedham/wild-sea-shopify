@@ -1,0 +1,213 @@
+{
+  "input": {
+    "handle": "native-works-napalm-250",
+    "title": "Native Works Napalm 250",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The world famous Napalm diving popper from Native Works but in a <strong>very rare size!</strong><br />Handmade in Japan, very small production.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">They are very easy to move, very easy to dive and do a big difference when a pencil can not be used.<br />Intense bubble trail and motion.<br />Swims in any sea conditions.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">DONT MISS OUT of these amazing diving poppers! Proven catcher on many fishes all around the globe.<br /><br />100% handmade in Japan by Mr Kawauchi Kenichi, his lures are exceptional and undoubtly unique.</p><ul data-rte-list=\"default\"><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length 250 mm</span></p></li><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Gr. 155</span></p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Tuna",
+      "Giant Trevally",
+      "yellowfin",
+      "bluefin",
+      "Native Works",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-floating",
+      "legacy-category-lures-diving-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Yellowfin"
+          },
+          {
+            "name": "Greenshad"
+          },
+          {
+            "name": "Natural Wood"
+          },
+          {
+            "name": "Blacknow"
+          },
+          {
+            "name": "Orange Marbled"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ7268835",
+        "price": "220.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Yellowfin"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.24,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ5571575",
+        "price": "220.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Greenshad"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.24,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4390825",
+        "price": "220.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Natural Wood"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.24,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1374809",
+        "price": "220.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Blacknow"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.24,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ0757410",
+        "price": "220.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Orange Marbled"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.24,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/eae9b876-d8fb-4945-bc4a-420412c088cc/Yellowfin%281%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 250"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ca24b181-bbd4-4f82-bc60-4995342da4af/napalm+250+orange.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 250"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/08d12e5c-68e0-4903-8587-542a89aeb588/img-20241227-wa0071.JPG",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 250"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7138c44e-5358-4638-b96c-60e91a664feb/IMG-20241227-WA0008.JPG",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 250"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a45766c2-3b29-4f81-a24d-c01c0cdbeb10/img-20241227-wa0069.JPG",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 250"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

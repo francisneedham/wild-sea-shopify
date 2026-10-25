@@ -1,0 +1,72 @@
+{
+  "v0": {
+    "id": "gid://shopify/Product/15439430582385",
+    "handle": "stickpop-22cm-150g",
+    "title": "Glide Stickpop 22cm - 150g",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Glide Tackle"
+  },
+  "v1": {
+    "id": "gid://shopify/Product/15439430844529",
+    "handle": "truth-ocean-sprinter-7510-standard-black-model",
+    "title": "Truth Ocean Sprinter 7510 - standard black model",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Truth Japan"
+  },
+  "v2": {
+    "id": "gid://shopify/Product/15439543631985",
+    "handle": "truth-ocean-sprinter-8110",
+    "title": "Truth Ocean Sprinter 8110",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Truth Japan"
+  },
+  "v3": {
+    "id": "gid://shopify/Product/15439543763057",
+    "handle": "truth-ocean-sprinter-838",
+    "title": "Truth Ocean Sprinter 838",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Truth Japan"
+  },
+  "v4": {
+    "id": "gid://shopify/Product/15439543926897",
+    "handle": "truth-oceansprinter-711-rs",
+    "title": "Truth Ocean sprinter 711RS",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Truth Japan"
+  },
+  "v5": {
+    "id": "gid://shopify/Product/15439544057969",
+    "handle": "truth-oceansprinter-856",
+    "title": "Truth Ocean Sprinter 856",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Truth Japan"
+  },
+  "v6": {
+    "id": "gid://shopify/Product/15439544156273",
+    "handle": "truth-white-insight-611-12",
+    "title": "Truth White Insight 611 12",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Truth Japan"
+  },
+  "v7": {
+    "id": "gid://shopify/Product/15439544287345",
+    "handle": "truth-white-insight-7210-custom-red",
+    "title": "Truth White Insight 7210 Custom Red",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Truth Japan"
+  },
+  "v8": {
+    "id": "gid://shopify/Product/15439544516721",
+    "handle": "truth-white-insight-7210-standard-black-model",
+    "title": "Truth White Insight 7210 - standard black model",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Truth Japan"
+  },
+  "v9": {
+    "id": "gid://shopify/Product/15439544647793",
+    "handle": "truth-white-insight-7415",
+    "title": "Truth White Insight 7415",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Truth Japan"
+  }
+}

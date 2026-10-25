@@ -1,0 +1,139 @@
+{
+  "productSet": {
+    "product": {
+      "id": "gid://shopify/Product/15439426191473",
+      "handle": "native-works-gazelle-270",
+      "status": "ACTIVE",
+      "title": "Native Works Gazelle 270",
+      "resourcePublicationsV2": {
+        "nodes": [],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841369047153",
+            "sku": "SQ2106374",
+            "price": "250.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Titanium"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0.28,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 1
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841369079921",
+            "sku": "SQ7431133",
+            "price": "250.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Golden Orange"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0.28,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 1
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841369112689",
+            "sku": "SQ1542471",
+            "price": "250.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "White Glow"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0.28,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 2
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284936937585",
+            "status": "UPLOADED",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284936970353",
+            "status": "UPLOADED",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284937003121",
+            "status": "UPLOADED",
+            "mediaErrors": []
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

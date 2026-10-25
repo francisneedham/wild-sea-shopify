@@ -1,0 +1,196 @@
+{
+  "metafields": [
+    {
+      "ownerId": "gid://shopify/Product/15439423012977",
+      "namespace": "specs",
+      "key": "rod_length_cm",
+      "type": "number_decimal",
+      "value": "254",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423012977",
+      "namespace": "specs",
+      "key": "rod_length_label",
+      "type": "single_line_text_field",
+      "value": "8'4\"",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423012977",
+      "namespace": "specs",
+      "key": "rod_pe_min",
+      "type": "number_decimal",
+      "value": "2",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423012977",
+      "namespace": "specs",
+      "key": "rod_pe_max",
+      "type": "number_decimal",
+      "value": "4",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423012977",
+      "namespace": "specs",
+      "key": "rod_cast_min_g",
+      "type": "number_integer",
+      "value": "20",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423012977",
+      "namespace": "specs",
+      "key": "rod_cast_max_g",
+      "type": "number_integer",
+      "value": "60",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423012977",
+      "namespace": "specs",
+      "key": "rod_drag_max_kg",
+      "type": "number_decimal",
+      "value": "6",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423307889",
+      "namespace": "specs",
+      "key": "rod_length_cm",
+      "type": "number_decimal",
+      "value": "314.96",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423307889",
+      "namespace": "specs",
+      "key": "rod_length_label",
+      "type": "single_line_text_field",
+      "value": "10'4\"",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423307889",
+      "namespace": "specs",
+      "key": "rod_pe_min",
+      "type": "number_decimal",
+      "value": "8",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423307889",
+      "namespace": "specs",
+      "key": "rod_pe_max",
+      "type": "number_decimal",
+      "value": "10",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423307889",
+      "namespace": "specs",
+      "key": "rod_cast_min_g",
+      "type": "number_integer",
+      "value": "100",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423307889",
+      "namespace": "specs",
+      "key": "rod_cast_max_g",
+      "type": "number_integer",
+      "value": "200",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423307889",
+      "namespace": "specs",
+      "key": "rod_drag_max_kg",
+      "type": "number_decimal",
+      "value": "13",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423602801",
+      "namespace": "specs",
+      "key": "rod_length_cm",
+      "type": "number_decimal",
+      "value": "281.94",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423602801",
+      "namespace": "specs",
+      "key": "rod_length_label",
+      "type": "single_line_text_field",
+      "value": "9'3\"",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423602801",
+      "namespace": "specs",
+      "key": "rod_pe_min",
+      "type": "number_decimal",
+      "value": "8",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423602801",
+      "namespace": "specs",
+      "key": "rod_pe_max",
+      "type": "number_decimal",
+      "value": "10",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423602801",
+      "namespace": "specs",
+      "key": "rod_cast_max_g",
+      "type": "number_integer",
+      "value": "200",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423602801",
+      "namespace": "specs",
+      "key": "rod_drag_max_kg",
+      "type": "number_decimal",
+      "value": "13",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423864945",
+      "namespace": "specs",
+      "key": "rod_pe_min",
+      "type": "number_decimal",
+      "value": "6",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423864945",
+      "namespace": "specs",
+      "key": "rod_pe_max",
+      "type": "number_decimal",
+      "value": "8",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423864945",
+      "namespace": "specs",
+      "key": "rod_cast_min_g",
+      "type": "number_integer",
+      "value": "80",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439423864945",
+      "namespace": "specs",
+      "key": "rod_cast_max_g",
+      "type": "number_integer",
+      "value": "150",
+      "compareDigest": null
+    }
+  ]
+}

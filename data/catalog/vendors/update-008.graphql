@@ -1,0 +1,42 @@
+mutation UpdateVendorBatch008 {
+  v0: productUpdate(product: {id: "gid://shopify/Product/15439430582385", vendor: "Glide Tackle"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v1: productUpdate(product: {id: "gid://shopify/Product/15439430844529", vendor: "Truth Japan"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v2: productUpdate(product: {id: "gid://shopify/Product/15439543631985", vendor: "Truth Japan"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v3: productUpdate(product: {id: "gid://shopify/Product/15439543763057", vendor: "Truth Japan"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v4: productUpdate(product: {id: "gid://shopify/Product/15439543926897", vendor: "Truth Japan"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v5: productUpdate(product: {id: "gid://shopify/Product/15439544057969", vendor: "Truth Japan"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v6: productUpdate(product: {id: "gid://shopify/Product/15439544156273", vendor: "Truth Japan"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v7: productUpdate(product: {id: "gid://shopify/Product/15439544287345", vendor: "Truth Japan"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v8: productUpdate(product: {id: "gid://shopify/Product/15439544516721", vendor: "Truth Japan"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v9: productUpdate(product: {id: "gid://shopify/Product/15439544647793", vendor: "Truth Japan"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+}

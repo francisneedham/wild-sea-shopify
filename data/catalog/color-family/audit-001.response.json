@@ -1,0 +1,354 @@
+{
+  "nodes": [
+    {
+      "id": "gid://shopify/ProductVariant/67837026140273",
+      "sku": "SQ1797578",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026173041",
+      "sku": "SQ0216913",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026205809",
+      "sku": "SQ5475142",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026238577",
+      "sku": "SQ3582499",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026271345",
+      "sku": "SQ2734823",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026304113",
+      "sku": "SQ9463989",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026336881",
+      "sku": "SQ2895747",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026369649",
+      "sku": "SQ5830182",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026402417",
+      "sku": "SQ2404280",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026435185",
+      "sku": "SQ5833797",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026467953",
+      "sku": "SQ3088240",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026500721",
+      "sku": "SQ7193431",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026533489",
+      "sku": "SQ7496866",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67837026566257",
+      "sku": "SQ0400514",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841296924785",
+      "sku": "SQ6919783",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650467410033"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841296957553",
+      "sku": "SQ1222574",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650466132081"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841296990321",
+      "sku": "SQ2779521",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841298595953",
+      "sku": "SQ0080832",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650467704945"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841298628721",
+      "sku": "SQ2202787",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650467410033"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300299889",
+      "sku": "SQ8425406",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300332657",
+      "sku": "SQ1576048",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300365425",
+      "sku": "SQ9275255",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300562033",
+      "sku": "SQ5019616",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650467410033"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300594801",
+      "sku": "SQ3038090",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650466132081"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300627569",
+      "sku": "SQ9447993",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650467115121"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300660337",
+      "sku": "SQ4067205",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300758641",
+      "sku": "SQ0767144",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300791409",
+      "sku": "SQ7285006",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300824177",
+      "sku": "SQ1884179",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300856945",
+      "sku": "SQ9396740",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300889713",
+      "sku": "SQ5816270",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841300922481",
+      "sku": "SQ5280473",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841304428657",
+      "sku": "SQ2495051",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650465935473"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841304461425",
+      "sku": "SQ6390907",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841304494193",
+      "sku": "SQ7486479",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841306755185",
+      "sku": "SQ9887077",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841306787953",
+      "sku": "SQ1562135",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841306820721",
+      "sku": "SQ6027343",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841307836529",
+      "sku": "SQ5719846",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650466132081"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841307869297",
+      "sku": "SQ8340518",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841307902065",
+      "sku": "SQ2416371",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841307934833",
+      "sku": "SQ0653809",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841307967601",
+      "sku": "SQ3470066",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650466132081"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841308000369",
+      "sku": "SQ9920592",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841308033137",
+      "sku": "SQ5225677",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841308065905",
+      "sku": "SQ1847202",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650468819057"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309147249",
+      "sku": "SQ3639567",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650467410033"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309180017",
+      "sku": "SQ6965070",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650466132081"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309212785",
+      "sku": "SQ6491760",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650467541105"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309245553",
+      "sku": "SQ4039317",
+      "colorFamily": {
+        "value": "gid://shopify/Metaobject/650467704945"
+      }
+    }
+  ]
+}

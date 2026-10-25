@@ -1,0 +1,60 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650324443249",
+      "handle": "gabon-fishing-adventure",
+      "displayName": "Gabon",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Gabon"
+        },
+        {
+          "key": "caption",
+          "value": "Where rainforest meets ocean, fish the beaches and estuary around Loango National Park for tarpon, threadfin, jacks and other coastal species."
+        },
+        {
+          "key": "season",
+          "value": "October–April"
+        },
+        {
+          "key": "fishing_days",
+          "value": null
+        },
+        {
+          "key": "on_the_water",
+          "value": "Beach & estuary"
+        },
+        {
+          "key": "target_species",
+          "value": "Tarpon, threadfin & jacks"
+        },
+        {
+          "key": "listing_image",
+          "value": "gid://shopify/MediaImage/46288939417713"
+        },
+        {
+          "key": "region",
+          "value": "Gabon · Atlantic Ocean"
+        },
+        {
+          "key": "technique",
+          "value": "Beach & estuary casting"
+        },
+        {
+          "key": "status",
+          "value": "available"
+        }
+      ],
+      "capabilities": {
+        "onlineStore": {
+          "templateSuffix": "gabon"
+        },
+        "publishable": {
+          "status": "ACTIVE"
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

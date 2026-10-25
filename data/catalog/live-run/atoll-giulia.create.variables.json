@@ -1,0 +1,139 @@
+{
+  "input": {
+    "handle": "atoll-giulia",
+    "title": "Atoll Giulia",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The upper side of the cup is cut, so when you jerk it, Julia appeals to the target who is aiming for irregularly moving with the water push that comes from its shape, so it is also effective for lure.</span><br /><span>Please give me a meal room after jerking.</span><br /><span>The flight distance is compact and has a weight, so you can fly well without stress.</span><br /><span>Because it has a compact body, the bait is small, and it is easy to use even when there is a flying distance. </span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>128 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 50</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-diving-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "SilverBlue"
+          },
+          {
+            "name": "SilverOrange"
+          },
+          {
+            "name": "Fusilier"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ8425406",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "SilverBlue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ1576048",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "SilverOrange"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ9275255",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Fusilier"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1d231db8-5190-4f70-9208-98988ad15755/IMG_20260513_235220_61600418897750.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Giulia"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/53740378-cdad-49dc-a480-7e0f3d5743f1/IMG_20260513_235231_61600431681656.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Giulia"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/bcf7e0c7-08a9-4d40-b330-28c0fea470ac/IMG_20260513_235258_61600443484521.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Giulia"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/44e64259-0cec-4fad-a9d7-9d448c17fece/IMG_20260513_235420_61600472903948.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Giulia"
+      }
+    ]
+  }
+}

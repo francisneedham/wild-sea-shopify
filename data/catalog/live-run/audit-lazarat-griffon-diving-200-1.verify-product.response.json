@@ -1,0 +1,113 @@
+{
+  "product": {
+    "id": "gid://shopify/Product/15439420489841",
+    "handle": "lazarat-griffon-diving-200-1",
+    "status": "ACTIVE",
+    "title": "Lazarat Griffon Diving 200",
+    "resourcePublicationsV2": {
+      "nodes": [
+        {
+          "isPublished": true,
+          "publication": {
+            "id": "gid://shopify/Publication/178400395377"
+          }
+        },
+        {
+          "isPublished": true,
+          "publication": {
+            "id": "gid://shopify/Publication/178400428145"
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    },
+    "variants": {
+      "nodes": [
+        {
+          "id": "gid://shopify/ProductVariant/67841340538993",
+          "sku": "SQ7328256",
+          "price": "100.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Flying Fish"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841340571761",
+          "sku": "SQ0163718",
+          "price": "100.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "Mahi Mahi"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    },
+    "media": {
+      "nodes": [
+        {
+          "id": "gid://shopify/MediaImage/46284909412465",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284909445233",
+          "status": "READY",
+          "mediaErrors": []
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    }
+  }
+}

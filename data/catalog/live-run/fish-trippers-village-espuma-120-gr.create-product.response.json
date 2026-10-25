@@ -1,0 +1,139 @@
+{
+  "productSet": {
+    "product": {
+      "id": "gid://shopify/Product/15439414100081",
+      "handle": "fish-trippers-village-espuma-120-gr",
+      "status": "ACTIVE",
+      "title": "FishTrippers Village Espuma 220",
+      "resourcePublicationsV2": {
+        "nodes": [],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841306755185",
+            "sku": "SQ9887077",
+            "price": "80.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Silver Black"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0.2,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 2
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841306787953",
+            "sku": "SQ1562135",
+            "price": "80.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Silver Blue"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0.2,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 1
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841306820721",
+            "sku": "SQ6027343",
+            "price": "80.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Silver Blue Yellow Head"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0.2,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 4
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284878610545",
+            "status": "UPLOADED",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284878643313",
+            "status": "UPLOADED",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284878676081",
+            "status": "UPLOADED",
+            "mediaErrors": []
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "input": {
+    "handle": "popper-22cm-110g",
+    "title": "Glide Popper 22cm - 110g",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\">22 cm and 110 g of weight. It is a small mouth popper that you can retrieve with the rod high like a pencil with repeated splashes but if necessary with traditional popping action It make a deep sound and its length makes it very stable with wave and wind.</p><p style=\"white-space:pre-wrap;\">Its length makes it very stable with wave and wind. Weight and size are optimal for making many casts effortlessly despite having a very visible size and looking for tuna or even large gt.</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Glide",
+      "22cm",
+      "110g",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-floating"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Banana"
+          },
+          {
+            "name": "Black"
+          },
+          {
+            "name": "Carbon"
+          },
+          {
+            "name": "Coral"
+          },
+          {
+            "name": "Mahi"
+          },
+          {
+            "name": "Pink"
+          },
+          {
+            "name": "Punk Mackerel"
+          },
+          {
+            "name": "Sarda"
+          },
+          {
+            "name": "Shark"
+          },
+          {
+            "name": "YouPop"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ5925045",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Banana"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8035429",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Black"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1785377",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Carbon"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ6803691",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Coral"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ3177287",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Mahi"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8842762",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Pink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4793061",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Punk Mackerel"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2651929",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Sarda"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7245243",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Shark"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8282102",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "YouPop"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e54ef4cb-c219-4494-9e8a-4123bf8ee3cb/Glide-Popper-22cm-110g-banana.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 22cm - 110g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/43ca076a-b491-4a9e-b5e2-f3f0a700493c/Glide-Popper-22cm-110g-black.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 22cm - 110g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/80c723b0-ddf8-4176-9770-4d175d597b4a/Glide-Popper-22cm-110g-carbon.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 22cm - 110g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/fb015693-2cce-4a4c-b097-e1fc83c12ead/Glide-Popper-22cm-110g-coral.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 22cm - 110g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9b310553-5f72-43bd-ae4e-6e8b55c2359a/Glide-Popper-22cm-110g-mahi.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 22cm - 110g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/42d64294-deb9-420b-a0f6-58bd60009d4d/Glide-Popper-22cm-110g-pink.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 22cm - 110g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2b7ceb8a-fa11-4cd1-9627-bd5e210ec550/Glide-Popper-22cm-110g-punk-mackerel.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 22cm - 110g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/70b46bd3-61a7-4079-9ad6-a522ae6de34f/Glide-Popper-22cm-110g-sarda.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 22cm - 110g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/db5fbe8d-b971-4272-8d48-3f0b0079aca5/Glide-Popper-22cm-110g-shark.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 22cm - 110g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f1b3d274-af93-4bc2-a20d-978ef089548c/Glide-Popper-22cm-110g-youpop.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 22cm - 110g"
+      }
+    ]
+  }
+}

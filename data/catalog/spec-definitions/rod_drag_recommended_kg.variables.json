@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Rod recommended drag (kg)",
+    "namespace": "specs",
+    "key": "rod_drag_recommended_kg",
+    "description": "Recommended drag only; distinct from maximum drag.",
+    "type": "number_decimal",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

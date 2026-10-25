@@ -1,0 +1,17 @@
+{% doc %}
+  Destination call to action (legacy .btn / .text-link). Renders nothing without label and link.
+
+  @param {string} label - Visible label.
+  @param {string} link - URL (page, mailto:, file).
+  @param {string} [style] - sand (default), dark, outline or text.
+  @param {string} [icon] - Lucide icon name; default arrow-right.
+  @example
+  {% render 'destination-button', label: 'Plan my fishing trip', link: section.settings.booking_link, style: 'dark' %}
+{% enddoc %}
+
+{% if label != blank and link != blank %}
+  {%- assign button_icon = icon | default: 'arrow-right' -%}
+  <a class="destination-btn{% if style != blank and style != 'sand' %} destination-btn--{{ style }}{% endif %}" href="{{ link }}">
+    {{- label | escape }} {% render 'lucide-icon', name: button_icon -%}
+  </a>
+{% endif %}

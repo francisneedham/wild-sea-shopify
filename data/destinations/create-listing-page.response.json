@@ -1,0 +1,12 @@
+{
+  "pageCreate": {
+    "page": {
+      "id": "gid://shopify/Page/162994716785",
+      "title": "Destinations",
+      "handle": "destinations",
+      "templateSuffix": "destinations",
+      "isPublished": true
+    },
+    "userErrors": []
+  }
+}

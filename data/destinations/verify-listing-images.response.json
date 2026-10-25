@@ -1,0 +1,58 @@
+{
+  "nodes": [
+    {
+      "id": "gid://shopify/MediaImage/46288939384945",
+      "fileStatus": "READY",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Djibuti_Edited_Selection_2816_of_54_29.webp?v=1792957005",
+        "width": 1500,
+        "height": 1000
+      }
+    },
+    {
+      "id": "gid://shopify/MediaImage/46288939417713",
+      "fileStatus": "READY",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Gabon_286_of_170_29.jpg?v=1792957006",
+        "width": 1500,
+        "height": 1002
+      }
+    },
+    {
+      "id": "gid://shopify/MediaImage/46288939450481",
+      "fileStatus": "READY",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/image00002.webp?v=1792957005",
+        "width": 1500,
+        "height": 1000
+      }
+    },
+    {
+      "id": "gid://shopify/MediaImage/46288939483249",
+      "fileStatus": "READY",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/A7405712.webp?v=1792957005",
+        "width": 1500,
+        "height": 1000
+      }
+    },
+    {
+      "id": "gid://shopify/MediaImage/46288939516017",
+      "fileStatus": "READY",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/WildSeaExpedition_Sudan_NubianReef.webp?v=1792957005",
+        "width": 1500,
+        "height": 844
+      }
+    },
+    {
+      "id": "gid://shopify/MediaImage/46288939548785",
+      "fileStatus": "READY",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/WildSeaExpedition_NubianFlat.webp?v=1792957005",
+        "width": 1500,
+        "height": 844
+      }
+    }
+  ]
+}

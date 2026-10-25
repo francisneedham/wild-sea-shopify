@@ -1,0 +1,82 @@
+{
+  "v0": {
+    "product": {
+      "id": "gid://shopify/Product/15439428649073",
+      "handle": "popper-18cm-75g",
+      "vendor": "Glide Tackle"
+    },
+    "userErrors": []
+  },
+  "v1": {
+    "product": {
+      "id": "gid://shopify/Product/15439428812913",
+      "handle": "popper-22cm-110g",
+      "vendor": "Glide Tackle"
+    },
+    "userErrors": []
+  },
+  "v2": {
+    "product": {
+      "id": "gid://shopify/Product/15439428976753",
+      "handle": "rodcom-straight-shore-ss-10015-sf047y",
+      "vendor": "Rodcom"
+    },
+    "userErrors": []
+  },
+  "v3": {
+    "product": {
+      "id": "gid://shopify/Product/15439429206129",
+      "handle": "rst-supply-nezul-210",
+      "vendor": "RST Supply"
+    },
+    "userErrors": []
+  },
+  "v4": {
+    "product": {
+      "id": "gid://shopify/Product/15439429402737",
+      "handle": "rst-supply-rilana-180f",
+      "vendor": "RST Supply"
+    },
+    "userErrors": []
+  },
+  "v5": {
+    "product": {
+      "id": "gid://shopify/Product/15439429501041",
+      "handle": "sinking-10cm-50g",
+      "vendor": "Glide Tackle"
+    },
+    "userErrors": []
+  },
+  "v6": {
+    "product": {
+      "id": "gid://shopify/Product/15439429664881",
+      "handle": "sinking-14cm-80g",
+      "vendor": "Glide Tackle"
+    },
+    "userErrors": []
+  },
+  "v7": {
+    "product": {
+      "id": "gid://shopify/Product/15439429828721",
+      "handle": "sinking-18cm-100g",
+      "vendor": "Glide Tackle"
+    },
+    "userErrors": []
+  },
+  "v8": {
+    "product": {
+      "id": "gid://shopify/Product/15439430090865",
+      "handle": "stickpop-18cm-75g",
+      "vendor": "Glide Tackle"
+    },
+    "userErrors": []
+  },
+  "v9": {
+    "product": {
+      "id": "gid://shopify/Product/15439430353009",
+      "handle": "stickpop-20cm-105g",
+      "vendor": "Glide Tackle"
+    },
+    "userErrors": []
+  }
+}

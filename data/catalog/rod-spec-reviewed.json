@@ -1,0 +1,395 @@
+{
+  "reviewed_at": "2026-10-25",
+  "source": "data/catalog/rod-spec-audit.json",
+  "field_order": [
+    "rod_length_cm",
+    "rod_length_label",
+    "rod_pe_min",
+    "rod_pe_max",
+    "rod_cast_min_g",
+    "rod_cast_max_g",
+    "rod_drag_recommended_kg",
+    "rod_drag_max_kg",
+    "rod_made_in"
+  ],
+  "products": [
+    {
+      "handle": "full-hand-onikiri-100h",
+      "values": {
+        "rod_length_cm": 300,
+        "rod_length_label": "3.00 m",
+        "rod_pe_min": 5,
+        "rod_pe_max": 8,
+        "rod_cast_min_g": 70,
+        "rod_cast_max_g": 120,
+        "rod_made_in": "Japan"
+      },
+      "note": "Cast 70\u2013120 g is explicitly ideal; 150 g shot weight not treated as range endpoint; unqualified 13 kg drag left blank."
+    },
+    {
+      "handle": "full-hands-custom-works-kusanagi-p78hh",
+      "values": {
+        "rod_length_cm": 233.68,
+        "rod_length_label": "7'8\"",
+        "rod_drag_max_kg": 17,
+        "rod_made_in": "Japan"
+      },
+      "note": "PE 6\u20138 specification conflicts with PE 8\u201310 prose; Lure 150 g is not labelled maximum."
+    },
+    {
+      "handle": "jumprize-monster-absorber-82-8",
+      "values": {
+        "rod_length_cm": 248.92,
+        "rod_length_label": "8'2\"",
+        "rod_pe_min": 6,
+        "rod_pe_max": 10,
+        "rod_cast_min_g": 60,
+        "rod_cast_max_g": 180,
+        "rod_drag_max_kg": 18
+      },
+      "note": "Casting max gr 60/180 interpreted as stated 60\u2013180 g range."
+    },
+    {
+      "handle": "mc-works-2023-explosion-817hf-special-model",
+      "values": {
+        "rod_length_cm": 246.38,
+        "rod_length_label": "8'1\"",
+        "rod_pe_min": 6,
+        "rod_pe_max": 10,
+        "rod_cast_min_g": 100,
+        "rod_cast_max_g": 200,
+        "rod_drag_max_kg": 18,
+        "rod_made_in": "Japan"
+      },
+      "note": ""
+    },
+    {
+      "handle": "mc-works-804-hr",
+      "values": {
+        "rod_length_cm": 243.84,
+        "rod_length_label": "8'0\"",
+        "rod_pe_min": 3,
+        "rod_pe_max": 5,
+        "rod_cast_min_g": 40,
+        "rod_cast_max_g": 80,
+        "rod_drag_max_kg": 8,
+        "rod_made_in": "Japan"
+      },
+      "note": ""
+    },
+    {
+      "handle": "mc-works-black-chrome-bc120htx",
+      "values": {
+        "rod_length_cm": 365.76,
+        "rod_length_label": "12'0\"",
+        "rod_pe_min": 0.8,
+        "rod_pe_max": 2.5,
+        "rod_cast_min_g": 14,
+        "rod_cast_max_g": 40,
+        "rod_made_in": "Japan"
+      },
+      "note": ""
+    },
+    {
+      "handle": "mc-works-explosion-817hf",
+      "values": {
+        "rod_length_cm": 246.38,
+        "rod_length_label": "8'1\"",
+        "rod_pe_min": 6,
+        "rod_pe_max": 10,
+        "rod_cast_min_g": 100,
+        "rod_cast_max_g": 200,
+        "rod_drag_max_kg": 18
+      },
+      "note": ""
+    },
+    {
+      "handle": "mc-works-explosion-818-ctr-sp",
+      "values": {
+        "rod_length_cm": 246.38,
+        "rod_length_label": "8'1\"",
+        "rod_pe_min": 8,
+        "rod_pe_max": 12,
+        "rod_cast_min_g": 150,
+        "rod_cast_max_g": 300,
+        "rod_drag_max_kg": 20,
+        "rod_made_in": "Japan"
+      },
+      "note": ""
+    },
+    {
+      "handle": "mc-works-explosion-835ctr-standard-model",
+      "values": {
+        "rod_length_cm": 251.46,
+        "rod_length_label": "8'3\"",
+        "rod_pe_min": 4,
+        "rod_pe_max": 6,
+        "rod_cast_min_g": 40,
+        "rod_cast_max_g": 100,
+        "rod_drag_max_kg": 12,
+        "rod_made_in": "Japan"
+      },
+      "note": ""
+    },
+    {
+      "handle": "mc-works-explosion-865hf",
+      "values": {
+        "rod_length_cm": 259.08,
+        "rod_length_label": "8'6\"",
+        "rod_pe_min": 4,
+        "rod_pe_max": 6,
+        "rod_cast_min_g": 60,
+        "rod_cast_max_g": 110,
+        "rod_drag_max_kg": 12,
+        "rod_made_in": "Japan"
+      },
+      "note": ""
+    },
+    {
+      "handle": "mc-works-explosion-full-contact-843ctr",
+      "values": {
+        "rod_length_cm": 254,
+        "rod_length_label": "8'4\"",
+        "rod_pe_min": 2,
+        "rod_pe_max": 4,
+        "rod_cast_min_g": 20,
+        "rod_cast_max_g": 60,
+        "rod_drag_max_kg": 6
+      },
+      "note": "Casting max gr 20/60 interpreted as stated 20\u201360 g range."
+    },
+    {
+      "handle": "mc-works-raging-bull-104xxstd",
+      "values": {
+        "rod_length_cm": 314.96,
+        "rod_length_label": "10'4\"",
+        "rod_pe_min": 8,
+        "rod_pe_max": 10,
+        "rod_cast_min_g": 100,
+        "rod_cast_max_g": 200,
+        "rod_drag_max_kg": 13
+      },
+      "note": ""
+    },
+    {
+      "handle": "mc-works-raging-bull-93xx-trident",
+      "values": {
+        "rod_length_cm": 281.94,
+        "rod_length_label": "9'3\"",
+        "rod_pe_min": 8,
+        "rod_pe_max": 10,
+        "rod_cast_max_g": 200,
+        "rod_drag_max_kg": 13
+      },
+      "note": "Only casting maximum stated."
+    },
+    {
+      "handle": "mc-works-rod-cb-98xs2-std",
+      "values": {
+        "rod_pe_min": 6,
+        "rod_pe_max": 8,
+        "rod_cast_min_g": 80,
+        "rod_cast_max_g": 150,
+        "rod_drag_max_kg": 11,
+        "rod_made_in": "Japan"
+      },
+      "note": "Length 9.8ft ambiguous; no normalized length."
+    },
+    {
+      "handle": "mc-works-rod-explosion-807-ctr-standard-model",
+      "values": {
+        "rod_length_cm": 243.84,
+        "rod_length_label": "8'0\"",
+        "rod_pe_min": 6,
+        "rod_pe_max": 10,
+        "rod_cast_min_g": 80,
+        "rod_cast_max_g": 150,
+        "rod_drag_max_kg": 18,
+        "rod_made_in": "Japan"
+      },
+      "note": ""
+    },
+    {
+      "handle": "mc-works-slow-hand-all-that-tuna-sh729tsz",
+      "values": {
+        "rod_length_cm": 218.44,
+        "rod_length_label": "7'2\"",
+        "rod_pe_min": 10,
+        "rod_pe_max": 12,
+        "rod_cast_min_g": 150,
+        "rod_cast_max_g": 250,
+        "rod_drag_max_kg": 25
+      },
+      "note": ""
+    },
+    {
+      "handle": "mc-works-x-fish-trippers-village-barbaro-788",
+      "values": {
+        "rod_length_cm": 233.68,
+        "rod_length_label": "7'8\"",
+        "rod_pe_min": 8,
+        "rod_pe_max": 12,
+        "rod_cast_max_g": 300,
+        "rod_drag_max_kg": 20,
+        "rod_made_in": "Japan"
+      },
+      "note": "Only lure maximum stated."
+    },
+    {
+      "handle": "rodcom-straight-shore-ss-10015-sf047y",
+      "values": {
+        "rod_length_cm": 304,
+        "rod_length_label": "3.04 m",
+        "rod_pe_min": 5,
+        "rod_pe_max": 8,
+        "rod_drag_max_kg": 10,
+        "rod_made_in": "Japan"
+      },
+      "note": "Jig and plug weights use different formats; no combined casting range."
+    },
+    {
+      "handle": "truth-ocean-sprinter-7510-standard-black-model",
+      "values": {
+        "rod_length_cm": 226.06,
+        "rod_length_label": "7'5\"",
+        "rod_pe_min": 8,
+        "rod_pe_max": 10,
+        "rod_cast_min_g": 100,
+        "rod_cast_max_g": 250,
+        "rod_made_in": "Japan"
+      },
+      "note": "",
+      "source_handle": "truth-ocean-sprinter-7510-standard-black-model-"
+    },
+    {
+      "handle": "truth-ocean-sprinter-8110",
+      "values": {
+        "rod_length_cm": 246.38,
+        "rod_length_label": "8'1\"",
+        "rod_pe_min": 8,
+        "rod_pe_max": 10,
+        "rod_cast_min_g": 100,
+        "rod_cast_max_g": 270
+      },
+      "note": "Approximate 15 kg appropriate drag load omitted; field cannot mark approximate."
+    },
+    {
+      "handle": "truth-ocean-sprinter-838",
+      "values": {
+        "rod_length_cm": 251.46,
+        "rod_length_label": "8'3\"",
+        "rod_pe_min": 6,
+        "rod_pe_max": 8,
+        "rod_cast_min_g": 80,
+        "rod_cast_max_g": 220
+      },
+      "note": "Approximate 13 kg appropriate drag load omitted; field cannot mark approximate."
+    },
+    {
+      "handle": "truth-oceansprinter-856",
+      "values": {
+        "rod_pe_min": 5,
+        "rod_pe_max": 6,
+        "rod_cast_min_g": 30,
+        "rod_cast_max_g": 130
+      },
+      "note": "Approximate 11 kg suitable drag load omitted; no explicit length."
+    },
+    {
+      "handle": "truth-white-insight-611-12",
+      "values": {
+        "rod_length_cm": 210.82,
+        "rod_length_label": "6'11\"",
+        "rod_pe_min": 8,
+        "rod_pe_max": 12,
+        "rod_cast_min_g": 80,
+        "rod_cast_max_g": 250
+      },
+      "note": ""
+    },
+    {
+      "handle": "truth-white-insight-7210-custom-red",
+      "values": {
+        "rod_length_cm": 218.44,
+        "rod_length_label": "7'2\"",
+        "rod_pe_min": 8,
+        "rod_pe_max": 10,
+        "rod_cast_min_g": 60,
+        "rod_cast_max_g": 250
+      },
+      "note": ""
+    },
+    {
+      "handle": "truth-white-insight-7210-standard-black-model",
+      "values": {
+        "rod_length_cm": 218.44,
+        "rod_length_label": "7'2\"",
+        "rod_pe_min": 8,
+        "rod_pe_max": 10,
+        "rod_cast_min_g": 60,
+        "rod_cast_max_g": 250
+      },
+      "note": "",
+      "source_handle": "truth-white-insight-7210-standard-black-model-"
+    },
+    {
+      "handle": "truth-white-insight-7415",
+      "values": {
+        "rod_length_cm": 223.52,
+        "rod_length_label": "7'4\"",
+        "rod_pe_min": 12,
+        "rod_pe_max": 15,
+        "rod_cast_min_g": 70,
+        "rod_cast_max_g": 250,
+        "rod_drag_recommended_kg": 20,
+        "rod_made_in": "Japan"
+      },
+      "note": ""
+    },
+    {
+      "handle": "truth-white-insight-7610",
+      "values": {
+        "rod_length_cm": 228.6,
+        "rod_length_label": "7'6\"",
+        "rod_pe_min": 8,
+        "rod_pe_max": 10,
+        "rod_cast_min_g": 60,
+        "rod_cast_max_g": 250,
+        "rod_drag_recommended_kg": 18,
+        "rod_made_in": "Japan"
+      },
+      "note": "Existing verified pilot; no rewrite."
+    },
+    {
+      "handle": "truth-white-insight-828",
+      "values": {
+        "rod_length_cm": 248.92,
+        "rod_length_label": "8'2\"",
+        "rod_pe_min": 6,
+        "rod_pe_max": 8,
+        "rod_cast_min_g": 30,
+        "rod_cast_max_g": 200,
+        "rod_made_in": "Japan"
+      },
+      "note": ""
+    },
+    {
+      "handle": "truth-oceansprinter-711-rs",
+      "values": {
+        "rod_length_cm": 241.3,
+        "rod_length_label": "7'11\"",
+        "rod_pe_max": 8,
+        "rod_cast_min_g": 100,
+        "rod_cast_max_g": 180
+      },
+      "note": "Legacy description lacks specs; maker lists 7ft11inch, PE up to 8, recommended lure 100\u2013180 g.",
+      "source_url": "https://truthjapan.jp/products/307/"
+    }
+  ],
+  "excluded": [
+    {
+      "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+      "reason": "Two models are variants; product-level numeric values would be misleading."
+    }
+  ]
+}

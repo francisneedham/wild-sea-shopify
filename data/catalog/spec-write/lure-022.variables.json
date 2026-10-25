@@ -1,0 +1,84 @@
+{
+  "metafields": [
+    {
+      "ownerId": "gid://shopify/ProductVariant/67842268823665",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "200",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67842268823665",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "97.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67842268856433",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "200",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67842268856433",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "97.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67842269479025",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "250",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67842269479025",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "130.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67842269511793",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "250",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67842269511793",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "130.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67842269544561",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "250",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67842269544561",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "130.0",
+      "compareDigest": null
+    }
+  ]
+}

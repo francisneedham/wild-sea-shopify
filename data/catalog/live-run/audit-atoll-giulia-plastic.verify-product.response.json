@@ -1,0 +1,190 @@
+{
+  "product": {
+    "id": "gid://shopify/Product/15439412723825",
+    "handle": "atoll-giulia-plastic",
+    "status": "ACTIVE",
+    "title": "Atoll Giulia Plastic",
+    "resourcePublicationsV2": {
+      "nodes": [
+        {
+          "isPublished": true,
+          "publication": {
+            "id": "gid://shopify/Publication/178400395377"
+          }
+        },
+        {
+          "isPublished": true,
+          "publication": {
+            "id": "gid://shopify/Publication/178400428145"
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    },
+    "variants": {
+      "nodes": [
+        {
+          "id": "gid://shopify/ProductVariant/67841300562033",
+          "sku": "SQ5019616",
+          "price": "35.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "PinkHead"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0.1,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 1
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841300594801",
+          "sku": "SQ3038090",
+          "price": "35.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "BlueHead"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0.1,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 3
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841300627569",
+          "sku": "SQ9447993",
+          "price": "35.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "GreenHead"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0.1,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 4
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841300660337",
+          "sku": "SQ4067205",
+          "price": "35.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "YellowOrange"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 0.1,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 4
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    },
+    "media": {
+      "nodes": [
+        {
+          "id": "gid://shopify/MediaImage/46284869501041",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284869533809",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284869566577",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284869599345",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284869632113",
+          "status": "READY",
+          "mediaErrors": []
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    }
+  }
+}

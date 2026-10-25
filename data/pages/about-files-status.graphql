@@ -1,0 +1,3 @@
+query AboutFilesStatus($ids: [ID!]!) {
+  nodes(ids: $ids) { ... on MediaImage { id alt fileStatus image { url width height } } }
+}

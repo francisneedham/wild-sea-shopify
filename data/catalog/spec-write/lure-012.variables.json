@@ -1,0 +1,196 @@
+{
+  "metafields": [
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841338867825",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "200",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841338867825",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "100.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841340538993",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "200",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841340538993",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "100.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841340571761",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "200",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841340571761",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "100.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841341620337",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "230",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841341620337",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "145.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841341653105",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "230",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841341653105",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "145.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841341685873",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "230",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841341685873",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "145.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841369047153",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "270",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841369047153",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "210.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841369079921",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "270",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841369079921",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "210.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841369112689",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "270",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841369112689",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "210.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841371209841",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "200",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841371209841",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "90.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841371242609",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "200",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841371242609",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "90.0",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841371275377",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "type": "number_integer",
+      "value": "200",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841371275377",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "type": "number_decimal",
+      "value": "90.0",
+      "compareDigest": null
+    }
+  ]
+}

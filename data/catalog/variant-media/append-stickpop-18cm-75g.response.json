@@ -1,0 +1,98 @@
+{
+  "productVariantAppendMedia": {
+    "product": {
+      "id": "gid://shopify/Product/15439430090865"
+    },
+    "productVariants": [
+      {
+        "id": "gid://shopify/ProductVariant/67841384808561",
+        "sku": "SQ8821546",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284958859377"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841384841329",
+        "sku": "SQ0230919",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284958892145"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841384874097",
+        "sku": "SQ5469331",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284958990449"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841384906865",
+        "sku": "SQ0065414",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284958924913"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841384939633",
+        "sku": "SQ9311074",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284958957681"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841384972401",
+        "sku": "SQ0747067",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284959023217"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841385005169",
+        "sku": "SQ9017232",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284959055985"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841385037937",
+        "sku": "SQ3543332",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284959088753"
+            }
+          ]
+        }
+      }
+    ],
+    "userErrors": []
+  }
+}

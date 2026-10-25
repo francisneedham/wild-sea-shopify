@@ -1,0 +1,10 @@
+query AuditLureFilterValues($ids: [ID!]!) {
+  nodes(ids: $ids) {
+    ... on Product {
+      id
+      handle
+      lureTypes: metafield(namespace: "specs", key: "lure_types") { value }
+      lureBuoyancy: metafield(namespace: "specs", key: "lure_buoyancy") { value }
+    }
+  }
+}

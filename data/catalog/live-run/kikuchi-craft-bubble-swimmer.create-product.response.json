@@ -1,0 +1,106 @@
+{
+  "productSet": {
+    "product": {
+      "id": "gid://shopify/Product/15439419703409",
+      "handle": "kikuchi-craft-bubble-swimmer",
+      "status": "ACTIVE",
+      "title": "Kikuchi Craft Bubble Swimmer",
+      "resourcePublicationsV2": {
+        "nodes": [],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841335525489",
+            "sku": "SQ5177796",
+            "price": "80.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Sardine"
+              },
+              {
+                "name": "Size",
+                "value": "210"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0.14,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 3
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841335558257",
+            "sku": "SQ4936759",
+            "price": "80.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Sardine"
+              },
+              {
+                "name": "Size",
+                "value": "240"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0.2,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 3
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284904726641",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

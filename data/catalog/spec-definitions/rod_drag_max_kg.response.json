@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/509627629681",
+      "namespace": "specs",
+      "key": "rod_drag_max_kg",
+      "name": "Rod maximum drag (kg)",
+      "type": {
+        "name": "number_decimal"
+      },
+      "ownerType": "PRODUCT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

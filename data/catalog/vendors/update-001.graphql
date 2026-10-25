@@ -1,0 +1,42 @@
+mutation UpdateVendorBatch001 {
+  v0: productUpdate(product: {id: "gid://shopify/Product/15439151366257", vendor: "Atoll"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v1: productUpdate(product: {id: "gid://shopify/Product/15439412134001", vendor: "Atlantis"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v2: productUpdate(product: {id: "gid://shopify/Product/15439412363377", vendor: "Atlantis"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v3: productUpdate(product: {id: "gid://shopify/Product/15439412592753", vendor: "Atoll"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v4: productUpdate(product: {id: "gid://shopify/Product/15439412723825", vendor: "Atoll"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v5: productUpdate(product: {id: "gid://shopify/Product/15439412822129", vendor: "Atoll"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v6: productUpdate(product: {id: "gid://shopify/Product/15439413051505", vendor: "CB One"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v7: productUpdate(product: {id: "gid://shopify/Product/15439413248113", vendor: "CB One"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v8: productUpdate(product: {id: "gid://shopify/Product/15439413477489", vendor: "CB One"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v9: productUpdate(product: {id: "gid://shopify/Product/15439413674097", vendor: "Craftbait"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+}

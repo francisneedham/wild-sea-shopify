@@ -1,0 +1,13 @@
+query AuditColorFamilyModel {
+  metaobjectDefinitions(first: 50) {
+    nodes {
+      id
+      type
+      access { storefront }
+      fieldDefinitions { key type { name } }
+    }
+  }
+  metaobjects(type: "wildsea_color_family", first: 20) {
+    nodes { id handle displayName fields { key value } }
+  }
+}

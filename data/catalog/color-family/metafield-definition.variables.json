@@ -1,0 +1,19 @@
+{
+  "definition": {
+    "name": "Color family",
+    "namespace": "specs",
+    "key": "color_family",
+    "description": "Normalized family for Search & Discovery visual color filter.",
+    "type": "metaobject_reference",
+    "ownerType": "PRODUCTVARIANT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    },
+    "validations": [
+      {
+        "name": "metaobject_definition_id",
+        "value": "gid://shopify/MetaobjectDefinition/37648040049"
+      }
+    ]
+  }
+}

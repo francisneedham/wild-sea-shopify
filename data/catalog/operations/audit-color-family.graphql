@@ -1,0 +1,9 @@
+query AuditColorFamily($ids: [ID!]!) {
+  nodes(ids: $ids) {
+    ... on ProductVariant {
+      id
+      sku
+      colorFamily: metafield(namespace: "specs", key: "color_family") { value }
+    }
+  }
+}

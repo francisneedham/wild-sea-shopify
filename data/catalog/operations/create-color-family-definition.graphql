@@ -1,0 +1,12 @@
+mutation CreateColorFamilyDefinition($definition: MetaobjectDefinitionCreateInput!) {
+  metaobjectDefinitionCreate(definition: $definition) {
+    metaobjectDefinition {
+      id
+      type
+      name
+      access { admin storefront }
+      fieldDefinitions { key name type { name } }
+    }
+    userErrors { field message code }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "product": {
+    "id": "gid://shopify/Product/15439425437809",
+    "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+    "status": "ACTIVE",
+    "title": "MC Works x Fish Trippers Village Orquesta 759\\7106",
+    "resourcePublicationsV2": {
+      "nodes": [
+        {
+          "isPublished": true,
+          "publication": {
+            "id": "gid://shopify/Publication/178400395377"
+          }
+        },
+        {
+          "isPublished": true,
+          "publication": {
+            "id": "gid://shopify/Publication/178400428145"
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    },
+    "variants": {
+      "nodes": [
+        {
+          "id": "gid://shopify/ProductVariant/67841364131953",
+          "sku": "SQ8022087",
+          "price": "750.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Size",
+              "value": "759"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 10,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 5
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "gid://shopify/ProductVariant/67841364164721",
+          "sku": "SQ3711317",
+          "price": "730.00",
+          "compareAtPrice": null,
+          "inventoryPolicy": "DENY",
+          "selectedOptions": [
+            {
+              "name": "Size",
+              "value": "7106"
+            }
+          ],
+          "inventoryItem": {
+            "tracked": true,
+            "requiresShipping": true,
+            "measurement": {
+              "weight": {
+                "value": 10,
+                "unit": "KILOGRAMS"
+              }
+            },
+            "inventoryLevel": {
+              "quantities": [
+                {
+                  "name": "available",
+                  "quantity": 0
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    },
+    "media": {
+      "nodes": [
+        {
+          "id": "gid://shopify/MediaImage/46284934807665",
+          "status": "READY",
+          "mediaErrors": []
+        },
+        {
+          "id": "gid://shopify/MediaImage/46284934840433",
+          "status": "READY",
+          "mediaErrors": []
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    }
+  }
+}

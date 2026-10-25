@@ -1,0 +1,23 @@
+{
+  "productId": "gid://shopify/Product/15439417376881",
+  "variantMedia": [
+    {
+      "variantId": "gid://shopify/ProductVariant/67841321730161",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284892110961"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841321762929",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284892143729"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841321795697",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284892176497"
+      ]
+    }
+  ]
+}

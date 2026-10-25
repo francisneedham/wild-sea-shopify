@@ -1,0 +1,18 @@
+{
+  "handle": {
+    "type": "wildsea_color_family",
+    "handle": "black"
+  },
+  "metaobject": {
+    "fields": [
+      {
+        "key": "label",
+        "value": "Black"
+      },
+      {
+        "key": "swatch_color",
+        "value": "#1D2425"
+      }
+    ]
+  }
+}

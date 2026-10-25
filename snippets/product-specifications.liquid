@@ -1,0 +1,94 @@
+{% doc %}
+  Renders product and selected-variant metafield specifications as a table.
+  @param {product} product - Product whose specifications are shown.
+  @param {variant} current_variant - Initially selected variant.
+  @example
+  {% render 'product-specifications', product: product, current_variant: product.selected_or_first_available_variant %}
+{% enddoc %}
+
+{%- liquid
+  assign specs = product.metafields.specs
+  assign rod_length = specs.rod_length_label.value
+  assign rod_length_cm = specs.rod_length_cm.value
+  assign drag_recommended = specs.rod_drag_recommended_kg.value
+  if drag_recommended != blank
+    assign drag_recommended_remainder = drag_recommended | modulo: 1
+    if drag_recommended_remainder == 0
+      assign drag_recommended = drag_recommended | round
+    endif
+  endif
+-%}
+
+{%- capture product_rows -%}
+  {%- if rod_length != blank or rod_length_cm != blank -%}
+    <tr><th scope="row">{{ 'product.specifications.length' | t }}</th><td>{% if rod_length != blank %}{{ rod_length | escape }}{% else %}{{ rod_length_cm }} cm{% endif %}</td></tr>
+  {%- endif -%}
+  {%- if drag_recommended != blank -%}
+    <tr><th scope="row">{{ 'product.specifications.recommended_drag' | t }}</th><td>{{ drag_recommended }} kg</td></tr>
+  {%- endif -%}
+  {%- if specs.rod_made_in.value != blank -%}
+    <tr><th scope="row">{{ 'product.specifications.made_in' | t }}</th><td>{{ specs.rod_made_in.value | escape }}</td></tr>
+  {%- endif -%}
+  {%- if specs.lure_types.value != blank -%}
+    <tr><th scope="row">{{ 'product.specifications.lure_type' | t }}</th><td>{{ specs.lure_types.value | join: ', ' | escape }}</td></tr>
+  {%- endif -%}
+  {%- if specs.lure_buoyancy.value != blank -%}
+    <tr><th scope="row">{{ 'product.specifications.buoyancy' | t }}</th><td>{{ specs.lure_buoyancy.value | escape }}</td></tr>
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- capture variant_groups -%}
+  {%- for variant in product.variants -%}
+    {%- assign variant_specs = variant.metafields.specs -%}
+    {%- assign variant_pe_min = variant_specs.rod_pe_min.value -%}
+    {%- assign variant_pe_max = variant_specs.rod_pe_max.value -%}
+    {%- assign variant_drag_max = variant_specs.rod_drag_max_kg.value -%}
+    {%- if variant_pe_min != blank -%}
+      {%- assign variant_pe_min_remainder = variant_pe_min | modulo: 1 -%}
+      {%- if variant_pe_min_remainder == 0 -%}{%- assign variant_pe_min = variant_pe_min | round -%}{%- endif -%}
+    {%- endif -%}
+    {%- if variant_pe_max != blank -%}
+      {%- assign variant_pe_max_remainder = variant_pe_max | modulo: 1 -%}
+      {%- if variant_pe_max_remainder == 0 -%}{%- assign variant_pe_max = variant_pe_max | round -%}{%- endif -%}
+    {%- endif -%}
+    {%- if variant_drag_max != blank -%}
+      {%- assign variant_drag_max_remainder = variant_drag_max | modulo: 1 -%}
+      {%- if variant_drag_max_remainder == 0 -%}{%- assign variant_drag_max = variant_drag_max | round -%}{%- endif -%}
+    {%- endif -%}
+    {%- capture variant_rows -%}
+      {%- if variant_specs.rod_length_label.value != blank or variant_specs.rod_length_cm.value != blank -%}
+        <tr><th scope="row">{{ 'product.specifications.length' | t }}</th><td>{% if variant_specs.rod_length_label.value != blank %}{{ variant_specs.rod_length_label.value | escape }}{% else %}{{ variant_specs.rod_length_cm.value }} cm{% endif %}</td></tr>
+      {%- endif -%}
+      {%- if variant_pe_min != blank or variant_pe_max != blank -%}
+        <tr><th scope="row">{{ 'product.specifications.line_pe' | t }}</th><td>{% if variant_pe_min != blank and variant_pe_max != blank %}{{ variant_pe_min }}–{{ variant_pe_max }}{% elsif variant_pe_max != blank %}≤ {{ variant_pe_max }}{% else %}≥ {{ variant_pe_min }}{% endif %}</td></tr>
+      {%- endif -%}
+      {%- if variant_specs.rod_casting_weight.value != blank -%}
+        <tr><th scope="row">{{ 'product.specifications.casting_weight' | t }}</th><td>{{ variant_specs.rod_casting_weight.value | escape }}</td></tr>
+      {%- endif -%}
+      {%- if variant_drag_max != blank -%}
+        <tr><th scope="row">{{ 'product.specifications.maximum_drag' | t }}</th><td>{{ variant_drag_max }} kg</td></tr>
+      {%- endif -%}
+      {%- if variant_specs.lure_length_mm.value != blank -%}
+        <tr><th scope="row">{{ 'product.specifications.lure_length' | t }}</th><td>{{ variant_specs.lure_length_mm.value }} mm</td></tr>
+      {%- endif -%}
+      {%- if variant_specs.lure_weight_g.value != blank -%}
+        <tr><th scope="row">{{ 'product.specifications.lure_weight' | t }}</th><td>{{ variant_specs.lure_weight_g.value }} g</td></tr>
+      {%- endif -%}
+    {%- endcapture -%}
+    {%- if variant_rows != blank -%}
+      {%- if variant.id == current_variant.id -%}{%- assign has_current_variant_specs = true -%}{%- endif -%}
+      <tbody data-js="product-spec-variant" data-variant-id="{{ variant.id }}"{% unless variant.id == current_variant.id %} hidden{% endunless %}>{{ variant_rows }}</tbody>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+
+{%- if product_rows != blank or variant_groups != blank -%}
+  <section class="wildsea-product__specifications" data-js="product-specifications"{% if product_rows == blank and has_current_variant_specs != true %} hidden{% endif %}>
+    <h2>{{ 'product.specifications.title' | t }}</h2>
+    <table>
+      <caption class="sr-only">{{ 'product.specifications.title' | t }}: {{ product.title | escape }}</caption>
+      {%- if product_rows != blank -%}<tbody>{{ product_rows }}</tbody>{%- endif -%}
+      {{ variant_groups }}
+    </table>
+  </section>
+{%- endif -%}

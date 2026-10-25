@@ -1,0 +1,318 @@
+{
+  "input": {
+    "handle": "sinking-10cm-50g",
+    "title": "Glide Sinking 10cm - 50g",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\">Stick of 10 cm and 50g of weight.</p><p style=\"white-space:pre-wrap;\">Is perfect for a frenzy fishing of false albacore or little bluefin tuna. Well used for reef fishing or in a light tropical fishing from the shore cause is very good for long cast.</p><p style=\"white-space:pre-wrap;\">with inline hooks bkk diablo 2/0 or 3/0 or even some trebles, it swim well</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Glide",
+      "10cm",
+      "50g",
+      "Sinking",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-sinking"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Black"
+          },
+          {
+            "name": "Coral"
+          },
+          {
+            "name": "Holo Black"
+          },
+          {
+            "name": "Holo Blue"
+          },
+          {
+            "name": "Holo Pink"
+          },
+          {
+            "name": "Mahi"
+          },
+          {
+            "name": "Nemo"
+          },
+          {
+            "name": "Shark"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ8909010",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Black"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ0570592",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Coral"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ3679915",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Holo Black"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8328549",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Holo Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ6002304",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Holo Pink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2629408",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Mahi"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4155596",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Nemo"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ0681038",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Shark"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6df2ff28-239d-4f87-bd65-5c4fde9c2441/Glide-Sinking-10cm-50g-black.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 10cm - 50g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d9cd7776-0a9e-452c-8da2-1371b035a1c9/Glide-Sinking-10cm-50g-coral.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 10cm - 50g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/bd6021bc-2fb1-4823-996f-1177a0d24142/Glide-Sinking-10cm-50g-holo-black.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 10cm - 50g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/903fe250-3972-4d50-a869-3c18e5c96adf/Glide-Sinking-10cm-50g-holo-blue.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 10cm - 50g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f45a27d6-9edc-427b-a701-c00b04a07d30/Glide-Sinking-10cm-50g-holo-pink.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 10cm - 50g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/57200285-e733-4302-8ac1-1abc1212be2f/Glide-Sinking-10cm-50g-mahi.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 10cm - 50g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/49ea80b4-5c59-4d45-bbe8-2d6249190e37/Glide-Sinking-10cm-50g-nemo.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 10cm - 50g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0fe7c6f4-e758-479a-8675-dba6abd5d907/Glide-Sinking-10cm-50g-shark.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 10cm - 50g"
+      }
+    ]
+  }
+}

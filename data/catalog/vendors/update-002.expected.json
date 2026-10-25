@@ -1,0 +1,72 @@
+{
+  "v0": {
+    "id": "gid://shopify/Product/15439414100081",
+    "handle": "fish-trippers-village-espuma-120-gr",
+    "title": "FishTrippers Village Espuma 220",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Fish Trippers Village"
+  },
+  "v1": {
+    "id": "gid://shopify/Product/15439414493297",
+    "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+    "title": "FishTrippers Village Liber Tango",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Fish Trippers Village"
+  },
+  "v2": {
+    "id": "gid://shopify/Product/15439414820977",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "title": "FishTripper Village Le Grand Tango",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Fish Trippers Village"
+  },
+  "v3": {
+    "id": "gid://shopify/Product/15439415148657",
+    "handle": "fishtrippers-village-concierto-280",
+    "title": "FishTrippers Village Concierto 280",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "SOHO Trippers x Fish Trippers Village"
+  },
+  "v4": {
+    "id": "gid://shopify/Product/15439415443569",
+    "handle": "floating-18cm-75g",
+    "title": "Glide Floating 18cm - 75g",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Glide Tackle"
+  },
+  "v5": {
+    "id": "gid://shopify/Product/15439415771249",
+    "handle": "floating-22cm-120g",
+    "title": "Glide Floating 22cm - 120g",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Glide Tackle"
+  },
+  "v6": {
+    "id": "gid://shopify/Product/15439415869553",
+    "handle": "floating-24cm-150g",
+    "title": "Glide Floating 24cm - 150g",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Glide Tackle"
+  },
+  "v7": {
+    "id": "gid://shopify/Product/15439416033393",
+    "handle": "full-hand-onikiri-100h",
+    "title": "Full Hands Onikiri 100H",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Full Hands"
+  },
+  "v8": {
+    "id": "gid://shopify/Product/15439416361073",
+    "handle": "full-hands-custom-works-kusanagi-p78hh",
+    "title": "Full Hands Custom Works Kusanagi P78HH",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Full Hands"
+  },
+  "v9": {
+    "id": "gid://shopify/Product/15439416721521",
+    "handle": "good-bait-bnd-180f",
+    "title": "Good Bait BND 180F",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Good Bait"
+  }
+}

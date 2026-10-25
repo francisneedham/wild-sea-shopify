@@ -1,0 +1,201 @@
+{
+  "input": {
+    "handle": "indigoblue-musya",
+    "title": "Indigo Blue Musya Pop",
+    "descriptionHtml": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Indigo Blue lures have been hand crafting lures in Japan for around 20 years and are built from tung tree wood. To ensure swimming perfection, each lure under goes an individual swim test before being released. With a strictly limited number of boutique lures produced each year, they are highly prised and sought after in Japan perfect for targeting a wide range of pelagic species.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>A handmade popper suitable for kingfish, tuna and GT by the respectable Satoshi-san at Indigo Blue Japan. A popper that achieves&nbsp;seamless casting distance to target fish from a distance with a stabilised flight motion during the cast due the shape of the lure and material of the body.&nbsp;</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The Musyapop will respond well to long sweep, a short sweep and a high speed retrieve.&nbsp;</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>210 - Gr. 100</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>240 - Gr. 125</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "indigo blu lures",
+      "fishing lures",
+      "saltwater lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lures",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          {
+            "name": "210"
+          },
+          {
+            "name": "240"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          {
+            "name": "SilverPurple"
+          },
+          {
+            "name": "SilverRed"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ3416271",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "210"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverPurple"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.16,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ6175308",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "210"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverRed"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.16,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ9393439",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "240"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverPurple"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.18,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ9506637",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "240"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverRed"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.18,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a150007f-1bb6-4a58-8ae5-c8c906471f46/IMG_20260513_231721_61599940179417.jpg",
+        "contentType": "IMAGE",
+        "alt": "Indigo Blue Musya Pop"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3712cbfb-3b31-4b1c-996d-a2d58b0fbf78/IMG_20260513_231739_61599961931552.jpg",
+        "contentType": "IMAGE",
+        "alt": "Indigo Blue Musya Pop"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ffae9372-26bd-47a1-b686-6acddfed5a95/IMG_20260513_231756_61599975305510.jpg",
+        "contentType": "IMAGE",
+        "alt": "Indigo Blue Musya Pop"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ae40ff5e-38f7-4764-b9ac-3c19878fb823/IMG_20260513_231842_61599989303739.jpg",
+        "contentType": "IMAGE",
+        "alt": "Indigo Blue Musya Pop"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

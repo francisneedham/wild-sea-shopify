@@ -1,0 +1,62 @@
+{
+  "input": {
+    "handle": "jumprize-monster-absorber-82-8",
+    "title": "Jumprize Monster Absorber 82-8",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">When the Monster Absorber series launched in 2019, it debuted with four models from No. 3 to No. 6, designed to make targeting coastal blue-runners, large yellowfin tuna, and GT more accessible. During the same period, developer Tomoki Inoue privately created and field-tested a prototype model capable of handling PE 8–10 lines, the 82/8. It was originally designed solely for comfortably casting massive 30 cm class plugs, as situations requiring PE 8 line did not exist at that time.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">In recent years, however, ocean conditions have changed drastically. Winter season “saury pattern” fisheries now regularly see monstrous yellowfin over 80 kg and even bluefin exceeding 150 kg migrating close to shore. Anglers can now make day trips for a style of extreme fishing once considered the limit of stand-up single-angler combat—using PE 8–10 and 15 kg of drag.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">That is precisely where the monster absorber 82-8 comes in. Its construction centers around 15-ton carbon with 24-ton carbon strategically added to key lifting sections to generate partial rebound power. This enables the angler to maintain pressure effortlessly—simply by keeping the rod upright in a relaxed stance.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Yellowfin in the 70–80 kg class can now be landed quickly and without physical exhaustion. Giant GT and trophy-class kingfish holding over shallow reefs can be controlled without letting them run, bringing them boatside in one decisive move. In bluefin tuna game, the rod is designed around 150 kg class fish—but in the hands of a skilled angler, 200 kg+ battles are achievable, with a proven record of landing fish over 240 kg.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Beyond brute strength, the 82/8 also pursues balance and lightness that allow even intermediate anglers to swing and work the rod comfortably all day. This is the rod many have been waiting for—the most powerful model in Jumprize history: the Monster Absorber 82/8 is here.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Specifications :<br /><span>Type:&nbsp;Spin&nbsp;<br />Length: 8’2”<br />Line:&nbsp;PE6/10<br />Casting max:&nbsp;gr 60/180<br />Drag max: 18kg<br />Grips: EVA<br /></span>Guides: Fuji guides</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ5732665",
+        "price": "650.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5e686742-e286-4b1a-8ba6-8f14531c128e/monster.jpg",
+        "contentType": "IMAGE",
+        "alt": "Jumprize Monster Absorber 82-8"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

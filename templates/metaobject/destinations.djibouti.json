@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "hero": {
+      "type": "destination-hero",
+      "settings": {
+        "kicker": "Guided fishing expedition",
+        "tagline": "The last frontier.",
+        "intro": "Strong currents, remote islands and powerful GT fishing at the meeting of two seas.",
+        "link_label": "Explore the fishing",
+        "link": "#the-fishing"
+      }
+    },
+    "highlights": {
+      "type": "destination-cards",
+      "settings": {
+        "anchor": "the-fishing",
+        "kicker": "The expedition",
+        "heading": "Explore the fishing.",
+        "intro": "Fish strong currents where the Red Sea meets the Gulf of Aden. Explore GT popping, jigging and shore fishing around Djibouti’s remote islands and reefs."
+      },
+      "blocks": {
+        "card_1": {
+          "type": "card",
+          "settings": {
+            "kicker": "The fishery",
+            "heading": "Goubet and the islands",
+            "text": "<p>The Strait of Goubet, Mucha and Maskali Islands, and the Seven Brothers feature in the original liveaboard itinerary.</p>"
+          }
+        },
+        "card_2": {
+          "type": "card",
+          "settings": {
+            "kicker": "Fishing approach",
+            "heading": "Popping and jigging",
+            "text": "<p>Target giant trevally with heavy casting tackle. Jigging and lighter fishing expand the options as conditions allow.</p>"
+          }
+        },
+        "card_3": {
+          "type": "card",
+          "settings": {
+            "kicker": "From the rocks",
+            "heading": "Shore fishing",
+            "text": "<p>The Seven Brothers also offer shore casting for GT and other species. Ask the team about current routes and conditions.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "card_1",
+        "card_2",
+        "card_3"
+      ]
+    },
+    "enquiry": {
+      "type": "destination-cta",
+      "settings": {
+        "kicker": "Get in touch",
+        "heading": "Plan your next trip.",
+        "text": "Tell us your preferred window. Our team will confirm current departures and arrangements.",
+        "link_label": "Enquire about Djibouti",
+        "link": "mailto:fishing@wildseaexpedition.com?subject=Djibouti%20expedition"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "highlights",
+    "enquiry"
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "input": {
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "title": "Atoll Bonger",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>BONGER is an easy-to-use popper.</span><br /><span>When jerked, the water flow from the unique shape of the upper part of the mouth, which has been cut in an inverted V, causes the body to sway, and the slender yet large-diameter mouth draws out the target while wrapping it in fine bubbles.</span><br /><span>Both long jerks and short popping are effective.</span><br /><span>The slim body has less air resistance and allows for a stable flying posture to achieve distance.</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>190 - Gr. 87</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>230 - Gr. 128</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-diving-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          {
+            "name": "230"
+          },
+          {
+            "name": "190"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          {
+            "name": "Mahimahi"
+          },
+          {
+            "name": "GoldGreen"
+          },
+          {
+            "name": "SilverBlack"
+          },
+          {
+            "name": "SilverBlue"
+          },
+          {
+            "name": "SilverOrange"
+          },
+          {
+            "name": "Fusilier"
+          },
+          {
+            "name": "SilverGoldBlack"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ1797578",
+        "price": "130.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "230"
+          },
+          {
+            "optionName": "Color",
+            "name": "Mahimahi"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ0216913",
+        "price": "130.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "230"
+          },
+          {
+            "optionName": "Color",
+            "name": "GoldGreen"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ5475142",
+        "price": "130.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "230"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverBlack"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ3582499",
+        "price": "130.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "230"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverBlue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2734823",
+        "price": "130.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "230"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverOrange"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ9463989",
+        "price": "130.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "230"
+          },
+          {
+            "optionName": "Color",
+            "name": "Fusilier"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2895747",
+        "price": "130.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "230"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverGoldBlack"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ5830182",
+        "price": "120.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "190"
+          },
+          {
+            "optionName": "Color",
+            "name": "Mahimahi"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ2404280",
+        "price": "120.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "190"
+          },
+          {
+            "optionName": "Color",
+            "name": "GoldGreen"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ5833797",
+        "price": "120.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "190"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverBlack"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ3088240",
+        "price": "120.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "190"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverBlue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7193431",
+        "price": "120.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "190"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverOrange"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7496866",
+        "price": "120.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "190"
+          },
+          {
+            "optionName": "Color",
+            "name": "Fusilier"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ0400514",
+        "price": "120.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "190"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverGoldBlack"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c169d320-d9e4-4ee1-88f2-f5bfe0ce9722/IMG_20260513_234706_61600314578791.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Bonger"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6b9a3000-0123-4e68-9bfb-e4e12b481335/IMG_20260513_234723_61600328517541.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Bonger"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/217c3c71-2eb7-4bbf-b37b-35ff2f2edf2b/IMG_20260513_234758_61600339814989.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Bonger"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0dde55af-e33b-497d-8ed4-36ccc844f763/IMG_20260513_234838_61600349170250.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Bonger"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/979479c1-8f37-497d-b044-3a3e6a9b2272/IMG_20260513_234928_61600361945510.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Bonger"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a93846d6-8139-44fb-aa24-23d2d2251781/IMG_20260513_235010_61600376628271.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Bonger"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7de4ceab-874d-4a99-8feb-15878c8cc1a1/IMG_20260513_235102_61600405055666.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Bonger"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/34adbf4f-47ff-4fc6-9a2c-786b4ba36996/IMG_20260513_235814_61600504254677.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Bonger"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "handle": {
+    "type": "wildsea_color_family",
+    "handle": "red"
+  },
+  "metaobject": {
+    "fields": [
+      {
+        "key": "label",
+        "value": "Red"
+      },
+      {
+        "key": "swatch_color",
+        "value": "#C24845"
+      }
+    ]
+  }
+}

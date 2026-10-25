@@ -1,0 +1,91 @@
+{
+  "input": {
+    "handle": "truth-white-insight-7610",
+    "title": "Truth White Insight 7610",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>WhiteInsight 7610 is a model targeting bluefin tuna and large yellowfin tuna, and the when the fight time can be several hours. A model that also supports PE10 with high drag settings, and&nbsp;when it's&nbsp;necessary to preserve the physical strength of the angler.</span><br /><span>The biggest advantage is that the rod is bent and the fulcrum is in front, and the load applied to the rod is released to the rod end, which gives strength. It is to reduce the consumption of back muscle strength and grip strength.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The power of the current &quot;White Insight 7210&quot; ​​has been increased by about 120%.<br />Lift speed and power that can be recommended for fighting in tight fast flowing currents and for anglers who are accustomed to long fights.<br />The length has also been extended by 4 inches to improve long-distance casting.<br />The tip feeling is not a hard feeling, but a soft tip feeling similar to &quot;7210&quot;.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Since it absorbs the movement of fish when running well, it can easily handle large&nbsp;Kingfish and Tuna when diving deep.<br />Works a versatile lure range from&nbsp;small&nbsp;to large lures up to 250g.&nbsp;</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The grips are designed with slender hard EVA.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Guide: All stainless&nbsp;All stainless steel PMNST16 / PMNSG16 / PMNSG20 / PMNSG25 / PMNSG30 / PMNSG40</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>TUNA model, so long-time fighting is expected.<br />A stainless steel guide is used to withstand the continuous load and impact.<br />The 7610, which is expected to fight for a longer time with a higher load, is processed so that the thread coating adheres more closely to the guide foot.<br />All&nbsp;guides are underwrapped.<br />In order to improve the cast feeling, the under wrapping is wrapped as narrowly as possible.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Recommended Reels: Daiwa&nbsp;Saltiga 18000H/20000H/6500H/7000H/8000H or Stella&nbsp; 18000H/20000H</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Length: 7'6 &quot;</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Line PE #: 8 - 10</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Cast: 60g ~ 250g</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Recommended Drag : 18kg&nbsp;</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Made in Japan</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "Tuna",
+      "kingfish",
+      "bluefin",
+      "yellowfin",
+      "Truth",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ4564857",
+        "price": "780.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 6
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3b57f1e0-ce7c-4e82-8ce2-2d27d096dd2b/insight+7610+2.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 7610"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f2722ea4-37cb-44ec-b545-47ad20a80993/insight+7610.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 7610"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/13db91f0-c794-478c-ba10-8d62829b0d4f/GX010136%E5%9D%82%E3%83%90%E3%83%A9%E3%82%B7.00_19_11_14.%E9%9D%99%E6%AD%A2%E7%94%BB002sssdsd.JPG",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 7610"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7a0781e5-4ab7-4950-b6d7-7d4db19894b3/DSC_0094sssdsd.JPG",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 7610"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a461f832-9a6a-43dd-9f1b-6f9e0600c0e6/DSC02576.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 7610"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/220d12b6-1c65-4f9c-ae80-f0e95d7c55e6/30E2860E-0148-47B4-A063-2FF907EE3AA7sssdsd.JPG",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 7610"
+      }
+    ]
+  }
+}

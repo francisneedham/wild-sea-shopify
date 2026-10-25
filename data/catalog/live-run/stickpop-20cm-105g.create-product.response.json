@@ -1,0 +1,319 @@
+{
+  "productSet": {
+    "product": {
+      "id": "gid://shopify/Product/15439430353009",
+      "handle": "stickpop-20cm-105g",
+      "status": "ACTIVE",
+      "title": "Glide Stickpop 20cm - 105g",
+      "resourcePublicationsV2": {
+        "nodes": [],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841386512497",
+            "sku": "SQ7581226",
+            "price": "60.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Fusilier"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841386545265",
+            "sku": "SQ2319235",
+            "price": "60.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Mahi"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841386578033",
+            "sku": "SQ0452227",
+            "price": "60.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Banana"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841386610801",
+            "sku": "SQ0859850",
+            "price": "60.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Coral"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841386643569",
+            "sku": "SQ7270156",
+            "price": "60.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Pink"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841386676337",
+            "sku": "SQ8096117",
+            "price": "60.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Sarda"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841386709105",
+            "sku": "SQ7885850",
+            "price": "60.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Shark"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841386741873",
+            "sku": "SQ4227470",
+            "price": "60.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "YouPop"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 0
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284960465009",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284960497777",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284960530545",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284960563313",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284960596081",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284960628849",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284960661617",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284960694385",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

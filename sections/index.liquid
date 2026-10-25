@@ -1,3 +1,180 @@
-<div class="min-h-svh">
-    <h1>Hello World</h1>
-</div>
+{% doc %}
+  Home hero (legacy 1:1): photo poster with optional muted YouTube background video,
+  eyebrow, heading with accent word, CTA, location line, film modal, then the manifesto strip.
+  Video fades in only once playback starts (`ts/index.ts`).
+
+  @example
+  Add Wild Sea hero to the home template through the Theme Editor.
+{% enddoc %}
+
+{% render 'home-styles' %}
+
+{%- liquid
+  assign video_id = blank
+  if section.settings.video.type == 'youtube'
+    assign video_id = section.settings.video.id
+  endif
+  assign film_id = section.settings.film.id | default: video_id
+-%}
+
+<section class="wildsea-hero" aria-labelledby="HomeHero-{{ section.id }}">
+  <div class="wildsea-hero__media" data-parallax>
+    {% render 'home-image', image: section.settings.image, original: 'hero', alt: section.settings.image_alt, priority: true %}
+  </div>
+  {% if video_id != blank %}
+    <iframe
+      class="wildsea-hero__video"
+      data-js="hero-video"
+      src="https://www.youtube.com/embed/{{ video_id }}?autoplay=1&mute=1&loop=1&playlist={{ video_id }}&controls=0&playsinline=1&enablejsapi=1&rel=0"
+      title="{{ section.settings.film_label | escape }}"
+      allow="autoplay; encrypted-media"
+      tabindex="-1"
+      aria-hidden="true"
+    ></iframe>
+  {% endif %}
+  <div class="wildsea-hero__content">
+    {% if section.settings.kicker != blank %}<p class="wildsea-hero__kicker">{{ section.settings.kicker | escape }}</p>{% endif %}
+    <h1 id="HomeHero-{{ section.id }}" data-reveal="title">
+      {{- section.settings.heading | escape | newline_to_br -}}
+      {%- if section.settings.accent != blank %} <span>{{ section.settings.accent | escape }}</span>{% endif -%}
+    </h1>
+    {% if section.settings.text != blank %}<p class="wildsea-hero__text">{{ section.settings.text | escape | newline_to_br }}</p>{% endif %}
+    {% if section.settings.link != blank and section.settings.link_label != blank %}
+      <a class="wildsea-hero__button" href="{{ section.settings.link }}">{{ section.settings.link_label | escape }} {% render 'lucide-icon', name: 'arrow-right' %}</a>
+    {% endif %}
+  </div>
+  <div class="wildsea-hero__bottom">
+    {% if section.settings.location != blank %}
+      <p class="wildsea-hero__location">{% render 'lucide-icon', name: 'map-pin' %}<span>{{ section.settings.location | escape | newline_to_br }}</span></p>
+    {% endif %}
+    {% if film_id != blank and section.settings.film_label != blank %}
+      <button type="button" class="wildsea-hero__film" data-js="hero-film-open" aria-haspopup="dialog" aria-controls="HeroFilm-{{ section.id }}">
+        <span class="wildsea-hero__play">{% render 'lucide-icon', name: 'play' %}</span>{{ section.settings.film_label | escape }}
+      </button>
+    {% endif %}
+  </div>
+</section>
+
+{% if film_id != blank %}
+  <dialog class="wildsea-film" id="HeroFilm-{{ section.id }}" data-js="hero-film" data-video-id="{{ film_id }}" aria-label="{{ section.settings.film_label | escape }}">
+    <button type="button" class="wildsea-film__close" data-js="hero-film-close" aria-label="{{ 'general.close' | t }}">{% render 'lucide-icon', name: 'x' %}</button>
+    <div class="wildsea-film__frame" data-js="hero-film-frame"></div>
+  </dialog>
+{% endif %}
+
+{% if section.settings.statement != blank %}
+  <div class="wildsea-manifesto">
+    <p class="wildsea-manifesto__statement" data-reveal="title">{{ section.settings.statement | escape | newline_to_br }}</p>
+    {% if section.settings.manifesto_text != blank %}<p class="wildsea-manifesto__text">{{ section.settings.manifesto_text | escape }}</p>{% endif %}
+    {% if section.settings.stat_1_value != blank %}
+      <p class="wildsea-manifesto__stat"><strong>{{ section.settings.stat_1_value | escape }}</strong><span>{{ section.settings.stat_1_label | escape | newline_to_br }}</span></p>
+    {% endif %}
+    {% if section.settings.stat_2_value != blank %}
+      <p class="wildsea-manifesto__stat"><strong>{{ section.settings.stat_2_value | escape }}</strong><span>{{ section.settings.stat_2_label | escape | newline_to_br }}</span></p>
+    {% endif %}
+  </div>
+{% endif %}
+
+{% stylesheet %}
+  .wildsea-hero { position: relative; height: min(850px, 100svh); min-height: 680px; overflow: hidden; container-type: size; background: #122c2c; color: #fff; }
+  .wildsea-hero__media { position: absolute; inset: 0; overflow: hidden; }
+  .wildsea-hero__media img { width: 100%; height: 100%; object-fit: cover; object-position: center 55%; }
+  .wildsea-hero__video { position: absolute; top: 50%; left: 50%; width: max(100cqw, 177.78cqh); height: max(56.25cqw, 100cqh); transform: translate(-50%, -50%); border: 0; pointer-events: none; opacity: 0; transition: opacity 1s; }
+  .wildsea-hero__video.is-playing { opacity: 1; }
+  .wildsea-hero::after { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, #071d1d8c 0%, #061c1c35 60%), linear-gradient(0deg, #051818a6, transparent 45%); pointer-events: none; }
+  .wildsea-hero__content, .wildsea-hero__bottom { max-width: var(--page-width); margin-inline: auto; padding-inline: var(--site-gutter); }
+  .wildsea-hero { display: flex; flex-direction: column; justify-content: flex-end; }
+  .wildsea-hero__content { position: relative; z-index: 2; width: 100%; padding-top: calc(var(--header-height) + 40px); padding-bottom: 130px; }
+  .wildsea-hero__kicker { display: flex; align-items: center; gap: 12px; margin: 0 0 22px; font-size: var(--text-label); font-weight: 600; letter-spacing: .23em; text-transform: uppercase; }
+  .wildsea-hero__kicker::before { content: ''; width: 28px; height: 1px; background: currentColor; }
+  .wildsea-hero h1 { max-width: 800px; margin: 0 0 28px; font-size: clamp(88px, 9.6vw, 145px); font-weight: 600; line-height: .88; letter-spacing: -.025em; text-transform: uppercase; }
+  .wildsea-hero h1 span:not(.reveal-break) { color: #dfc89e; }
+  .wildsea-hero__text { max-width: 400px; margin: 0 0 30px; font-size: var(--text-sm); line-height: 1.9; color: #ffffffe0; }
+  .wildsea-hero__button { display: inline-flex; align-items: center; justify-content: center; gap: 30px; padding: 19px 26px; background: #dfc89e; color: #102c2d; font-size: var(--text-label); font-weight: 700; letter-spacing: .1em; text-transform: uppercase; text-decoration: none; transition: background .2s, transform .2s; }
+  .wildsea-hero__button:hover { background: #fff; }
+  .wildsea-hero__button svg { width: 16px; height: 16px; }
+  .wildsea-hero__bottom { position: absolute; left: 0; right: 0; bottom: 37px; z-index: 3; display: flex; justify-content: space-between; align-items: center; gap: 20px; font-size: var(--text-label); letter-spacing: .15em; text-transform: uppercase; }
+  .wildsea-hero__location { display: flex; align-items: center; gap: 12px; margin: 0; line-height: 1.8; }
+  .wildsea-hero__location svg { flex-shrink: 0; width: 16px; height: 16px; }
+  .wildsea-hero__film { display: flex; align-items: center; gap: 14px; padding: 0; border: 0; background: none; color: #fff; font: inherit; letter-spacing: inherit; text-transform: inherit; cursor: pointer; }
+  .wildsea-hero__play { display: grid; place-items: center; padding: 13px; border: 1px solid #ffffff70; border-radius: 50%; transition: background .2s; }
+  .wildsea-hero__film:hover .wildsea-hero__play { background: #ffffff20; }
+  .wildsea-hero__play svg { width: 15px; height: 15px; }
+
+  .wildsea-film { margin: auto; width: min(1100px, calc(100% - 30px)); max-width: none; padding: 0; border: 0; background: #000; overflow: visible; }
+  .wildsea-film::backdrop { background: #041a1ae6; backdrop-filter: blur(4px); }
+  .wildsea-film__frame { aspect-ratio: 16 / 9; }
+  .wildsea-film__frame iframe { width: 100%; height: 100%; border: 0; }
+  .wildsea-film__close { position: absolute; right: 0; bottom: calc(100% + 8px); display: inline-flex; padding: 8px; border: 0; background: none; color: #fff; cursor: pointer; }
+  .wildsea-film__close svg { width: 22px; height: 22px; }
+
+  .wildsea-manifesto { max-width: var(--page-width); margin-inline: auto; padding: 35px var(--site-gutter); display: flex; justify-content: space-between; align-items: center; gap: 35px; position: relative; }
+  .wildsea-manifesto::after { content: ''; position: absolute; left: var(--site-gutter); right: var(--site-gutter); bottom: 0; border-bottom: 1px solid var(--theme-border); }
+  .wildsea-manifesto p { margin: 0; }
+  .wildsea-manifesto__statement { font-family: var(--font-heading-family); font-size: 31px; font-weight: 600; line-height: .98; letter-spacing: .02em; text-transform: uppercase; }
+  .wildsea-manifesto__text { max-width: 430px; font-size: var(--text-sm); line-height: 1.8; color: color-mix(in srgb, var(--theme-text) 68%, transparent); }
+  .wildsea-manifesto__stat { display: flex; align-items: center; gap: 13px; }
+  .wildsea-manifesto__stat strong { font-family: var(--font-heading-family); font-size: 37px; font-weight: 500; }
+  .wildsea-manifesto__stat span { font-size: var(--text-label); line-height: 1.6; letter-spacing: .12em; text-transform: uppercase; }
+
+  @media (max-width: 1100px) {
+    .wildsea-hero h1 { font-size: 110px; }
+    .wildsea-manifesto__text { max-width: 330px; }
+    .wildsea-manifesto__stat:last-child { display: none; }
+  }
+  @media (max-width: 760px) {
+    .wildsea-hero { height: 92svh; min-height: 680px; max-height: 800px; }
+    .wildsea-hero__media img { object-position: 58% center; }
+    .wildsea-hero__video { display: none; }
+    .wildsea-hero__content { padding-bottom: 110px; }
+    .wildsea-hero h1 { max-width: 600px; font-size: clamp(72px, 17vw, 110px); line-height: .92; }
+    .wildsea-hero__text { max-width: 320px; }
+    .wildsea-hero__button { padding: 17px 20px; gap: 20px; }
+    .wildsea-hero__bottom { bottom: 25px; align-items: end; letter-spacing: .08em; }
+    .wildsea-hero__location { max-width: 200px; gap: 8px; }
+    .wildsea-hero__film { gap: 8px; max-width: 160px; text-align: left; }
+    .wildsea-hero__play { padding: 10px; }
+    .wildsea-manifesto { padding-block: 27px; flex-wrap: wrap; gap: 20px; }
+    .wildsea-manifesto__statement { font-size: 26px; }
+    .wildsea-manifesto__text { order: 3; max-width: 100%; }
+    .wildsea-manifesto__stat strong { font-size: 30px; }
+  }
+{% endstylesheet %}
+
+{% schema %}
+{
+  "name": "Wild Sea hero",
+  "enabled_on": {
+    "templates": [
+      "index"
+    ]
+  },
+  "limit": 1,
+  "settings": [
+    { "type": "image_picker", "id": "image", "label": "Poster image" },
+    { "type": "text", "id": "image_alt", "label": "Image description", "default": "An angler casting into the Indian Ocean at sunset" },
+    { "type": "video_url", "id": "video", "label": "Background video (YouTube, muted loop)", "accept": ["youtube"], "info": "Hidden on mobile. Fades in once playback starts." },
+    { "type": "text", "id": "kicker", "label": "Eyebrow", "default": "Remote places. Extraordinary fishing." },
+    { "type": "textarea", "id": "heading", "label": "Heading", "default": "Beyond\nthe" },
+    { "type": "text", "id": "accent", "label": "Heading accent word", "default": "ordinary." },
+    { "type": "textarea", "id": "text", "label": "Description", "default": "Some places change the way you see the world.\nWe take you there. One cast at a time." },
+    { "type": "url", "id": "link", "label": "Button link" },
+    { "type": "text", "id": "link_label", "label": "Button label", "default": "Explore our expeditions" },
+    { "type": "textarea", "id": "location", "label": "Location line", "default": "Somewhere out there.\nExactly where you belong." },
+    { "type": "video_url", "id": "film", "label": "Film (YouTube)", "accept": ["youtube"], "info": "Opens in a modal. Defaults to the background video." },
+    { "type": "text", "id": "film_label", "label": "Film button label", "default": "Watch the Wildsea film" },
+    { "type": "header", "content": "Manifesto strip" },
+    { "type": "textarea", "id": "statement", "label": "Statement", "default": "Not just a trip.\nA story worth living." },
+    { "type": "textarea", "id": "manifesto_text", "label": "Text", "default": "We explore the world’s wildest waters, taking passionate anglers to places few have ever fished." },
+    { "type": "text", "id": "stat_1_value", "label": "First figure", "default": "2012" },
+    { "type": "textarea", "id": "stat_1_label", "label": "First figure label", "default": "Where our\nstory began" },
+    { "type": "text", "id": "stat_2_value", "label": "Second figure", "default": "07" },
+    { "type": "textarea", "id": "stat_2_label", "label": "Second figure label", "default": "Extraordinary\ndestinations" }
+  ],
+  "presets": [
+    {
+      "name": "Wild Sea hero"
+    }
+  ]
+}
+{% endschema %}

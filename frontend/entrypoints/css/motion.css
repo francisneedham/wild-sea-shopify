@@ -1,0 +1,30 @@
+/* Lenis (from lenis/dist/lenis.css) */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis:not(.lenis-autoToggle).lenis-stopped {
+  overflow: clip;
+}
+.lenis [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
+
+/* Reveal hidden states are set by GSAP in ts/utils/motion.ts, never here, so no-JS content stays visible. */
+
+/* Image reveal zooms the img inside its frame. */
+[data-reveal="image"] {
+  overflow: hidden;
+}
+
+/* Parallax: GSAP tweens the img transform; the individual `scale` property composes with it and hides the edges. */
+[data-parallax] {
+  overflow: hidden;
+}
+[data-parallax] img {
+  scale: 1.15;
+  will-change: transform;
+}

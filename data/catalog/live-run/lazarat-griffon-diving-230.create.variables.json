@@ -1,0 +1,136 @@
+{
+  "input": {
+    "handle": "lazarat-griffon-diving-230",
+    "title": "Lazarat Griffon Diving 230",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Floating 230mm 145g&nbsp;</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rigging option:</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Hooks: Bkk lone diablo 13/0 or Bkk gt rex 6/0 (weight around 15g)</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Split rings: size 10+/11</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Action:</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">When retrieved quickly with a long swipe, it leaves a bubble trail behind, wobbling its body underwater. On shorter swipes and slower retrieves, it offers versatility, allowing you to experiment with various techniques. Fish often strike when it surfaces after a pull, so it’s best to pause for a second and let it float between retrieves.&nbsp;</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The Griffon is a slim-style wooden floating lure series, featuring smallmouth poppers and diving poppers in various sizes. It offers long, stable casting, is easy to use, and highly durable. Built with a 2mm stainless steel through-body construction and coated with six layers of premium-quality epoxy for maximum durability.&nbsp;</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><br /></p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Lazarat",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-floating",
+      "legacy-category-lures-diving-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Flying Fish"
+          },
+          {
+            "name": "Mahi Mahi"
+          },
+          {
+            "name": "Green Wood"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ3498813",
+        "price": "120.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Flying Fish"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2270853",
+        "price": "120.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Mahi Mahi"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1909163",
+        "price": "120.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Green Wood"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5349a447-ab6d-450d-9ed4-570c0fef0c33/1000080859.JPG",
+        "contentType": "IMAGE",
+        "alt": "Lazarat Griffon Diving 230"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/94676c03-b85f-4c70-9c32-118d117c1ed2/1000080861.JPG",
+        "contentType": "IMAGE",
+        "alt": "Lazarat Griffon Diving 230"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2a57dc31-e414-483f-aa77-b6222455ad16/1000080862.JPG",
+        "contentType": "IMAGE",
+        "alt": "Lazarat Griffon Diving 230"
+      }
+    ]
+  }
+}

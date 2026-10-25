@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/510151819377",
+      "namespace": "specs",
+      "key": "color_family",
+      "name": "Color family",
+      "type": {
+        "name": "metaobject_reference"
+      },
+      "ownerType": "PRODUCTVARIANT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

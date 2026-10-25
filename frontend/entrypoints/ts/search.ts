@@ -1,9 +1,10 @@
 import { debounce, fetchPredictiveSearchHtml } from './utils/predictive-search';
 import { applySectionReplace } from './utils/section-rendering';
+import { onReady } from './utils/ready';
 
 export {};
 
-document.addEventListener('DOMContentLoaded', () => {
+onReady(() => {
   const root = document.querySelector<HTMLElement>('[data-js="search-root"]');
   if (!root) return;
 

@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "hero": {
+      "type": "destination-hero",
+      "settings": {
+        "kicker": "Guided fishing expedition",
+        "tagline": "Uncharted water.",
+        "intro": "An exploratory fly fishing journey across Socotra’s beaches and reefs.",
+        "link_label": "Explore the fishing",
+        "link": "#the-fishing"
+      }
+    },
+    "highlights": {
+      "type": "destination-cards",
+      "settings": {
+        "anchor": "the-fishing",
+        "kicker": "The expedition",
+        "heading": "Explore the fishing.",
+        "intro": "Explore Socotra’s Indian Ocean shores with a fly rod, from trevally and bonefish to permit, triggerfish and reef species."
+      },
+      "blocks": {
+        "card_1": {
+          "type": "card",
+          "settings": {
+            "kicker": "The approach",
+            "heading": "A fly fishing frontier",
+            "text": "<p>The original expedition describes a pioneering trip with varied shore and boat opportunities.</p>"
+          }
+        },
+        "card_2": {
+          "type": "card",
+          "settings": {
+            "kicker": "The species",
+            "heading": "Many ways to fish",
+            "text": "<p>Trevally, bonefish, permit, triggerfish, snapper and other reef fish appear in the legacy species list.</p>"
+          }
+        },
+        "card_3": {
+          "type": "card",
+          "settings": {
+            "kicker": "The timing",
+            "heading": "Limited windows",
+            "text": "<p>The legacy guide names October, March and April as fly fishing windows. Confirm current departures with the team.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "card_1",
+        "card_2",
+        "card_3"
+      ]
+    },
+    "enquiry": {
+      "type": "destination-cta",
+      "settings": {
+        "kicker": "Get in touch",
+        "heading": "Plan your next trip.",
+        "text": "Tell us your preferred window. Our team will confirm current departures and arrangements.",
+        "link_label": "Enquire about Socotra Fly Fishing",
+        "link": "mailto:fishing@wildseaexpedition.com?subject=Socotra%20Fly%20Fishing%20expedition"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "highlights",
+    "enquiry"
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "input": {
+    "handle": "jumprize-lalapen",
+    "title": "Jumprize Lalapen",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>LALAPEN is a diving pencil designed exclusively for plug casting games targeting large bluefish and tuna.</span><br /><span>In the past, it has been difficult to combine response, action, body strength, and flight distance with ABS materials due to specific gravity issues.</span><br /><span>However, with the combination of more than two years of thorough actual fishing tests and cutting-edge development technology, the ultimate diving pencil that far exceeds the limits of ABS materials has been completed. Not only offshore, but also in blue casting games from the shore, which has become popular in recent years. The highest level of the shore game's harsh fishing that can never be avoided with lure loss and damage. Body strength and durability are essential for this game, and only those who can attack vigorously without hesitation without fear of damage or lost can encounter large blue things.</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>165 mm - Gr. 53</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>200 mm - Gr. 100</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>240 mm - Gr. 135</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Jumprize lure",
+      "fishing lure",
+      "saltwater lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          {
+            "name": "165"
+          },
+          {
+            "name": "200"
+          },
+          {
+            "name": "240"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          {
+            "name": "SilverPink"
+          },
+          {
+            "name": "Mackarell"
+          },
+          {
+            "name": "Silver"
+          },
+          {
+            "name": "HoloSilver"
+          },
+          {
+            "name": "SilverBlue"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ9471621",
+        "price": "30.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "165"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverPink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 4
+          }
+        ]
+      },
+      {
+        "sku": "SQ0622643",
+        "price": "30.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "165"
+          },
+          {
+            "optionName": "Color",
+            "name": "Mackarell"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4437370",
+        "price": "30.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "165"
+          },
+          {
+            "optionName": "Color",
+            "name": "Silver"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ9740868",
+        "price": "30.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "165"
+          },
+          {
+            "optionName": "Color",
+            "name": "HoloSilver"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2226325",
+        "price": "30.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "165"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverBlue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ9081961",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "200"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverPink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ3644597",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "200"
+          },
+          {
+            "optionName": "Color",
+            "name": "Mackarell"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "sku": "SQ3143433",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "200"
+          },
+          {
+            "optionName": "Color",
+            "name": "Silver"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ0277449",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "200"
+          },
+          {
+            "optionName": "Color",
+            "name": "HoloSilver"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "sku": "SQ4150438",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "200"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverBlue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ6409380",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "240"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverPink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.19,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8194100",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "240"
+          },
+          {
+            "optionName": "Color",
+            "name": "Mackarell"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.19,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "sku": "SQ2532620",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "240"
+          },
+          {
+            "optionName": "Color",
+            "name": "Silver"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.19,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ0352269",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "240"
+          },
+          {
+            "optionName": "Color",
+            "name": "HoloSilver"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.19,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "sku": "SQ3464404",
+        "price": "40.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "240"
+          },
+          {
+            "optionName": "Color",
+            "name": "SilverBlue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.19,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6bb3e32c-ca12-4b61-b5e0-6fa41279406f/lala1.jpg",
+        "contentType": "IMAGE",
+        "alt": "Jumprize Lalapen"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/dcc7e663-0fc4-4018-879a-953ae6648a25/lala2.jpg",
+        "contentType": "IMAGE",
+        "alt": "Jumprize Lalapen"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1efcaac6-9f90-4fd5-9c3a-5f4740d5f20e/lala3.jpg",
+        "contentType": "IMAGE",
+        "alt": "Jumprize Lalapen"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e4c9c126-3b45-40bd-bb69-01a3d88ce5f9/lala4.jpg",
+        "contentType": "IMAGE",
+        "alt": "Jumprize Lalapen"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3c1f0f9a-a872-4ca0-b03b-38c9d8050080/lalamazzo.jpg",
+        "contentType": "IMAGE",
+        "alt": "Jumprize Lalapen"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6dce4d4f-9cc6-4736-af57-9015ad56af44/lalapink.jpg",
+        "contentType": "IMAGE",
+        "alt": "Jumprize Lalapen"
+      }
+    ]
+  }
+}

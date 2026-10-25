@@ -1,0 +1,6 @@
+mutation UpdateProductVendor($product: ProductUpdateInput!) {
+  productUpdate(product: $product) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+}

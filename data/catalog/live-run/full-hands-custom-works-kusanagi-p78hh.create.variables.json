@@ -1,0 +1,71 @@
+{
+  "input": {
+    "handle": "full-hands-custom-works-kusanagi-p78hh",
+    "title": "Full Hands Custom Works Kusanagi P78HH",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Kusanagi P78HH</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A beautiful modern popping rod, incredibly light and powerful in you hands. Designed to handle large mouth poppers ideally up to 130 gr, it can also handle medium to big size stickbait thanks to a moderate stiffness of the tip.&nbsp;</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">In our opinion a solid PE8, more a PE 8-10 than PE 6-8, a new brand that will amaze you for the action and the quality of the finishing.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Full Hands Custom Works</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Kusanagi P78HH</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length : 7′ 8″</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>PE : 6~8</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Lure : 150g</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Max Drag : 17kg</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Type : Butt Joint</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Made in Japan</span></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ5054748",
+        "price": "720.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/13d87477-8477-4b00-91fe-4cdee13d9af0/A7402584.jpg",
+        "contentType": "IMAGE",
+        "alt": "Full Hands Custom Works Kusanagi P78HH"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/637f74b4-63a9-4a5c-a979-cc6dedac7499/A7402587.jpg",
+        "contentType": "IMAGE",
+        "alt": "Full Hands Custom Works Kusanagi P78HH"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3ae75250-3de4-4a30-be0b-87a25b3b4e35/A7402582.jpg",
+        "contentType": "IMAGE",
+        "alt": "Full Hands Custom Works Kusanagi P78HH"
+      }
+    ]
+  }
+}

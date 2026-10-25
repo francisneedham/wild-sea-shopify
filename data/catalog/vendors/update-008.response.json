@@ -1,0 +1,82 @@
+{
+  "v0": {
+    "product": {
+      "id": "gid://shopify/Product/15439430582385",
+      "handle": "stickpop-22cm-150g",
+      "vendor": "Glide Tackle"
+    },
+    "userErrors": []
+  },
+  "v1": {
+    "product": {
+      "id": "gid://shopify/Product/15439430844529",
+      "handle": "truth-ocean-sprinter-7510-standard-black-model",
+      "vendor": "Truth Japan"
+    },
+    "userErrors": []
+  },
+  "v2": {
+    "product": {
+      "id": "gid://shopify/Product/15439543631985",
+      "handle": "truth-ocean-sprinter-8110",
+      "vendor": "Truth Japan"
+    },
+    "userErrors": []
+  },
+  "v3": {
+    "product": {
+      "id": "gid://shopify/Product/15439543763057",
+      "handle": "truth-ocean-sprinter-838",
+      "vendor": "Truth Japan"
+    },
+    "userErrors": []
+  },
+  "v4": {
+    "product": {
+      "id": "gid://shopify/Product/15439543926897",
+      "handle": "truth-oceansprinter-711-rs",
+      "vendor": "Truth Japan"
+    },
+    "userErrors": []
+  },
+  "v5": {
+    "product": {
+      "id": "gid://shopify/Product/15439544057969",
+      "handle": "truth-oceansprinter-856",
+      "vendor": "Truth Japan"
+    },
+    "userErrors": []
+  },
+  "v6": {
+    "product": {
+      "id": "gid://shopify/Product/15439544156273",
+      "handle": "truth-white-insight-611-12",
+      "vendor": "Truth Japan"
+    },
+    "userErrors": []
+  },
+  "v7": {
+    "product": {
+      "id": "gid://shopify/Product/15439544287345",
+      "handle": "truth-white-insight-7210-custom-red",
+      "vendor": "Truth Japan"
+    },
+    "userErrors": []
+  },
+  "v8": {
+    "product": {
+      "id": "gid://shopify/Product/15439544516721",
+      "handle": "truth-white-insight-7210-standard-black-model",
+      "vendor": "Truth Japan"
+    },
+    "userErrors": []
+  },
+  "v9": {
+    "product": {
+      "id": "gid://shopify/Product/15439544647793",
+      "handle": "truth-white-insight-7415",
+      "vendor": "Truth Japan"
+    },
+    "userErrors": []
+  }
+}

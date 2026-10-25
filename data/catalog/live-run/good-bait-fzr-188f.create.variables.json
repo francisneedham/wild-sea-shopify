@@ -1,0 +1,113 @@
+{
+  "input": {
+    "handle": "good-bait-fzr-188f",
+    "title": "Good Bait FZR 188F",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>FZR is not same as other top water stick baits</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>FZR is not rear balanced top water stick bait.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>It is flat balanced. Not same as other popular stick baits.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>This is most unique point and that is why it was born.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>You can make small splash and diving action if you jerk on the top water.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Also you can keep swim under water if you keep jerk before float up.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>It is all up to you.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Basically we designed it based on #4/0 treble hooks. But you can use #3/0 depends on situation. You can use single hooks, single hooks can make more wide zig-zag action.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Length 188 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 92</p></li></ul><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Good Bait",
+      "fishing lures",
+      "saltwater lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "saltwater takle",
+      "fishing expedition",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "SilverRed"
+          },
+          {
+            "name": "Silver"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ9849808",
+        "price": "42.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "SilverRed"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ3782824",
+        "price": "42.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Silver"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a73de16e-da31-4847-83c0-db66503c2ce3/fzr1.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait FZR 188F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4cf7b1ff-7855-40cb-95df-899c53f28f41/fzr3.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait FZR 188F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1090adbd-5589-4c7e-b845-3dd5f4890d15/fzr2.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait FZR 188F"
+      }
+    ]
+  }
+}

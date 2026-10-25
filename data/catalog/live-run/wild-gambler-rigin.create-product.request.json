@@ -1,0 +1,263 @@
+{
+  "input": {
+    "handle": "wild-gambler-rigin",
+    "title": "Wild Gambler Rigin",
+    "descriptionHtml": "<p data-rte-preserve-empty=\"true\" style=\"white-space: pre-wrap;\">The WILD GAMBLER RIGIN was developed through extensive offshore and inshore testing over a long period, with a particular emphasis on repeated adjustments to the cup. This process resulted in a finely tuned sound, bubble action, and maximum casting distance.</p><p data-rte-preserve-empty=\"true\" style=\"white-space: pre-wrap;\">This popper is perfect for GTs. The sweet, enticing sound, compact body, and bubbles work together to obscure the silhouette. This combination makes even pressure-sensitive large GTs unable to resist, prompting them to leap out and strike.</p><p data-rte-preserve-empty=\"true\" style=\"white-space: pre-wrap;\"></p><ul data-rte-list=\"default\"><li><p data-rte-preserve-empty=\"true\" style=\"white-space: pre-wrap;\">Length 180 mm - Gr. 135</p></li><li><p data-rte-preserve-empty=\"true\" style=\"white-space: pre-wrap;\">Length 160 mm - Gr. 105</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Wild Gambler",
+      "popper",
+      "lures",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          {
+            "name": "180"
+          },
+          {
+            "name": "160"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          {
+            "name": "Purple"
+          },
+          {
+            "name": "Flying Fish"
+          },
+          {
+            "name": "Black Back"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ8955977",
+        "price": "105.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "180"
+          },
+          {
+            "optionName": "Color",
+            "name": "Purple"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ7854621",
+        "price": "105.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "180"
+          },
+          {
+            "optionName": "Color",
+            "name": "Flying Fish"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ2278712",
+        "price": "105.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "180"
+          },
+          {
+            "optionName": "Color",
+            "name": "Black Back"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ0394094",
+        "price": "105.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "160"
+          },
+          {
+            "optionName": "Color",
+            "name": "Purple"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.18,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ8611879",
+        "price": "105.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "160"
+          },
+          {
+            "optionName": "Color",
+            "name": "Flying Fish"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.18,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ2502427",
+        "price": "105.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "160"
+          },
+          {
+            "optionName": "Color",
+            "name": "Black Back"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.18,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/16813b35-45d9-472d-b09d-8347c39464d5/IMG_20260922_214222.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wild Gambler Rigin"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a29844ee-ded8-4663-b299-c69a04ab1eba/IMG_20260922_214332.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wild Gambler Rigin"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c847b568-dbc2-40d1-916e-a6270ee242b9/IMG_20260922_214354.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wild Gambler Rigin"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1d0b4a5a-477e-4d78-b77d-39c8e56e326a/IMG_20260922_214420.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wild Gambler Rigin"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

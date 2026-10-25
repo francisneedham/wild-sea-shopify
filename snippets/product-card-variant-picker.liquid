@@ -13,6 +13,8 @@
   product with more than one variant.
 
   @param {product} product - Product object with multiple variants
+  @example
+  {% render 'product-card-variant-picker', product: product %}
 {% enddoc %}
 
 <div class="space-y-1" data-js="card-variant-picker">
@@ -23,7 +25,7 @@
           type="button"
           data-js="card-option-value"
           data-option-position="{{ option.position }}"
-          data-option-value="{{ value }}"
+          data-option-value="{{ value | escape }}"
           aria-pressed="false"
           class="border px-2 py-1 text-xs"
         >

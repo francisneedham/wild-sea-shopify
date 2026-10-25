@@ -1,0 +1,50 @@
+{% doc %}
+  Lists active Destination metaobjects on the Destinations page.
+  @example
+  Add this section to page.destinations.json.
+{% enddoc %}
+{% render 'destination-styles' %}
+<div class="destination-wrap destination-listing">
+  <div class="destination-listing__intro">
+    <p class="destination-eyebrow">{{ section.settings.kicker | escape }}</p>
+    <h1 data-reveal="title">{{ section.settings.heading | escape }}</h1>
+    <p class="destination-lead">{{ section.settings.intro | escape }}</p>
+  </div>
+  {% paginate metaobjects.destinations.values by 24 %}
+    <div class="destination-listing__toolbar"><span>{{ paginate.items }} destinations</span><span>Guided fishing expeditions</span></div>
+    <div class="destination-listing__grid">
+      {% for destination in metaobjects.destinations.values %}
+        <a class="destination-card" href="{{ destination.system.url }}">
+          <div class="destination-card__image" data-reveal="image">
+            {% if destination.listing_image.value != blank %}
+              {% render 'destination-photo', image: destination.listing_image.value, alt: destination.title.value, sizes: '(max-width: 650px) 100vw, (max-width: 900px) 50vw, 33vw' %}
+            {% elsif destination.system.handle == 'socotra-fishing' %}
+              {% render 'destination-photo', original: 'socotra-0', alt: destination.title.value, sizes: '(max-width: 650px) 100vw, (max-width: 900px) 50vw, 33vw' %}
+            {% endif %}
+          </div>
+          <div class="destination-card__body">
+            <p class="destination-eyebrow">{{ destination.region.value | escape }}</p>
+            {% case destination.status.value %}
+              {% when 'closed' %}<span class="destination-status destination-status--closed">Temporarily closed</span>
+              {% when 'last slots' %}<span class="destination-status destination-status--last">Last slots</span>
+            {% endcase %}
+            <h2>{{ destination.title.value | escape }}</h2>
+            <p>{{ destination.caption.value | escape }}</p>
+            <div class="destination-card__facts">
+              {% if destination.technique.value != blank %}<span>{{ destination.technique.value | escape }}</span>{% endif %}
+              {% if destination.season.value != blank %}<span>{{ destination.season.value | escape }}</span>{% endif %}
+            </div>
+          </div>
+        </a>
+      {% else %}
+        <p>No destinations available yet.</p>
+      {% endfor %}
+    </div>
+    {% if paginate.pages > 1 %}
+      <nav aria-label="Destination pages">{{ paginate | default_pagination }}</nav>
+    {% endif %}
+  {% endpaginate %}
+</div>
+{% schema %}
+{"name":"Destination listing","settings":[{"type":"text","id":"kicker","label":"Eyebrow","default":"Find your frontier"},{"type":"text","id":"heading","label":"Heading","default":"Our destinations."},{"type":"textarea","id":"intro","label":"Introduction","default":"Explore remote fishing grounds, guided by people who know the water."}]}
+{% endschema %}

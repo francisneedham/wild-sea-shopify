@@ -1,0 +1,23 @@
+{% doc %}
+  Responsive destination image. Shopify image overrides a bundled Socotra photograph.
+  @param {image} [image] - Selected Shopify image.
+  @param {string} [original] - Bundled Socotra asset key, such as socotra-0.
+  @param {string} alt - Accessible image description.
+  @param {string} [sizes] - Responsive sizes attribute.
+  @param {boolean} [priority] - Eager load hero image.
+  @example
+  {% render 'destination-photo', image: section.settings.image, original: 'socotra-0', alt: 'Socotra coastline', priority: true %}
+{% enddoc %}
+
+{% if image != blank %}
+  {% if priority %}
+    {{ image | image_url: width: 1500 | image_tag: widths: '480, 960, 1500', sizes: sizes, alt: alt, loading: 'eager', fetchpriority: 'high' }}
+  {% else %}
+    {{ image | image_url: width: 1500 | image_tag: widths: '480, 960, 1500', sizes: sizes, alt: alt, loading: 'lazy' }}
+  {% endif %}
+{% elsif original != blank and original != 'none' %}
+  {% assign base = 'wildsea-destination-' | append: original %}
+  {% assign small = base | append: '-480.webp' %}
+  {% assign medium = base | append: '-960.webp' %}
+  <img src="{{ medium | asset_url }}" srcset="{{ small | asset_url }} 480w, {{ medium | asset_url }} 960w{% if original == 'socotra-0' %}, {{ 'wildsea-destination-socotra-0-1500.webp' | asset_url }} 1500w{% endif %}" sizes="{{ sizes | default: '100vw' }}" alt="{{ alt | escape }}" width="1500" height="1000" loading="{% if priority %}eager{% else %}lazy{% endif %}" {% if priority %}fetchpriority="high"{% endif %} decoding="async">
+{% endif %}

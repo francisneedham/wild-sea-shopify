@@ -1,0 +1,60 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650325033073",
+      "handle": "nubian-flat",
+      "displayName": "Nubian Flat",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Nubian Flat"
+        },
+        {
+          "key": "caption",
+          "value": "Fly fish Sudan’s remote Red Sea flats for triggerfish, permit, trevally and other reef species. Temporarily closed."
+        },
+        {
+          "key": "season",
+          "value": null
+        },
+        {
+          "key": "fishing_days",
+          "value": "6 full fishing days"
+        },
+        {
+          "key": "on_the_water",
+          "value": "Liveaboard & flats"
+        },
+        {
+          "key": "target_species",
+          "value": "Triggerfish & permit"
+        },
+        {
+          "key": "listing_image",
+          "value": "gid://shopify/MediaImage/46288939548785"
+        },
+        {
+          "key": "region",
+          "value": "Sudan · Red Sea"
+        },
+        {
+          "key": "technique",
+          "value": "Fly fishing"
+        },
+        {
+          "key": "status",
+          "value": "closed"
+        }
+      ],
+      "capabilities": {
+        "onlineStore": {
+          "templateSuffix": "nubian-flat"
+        },
+        "publishable": {
+          "status": "ACTIVE"
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

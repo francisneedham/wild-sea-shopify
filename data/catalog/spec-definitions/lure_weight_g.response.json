@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/509632446577",
+      "namespace": "specs",
+      "key": "lure_weight_g",
+      "name": "Lure weight (g)",
+      "type": {
+        "name": "number_decimal"
+      },
+      "ownerType": "PRODUCTVARIANT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

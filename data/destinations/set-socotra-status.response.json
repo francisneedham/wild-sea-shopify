@@ -1,0 +1,60 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650226630769",
+      "handle": "socotra-fishing",
+      "displayName": "Socotra",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Socotra"
+        },
+        {
+          "key": "caption",
+          "value": "Wild coastlines. Powerful currents. Extraordinary giant trevally. Discover a fishing expedition unlike anywhere else."
+        },
+        {
+          "key": "season",
+          "value": "March–April / October–November"
+        },
+        {
+          "key": "fishing_days",
+          "value": "6 full fishing days"
+        },
+        {
+          "key": "on_the_water",
+          "value": "Small guided groups"
+        },
+        {
+          "key": "target_species",
+          "value": "Giant trevally"
+        },
+        {
+          "key": "listing_image",
+          "value": "gid://shopify/MediaImage/46288823156849"
+        },
+        {
+          "key": "region",
+          "value": "Yemen · Indian Ocean"
+        },
+        {
+          "key": "technique",
+          "value": "Popping & jigging"
+        },
+        {
+          "key": "status",
+          "value": "available"
+        }
+      ],
+      "capabilities": {
+        "onlineStore": {
+          "templateSuffix": "socotra"
+        },
+        "publishable": {
+          "status": "ACTIVE"
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

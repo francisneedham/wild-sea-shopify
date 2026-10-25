@@ -1,0 +1,175 @@
+{
+  "metafieldsSet": {
+    "metafields": [
+      {
+        "id": "gid://shopify/Metafield/191650222047345",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "11.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650222014577",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_made_in",
+        "value": "Japan"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221981809",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_cm",
+        "value": "243.84"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221949041",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_label",
+        "value": "8'0\""
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221916273",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "value": "6.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221883505",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "10.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221850737",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_min_g",
+        "value": "80"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221817969",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "150"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221785201",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "18.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221752433",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_made_in",
+        "value": "Japan"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221719665",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_cm",
+        "value": "218.44"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221686897",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_label",
+        "value": "7'2\""
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221654129",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "value": "10.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221621361",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "12.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221588593",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_min_g",
+        "value": "150"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221555825",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "250"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221523057",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "25.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221490289",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_cm",
+        "value": "233.68"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221457521",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_label",
+        "value": "7'8\""
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221424753",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "value": "8.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221391985",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "12.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221359217",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "300"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221326449",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "20.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650221293681",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_made_in",
+        "value": "Japan"
+      }
+    ],
+    "userErrors": []
+  }
+}

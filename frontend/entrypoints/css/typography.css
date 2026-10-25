@@ -1,18 +1,33 @@
 
-@font-face {
-  font-family: "Name";
-  src: url("../fonts/name.woff2") format("woff2");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
+@theme inline {
+  --font-sans: var(--font-body-family);
+  --font-heading: var(--font-heading-family);
 }
 
+/*
+ * Type scale. Floor is --text-label (12px): never go smaller, on any breakpoint.
+ * label: uppercase tracked eyebrows, nav, buttons, badges, legal
+ * sm:    secondary UI text, links, captions, meta, product card text
+ * base:  reading text (descriptions, FAQ, editorial)
+ * lg:    lead paragraphs
+ */
 @theme {
-  --font-*: initial;
-  --text-*: initial;
+  --text-label: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+}
 
-  --font-name: "Name", serif;
+@layer base {
+  body {
+    font-family: var(--font-body-family);
+    font-style: var(--font-body-style);
+    font-weight: var(--font-body-weight);
+  }
 
-  --text-name-80: 80px;
-  --text-name-80--line-height: 100%;
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading-family);
+    font-style: var(--font-heading-style);
+    font-weight: var(--font-heading-weight);
+  }
 }

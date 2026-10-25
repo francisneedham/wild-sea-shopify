@@ -1,0 +1,6 @@
+mutation DeleteSpecDefinition($id: ID!) {
+  metafieldDefinitionDelete(id: $id, deleteAllAssociatedMetafields: true) {
+    deletedDefinitionId
+    userErrors { field message code }
+  }
+}

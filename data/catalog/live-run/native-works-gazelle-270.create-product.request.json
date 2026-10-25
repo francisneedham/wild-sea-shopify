@@ -1,0 +1,139 @@
+{
+  "input": {
+    "handle": "native-works-gazelle-270",
+    "title": "Native Works Gazelle 270",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>This lures is designed to attract fish when the bite is slow in general.</span><br /><span>Best action: allow the lure to swim on a slower retrieve in order to create a wider S shape to get the best action out of it.</span><br /></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Recommended hooks: BKK GT-Rex 7/0 or BKK Inline 11/0 on the Belly&nbsp; 9/0 on the tail.</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length 270 mm</span></p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Gr. 210</span></p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Giant Trevally",
+      "tuna",
+      "yellowfin",
+      "bluefin",
+      "Native Works",
+      "legacy-catalog-import",
+      "legacy-category-lures"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Titanium"
+          },
+          {
+            "name": "Golden Orange"
+          },
+          {
+            "name": "White Glow"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ2106374",
+        "price": "250.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Titanium"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.28,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ7431133",
+        "price": "250.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Golden Orange"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.28,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ1542471",
+        "price": "250.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "White Glow"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.28,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/92534d76-e94b-440d-a922-ff902db8b77f/gazelle+270+gold+orange.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Gazelle 270"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4177ea5e-2b79-42c8-a240-ade45df3511a/gazelle+270+titanium.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Gazelle 270"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/36a31b40-9589-443f-aeec-4b55fe48dbfe/Gazzelle+270+white.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Gazelle 270"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

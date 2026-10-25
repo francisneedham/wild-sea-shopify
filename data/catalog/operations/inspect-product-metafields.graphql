@@ -1,0 +1,13 @@
+query InspectProductMetafields {
+  metafieldDefinitions(ownerType: PRODUCT, first: 100) {
+    nodes {
+      id
+      namespace
+      key
+      name
+      type { name }
+      access { storefront }
+      validations { name value }
+    }
+  }
+}

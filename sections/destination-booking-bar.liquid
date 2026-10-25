@@ -1,0 +1,40 @@
+{% doc %}
+  Fixed bottom booking bar (legacy .booking-bar): trip name, summary, brochure link, book button.
+  Empty links fall back to the metaobject booking_url / brochure_url. Adds bottom padding to the page.
+  @example
+  Add once per destination template.
+{% enddoc %}
+{% render 'destination-styles' %}
+
+{%- liquid
+  assign book_link = section.settings.book_link | default: metaobject.booking_url.value
+  assign brochure_link = section.settings.brochure_link | default: metaobject.brochure_url.value
+-%}
+
+<div class="destination-booking" data-js="destination-booking">
+  <div class="destination-wrap destination-booking__inner">
+    <div>
+      <h3>{{ section.settings.title | default: metaobject.title.value | escape }}</h3>
+      {% if section.settings.summary != blank %}<span>{{ section.settings.summary | escape }}</span>{% endif %}
+    </div>
+    <div class="destination-booking__actions">
+      {% render 'destination-button', label: section.settings.brochure_label, link: brochure_link, style: 'text', icon: 'download' %}
+      {% render 'destination-button', label: section.settings.book_label, link: book_link, style: 'dark' %}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Destination booking bar",
+  "settings": [
+    { "type": "text", "id": "title", "label": "Title", "info": "Empty: destination name." },
+    { "type": "text", "id": "summary", "label": "Summary" },
+    { "type": "text", "id": "brochure_label", "label": "Brochure label", "default": "Brochure" },
+    { "type": "url", "id": "brochure_link", "label": "Brochure link", "info": "Empty: destination brochure URL." },
+    { "type": "text", "id": "book_label", "label": "Book label", "default": "Book now" },
+    { "type": "url", "id": "book_link", "label": "Book link", "info": "Empty: destination booking URL." }
+  ],
+  "presets": [{ "name": "Destination booking bar" }]
+}
+{% endschema %}

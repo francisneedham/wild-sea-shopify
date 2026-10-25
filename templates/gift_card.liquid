@@ -5,8 +5,17 @@
     <head>
         {% # Social, title, etc. %}
         {% render 'meta-tags' %}
+        {% render 'theme-styles' %}
 
         {% style %}
+            body {
+                font-family: var(--font-body-family);
+                color: var(--theme-text);
+                background-color: var(--theme-background);
+            }
+            h1, h2 {
+                font-family: var(--font-heading-family);
+            }
             main {
                 text-align: center;
             }
@@ -23,7 +32,7 @@
         {{ content_for_header }}
     </head>
 
-    <body>
+    <body class="color-{{ settings.default_color_scheme }}">
         <main>
             <div class="shopify-section">
                 <h1>{{ gift_card.balance | money }}</h1>

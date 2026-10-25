@@ -1,0 +1,82 @@
+{
+  "v0": {
+    "product": {
+      "id": "gid://shopify/Product/15439419998321",
+      "handle": "lazarat-griffon-diving-170",
+      "vendor": "Lazarat"
+    },
+    "userErrors": []
+  },
+  "v1": {
+    "product": {
+      "id": "gid://shopify/Product/15439420194929",
+      "handle": "lazarat-griffon-diving-200",
+      "vendor": "Lazarat"
+    },
+    "userErrors": []
+  },
+  "v2": {
+    "product": {
+      "id": "gid://shopify/Product/15439420489841",
+      "handle": "lazarat-griffon-diving-200-1",
+      "vendor": "Lazarat"
+    },
+    "userErrors": []
+  },
+  "v3": {
+    "product": {
+      "id": "gid://shopify/Product/15439420686449",
+      "handle": "lazarat-griffon-diving-230",
+      "vendor": "Lazarat"
+    },
+    "userErrors": []
+  },
+  "v4": {
+    "product": {
+      "id": "gid://shopify/Product/15439420981361",
+      "handle": "mc-works-2023-explosion-817hf-special-model",
+      "vendor": "MC Works"
+    },
+    "userErrors": []
+  },
+  "v5": {
+    "product": {
+      "id": "gid://shopify/Product/15439421243505",
+      "handle": "mc-works-804-hr",
+      "vendor": "MC Works"
+    },
+    "userErrors": []
+  },
+  "v6": {
+    "product": {
+      "id": "gid://shopify/Product/15439421472881",
+      "handle": "mc-works-black-chrome-bc120htx",
+      "vendor": "MC Works"
+    },
+    "userErrors": []
+  },
+  "v7": {
+    "product": {
+      "id": "gid://shopify/Product/15439421735025",
+      "handle": "mc-works-explosion-817hf",
+      "vendor": "MC Works"
+    },
+    "userErrors": []
+  },
+  "v8": {
+    "product": {
+      "id": "gid://shopify/Product/15439422062705",
+      "handle": "mc-works-explosion-818-ctr-sp",
+      "vendor": "MC Works"
+    },
+    "userErrors": []
+  },
+  "v9": {
+    "product": {
+      "id": "gid://shopify/Product/15439422357617",
+      "handle": "mc-works-explosion-835ctr-standard-model",
+      "vendor": "MC Works"
+    },
+    "userErrors": []
+  }
+}

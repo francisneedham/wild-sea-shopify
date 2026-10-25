@@ -1,0 +1,6 @@
+mutation UpsertColorFamily($handle: MetaobjectHandleInput!, $metaobject: MetaobjectUpsertInput!) {
+  metaobjectUpsert(handle: $handle, metaobject: $metaobject) {
+    metaobject { id handle displayName fields { key value } }
+    userErrors { field message code }
+  }
+}

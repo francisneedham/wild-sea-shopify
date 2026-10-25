@@ -1,0 +1,30 @@
+query DestinationModel {
+  metaobjectDefinitions(first: 50) {
+    nodes {
+      id
+      name
+      type
+      displayNameKey
+      fieldDefinitions {
+        key
+        name
+        type { name }
+        required
+      }
+      capabilities {
+        onlineStore { enabled data { urlHandle } }
+        renderable { enabled data { metaTitleKey metaDescriptionKey } }
+        publishable { enabled }
+      }
+      access { storefront }
+    }
+  }
+  metaobjects(type: "destinations", first: 20) {
+    nodes {
+      id
+      handle
+      displayName
+      fields { key value type }
+    }
+  }
+}

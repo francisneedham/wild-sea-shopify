@@ -1,0 +1,11 @@
+mutation CreateDestinationImage($files: [FileCreateInput!]!) {
+  fileCreate(files: $files) {
+    files {
+      id
+      fileStatus
+      alt
+      ... on MediaImage { image { url } }
+    }
+    userErrors { field message code }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "metafields": [
+    {
+      "ownerId": "gid://shopify/Product/15439427862641",
+      "namespace": "specs",
+      "key": "lure_buoyancy",
+      "type": "single_line_text_field",
+      "value": "Floating"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439428124785",
+      "namespace": "specs",
+      "key": "lure_types",
+      "type": "list.single_line_text_field",
+      "value": "[\"Popper\"]"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439428354161",
+      "namespace": "specs",
+      "key": "lure_types",
+      "type": "list.single_line_text_field",
+      "value": "[\"Popper\"]"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439428812913",
+      "namespace": "specs",
+      "key": "lure_buoyancy",
+      "type": "single_line_text_field",
+      "value": "Floating"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439429206129",
+      "namespace": "specs",
+      "key": "lure_types",
+      "type": "list.single_line_text_field",
+      "value": "[\"Stickbait\"]"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439429402737",
+      "namespace": "specs",
+      "key": "lure_types",
+      "type": "list.single_line_text_field",
+      "value": "[\"Stickbait\"]"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439429501041",
+      "namespace": "specs",
+      "key": "lure_buoyancy",
+      "type": "single_line_text_field",
+      "value": "Sinking"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439429664881",
+      "namespace": "specs",
+      "key": "lure_buoyancy",
+      "type": "single_line_text_field",
+      "value": "Sinking"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439429828721",
+      "namespace": "specs",
+      "key": "lure_buoyancy",
+      "type": "single_line_text_field",
+      "value": "Sinking"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439430090865",
+      "namespace": "specs",
+      "key": "lure_buoyancy",
+      "type": "single_line_text_field",
+      "value": "Floating"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439545139313",
+      "namespace": "specs",
+      "key": "lure_types",
+      "type": "list.single_line_text_field",
+      "value": "[\"Popper\"]"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439545466993",
+      "namespace": "specs",
+      "key": "lure_types",
+      "type": "list.single_line_text_field",
+      "value": "[\"Stickbait\"]"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439545630833",
+      "namespace": "specs",
+      "key": "lure_types",
+      "type": "list.single_line_text_field",
+      "value": "[\"Popper\"]"
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439545630833",
+      "namespace": "specs",
+      "key": "lure_buoyancy",
+      "type": "single_line_text_field",
+      "value": "Floating"
+    }
+  ]
+}

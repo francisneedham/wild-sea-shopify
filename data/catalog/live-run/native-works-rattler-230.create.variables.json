@@ -1,0 +1,182 @@
+{
+  "input": {
+    "handle": "native-works-rattler-230",
+    "title": "Native Works Rattler 230",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">This is a new release lure and is much easier to use after making great refinement to the previous Rattle 3.<br />The body is slimmer and its unique 8 shape slalom action is maintain.<br />Great casting distance.<br />Coating is much more lasting.<br />By changing the weight balance and shape, miss action is reduced and lessen the burden of push back lure.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Triangle structure of specially development.<br />It is effective also for a low active fish.<br /><br />100% handmade in Japan by Mr Kawauchi Kenichi, his lures are exceptional and undoubtly unique.</p><ul data-rte-list=\"default\"><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length 230 mm</span></p></li><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Gr. 120</span></p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "tuna",
+      "gian",
+      "king",
+      "ye",
+      "yellowtail",
+      "Native Works",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-floating",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Anemone Orange"
+          },
+          {
+            "name": "Pink"
+          },
+          {
+            "name": "Blue"
+          },
+          {
+            "name": "Blue Nemo"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6821677",
+        "price": "160.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Anemone Orange"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ6651220",
+        "price": "160.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Pink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2112243",
+        "price": "160.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2901320",
+        "price": "160.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Blue Nemo"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9709ba6f-5a5f-4c1a-a146-502989794ac6/rattler+230.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Rattler 230"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/44352244-87d3-4a4c-965a-342c017caa7c/IMG-20241227-WA0043.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Rattler 230"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/50e33229-6b39-45fd-8048-546d76c861d4/IMG-20241226-WA0006.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Rattler 230"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f9e8238b-e851-4b64-819f-d51a5ce8e791/IMG-20241227-WA0035.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Rattler 230"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4629308b-0550-49c7-a906-862952e444e1/Blue+nemo.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Rattler 230"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+mutation UpdateVendorBatch002 {
+  v0: productUpdate(product: {id: "gid://shopify/Product/15439414100081", vendor: "Fish Trippers Village"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v1: productUpdate(product: {id: "gid://shopify/Product/15439414493297", vendor: "Fish Trippers Village"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v2: productUpdate(product: {id: "gid://shopify/Product/15439414820977", vendor: "Fish Trippers Village"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v3: productUpdate(product: {id: "gid://shopify/Product/15439415148657", vendor: "SOHO Trippers x Fish Trippers Village"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v4: productUpdate(product: {id: "gid://shopify/Product/15439415443569", vendor: "Glide Tackle"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v5: productUpdate(product: {id: "gid://shopify/Product/15439415771249", vendor: "Glide Tackle"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v6: productUpdate(product: {id: "gid://shopify/Product/15439415869553", vendor: "Glide Tackle"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v7: productUpdate(product: {id: "gid://shopify/Product/15439416033393", vendor: "Full Hands"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v8: productUpdate(product: {id: "gid://shopify/Product/15439416361073", vendor: "Full Hands"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v9: productUpdate(product: {id: "gid://shopify/Product/15439416721521", vendor: "Good Bait"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+}

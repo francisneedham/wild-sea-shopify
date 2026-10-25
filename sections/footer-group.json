@@ -11,15 +11,29 @@
   "type": "footer",
   "name": "t:general.footer",
   "sections": {
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "kicker": "Stay in the current",
+        "heading": "Your next adventure\nstarts here.",
+        "text": "Fresh field notes, new expeditions and exceptional gear. Straight from the wild to your inbox.",
+        "color_scheme": "scheme-3"
+      }
+    },
     "footer": {
       "type": "footer",
+      "blocks": {
+        "assurance_1": { "type": "assurance", "settings": { "icon": "compass", "heading": "Explorers since 2012", "text": "Experience beyond the ordinary" } },
+        "assurance_2": { "type": "assurance", "settings": { "icon": "users-round", "heading": "Expert-led adventures", "text": "Local knowledge. Global passion." } },
+        "assurance_3": { "type": "assurance", "settings": { "icon": "fish", "heading": "Catch. Respect. Release.", "text": "Protecting the places we love" } },
+        "assurance_4": { "type": "assurance", "settings": { "icon": "shield-check", "heading": "Field-tested equipment", "text": "Chosen by our fishing guides" } }
+      },
+      "block_order": ["assurance_1", "assurance_2", "assurance_3", "assurance_4"],
       "settings": {
-        "menu": "",
-        "show_payment_icons": true
+        "color_scheme": "scheme-2",
+        "show_payment_icons": false
       }
     }
   },
-  "order": [
-    "footer"
-  ]
+  "order": ["newsletter", "footer"]
 }

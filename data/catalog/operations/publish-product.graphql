@@ -1,0 +1,1 @@
+mutation PublishLegacyProduct($id: ID!, $publications: [PublicationInput!]!) { publishablePublish(id: $id, input: $publications) { publishable { ... on Product { id resourcePublicationsV2(first: 50) { nodes { isPublished publication { id } } } } } userErrors { field message } } }

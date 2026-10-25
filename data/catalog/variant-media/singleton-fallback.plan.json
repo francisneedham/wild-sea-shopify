@@ -1,0 +1,44 @@
+[
+  {
+    "handle": "cb-one-rudolf-260",
+    "sku": "SQ2943196",
+    "productId": "gid://shopify/Product/15439413051505",
+    "variantId": "gid://shopify/ProductVariant/67841301643377",
+    "mediaId": "gid://shopify/MediaImage/46284871434353"
+  },
+  {
+    "handle": "cb-one-ryan-230",
+    "sku": "Black",
+    "productId": "gid://shopify/Product/15439413248113",
+    "variantId": "gid://shopify/ProductVariant/67841302167665",
+    "mediaId": "gid://shopify/MediaImage/46284872679537"
+  },
+  {
+    "handle": "cb-one-zorro-200",
+    "sku": "SQ0108475",
+    "productId": "gid://shopify/Product/15439413477489",
+    "variantId": "gid://shopify/ProductVariant/67841303707761",
+    "mediaId": "gid://shopify/MediaImage/46284873891953"
+  },
+  {
+    "handle": "good-bait-bnd-180f",
+    "sku": "SQ6280239",
+    "productId": "gid://shopify/Product/15439416721521",
+    "variantId": "gid://shopify/ProductVariant/67841319403633",
+    "mediaId": "gid://shopify/MediaImage/46284890407025"
+  },
+  {
+    "handle": "native-works-gazelle-230",
+    "sku": "SQ3261392",
+    "productId": "gid://shopify/Product/15439425863793",
+    "variantId": "gid://shopify/ProductVariant/67841366818929",
+    "mediaId": "gid://shopify/MediaImage/46284936052849"
+  },
+  {
+    "handle": "rst-supply-nezul-210",
+    "sku": "SQ5754232",
+    "productId": "gid://shopify/Product/15439429206129",
+    "variantId": "gid://shopify/ProductVariant/67841381597297",
+    "mediaId": "gid://shopify/MediaImage/46284953026673"
+  }
+]

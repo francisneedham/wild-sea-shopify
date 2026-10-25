@@ -1,0 +1,108 @@
+{
+  "productSet": {
+    "product": {
+      "id": "gid://shopify/Product/15439429402737",
+      "handle": "rst-supply-rilana-180f",
+      "status": "ACTIVE",
+      "title": "RST Supply Rilana 180F",
+      "resourcePublicationsV2": {
+        "nodes": [],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841382318193",
+            "sku": "SQ6791078",
+            "price": "80.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Pink"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0.15,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 6
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841382350961",
+            "sku": "SQ6074839",
+            "price": "80.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Blue"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 0.15,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 4
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284954108017",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284954140785",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284954173553",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

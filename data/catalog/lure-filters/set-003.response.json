@@ -1,0 +1,105 @@
+{
+  "metafieldsSet": {
+    "metafields": [
+      {
+        "id": "gid://shopify/Metafield/191651410673777",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_buoyancy",
+        "value": "Floating"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651410706545",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_types",
+        "value": "[\"Popper\"]"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651410739313",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_types",
+        "value": "[\"Popper\"]"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651410772081",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_buoyancy",
+        "value": "Floating"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651410804849",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_types",
+        "value": "[\"Stickbait\"]"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651410837617",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_types",
+        "value": "[\"Stickbait\"]"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651410870385",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_buoyancy",
+        "value": "Sinking"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651410903153",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_buoyancy",
+        "value": "Sinking"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651410935921",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_buoyancy",
+        "value": "Sinking"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651410968689",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_buoyancy",
+        "value": "Floating"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651411001457",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_types",
+        "value": "[\"Popper\"]"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651411034225",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_types",
+        "value": "[\"Stickbait\"]"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651411066993",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_types",
+        "value": "[\"Popper\"]"
+      },
+      {
+        "id": "gid://shopify/Metafield/191651411099761",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "lure_buoyancy",
+        "value": "Floating"
+      }
+    ],
+    "userErrors": []
+  }
+}

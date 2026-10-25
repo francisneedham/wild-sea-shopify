@@ -1,0 +1,42 @@
+{% doc %}
+  Destination final call to action (legacy .trip-final-cta): dark band, title, text, booking + brochure buttons.
+  Empty links fall back to the metaobject booking_url / brochure_url.
+  @example
+  Add this section near the end of a destination template.
+{% enddoc %}
+{% render 'destination-styles' %}
+
+{%- liquid
+  assign primary_link = section.settings.primary_link | default: metaobject.booking_url.value
+  assign secondary_link = section.settings.secondary_link | default: metaobject.brochure_url.value
+-%}
+
+<section class="destination-final">
+  <div class="destination-wrap destination-final__inner">
+    <div>
+      {% if section.settings.kicker != blank %}<p class="destination-eyebrow">{{ section.settings.kicker | escape }}</p>{% endif %}
+      <h2 class="destination-h2" data-reveal="title">{{ section.settings.heading | escape | newline_to_br }}</h2>
+      {% if section.settings.text != blank %}<p>{{ section.settings.text | escape }}</p>{% endif %}
+    </div>
+    <div class="destination-final__actions">
+      {% render 'destination-button', label: section.settings.primary_label, link: primary_link %}
+      {% render 'destination-button', label: section.settings.secondary_label, link: secondary_link, style: 'outline', icon: 'download' %}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Destination enquiry",
+  "settings": [
+    { "type": "text", "id": "kicker", "label": "Eyebrow" },
+    { "type": "textarea", "id": "heading", "label": "Heading" },
+    { "type": "textarea", "id": "text", "label": "Text" },
+    { "type": "text", "id": "primary_label", "label": "Primary button label", "default": "Book your fishing trip" },
+    { "type": "url", "id": "primary_link", "label": "Primary button link", "info": "Empty: destination booking URL." },
+    { "type": "text", "id": "secondary_label", "label": "Secondary button label", "default": "Request the brochure" },
+    { "type": "url", "id": "secondary_link", "label": "Secondary button link", "info": "Empty: destination brochure URL." }
+  ],
+  "presets": [{ "name": "Destination enquiry" }]
+}
+{% endschema %}

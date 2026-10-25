@@ -1,5 +1,6 @@
 import { initCartPage } from './cart/page';
+import { onReady } from './utils/ready';
 
-document.addEventListener('DOMContentLoaded', () => {
+onReady(() => {
   initCartPage();
 });

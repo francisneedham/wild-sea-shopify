@@ -1,0 +1,20 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650468819057",
+      "handle": "pattern-natural",
+      "displayName": "Pattern / Natural",
+      "fields": [
+        {
+          "key": "label",
+          "value": "Pattern / Natural"
+        },
+        {
+          "key": "swatch_color",
+          "value": null
+        }
+      ]
+    },
+    "userErrors": []
+  }
+}

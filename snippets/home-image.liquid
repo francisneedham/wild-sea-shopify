@@ -1,0 +1,68 @@
+{% doc %}
+  Renders a merchant-selected responsive image or an original Wild Sea photograph.
+
+  @param {image} [image] - Shopify image overriding the original photograph.
+  @param {string} [original] - Bundled original photograph key.
+  @param {string} alt - Accessible image description.
+  @param {string} [sizes] - Responsive layout sizes.
+  @param {boolean} [priority] - Eagerly load the hero image with high priority.
+
+  @example
+  {% render 'home-image', image: section.settings.image, original: 'hero', alt: 'Wild Sea fishing expedition', priority: true %}
+{% enddoc %}
+
+{%- liquid
+  assign sizes = sizes | default: '100vw'
+  assign image_alt = image.alt | default: alt
+  assign loading = 'lazy'
+  assign fetchpriority = 'auto'
+  if priority
+    assign loading = 'eager'
+    assign fetchpriority = 'high'
+  endif
+-%}
+
+{%- if image != blank -%}
+  {{ image | image_url: width: 2200 | image_tag: widths: '375, 550, 750, 1100, 1500, 2200', sizes: sizes, alt: image_alt, loading: loading, fetchpriority: fetchpriority }}
+{%- elsif original != blank and original != 'none' -%}
+  {%- liquid
+    assign image_width = 960
+    assign image_height = 640
+    case original
+      when 'hero'
+        assign image_width = 1500
+        assign image_height = 1002
+      when 'about-0'
+        assign image_width = 1500
+        assign image_height = 1000
+      when 'about-2'
+        assign image_height = 399
+      when 'about-11'
+        assign image_height = 663
+      when 'socotra', 'socotra-2'
+        assign image_height = 540
+      when 'gabon', 'about-3', 'about-14'
+        assign image_height = 641
+      when 'category-0', 'category-1', 'category-2', 'category-3'
+        assign image_height = 960
+      when 'news-1'
+        assign image_height = 639
+      when 'article-1'
+        assign image_height = 720
+    endcase
+    assign image_base = 'wildsea-' | append: original
+    assign image_file = image_base | append: '-' | append: image_width | append: '.webp'
+    assign small_file = image_base | append: '-480.webp'
+    assign medium_file = image_base | append: '-960.webp'
+  -%}
+  <img
+    src="{{ image_file | asset_url }}"
+    srcset="{{ small_file | asset_url }} 480w, {{ medium_file | asset_url }} 960w{% if image_width == 1500 %}, {{ image_file | asset_url }} 1500w{% endif %}"
+    sizes="{{ sizes | escape }}"
+    width="{{ image_width }}"
+    height="{{ image_height }}"
+    alt="{{ alt | escape }}"
+    loading="{{ loading }}"
+    fetchpriority="{{ fetchpriority }}"
+  >
+{%- endif -%}

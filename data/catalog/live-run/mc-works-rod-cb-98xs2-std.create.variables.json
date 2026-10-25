@@ -1,0 +1,77 @@
+{
+  "input": {
+    "handle": "mc-works-rod-cb-98xs2-std",
+    "title": "MC Works Raging Bull 98XS2 STD",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>MC WORKS RAGING BULL 98 XS-2A model designed for topwater fishing with stickbaits and diving pencils. Features a soft tip to easily work stickbaits with a smoother mid section compared to other Raging Bull models to cushion big dives with the PE8 strength present towards the handle. The rod is easy to cast and with the slower taper that makes swimming stickbaits in rougher conditions easier.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The blank has been designed to be more parabolic compared to other models in the Raging Bull series. This rod is targeted to anglers who are seeking a more forgiving PE8 rod.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Built from the experimental limited model Paganism96Z-XR, the MC Works Raging Bull 98 XS-2 is a big game model developed with the hard rock shore game in mind. After extensive trials, it provides rod characteristics that allow for a stable and possible to run higher drag settings. A strong rod capable of preserving pressure even among anglers with lighter body masses. </span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Specifications:</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Power: 8</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length: 9.8ft</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Line: PE#6-8</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Cast: 80-150g</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Drag Max: 11kg</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Handmade in Japan.</span></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ9546515",
+        "price": "650.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3d1c1826-6800-4d37-9dea-4f836cf89b99/MC+Works+Raging+Bull+98XS2+STD1.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Raging Bull 98XS2 STD"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/58acf34b-8f56-4821-82cf-17ae7732d41f/MC+Works+Raging+Bull+98XS2+STD.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Raging Bull 98XS2 STD"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4542744a-96a4-4dc8-8f3d-4dc0581e7719/MC+Works+Raging+Bull+98XS2+STD2.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Raging Bull 98XS2 STD"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a6d4ef30-3f06-424e-a7a2-f3e719d8ad38/MC+Works+Raging+Bull+98XS2+STD3.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Raging Bull 98XS2 STD"
+      }
+    ]
+  }
+}

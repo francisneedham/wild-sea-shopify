@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Rod maximum drag (kg) (variant)",
+    "namespace": "specs",
+    "key": "rod_drag_max_kg",
+    "description": "Maximum drag only; distinct from recommended drag.",
+    "type": "number_decimal",
+    "ownerType": "PRODUCTVARIANT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

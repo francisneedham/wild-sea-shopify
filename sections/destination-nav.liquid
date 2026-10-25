@@ -1,0 +1,36 @@
+{% doc %}
+  Sticky in-page anchor bar (legacy .trip-section-nav). The link for the section in view turns sand (`ts/metaobject.ts`).
+  @example
+  Add this section under the destination hero with one link block per anchored section.
+{% enddoc %}
+{% render 'destination-styles' %}
+
+{% if section.blocks.size > 0 %}
+  <nav class="destination-nav" data-js="destination-nav" aria-label="{{ section.settings.label | escape }}">
+    <div class="destination-nav__inner">
+      {% for block in section.blocks %}
+        <a href="#{{ block.settings.anchor | escape }}" {{ block.shopify_attributes }}>{{ block.settings.label | escape }}</a>
+      {% endfor %}
+    </div>
+  </nav>
+{% endif %}
+
+{% schema %}
+{
+  "name": "Destination anchor bar",
+  "settings": [
+    { "type": "text", "id": "label", "label": "Accessible label", "default": "Explore this fishing trip" }
+  ],
+  "blocks": [
+    {
+      "type": "link",
+      "name": "Link",
+      "settings": [
+        { "type": "text", "id": "label", "label": "Label" },
+        { "type": "text", "id": "anchor", "label": "Anchor ID", "info": "Matches the Anchor ID of a section below." }
+      ]
+    }
+  ],
+  "presets": [{ "name": "Destination anchor bar" }]
+}
+{% endschema %}

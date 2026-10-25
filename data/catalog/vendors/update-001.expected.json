@@ -1,0 +1,72 @@
+{
+  "v0": {
+    "id": "gid://shopify/Product/15439151366257",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "title": "Atoll Bonger",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Atoll"
+  },
+  "v1": {
+    "id": "gid://shopify/Product/15439412134001",
+    "handle": "atlantis-flapper-170f",
+    "title": "Atlantis Flapper 170F",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Atlantis"
+  },
+  "v2": {
+    "id": "gid://shopify/Product/15439412363377",
+    "handle": "atlantis-funky-soda-170-85-gr",
+    "title": "Atlantis Funky Soda 170",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Atlantis"
+  },
+  "v3": {
+    "id": "gid://shopify/Product/15439412592753",
+    "handle": "atoll-giulia",
+    "title": "Atoll Giulia",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Atoll"
+  },
+  "v4": {
+    "id": "gid://shopify/Product/15439412723825",
+    "handle": "atoll-giulia-plastic",
+    "title": "Atoll Giulia Plastic",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Atoll"
+  },
+  "v5": {
+    "id": "gid://shopify/Product/15439412822129",
+    "handle": "atoll-misao",
+    "title": "Atoll Misao",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Atoll"
+  },
+  "v6": {
+    "id": "gid://shopify/Product/15439413051505",
+    "handle": "cb-one-rudolf-260",
+    "title": "CB One Rudolf 260",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "CB One"
+  },
+  "v7": {
+    "id": "gid://shopify/Product/15439413248113",
+    "handle": "cb-one-ryan-230",
+    "title": "CB One Ryan 230",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "CB One"
+  },
+  "v8": {
+    "id": "gid://shopify/Product/15439413477489",
+    "handle": "cb-one-zorro-200",
+    "title": "CB One Zorro 200",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "CB One"
+  },
+  "v9": {
+    "id": "gid://shopify/Product/15439413674097",
+    "handle": "craftbait-gt3-130-gr",
+    "title": "Craftbait GT3 130 gr",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Craftbait"
+  }
+}

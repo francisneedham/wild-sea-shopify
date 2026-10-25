@@ -1,0 +1,18 @@
+{
+  "handle": {
+    "type": "wildsea_color_family",
+    "handle": "yellow"
+  },
+  "metaobject": {
+    "fields": [
+      {
+        "key": "label",
+        "value": "Yellow"
+      },
+      {
+        "key": "swatch_color",
+        "value": "#E2BC3F"
+      }
+    ]
+  }
+}

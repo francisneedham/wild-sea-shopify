@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "hero": {
+      "type": "destination-hero",
+      "settings": {
+        "kicker": "Guided fishing expedition",
+        "tagline": "A fly fisher’s wilderness.",
+        "intro": "Expansive flats and a diverse reef fishery. This expedition is temporarily closed.",
+        "link_label": "Explore the fishing",
+        "link": "#the-fishing"
+      }
+    },
+    "highlights": {
+      "type": "destination-cards",
+      "settings": {
+        "anchor": "the-fishing",
+        "kicker": "The expedition",
+        "heading": "Explore the fishing.",
+        "intro": "Fly fish Sudan’s remote Red Sea flats for triggerfish, permit, trevally and other reef species. Temporarily closed."
+      },
+      "blocks": {
+        "card_1": {
+          "type": "card",
+          "settings": {
+            "kicker": "Current status",
+            "heading": "Temporarily closed",
+            "text": "<p>This expedition remains visible for reference. Ask the team for updates before making travel plans.</p>"
+          }
+        },
+        "card_2": {
+          "type": "card",
+          "settings": {
+            "kicker": "The flats",
+            "heading": "A varied fly fishery",
+            "text": "<p>The legacy expedition features triggerfish, permit, trevally and other reef species across remote flats.</p>"
+          }
+        },
+        "card_3": {
+          "type": "card",
+          "settings": {
+            "kicker": "The format",
+            "heading": "Six fishing days",
+            "text": "<p>The original standard itinerary describes six full fishing days; extended routes were also offered.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "card_1",
+        "card_2",
+        "card_3"
+      ]
+    },
+    "enquiry": {
+      "type": "destination-cta",
+      "settings": {
+        "kicker": "Get in touch",
+        "heading": "Follow future expeditions.",
+        "text": "This trip is temporarily closed. Contact our team for future updates.",
+        "link_label": "Ask for updates",
+        "link": "mailto:fishing@wildseaexpedition.com?subject=Nubian%20Flat%20expedition"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "highlights",
+    "enquiry"
+  ]
+}

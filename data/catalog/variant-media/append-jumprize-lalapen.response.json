@@ -1,0 +1,175 @@
+{
+  "productVariantAppendMedia": {
+    "product": {
+      "id": "gid://shopify/Product/15439419113585"
+    },
+    "productVariants": [
+      {
+        "id": "gid://shopify/ProductVariant/67841331921009",
+        "sku": "SQ9471621",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901810289"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841331953777",
+        "sku": "SQ0622643",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901711985"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841331986545",
+        "sku": "SQ4437370",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901679217"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332019313",
+        "sku": "SQ9740868",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901744753"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332052081",
+        "sku": "SQ2226325",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901646449"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332084849",
+        "sku": "SQ9081961",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901810289"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332117617",
+        "sku": "SQ3644597",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901711985"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332150385",
+        "sku": "SQ3143433",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901679217"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332183153",
+        "sku": "SQ0277449",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901744753"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332215921",
+        "sku": "SQ4150438",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901646449"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332248689",
+        "sku": "SQ6409380",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901810289"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332281457",
+        "sku": "SQ8194100",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901711985"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332314225",
+        "sku": "SQ2532620",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901679217"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332346993",
+        "sku": "SQ0352269",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901744753"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841332379761",
+        "sku": "SQ3464404",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284901646449"
+            }
+          ]
+        }
+      }
+    ],
+    "userErrors": []
+  }
+}

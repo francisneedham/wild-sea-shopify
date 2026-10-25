@@ -1,0 +1,15 @@
+mutation UpsertSocotra($handle: MetaobjectHandleInput!, $metaobject: MetaobjectUpsertInput!) {
+  metaobjectUpsert(handle: $handle, metaobject: $metaobject) {
+    metaobject {
+      id
+      handle
+      displayName
+      fields { key value }
+      capabilities {
+        onlineStore { templateSuffix }
+        publishable { status }
+      }
+    }
+    userErrors { field message code }
+  }
+}

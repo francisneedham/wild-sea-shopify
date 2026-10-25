@@ -1,0 +1,11 @@
+query CatalogMediaDetails($ids: [ID!]!) {
+  nodes(ids: $ids) {
+    id
+    ... on MediaImage {
+      status fileStatus
+      mediaErrors { code message }
+      fileErrors { code message details }
+      image { url }
+    }
+  }
+}

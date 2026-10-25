@@ -1,0 +1,32 @@
+{
+  "productVariantAppendMedia": {
+    "product": {
+      "id": "gid://shopify/Product/15439429402737"
+    },
+    "productVariants": [
+      {
+        "id": "gid://shopify/ProductVariant/67841382318193",
+        "sku": "SQ6791078",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284954140785"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841382350961",
+        "sku": "SQ6074839",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284954108017"
+            }
+          ]
+        }
+      }
+    ],
+    "userErrors": []
+  }
+}

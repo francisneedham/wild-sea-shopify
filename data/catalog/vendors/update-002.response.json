@@ -1,0 +1,82 @@
+{
+  "v0": {
+    "product": {
+      "id": "gid://shopify/Product/15439414100081",
+      "handle": "fish-trippers-village-espuma-120-gr",
+      "vendor": "Fish Trippers Village"
+    },
+    "userErrors": []
+  },
+  "v1": {
+    "product": {
+      "id": "gid://shopify/Product/15439414493297",
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "vendor": "Fish Trippers Village"
+    },
+    "userErrors": []
+  },
+  "v2": {
+    "product": {
+      "id": "gid://shopify/Product/15439414820977",
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "vendor": "Fish Trippers Village"
+    },
+    "userErrors": []
+  },
+  "v3": {
+    "product": {
+      "id": "gid://shopify/Product/15439415148657",
+      "handle": "fishtrippers-village-concierto-280",
+      "vendor": "SOHO Trippers x Fish Trippers Village"
+    },
+    "userErrors": []
+  },
+  "v4": {
+    "product": {
+      "id": "gid://shopify/Product/15439415443569",
+      "handle": "floating-18cm-75g",
+      "vendor": "Glide Tackle"
+    },
+    "userErrors": []
+  },
+  "v5": {
+    "product": {
+      "id": "gid://shopify/Product/15439415771249",
+      "handle": "floating-22cm-120g",
+      "vendor": "Glide Tackle"
+    },
+    "userErrors": []
+  },
+  "v6": {
+    "product": {
+      "id": "gid://shopify/Product/15439415869553",
+      "handle": "floating-24cm-150g",
+      "vendor": "Glide Tackle"
+    },
+    "userErrors": []
+  },
+  "v7": {
+    "product": {
+      "id": "gid://shopify/Product/15439416033393",
+      "handle": "full-hand-onikiri-100h",
+      "vendor": "Full Hands"
+    },
+    "userErrors": []
+  },
+  "v8": {
+    "product": {
+      "id": "gid://shopify/Product/15439416361073",
+      "handle": "full-hands-custom-works-kusanagi-p78hh",
+      "vendor": "Full Hands"
+    },
+    "userErrors": []
+  },
+  "v9": {
+    "product": {
+      "id": "gid://shopify/Product/15439416721521",
+      "handle": "good-bait-bnd-180f",
+      "vendor": "Good Bait"
+    },
+    "userErrors": []
+  }
+}

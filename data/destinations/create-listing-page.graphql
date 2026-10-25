@@ -1,0 +1,6 @@
+mutation CreateDestinationListingPage($page: PageCreateInput!) {
+  pageCreate(page: $page) {
+    page { id title handle templateSuffix isPublished }
+    userErrors { field message code }
+  }
+}

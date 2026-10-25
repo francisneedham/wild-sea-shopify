@@ -1,0 +1,284 @@
+{
+  "input": {
+    "handle": "native-works-napalm-220",
+    "title": "Native Works Napalm 220",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The world famous Napalm diving popper from Native Works!<br />Handmade in Japan, very small production.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">They are very easy to move, very easy to dive and do a big difference when a pencil can not be used.<br />Intense bubble trail and motion.<br />Swims in any sea conditions.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">DONT MISS OUT of these amazing diving poppers! Proven catcher on many fishes all around the globe.<br /><br />100% handmade in Japan by Mr Kawauchi Kenichi, his lures are exceptional and undoubtly unique.</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Giant Trevally",
+      "Tuna",
+      "Yellowfin",
+      "Bluefin",
+      "Native Works",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-floating",
+      "legacy-category-lures-diving-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "anemone blue"
+          },
+          {
+            "name": "blackblood"
+          },
+          {
+            "name": "blacknow"
+          },
+          {
+            "name": "greenshad"
+          },
+          {
+            "name": "Titanium"
+          },
+          {
+            "name": "Sapphire Abalone Yellow"
+          },
+          {
+            "name": "Dead Bait"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6202744",
+        "price": "200.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "anemone blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1820657",
+        "price": "200.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "blackblood"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8382225",
+        "price": "200.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "blacknow"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8732608",
+        "price": "200.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "greenshad"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ9623535",
+        "price": "200.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Titanium"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ4138495",
+        "price": "250.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Sapphire Abalone Yellow"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ0782892",
+        "price": "200.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Dead Bait"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/dd388228-da29-419a-b2f2-ec01f7900298/napalm+220+dead+bait.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 220"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b7ca8e38-1aac-4535-8dc2-fe0a76613d30/napalm+220+yellow+titanium.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 220"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/644a8592-c7f5-4647-a656-d2fb77afad56/napalm+220+titanium.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 220"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b271ce03-92be-42d7-bd2b-b2cd35bc598c/IMG-20241227-WA0032.JPG",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 220"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b90ffd39-b6a0-4ca2-a7ea-e0da6c53671b/img-20241227-wa0069.JPG",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 220"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3393b96a-a139-4435-9896-f171960578a2/IMG-20241227-WA0008.JPG",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 220"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/eb79b0a5-eb86-4df5-8c32-c945adc25340/img-20241227-wa0033.JPG",
+        "contentType": "IMAGE",
+        "alt": "Native Works Napalm 220"
+      }
+    ]
+  }
+}

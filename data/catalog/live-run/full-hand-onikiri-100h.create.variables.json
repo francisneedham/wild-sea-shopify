@@ -1,0 +1,79 @@
+{
+  "input": {
+    "handle": "full-hand-onikiri-100h",
+    "title": "Full Hands Onikiri 100H",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Onikiri 100H </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">This rod born as a shore GT rod, is one of the most pretty and classy rod we've put our hands on.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Apart from the aesthetic aspect, the rod has a great action, pasty to cast a mile with plenty of backbone for some real fight.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The ideal range to really push in the cast is 70 to 120 grams lures.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">This rod is also a great choice for trophy Tarpon and Yellowtail from the shore. </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Length: 3.00 meters </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Shot weights: 150 grams </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Action: Fast Wire: PE 5~8 </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Weight: 410 grams </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Drag: 13 kg </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Handmade and made in Japan</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "Tarpon",
+      "yellowtail",
+      "Full Hands",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ3239372",
+        "price": "750.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/92dfe6dd-f3e7-4706-8cf9-a58a0e1bb9f9/oni+1.jpg",
+        "contentType": "IMAGE",
+        "alt": "Full Hands Onikiri 100H"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/43c884a6-be8d-41f3-ba10-d98b44ebc393/oni+4.jpg",
+        "contentType": "IMAGE",
+        "alt": "Full Hands Onikiri 100H"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0dd2e261-be25-4ae7-9bc7-78d5c550281a/oni+3.jpg",
+        "contentType": "IMAGE",
+        "alt": "Full Hands Onikiri 100H"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/fb6abd2a-8ed1-4137-b26c-68ae08912587/oni+2.jpg",
+        "contentType": "IMAGE",
+        "alt": "Full Hands Onikiri 100H"
+      }
+    ]
+  }
+}

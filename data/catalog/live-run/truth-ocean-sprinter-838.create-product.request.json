@@ -1,0 +1,68 @@
+{
+  "input": {
+    "handle": "truth-ocean-sprinter-838",
+    "title": "Truth Ocean Sprinter 838",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The development concept that can be said in common with the OceanSprinter series is that the ease of fishing and the original lifting power of the rod are the first.<br />Encounters with large fish come suddenly.<br />A powerful run that cannot be stopped even with a high load.<br /><br />I think that &quot;stickiness&quot; and &quot;honest bend curve&quot; are necessary to catch the large fish.<br />This is even more so in the time and rapids shallow areas. As the load is applied, it draws a smooth bend curve and is designed so that it does not cause a sudden change in tension to the fish.<br />In this way, the load fluctuation for anglers is reduced, and stable pressure can be applied to the fish throughout. In addition, by achieving these, it is possible to obtain excellent performance in terms of casting, and it is possible to surprisingly reduce the burden on the body from small to large lures.<br /><br /><br />8ft3inch regular (slightly slow) taper<br />Rod weight: 385g<br />Recommended reel: STELLA 14000XG (compatible with STELLA18000HG SALTIGA5500・6000)<br />Recommended line: PE6 to 8 (appropriate drag load ~ 13 kg)<br />Recommended lure: 80g to 220g Do not choose the type of lure<br />Diving pencil Diving popper (easy to tangle even in places with fast flow / NativeWorks Napalm220) Popper (e.g. can be used up to HAMMERHEAD Dcup, but play It's not a feeling like that, but a feeling of being entangled in water. The water entanglement and operation of the small-caliber popper are also outstanding.)<br /><br /><br />A highly versatile model that can be handled widely even by advanced users.<br />It is possible to throw and operate easily all day long. It feels like riding on the body, but there is no tip blur that you are worried about when casting, so it is comfortable even when fishing against (~130g)<br />Although it is sharp when casting, it is easy to put the lure on, and the casting of a lure of nearly 200g is surprisingly easy, so it is possible to continue casting all day even with 200g.<br />In the fight, while accepting the GT pull flexibly, it always continues to exert pressure, so it is possible to raise it very easily.<br />In addition to the GT, it is a very wide model that can accommodate large tuna up to the 50-kilogram class of tuna.<br /></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><br /></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "truth",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ3714593",
+        "price": "780.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/447a96f8-3936-4610-b62a-c7fa8a666748/truth+ocean+sprinter+8110.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean Sprinter 838"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0d379e42-8ae6-4ebe-b340-bf9c1e8bcea2/truth+ocean+sprinter.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean Sprinter 838"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Rod cast maximum (g)",
+    "namespace": "specs",
+    "key": "rod_cast_max_g",
+    "description": "Upper endpoint of stated lure casting weight in grams.",
+    "type": "number_integer",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

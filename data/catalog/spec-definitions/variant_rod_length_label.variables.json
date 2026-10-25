@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Rod length display (variant)",
+    "namespace": "specs",
+    "key": "rod_length_label",
+    "description": "Original length notation such as 7'6\" for product detail display.",
+    "type": "single_line_text_field",
+    "ownerType": "PRODUCTVARIANT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

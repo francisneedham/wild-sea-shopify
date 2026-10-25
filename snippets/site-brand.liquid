@@ -1,0 +1,32 @@
+{% doc %}
+  Brand lockup (logo + WILDSEA EXPEDITIONS wordmark) shared by header and footer.
+  Falls back to the bundled white logo asset when no logo image is set.
+
+  @param {image} [logo] - Logo image from theme settings.
+  @example
+  {% render 'site-brand', logo: settings.logo %}
+{% enddoc %}
+
+<a class="site-brand" href="{{ routes.root_url }}" aria-label="{{ shop.name | escape }} home">
+  {% if logo != blank %}
+    {{ logo | image_url: width: 240 | image_tag: widths: '68, 136, 240', sizes: '68px', alt: '', class: 'site-brand__logo', loading: 'eager' }}
+  {% else %}
+    <img src="{{ 'wildsea-logo.webp' | asset_url }}" width="68" height="43" alt="" class="site-brand__logo site-brand__logo--fallback" loading="eager">
+  {% endif %}
+  <span class="site-brand__wordmark">WILDSEA<small>EXPEDITIONS</small></span>
+</a>
+
+{% stylesheet %}
+  .site-brand { display: inline-flex; align-items: center; gap: 12px; flex: 0 0 auto; color: inherit; text-decoration: none; }
+  .site-brand__logo { width: 60px; height: 38px; object-fit: contain; }
+  .site-brand__wordmark { font-family: var(--font-heading-family); font-size: 25px; font-weight: 600; letter-spacing: .015em; line-height: .85; }
+  /* Logotype artwork, not running text: exempt from the --text-label floor. */
+  .site-brand__wordmark small { display: block; margin-top: 8px; font-family: var(--font-body-family); font-size: 8px; letter-spacing: .38em; }
+  @media (max-width: 1100px) { .site-brand__wordmark { font-size: 24px; } .site-brand__logo { width: 53px; } }
+  @media (max-width: 760px) {
+    .site-brand { gap: 8px; }
+    .site-brand__logo { width: 44px; height: 30px; }
+    .site-brand__wordmark { font-size: 21px; }
+    .site-brand__wordmark small { font-size: 6px; }
+  }
+{% endstylesheet %}

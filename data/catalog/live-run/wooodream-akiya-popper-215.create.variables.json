@@ -1,0 +1,357 @@
+{
+  "input": {
+    "handle": "wooodream-akiya-popper-215",
+    "title": "Wooodream Akiya popper",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A limited colour range for 2022 for the Japanese lure maker, Woodream.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A cup with small-diameter, slender and easy-to-use popper</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">With the concept of being easy to&nbsp;use and handle, the shape and swimming that have been constantly prototyped and tested.<br />It’s a popper that has the potential to respond to users intended&nbsp;action with less resistance for its size and strong&nbsp;bubble trail when worked.</p><ul data-rte-list=\"default\"><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lenght 250 mm</p></li><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 130</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "tuna",
+      "Snapper",
+      "Woodream",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-poppers",
+      "legacy-category-lures-floating"
+    ],
+    "productOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          {
+            "name": "215"
+          },
+          {
+            "name": "250"
+          },
+          {
+            "name": "270"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          {
+            "name": "Blueback Silver"
+          },
+          {
+            "name": "Natural Bait"
+          },
+          {
+            "name": "GreenBack Yellow"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ9590418",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "215"
+          },
+          {
+            "optionName": "Color",
+            "name": "Blueback Silver"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1096296",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "215"
+          },
+          {
+            "optionName": "Color",
+            "name": "Natural Bait"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7060695",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "215"
+          },
+          {
+            "optionName": "Color",
+            "name": "GreenBack Yellow"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8547122",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "250"
+          },
+          {
+            "optionName": "Color",
+            "name": "Blueback Silver"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.21,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "sku": "SQ4174714",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "250"
+          },
+          {
+            "optionName": "Color",
+            "name": "Natural Bait"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.21,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "sku": "SQ3684988",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "250"
+          },
+          {
+            "optionName": "Color",
+            "name": "GreenBack Yellow"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.21,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 4
+          }
+        ]
+      },
+      {
+        "sku": "SQ1397248",
+        "price": "100.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "270"
+          },
+          {
+            "optionName": "Color",
+            "name": "Blueback Silver"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.26,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ4418084",
+        "price": "100.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "270"
+          },
+          {
+            "optionName": "Color",
+            "name": "Natural Bait"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.26,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ2919639",
+        "price": "100.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "270"
+          },
+          {
+            "optionName": "Color",
+            "name": "GreenBack Yellow"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.26,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/30e0e8e5-4cfd-44b8-8dbf-1b86d1eb4ba9/Woodream+Akiya+popper+250+blueback.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wooodream Akiya popper"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2c64e0b4-5038-467b-8469-981f9d9cebf4/Woodream+Akiya+popper+250+natural+bait.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wooodream Akiya popper"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/fc2f8213-2c34-4a8d-9117-a18d50e22939/Woodream+Akiya+popper+250+yellow_greenback.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wooodream Akiya popper"
+      }
+    ]
+  }
+}

@@ -15,11 +15,25 @@ function resolvePrimaryVariantMediaId(items: HTMLElement[], variantId: string): 
 export function syncDOM(): void {
   syncPrice();
   syncAvailability();
+  syncSpecifications();
   syncMedia();
   syncVariantInput();
   syncButton();
   syncCartStatus();
   syncOptionButtons();
+}
+
+/** Shows metafield rows for the selected variant; product-level rows stay visible. */
+function syncSpecifications(): void {
+  const root = document.querySelector<HTMLElement>('[data-js="product-specifications"]');
+  if (!root) return;
+  let hasVisibleRows = Boolean(root.querySelector('tbody:not([data-js]) tr'));
+  root.querySelectorAll<HTMLElement>('[data-js="product-spec-variant"]').forEach((group) => {
+    const selected = group.dataset.variantId === String(state.currentVariant.id);
+    group.hidden = !selected;
+    if (selected) hasVisibleRows = true;
+  });
+  root.hidden = !hasVisibleRows;
 }
 
 /** Updates the price element from the pre-formatted `variantPrices` map. */
@@ -28,79 +42,43 @@ function syncPrice(): void {
   if (!priceEl) return;
   const formatted = state.variantPrices[String(state.currentVariant.id)];
   if (formatted) priceEl.textContent = formatted;
+  const compareEl = document.querySelector<HTMLElement>('[data-js="product-compare-price"]');
+  if (compareEl) {
+    const compare = state.variantComparePrices[String(state.currentVariant.id)];
+    compareEl.textContent = compare ?? '';
+    compareEl.hidden = !compare;
+  }
 }
 
 /** Shows or hides the "Sold out" availability message. */
 function syncAvailability(): void {
   const el = document.querySelector('[data-js="product-availability"]');
   if (!el) return;
-  el.textContent = state.currentVariant.available ? '' : 'Sold out';
+  el.textContent = state.currentVariant.available ? 'Available' : 'Sold out';
+  if (el instanceof HTMLElement) el.dataset.available = String(state.currentVariant.available);
 }
 
-/** Shows the media item matching `currentMediaId` (or variant featured media), hides all others. */
+/** Scrolls the gallery to `currentMediaId` (or the variant's featured media) and marks the matching thumbnail. */
 function syncMedia(): void {
   const items = Array.from(document.querySelectorAll<HTMLElement>('[data-js="media-item"]'));
   if (items.length === 0) return;
 
-  const activeMediaContextVariantId
-    = state.mediaContextVariantId !== null
-      ? String(state.mediaContextVariantId)
-      : String(state.currentVariant.id);
-
-  const primaryVariantMediaId = resolvePrimaryVariantMediaId(items, activeMediaContextVariantId);
-
+  const variantId = String(state.currentVariant.id);
   const targetId = state.currentMediaId !== null ? String(state.currentMediaId) : null;
-  const targetNode = targetId ? items.find(item => item.dataset.mediaId === targetId) : null;
-  const targetIsSharedMedia = targetNode ? !targetNode.dataset.variantMedia : false;
+  const activeMediaId = items.find(item => item.dataset.mediaId === targetId)?.dataset.mediaId
+    ?? resolvePrimaryVariantMediaId(items, variantId)
+    ?? items[0]?.dataset.mediaId;
 
-  const fallbackVisibleMediaId = items[0]?.dataset.mediaId ?? null;
+  const index = items.findIndex(item => item.dataset.mediaId === activeMediaId);
+  // Jump (no slide animation): animating across several slides flashes through intermediate, still-lazy images.
+  if (state.gallery && index >= 0 && state.gallery.selectedScrollSnap() !== index) state.gallery.scrollTo(index, true);
 
-  let hasVisibleMedia = false;
-
-  items.forEach((item) => {
-    const ownerVariantIds = item.dataset.variantMedia;
-    const isShared = !ownerVariantIds;
-    const isPrimaryVariantMedia = primaryVariantMediaId !== null && item.dataset.mediaId === primaryVariantMediaId;
-
-    const isVisible = isShared || isPrimaryVariantMedia;
-
-    if (isVisible) {
-      item.removeAttribute('hidden');
-      hasVisibleMedia = true;
-    } else {
-      item.setAttribute('hidden', '');
-      item.querySelector<HTMLVideoElement>('video')?.pause();
-    }
-  });
-
-  if (!hasVisibleMedia && fallbackVisibleMediaId) {
-    items.forEach((item) => {
-      if (item.dataset.mediaId === fallbackVisibleMediaId) {
-        item.removeAttribute('hidden');
-      } else {
-        item.setAttribute('hidden', '');
-        item.querySelector<HTMLVideoElement>('video')?.pause();
-      }
-    });
-  }
-
-  const preferredVisibleMediaId = primaryVariantMediaId ?? (targetIsSharedMedia ? targetId : null) ?? fallbackVisibleMediaId;
-  const activeMediaId = hasVisibleMedia ? preferredVisibleMediaId : fallbackVisibleMediaId;
-
-  // Thumbnail visibility: shared always visible; variant thumbnails only when active
   document.querySelectorAll<HTMLButtonElement>('[data-js="thumbnail"]').forEach((btn) => {
-    const ownerVariantIds = btn.dataset.variantMedia;
-    const isShared = !ownerVariantIds;
-    const isPrimaryVariantMedia
-      = primaryVariantMediaId !== null && btn.dataset.thumbnail === primaryVariantMediaId;
-
-    if (isShared || isPrimaryVariantMedia) {
-      btn.removeAttribute('hidden');
-    } else {
-      btn.setAttribute('hidden', '');
-    }
-
-    btn.setAttribute('aria-pressed', String(btn.dataset.thumbnail === activeMediaId));
+    const active = btn.dataset.thumbnail === activeMediaId;
+    btn.setAttribute('aria-pressed', String(active));
+    // Horizontal only: scrollIntoView would also move the page.
+    const strip = btn.parentElement;
+    if (active && strip) strip.scrollTo({ left: btn.offsetLeft - (strip.clientWidth - btn.clientWidth) / 2, behavior: 'smooth' });
   });
 }
 
@@ -118,7 +96,9 @@ function syncButton(): void {
 
   btn.disabled = !state.currentVariant.available || state.cartState === 'loading';
   btn.setAttribute('aria-busy', String(state.cartState === 'loading'));
-  btn.textContent = labels[state.cartState];
+  // Keep the icon: only the label span changes when present.
+  const label = btn.querySelector<HTMLElement>('[data-js="add-to-cart-label"]') ?? btn;
+  label.textContent = labels[state.cartState];
 }
 
 function syncVariantInput(): void {

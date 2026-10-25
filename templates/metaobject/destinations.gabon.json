@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "hero": {
+      "type": "destination-hero",
+      "settings": {
+        "kicker": "Guided fishing expedition",
+        "tagline": "The wild Atlantic.",
+        "intro": "Rainforest, surf and a coastline shaped by tides. Discover Gabon’s demanding beach and estuary fishing.",
+        "link_label": "Explore the fishing",
+        "link": "#the-fishing"
+      }
+    },
+    "highlights": {
+      "type": "destination-cards",
+      "settings": {
+        "anchor": "the-fishing",
+        "kicker": "The expedition",
+        "heading": "Explore the fishing.",
+        "intro": "Where rainforest meets ocean, fish the beaches and estuary around Loango National Park for tarpon, threadfin, jacks and other coastal species."
+      },
+      "blocks": {
+        "card_1": {
+          "type": "card",
+          "settings": {
+            "kicker": "The setting",
+            "heading": "Loango National Park",
+            "text": "<p>Wild coast and estuary water make Loango a distinctive place to fish and explore.</p>"
+          }
+        },
+        "card_2": {
+          "type": "card",
+          "settings": {
+            "kicker": "The fishing",
+            "heading": "Tarpon and coastal species",
+            "text": "<p>Target tarpon, threadfin, jacks, kob and barracuda from the beach and nearby waters.</p>"
+          }
+        },
+        "card_3": {
+          "type": "card",
+          "settings": {
+            "kicker": "The season",
+            "heading": "October to April",
+            "text": "<p>The legacy expedition lists October through April as the fishing season, with a peak window for large tarpon from mid-November to late January.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "card_1",
+        "card_2",
+        "card_3"
+      ]
+    },
+    "enquiry": {
+      "type": "destination-cta",
+      "settings": {
+        "kicker": "Get in touch",
+        "heading": "Plan your next trip.",
+        "text": "Tell us your preferred window. Our team will confirm current departures and arrangements.",
+        "link_label": "Enquire about Gabon",
+        "link": "mailto:fishing@wildseaexpedition.com?subject=Gabon%20expedition"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "highlights",
+    "enquiry"
+  ]
+}

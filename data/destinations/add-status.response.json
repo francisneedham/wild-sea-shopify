@@ -1,0 +1,100 @@
+{
+  "metaobjectDefinitionUpdate": {
+    "metaobjectDefinition": {
+      "id": "gid://shopify/MetaobjectDefinition/37090918513",
+      "fieldDefinitions": [
+        {
+          "key": "title",
+          "name": "title",
+          "type": {
+            "name": "single_line_text_field"
+          },
+          "validations": []
+        },
+        {
+          "key": "caption",
+          "name": "caption",
+          "type": {
+            "name": "multi_line_text_field"
+          },
+          "validations": []
+        },
+        {
+          "key": "season",
+          "name": "season",
+          "type": {
+            "name": "single_line_text_field"
+          },
+          "validations": []
+        },
+        {
+          "key": "fishing_days",
+          "name": "fishing days",
+          "type": {
+            "name": "single_line_text_field"
+          },
+          "validations": []
+        },
+        {
+          "key": "on_the_water",
+          "name": "on the water",
+          "type": {
+            "name": "single_line_text_field"
+          },
+          "validations": []
+        },
+        {
+          "key": "target_species",
+          "name": "target species",
+          "type": {
+            "name": "single_line_text_field"
+          },
+          "validations": []
+        },
+        {
+          "key": "listing_image",
+          "name": "Listing image",
+          "type": {
+            "name": "file_reference"
+          },
+          "validations": [
+            {
+              "name": "file_type_options",
+              "value": "[\"Image\"]"
+            }
+          ]
+        },
+        {
+          "key": "region",
+          "name": "Region",
+          "type": {
+            "name": "single_line_text_field"
+          },
+          "validations": []
+        },
+        {
+          "key": "technique",
+          "name": "Technique",
+          "type": {
+            "name": "single_line_text_field"
+          },
+          "validations": []
+        },
+        {
+          "key": "status",
+          "name": "Status",
+          "type": {
+            "name": "single_line_text_field"
+          },
+          "validations": [
+            {
+              "name": "choices",
+              "value": "[\"available\",\"last slots\",\"closed\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "userErrors": []
+  }
+}

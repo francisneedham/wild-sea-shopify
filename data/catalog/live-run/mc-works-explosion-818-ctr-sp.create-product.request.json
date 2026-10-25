@@ -1,0 +1,73 @@
+{
+  "input": {
+    "handle": "mc-works-explosion-818-ctr-sp",
+    "title": "MC Works Explosion 818 CTR SP",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Experience the full power of the Explosion range with the 818CTR Special Model. Perfect for targeting GT and kingfish with larger stickbaits, this rod features a soft tip for precise control and a sturdy backbone for effortless casting and smooth action. This rod is the ultimate choice for topwater stickbaiting, providing a crisp, powerful, and forgiving experience.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The backbone is the most superior out of the Explosion range rated at a max PE10 and enough power to turn a large GT or Kingfish. Suitable for anglers chasing the new PB fish. This rod can be fished with PE8 or 10 and will cause less fatigue on the angler.<br /><br />Handmade in Japan&nbsp;</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Specifications:<br />- Type: Spinning<br />- Pcs: 2pcs (butt joint)&nbsp;<br />- Length:&nbsp;8'1&quot;<br />- Line: PE # 8-12<br />- Casting range: 150-300g<br />- Drag max: 20kg<br /><br />Guides:&nbsp;Fuji TITANIUM HYBRID PMNSG + KWSG</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ7991571",
+        "price": "630.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f7900b64-cf9f-49c0-9445-5d50f63349b3/explosion+818+1.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 818 CTR SP"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/66038dc8-1289-4e9c-a46e-65591037008d/explosion+818+2.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 818 CTR SP"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2ad6a235-797f-4230-80ec-bbf9f1a1c50d/explosion+818+3.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 818 CTR SP"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

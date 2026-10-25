@@ -1,0 +1,16 @@
+query AuditAllCastingVariants($after: String) {
+  productVariants(first: 100, after: $after) {
+    edges {
+      cursor
+      node {
+        id
+        sku
+        product { handle productType }
+        castMin: metafield(namespace: "specs", key: "rod_cast_min_g") { value }
+        castMax: metafield(namespace: "specs", key: "rod_cast_max_g") { value }
+        castingWeight: metafield(namespace: "specs", key: "rod_casting_weight") { value }
+      }
+    }
+    pageInfo { hasNextPage endCursor }
+  }
+}

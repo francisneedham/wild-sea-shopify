@@ -1,6 +1,6 @@
 /**
  * PLP (collection) progressive interactions: sort, filters (drawer + inline),
- * pagination (load-more append + default-pagination replace), and quick-buy.
+ * numbered pagination (root replace + scroll to grid), and quick-buy.
  * Hydrates `[data-js="collection-root"]` via single-section fetch
  * (`?section_id=`), swapping the whole root (sort/filters/products/pagination
  * all change together) rather than named sub-targets. Pushes history state on
@@ -11,7 +11,9 @@ import { addToCart } from './utils/cart';
 import { getDialogFocusables, handleDialogKeyDown } from './utils/dialog';
 import { fetchSingleSectionHtml, parseSectionRoot } from './utils/section-rendering';
 import { findVariantByOptions, getAvailableValues } from './utils/variant-picker';
+import { hydrateIcons } from './utils/icons';
 import type { ProductData } from './utils/variant-picker';
+import { onReady } from './utils/ready';
 
 interface CardVariantContext {
   variants: ProductData['variants'];
@@ -103,13 +105,131 @@ function onCardOptionClick(button: HTMLButtonElement): void {
 
 const ROOT_SELECTOR = '[data-js="collection-root"]';
 
+/**
+ * Range filters: Shopify exposes numeric metafield filters as a list of values. Two range inputs move over
+ * those values (sorted numerically) and tick the checkboxes inside the range; the full range clears the filter.
+ */
+interface RangeParts {
+  min: HTMLInputElement;
+  max: HTMLInputElement;
+  output: HTMLElement | null;
+  steps: { value: number; boxes: HTMLInputElement[] }[];
+}
+
+function rangeParts(range: HTMLElement): RangeParts | null {
+  const min = range.querySelector<HTMLInputElement>('[data-js="collection-range-min"]');
+  const max = range.querySelector<HTMLInputElement>('[data-js="collection-range-max"]');
+  const options = range.nextElementSibling;
+  if (!min || !max || !options) return null;
+  const byValue = new Map<number, HTMLInputElement[]>();
+  options.querySelectorAll<HTMLInputElement>('input[type="checkbox"]').forEach((box) => {
+    const value = Number.parseFloat(box.value);
+    if (Number.isNaN(value) || (box.disabled && !box.checked)) return;
+    byValue.set(value, [...(byValue.get(value) ?? []), box]);
+  });
+  const steps = [...byValue.entries()].sort((a, b) => a[0] - b[0]).map(([value, boxes]) => ({ value, boxes }));
+  return steps.length > 1 ? { min, max, output: range.querySelector('[data-js="collection-range-output"]'), steps } : null;
+}
+
+function paintRange(range: HTMLElement, parts: RangeParts): void {
+  const last = parts.steps.length - 1;
+  const from = Math.min(Number(parts.min.value), Number(parts.max.value));
+  const to = Math.max(Number(parts.min.value), Number(parts.max.value));
+  const unit = range.dataset.unit ? ` ${range.dataset.unit}` : '';
+  if (parts.output) parts.output.textContent = `${parts.steps[from].value} – ${parts.steps[to].value}${unit}`;
+  range.style.setProperty('--range-from', `${(from / last) * 100}%`);
+  range.style.setProperty('--range-to', `${(to / last) * 100}%`);
+}
+
+/** Price mode: a continuous slider (whole currency units) writing Shopify's native min/max price inputs. */
+function priceParts(range: HTMLElement): { min: HTMLInputElement; max: HTMLInputElement; output: HTMLElement | null; gte: HTMLInputElement; lte: HTMLInputElement; top: number } | null {
+  const min = range.querySelector<HTMLInputElement>('[data-js="collection-range-min"]');
+  const max = range.querySelector<HTMLInputElement>('[data-js="collection-range-max"]');
+  const fields = range.nextElementSibling?.querySelectorAll<HTMLInputElement>('input[type="number"]');
+  const top = Number(range.dataset.max);
+  if (!min || !max || !fields || fields.length < 2 || !top) return null;
+  return { min, max, output: range.querySelector('[data-js="collection-range-output"]'), gte: fields[0], lte: fields[1], top };
+}
+
+function paintPrice(range: HTMLElement, parts: NonNullable<ReturnType<typeof priceParts>>): void {
+  const format = new Intl.NumberFormat(range.dataset.locale || undefined, { style: 'currency', currency: range.dataset.currency || 'EUR', maximumFractionDigits: 0 });
+  const from = Number(parts.min.value);
+  const to = Number(parts.max.value);
+  if (parts.output) parts.output.textContent = `${format.format(from)} – ${format.format(to)}`;
+  range.style.setProperty('--range-from', `${(from / parts.top) * 100}%`);
+  range.style.setProperty('--range-to', `${(to / parts.top) * 100}%`);
+}
+
+function hydrateRanges(root: ParentNode): void {
+  root.querySelectorAll<HTMLElement>('[data-js="collection-range"][data-mode="price"]').forEach((range) => {
+    const parts = priceParts(range);
+    if (!parts) return;
+    [parts.min, parts.max].forEach((input) => { input.min = '0'; input.max = String(parts.top); input.step = '1'; });
+    parts.min.value = String(Math.floor(Number(parts.gte.value) || 0));
+    parts.max.value = String(Math.ceil(Number(parts.lte.value) || parts.top));
+    paintPrice(range, parts);
+    range.classList.add('is-ready');
+  });
+
+  root.querySelectorAll<HTMLElement>('[data-js="collection-range"]:not([data-mode="price"])').forEach((range) => {
+    const parts = rangeParts(range);
+    if (!parts) return;
+    const last = parts.steps.length - 1;
+    const checked = parts.steps.map((step, i) => (step.boxes.some(box => box.checked) ? i : -1)).filter(i => i >= 0);
+    [parts.min, parts.max].forEach((input) => { input.min = '0'; input.max = String(last); input.step = '1'; });
+    parts.min.value = String(checked.length ? checked[0] : 0);
+    parts.max.value = String(checked.length ? checked[checked.length - 1] : last);
+    paintRange(range, parts);
+    range.classList.add('is-ready');
+  });
+}
+
+/** Live label/track while dragging; keeps the two thumbs from crossing. */
+function onRangeInput(input: HTMLInputElement): void {
+  const range = input.closest<HTMLElement>('[data-js="collection-range"]');
+  if (range?.dataset.mode === 'price') {
+    const price = priceParts(range);
+    if (!price) return;
+    if (Number(price.min.value) > Number(price.max.value)) {
+      if (input === price.min) price.min.value = price.max.value;
+      else price.max.value = price.min.value;
+    }
+    paintPrice(range, price);
+    return;
+  }
+  const parts = range ? rangeParts(range) : null;
+  if (!range || !parts) return;
+  if (Number(parts.min.value) > Number(parts.max.value)) {
+    if (input === parts.min) parts.min.value = parts.max.value;
+    else parts.max.value = parts.min.value;
+  }
+  paintRange(range, parts);
+}
+
+/** On release: tick the checkboxes inside the range (none when the whole range is selected). */
+function applyRange(input: HTMLInputElement): void {
+  const range = input.closest<HTMLElement>('[data-js="collection-range"]');
+  if (range?.dataset.mode === 'price') {
+    const price = priceParts(range);
+    if (!price) return;
+    // Empty fields = no bound, so the full range clears the price filter.
+    price.gte.value = Number(price.min.value) > 0 ? price.min.value : '';
+    price.lte.value = Number(price.max.value) < price.top ? price.max.value : '';
+    return;
+  }
+  const parts = range ? rangeParts(range) : null;
+  if (!parts) return;
+  const from = Number(parts.min.value);
+  const to = Number(parts.max.value);
+  const full = from === 0 && to === parts.steps.length - 1;
+  parts.steps.forEach((step, i) => step.boxes.forEach((box) => { box.checked = !full && i >= from && i <= to; }));
+}
+
 interface CollectionView {
   root: HTMLElement;
   sectionId: string;
   controls: HTMLFormElement | null;
   products: HTMLElement | null;
-  paginationWrap: HTMLElement | null;
-  loadStatus: HTMLElement | null;
   status: HTMLElement | null;
   error: HTMLElement | null;
   filtersOpenButton: HTMLButtonElement | null;
@@ -123,8 +243,6 @@ function queryView(root: HTMLElement): CollectionView {
     sectionId: root.dataset.sectionId ?? '',
     controls: root.querySelector<HTMLFormElement>('[data-js="collection-controls"]'),
     products: root.querySelector<HTMLElement>('[data-js="collection-products"]'),
-    paginationWrap: root.querySelector<HTMLElement>('[data-js="collection-pagination-wrap"]'),
-    loadStatus: root.querySelector<HTMLElement>('[data-js="collection-load-status"]'),
     status: root.querySelector<HTMLElement>('[data-js="collection-status"]'),
     error: root.querySelector<HTMLElement>('[data-js="collection-error"]'),
     filtersOpenButton: root.querySelector<HTMLButtonElement>('[data-js="collection-filters-open"]'),
@@ -136,12 +254,6 @@ function queryView(root: HTMLElement): CollectionView {
 function setStatus(view: CollectionView, message: string): void {
   if (view.status) {
     view.status.textContent = message;
-  }
-}
-
-function setLoadStatus(view: CollectionView, message: string): void {
-  if (view.loadStatus) {
-    view.loadStatus.textContent = message;
   }
 }
 
@@ -218,7 +330,7 @@ function serializeControls(form: HTMLFormElement): URL {
   return actionUrl;
 }
 
-document.addEventListener('DOMContentLoaded', () => {
+onReady(() => {
   const initialRoot = document.querySelector<HTMLElement>(ROOT_SELECTOR);
   if (!initialRoot) return;
 
@@ -226,6 +338,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   let activeView = queryView(activeRoot);
   if (!activeView.sectionId) return;
+  hydrateRanges(activeRoot);
 
   let activeRequestId = 0;
   let activeController: AbortController | null = null;
@@ -235,10 +348,15 @@ document.addEventListener('DOMContentLoaded', () => {
   const syncActiveView = (nextRoot: HTMLElement): void => {
     activeRoot = nextRoot;
     activeView = queryView(nextRoot);
+    hydrateIcons(nextRoot);
+    hydrateRanges(nextRoot);
 
     if (filtersOpen && activeView.filtersDrawer) {
       activeView.filtersDrawer.dataset.open = 'true';
       activeView.filtersOpenButton?.setAttribute('aria-expanded', 'true');
+    } else if (filtersOpen) {
+      filtersOpen = false;
+      document.body.style.overflow = '';
     }
   };
 
@@ -299,15 +417,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
     try {
       const nextRoot = await fetchNextRoot(targetUrl, requestId);
+      const focusedField = activeRoot.contains(document.activeElement)
+        ? (document.activeElement as HTMLInputElement | HTMLSelectElement)
+        : null;
+      const fieldName = focusedField?.name;
+      const fieldValue = focusedField?.value;
       activeRoot.replaceWith(nextRoot);
       syncActiveView(nextRoot);
+      if (fieldName) {
+        const matchingField = Array.from(nextRoot.querySelectorAll<HTMLInputElement | HTMLSelectElement>('input[name], select[name]'))
+          .find(field => field.name === fieldName && field.value === fieldValue);
+        matchingField?.focus();
+      }
 
       if (pushHistory) {
         window.history.pushState({ source: 'collection-replace' }, '', `${targetUrl.pathname}${targetUrl.search}`);
       }
 
       setStatus(activeView, 'Products updated.');
-      setLoadStatus(activeView, '');
     } catch (errorValue) {
       if (errorValue instanceof DOMException && errorValue.name === 'AbortError') {
         return;
@@ -315,48 +442,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
       setError(activeView, 'Could not update collection right now. Please try again.');
       setStatus(activeView, 'Collection update failed.');
-    } finally {
-      if (requestId === activeRequestId) {
-        setBusy(activeView, false);
-      }
-    }
-  };
-
-  const appendProducts = async (nextUrlValue: string): Promise<void> => {
-    const nextUrl = toUrl(nextUrlValue);
-    const requestId = ++activeRequestId;
-
-    setBusy(activeView, true);
-    setError(activeView, '');
-    setLoadStatus(activeView, 'Loading more products...');
-
-    try {
-      const nextRoot = await fetchNextRoot(nextUrl, requestId);
-      const nextView = queryView(nextRoot);
-
-      if (!activeView.products || !nextView.products || !activeView.paginationWrap || !nextView.paginationWrap) {
-        throw new Error('Collection append targets missing');
-      }
-
-      const fragment = document.createDocumentFragment();
-      nextView.products.querySelectorAll<HTMLElement>('[data-js="collection-product-card"]').forEach((card) => {
-        fragment.appendChild(card);
-      });
-      activeView.products.appendChild(fragment);
-      activeView.paginationWrap.replaceWith(nextView.paginationWrap);
-      activeView.paginationWrap = nextView.paginationWrap;
-
-      window.history.pushState({ source: 'collection-append' }, '', `${nextUrl.pathname}${nextUrl.search}`);
-
-      setLoadStatus(activeView, 'More products loaded.');
-      setStatus(activeView, 'Collection updated.');
-    } catch (errorValue) {
-      if (errorValue instanceof DOMException && errorValue.name === 'AbortError') {
-        return;
-      }
-
-      setError(activeView, 'Could not load more products. Please try again.');
-      setLoadStatus(activeView, 'Load more failed.');
     } finally {
       if (requestId === activeRequestId) {
         setBusy(activeView, false);
@@ -406,24 +491,10 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    const loadMoreButton = target.closest<HTMLButtonElement>('[data-js="collection-load-more"]');
-    if (loadMoreButton) {
-      event.preventDefault();
-      const nextUrl = loadMoreButton.dataset.nextUrl;
-      if (!nextUrl || loadMoreButton.disabled) return;
-
-      loadMoreButton.disabled = true;
-      loadMoreButton.setAttribute('aria-busy', 'true');
-      void appendProducts(nextUrl).finally(() => {
-        loadMoreButton.disabled = false;
-        loadMoreButton.setAttribute('aria-busy', 'false');
-      });
-      return;
-    }
-
     const clearLink = target.closest<HTMLAnchorElement>('[data-js="collection-clear"]');
     if (clearLink) {
       event.preventDefault();
+      closeFiltersDrawer();
       void replaceView(toUrl(clearLink.href), true);
       return;
     }
@@ -438,7 +509,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const paginationLink = target.closest<HTMLAnchorElement>('[data-js="collection-default-pagination"] a');
     if (paginationLink) {
       event.preventDefault();
-      void replaceView(toUrl(paginationLink.href), true);
+      void replaceView(toUrl(paginationLink.href), true).then(() => {
+        activeView.products?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
     }
   };
 
@@ -446,6 +519,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const target = event.target as HTMLElement;
     const field = target.closest<HTMLInputElement | HTMLSelectElement>('input, select');
     if (!field || !activeView.controls) return;
+    if (field instanceof HTMLInputElement && field.type === 'range') applyRange(field);
 
     activeView.controls.requestSubmit();
   };
@@ -455,6 +529,9 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!form.matches('[data-js="collection-controls"]')) return;
 
     event.preventDefault();
+    // "Show N products" applies and closes the drawer; filter changes auto-submit and keep it open.
+    const submitter = (event as SubmitEvent).submitter;
+    if (submitter?.matches('[data-js="collection-filters-apply"]')) closeFiltersDrawer();
     void replaceView(serializeControls(form), true);
   };
 
@@ -475,6 +552,10 @@ document.addEventListener('DOMContentLoaded', () => {
     onRootChange(event);
   });
 
+  document.addEventListener('input', (event) => {
+    if (event.target instanceof HTMLInputElement && event.target.type === 'range' && activeRoot.contains(event.target)) onRangeInput(event.target);
+  });
+
   document.addEventListener('submit', (event) => {
     if (!activeRoot.contains(event.target as Node)) return;
     onRootSubmit(event);
@@ -482,5 +563,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
   window.addEventListener('popstate', () => {
     void replaceView(toUrl(window.location.href), false);
+  });
+
+  document.addEventListener('shopify:section:load', (event) => {
+    if (!(event.target instanceof Element)) return;
+    const nextRoot = event.target.querySelector<HTMLElement>(ROOT_SELECTOR);
+    if (!nextRoot) return;
+    activeController?.abort();
+    activeRequestId++;
+    filtersOpen = false;
+    document.body.style.overflow = '';
+    syncActiveView(nextRoot);
   });
 });

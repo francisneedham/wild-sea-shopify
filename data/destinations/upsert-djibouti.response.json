@@ -1,0 +1,60 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650324279409",
+      "handle": "djibouti-popping",
+      "displayName": "Djibouti",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Djibouti"
+        },
+        {
+          "key": "caption",
+          "value": "Fish strong currents where the Red Sea meets the Gulf of Aden. Explore GT popping, jigging and shore fishing around Djibouti’s remote islands and reefs."
+        },
+        {
+          "key": "season",
+          "value": null
+        },
+        {
+          "key": "fishing_days",
+          "value": "8 full fishing days"
+        },
+        {
+          "key": "on_the_water",
+          "value": "Liveaboard & shore fishing"
+        },
+        {
+          "key": "target_species",
+          "value": "Giant trevally"
+        },
+        {
+          "key": "listing_image",
+          "value": "gid://shopify/MediaImage/46288939384945"
+        },
+        {
+          "key": "region",
+          "value": "Djibouti · Gulf of Aden"
+        },
+        {
+          "key": "technique",
+          "value": "Popping & jigging"
+        },
+        {
+          "key": "status",
+          "value": "available"
+        }
+      ],
+      "capabilities": {
+        "onlineStore": {
+          "templateSuffix": "djibouti"
+        },
+        "publishable": {
+          "status": "ACTIVE"
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

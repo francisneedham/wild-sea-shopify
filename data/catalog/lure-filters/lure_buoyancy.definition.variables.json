@@ -1,0 +1,11 @@
+{
+  "definition": {
+    "name": "Lure buoyancy",
+    "namespace": "specs",
+    "key": "lure_buoyancy",
+    "description": "Floating or sinking, sourced from the legacy catalog.",
+    "type": "single_line_text_field",
+    "ownerType": "PRODUCT",
+    "access": { "storefront": "PUBLIC_READ" }
+  }
+}

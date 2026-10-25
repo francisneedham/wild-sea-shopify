@@ -1,0 +1,230 @@
+{
+  "products": {
+    "nodes": [
+      {
+        "id": "gid://shopify/MetafieldDefinition/509617963121",
+        "namespace": "specs",
+        "key": "rod_length_cm",
+        "type": {
+          "name": "number_decimal"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509619175537",
+        "namespace": "specs",
+        "key": "rod_length_label",
+        "type": {
+          "name": "single_line_text_field"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509625827441",
+        "namespace": "specs",
+        "key": "rod_drag_recommended_kg",
+        "type": {
+          "name": "number_decimal"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509630021745",
+        "namespace": "specs",
+        "key": "rod_made_in",
+        "type": {
+          "name": "single_line_text_field"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509759160433",
+        "namespace": "shopify--discovery--product_search_boost",
+        "key": "queries",
+        "type": {
+          "name": "list.single_line_text_field"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509759193201",
+        "namespace": "shopify--discovery--product_recommendation",
+        "key": "related_products",
+        "type": {
+          "name": "list.product_reference"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509759225969",
+        "namespace": "shopify--discovery--product_recommendation",
+        "key": "related_products_display",
+        "type": {
+          "name": "single_line_text_field"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509759258737",
+        "namespace": "shopify--discovery--product_recommendation",
+        "key": "complementary_products",
+        "type": {
+          "name": "list.product_reference"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/510641700977",
+        "namespace": "specs",
+        "key": "lure_types",
+        "type": {
+          "name": "list.single_line_text_field"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/510646452337",
+        "namespace": "specs",
+        "key": "lure_buoyancy",
+        "type": {
+          "name": "single_line_text_field"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      }
+    ]
+  },
+  "variants": {
+    "nodes": [
+      {
+        "id": "gid://shopify/MetafieldDefinition/509631234161",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "type": {
+          "name": "number_integer"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509632446577",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "type": {
+          "name": "number_decimal"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509902094449",
+        "namespace": "specs",
+        "key": "rod_length_cm",
+        "type": {
+          "name": "number_decimal"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509903896689",
+        "namespace": "specs",
+        "key": "rod_length_label",
+        "type": {
+          "name": "single_line_text_field"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509905109105",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "type": {
+          "name": "number_decimal"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/509907533937",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "type": {
+          "name": "number_decimal"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/510151819377",
+        "namespace": "specs",
+        "key": "color_family",
+        "type": {
+          "name": "metaobject_reference"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/511514148977",
+        "namespace": "specs",
+        "key": "rod_casting_weight",
+        "type": {
+          "name": "single_line_text_field"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/511515361393",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "type": {
+          "name": "number_decimal"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetafieldDefinition/511515983985",
+        "namespace": "specs",
+        "key": "rod_pe_supported",
+        "type": {
+          "name": "list.single_line_text_field"
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+query CatalogPreflight {
+  shop { name currencyCode myshopifyDomain }
+  locations(first: 50) { nodes { id name isActive fulfillsOnlineOrders } }
+  publications(first: 50) { nodes { id name } }
+  productsCount { count }
+}

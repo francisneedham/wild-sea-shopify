@@ -1,0 +1,42 @@
+mutation UpdateVendorBatch005 {
+  v0: productUpdate(product: {id: "gid://shopify/Product/15439422685297", vendor: "MC Works"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v1: productUpdate(product: {id: "gid://shopify/Product/15439423012977", vendor: "MC Works"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v2: productUpdate(product: {id: "gid://shopify/Product/15439423307889", vendor: "MC Works"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v3: productUpdate(product: {id: "gid://shopify/Product/15439423602801", vendor: "MC Works"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v4: productUpdate(product: {id: "gid://shopify/Product/15439423864945", vendor: "MC Works"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v5: productUpdate(product: {id: "gid://shopify/Product/15439424192625", vendor: "MC Works"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v6: productUpdate(product: {id: "gid://shopify/Product/15439424585841", vendor: "MC Works"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v7: productUpdate(product: {id: "gid://shopify/Product/15439424815217", vendor: "MC Works"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v8: productUpdate(product: {id: "gid://shopify/Product/15439425044593", vendor: "MC Works"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v9: productUpdate(product: {id: "gid://shopify/Product/15439425437809", vendor: "MC Works"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "definition": {
+    "name": "Lure type",
+    "namespace": "specs",
+    "key": "lure_types",
+    "description": "Lure styles from the legacy catalog. A product can have more than one style.",
+    "type": "list.single_line_text_field",
+    "ownerType": "PRODUCT",
+    "access": { "storefront": "PUBLIC_READ" }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "input": {
+    "handle": "atlantis-funky-soda-170-85-gr",
+    "title": "Atlantis Funky Soda 170",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Handcrafted in Japan by Eiji-san, a deep diving popper&nbsp;creating a huge bubble trial with lots of flash while swimming with a unique S motion action to&nbsp;entice a bite.</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length 170 mm</span></p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Gr. 85</span></p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "tuna",
+      "gian",
+      "snap",
+      "king",
+      "Atlantis",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-floating",
+      "legacy-category-lures-diving-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Red Abalone"
+          },
+          {
+            "name": "Pink Abalone"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ0080832",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Red Abalone"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.16,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ2202787",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Pink Abalone"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.16,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/363f38f0-8bba-41b7-bd87-743c0ffb5264/Funky+Soda+170+red+abalone.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atlantis Funky Soda 170"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7f2eb10a-d525-4519-b8eb-ccad70bae1f8/Funky+Soda+170+pink+abalone.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atlantis Funky Soda 170"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

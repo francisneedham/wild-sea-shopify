@@ -31,7 +31,10 @@
     "sidebar": "Sidebar",
     "text": "Text",
     "theme": "Theme",
-    "typography": "Typography"
+    "typography": "Typography",
+    "branding": "Branding",
+    "controls": "Controls",
+    "social_links": "Social links"
   },
   "labels": {
     "alignment": "Alignment",
@@ -48,7 +51,21 @@
     "page_width": "Page width",
     "show_payment_icons": "Show payment icons",
     "text_style": "Text style",
-    "text": "Text"
+    "text": "Text",
+    "body_font": "Body font",
+    "heading_font": "Heading font",
+    "logo": "Logo",
+    "logo_inverse": "Inverse logo (for dark backgrounds)",
+    "logo_width": "Logo width",
+    "favicon": "Favicon",
+    "social_image": "Social sharing image",
+    "button": "Button background",
+    "button_label": "Button text",
+    "border": "Border",
+    "default_color_scheme": "Default color scheme",
+    "color_scheme": "Color scheme",
+    "use_inverse_logo": "Use inverse logo",
+    "background_gradient": "Background gradient"
   },
   "options": {
     "alignment": {
@@ -72,6 +89,6 @@
       "title": "Title",
       "subtitle": "Subtitle",
       "normal": "Normal text"
-    },
+    }
   }
 }

@@ -11,6 +11,8 @@
   @param {variant} [quick_buy_variant] - Variant used for quick buy (single-variant products)
   @param {boolean} [enable_quick_buy] - Enables quick-buy behavior
   @param {boolean} [show_variant_picker] - True when an inline variant picker precedes this button
+  @example
+  {% render 'product-card-quick-buy', product: product, enable_quick_buy: true %}
 {% enddoc %}
 
 {% if enable_quick_buy and quick_buy_variant %}

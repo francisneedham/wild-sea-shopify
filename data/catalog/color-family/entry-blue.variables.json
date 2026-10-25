@@ -1,0 +1,18 @@
+{
+  "handle": {
+    "type": "wildsea_color_family",
+    "handle": "blue"
+  },
+  "metaobject": {
+    "fields": [
+      {
+        "key": "label",
+        "value": "Blue"
+      },
+      {
+        "key": "swatch_color",
+        "value": "#3669A3"
+      }
+    ]
+  }
+}

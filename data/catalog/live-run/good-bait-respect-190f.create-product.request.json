@@ -1,0 +1,216 @@
+{
+  "input": {
+    "handle": "good-bait-respect-190f",
+    "title": "Good Bait Respect 190F",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The Respect 190F is a slim-profile floating minnow designed for series saltwater anglers targeting powerful predators.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Despite its compact 190mm body, it is engineered to handle heavy-duty tackle setups up to PE8 while maintaining a tight and responsive swimming action.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Built with a reinforced 1.8mm trough-wire construction and capable of supporting #3/0 treble hooks, the Respect 190F is made to confidently fight large pelagic species in demanding conditions.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Its tight rolling action and stable swimming performance make it highly effective during slow retrieves, especially around rocky shorelines, reef structures and surface feeding zones.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Built for anglers chasing unforgettable fish in wild saltwater environments.</p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Length 190 mm </p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 73</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "pelagic fishing",
+      "Good Bait",
+      "fishing lures",
+      "saltwater lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "FlyingFish"
+          },
+          {
+            "name": "SmallBait"
+          },
+          {
+            "name": "MonsterGold"
+          },
+          {
+            "name": "SilverPink"
+          },
+          {
+            "name": "PurpleYellow"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ2779949",
+        "price": "45.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "FlyingFish"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "sku": "SQ4420567",
+        "price": "45.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "SmallBait"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "sku": "SQ2037100",
+        "price": "45.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "MonsterGold"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "sku": "SQ4234089",
+        "price": "45.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "SilverPink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ8945722",
+        "price": "45.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "PurpleYellow"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3eabd222-e0c2-4f56-a426-ebff5fea7331/respect+2.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait Respect 190F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d975c767-a618-401f-97d8-1a2a1f8de5cb/respect.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait Respect 190F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/640b7f55-317c-40bf-a8a9-ca52c186e926/respect1.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait Respect 190F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/49a34d31-96df-471e-9ca3-419d87392fdf/respect3.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait Respect 190F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e9b2cfb8-221e-446e-87a5-d842cb5ca276/respectpurple.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait Respect 190F"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

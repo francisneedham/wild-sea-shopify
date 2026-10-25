@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Lure weight (g)",
+    "namespace": "specs",
+    "key": "lure_weight_g",
+    "description": "Actual lure weight in grams; not shipping weight.",
+    "type": "number_decimal",
+    "ownerType": "PRODUCTVARIANT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

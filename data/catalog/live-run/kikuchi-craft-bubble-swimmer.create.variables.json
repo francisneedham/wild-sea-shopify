@@ -1,0 +1,110 @@
+{
+  "input": {
+    "handle": "kikuchi-craft-bubble-swimmer",
+    "title": "Kikuchi Craft Bubble Swimmer",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The bubble swimmer  is a renowned lure in offshore big game fishing, especially tuna casting. <br />Its centrally concentrated weight balance provides exceptional casting distance, allowing anglers to approach promising targets at great distances. <br />Proven effective in countless fields both domestically and internationally, including the magnificent bluefin tuna of Oma, it has established itself as a pioneer in the recent popper boom in tuna casting.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The basic action of the BUBBLE SWIMMER is &quot;stop and go.&quot; <br />It breaks the water's surface, moving with small bubbles, and then instantly comes to a stop. This contrast between movement and stillness is the key to awakening the hunting instincts of the target fish. <br />In particular, the long pauses provide an effective approach for wary big game fish. To maximize its potential, we recommend pairing it with a rod that has a flexible tip.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>210 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr.71</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Color Sardine</p></li></ul><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>240 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr.106</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Color Sardine</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-diving-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Sardine"
+          }
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          {
+            "name": "210"
+          },
+          {
+            "name": "240"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ5177796",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Sardine"
+          },
+          {
+            "optionName": "Size",
+            "name": "210"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.14,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "sku": "SQ4936759",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Sardine"
+          },
+          {
+            "optionName": "Size",
+            "name": "240"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/676109a6-1962-4be0-a12c-74b1a539f10c/kikuci.jpg",
+        "contentType": "IMAGE",
+        "alt": "Kikuchi Craft Bubble Swimmer"
+      }
+    ]
+  }
+}

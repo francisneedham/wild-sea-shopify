@@ -1,0 +1,80 @@
+{
+  "input": {
+    "handle": "truth-white-insight-828",
+    "title": "Truth White Insight 828",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The rear grip is set to be about 20mm longer than the Ocean Sprinter 838/8110, and it is also compatible with style belts that specialize in long-term fights with tuna. It is about 505mm from the reel foot center to the end.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Recommended size Yellowfin tuna-100 kg</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>(It does not support places with fast tides such as Tappi Aomori and 100 kg class bluefin tuna. We will develop a dedicated model in the future.)</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Yellowfin tuna compatible models (reference)</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>~ 30 km OceanSprinter844 / 856 WhiteInsight828</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>~ 50 km OceanSprinter856 / 838/8110 WhiteInsight828 / 8010</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>50 kg ~ WhiteInsight828 / 8010/7210</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>(It does not mean that WI828 is stronger than OS838, but it is a guideline based on the balance between longer fight time and drag tension)</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot;\tLength: 8ft2inch</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot;\tWeight: 378g</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot;\tTip Dia. / Butt Dia. : 2.8mm / 16mm</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot;\tPe: 6-8</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot;\tLure: 30～200g</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot;\tPieces: Grip Joint</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot;\tGuide: All Stainless PMNST16 / PMNSG16&times;2 / PMNSG20 / PMNSG25 / PMNSG30 / PMNSG40</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot;\tSheet: DPS20LD UP</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot;\tGrip: EVA</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot;\tCompatible Reel: Shimano 14000, 18000 &amp; Daiwa 5500, 6000, 7500</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Made In Japan</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "Tuna",
+      "bluefin",
+      "yellowfin",
+      "Truth",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ4607428",
+        "price": "760.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/bdc83aa6-d65f-45fd-b182-5bff408774ab/Truth+White+Insight+828.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 828"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f745e596-a7a9-4470-a2aa-ae13ae2914f8/DSC_0313-1sssdsd.JPG",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 828"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1b4fbb11-9dc1-430e-927a-388f0916ecf3/ECCD6316-0168-4CDA-956B-DF69AE10221Fsssdsd.JPG",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 828"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ae36c6cc-3a2e-4d46-8ec8-f6903b2f86df/IMG_1805sssdsd.JPG",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 828"
+      }
+    ]
+  }
+}

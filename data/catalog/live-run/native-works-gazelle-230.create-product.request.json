@@ -1,0 +1,65 @@
+{
+  "input": {
+    "handle": "native-works-gazelle-230",
+    "title": "Native Works Gazelle 230",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>This lures is designed to attract fish when the bite is slow in general. Best action: allow the lure to swim on a slower retrieve in order to create a wider S shape to get the best action out of it.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Recommended hooks: BKK Raptor-Z 4/0 or BKK Inline 9/0 on the Belly 7/0 on the tail</span></p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "tuna",
+      "giant trevally",
+      "Native Works",
+      "legacy-catalog-import",
+      "legacy-category-lures"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ3261392",
+        "price": "160.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b2f1ef53-c733-4aa3-9f80-5c8554322293/IMG-20250120-WA0012-Editsssdsd.JPG",
+        "contentType": "IMAGE",
+        "alt": "Native Works Gazelle 230"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

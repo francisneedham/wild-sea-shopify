@@ -1,0 +1,20 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650467541105",
+      "handle": "purple",
+      "displayName": "Purple",
+      "fields": [
+        {
+          "key": "label",
+          "value": "Purple"
+        },
+        {
+          "key": "swatch_color",
+          "value": "#8061A5"
+        }
+      ]
+    },
+    "userErrors": []
+  }
+}

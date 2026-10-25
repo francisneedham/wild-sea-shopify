@@ -1,0 +1,14 @@
+query AuditDestinations {
+  metaobjects(type: "destinations", first: 50) {
+    nodes {
+      id
+      handle
+      displayName
+      fields { key value }
+      capabilities {
+        onlineStore { templateSuffix }
+        publishable { status }
+      }
+    }
+  }
+}

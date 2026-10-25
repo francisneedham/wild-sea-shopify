@@ -1,0 +1,144 @@
+{
+  "input": {
+    "handle": "sinking-18cm-100g",
+    "title": "Glide Stickbait Sinking 18cm - 100gr",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The \"Must-Have\" for Bluefin and GT Battles.</p><p style=\"text-align: justify; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The 18cm, 100gr sinking stickbait is a non-negotiable tool for any serious offshore angler. Specifically engineered to target Bluefin Tuna and Giant Trevally, this lure excels when predators are holding deeper in the water column and won't commit to surface lures.</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Glide",
+      "18cm",
+      "100g",
+      "Sinking",
+      "glide stickbait",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-sinking"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Blue Holo Foil"
+          },
+          {
+            "name": "Pink Holo Foil"
+          },
+          {
+            "name": "Candy Holo Foil"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ4726944",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Blue Holo Foil"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.18,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ1588900",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Pink Holo Foil"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.18,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ3218967",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Candy Holo Foil"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.18,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/539d6b0b-d905-4933-9866-4e4a1b87e052/IMG_20260908_131116.jpg",
+        "contentType": "IMAGE",
+        "alt": "Glide Stickbait Sinking 18cm - 100gr"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a2699621-0a5c-445b-b582-0169bab7892e/IMG_20260908_131136.jpg",
+        "contentType": "IMAGE",
+        "alt": "Glide Stickbait Sinking 18cm - 100gr"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9641c09c-2572-4a23-ab7b-8a124ac02f2d/IMG_20260908_131150.jpg",
+        "contentType": "IMAGE",
+        "alt": "Glide Stickbait Sinking 18cm - 100gr"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/131f2d44-11ee-454d-8113-cfac301309cc/IMG_20260908_131215.jpg",
+        "contentType": "IMAGE",
+        "alt": "Glide Stickbait Sinking 18cm - 100gr"
+      }
+    ]
+  }
+}

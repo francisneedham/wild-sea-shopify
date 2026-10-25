@@ -8,6 +8,10 @@
 
 <br />
 
+## Project Tracking
+
+Start with [docs/README.md](docs/README.md) for scope, TODO, progress, decisions, and the latest handoff. Contributor rules live in [AGENTS.md](AGENTS.md).
+
 ## Features
 
 - Template-specific asset loading (no global JS bloat)
@@ -43,7 +47,7 @@
 
 - AI-ready contributor workflow
   - Generic agent guide in `AGENTS.md`
-  - Architecture + conventions in `CLAUDE.md`
+  - Scope and session continuity in `docs/`
 
 ---
 

@@ -1,0 +1,477 @@
+{
+  "input": {
+    "handle": "mens-tropic-sun-hoody",
+    "title": "Wild Sea Performance Hoodie",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lightweight performance hoodie designed for long days under harsh saltwater sun. Breathable, quick-dry and built for inshore and offshore adventures.</p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">sun protection</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lightweight and breathable fabric</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Quick-dry performance material</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Designed for offshore and inshore fishing</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Extremly durable tested in hard condition</p></li></ul><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Built for anglers who live beyhond the shoreline.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+    "status": "ACTIVE",
+    "productType": "Clothing",
+    "tags": [
+      "fishing sun hoodie",
+      "UPF fishing hoodie",
+      "quick dry fishing shirt",
+      "lightweight fishing shirt",
+      "lightweight fishing hoodie",
+      "saltwater fishing shirt",
+      "offshore fishing",
+      "inshore fishing",
+      "expedition weare",
+      "ocean lifestyle",
+      "legacy-catalog-import",
+      "legacy-category-clothing"
+    ],
+    "productOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          {
+            "name": "Large"
+          },
+          {
+            "name": "Medium"
+          },
+          {
+            "name": "Extra Large"
+          },
+          {
+            "name": "2Extra Large"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          {
+            "name": "Blue"
+          },
+          {
+            "name": "sky blue"
+          },
+          {
+            "name": "Gray"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6662260",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "Large"
+          },
+          {
+            "optionName": "Color",
+            "name": "Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 8
+          }
+        ]
+      },
+      {
+        "sku": "SQ1063271",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "Large"
+          },
+          {
+            "optionName": "Color",
+            "name": "sky blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 8
+          }
+        ]
+      },
+      {
+        "sku": "SQ5201605",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "Large"
+          },
+          {
+            "optionName": "Color",
+            "name": "Gray"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 7
+          }
+        ]
+      },
+      {
+        "sku": "SQ8098961",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "Medium"
+          },
+          {
+            "optionName": "Color",
+            "name": "Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7818955",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "Medium"
+          },
+          {
+            "optionName": "Color",
+            "name": "sky blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7560260",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "Medium"
+          },
+          {
+            "optionName": "Color",
+            "name": "Gray"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ5845873",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "Extra Large"
+          },
+          {
+            "optionName": "Color",
+            "name": "Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 20
+          }
+        ]
+      },
+      {
+        "sku": "SQ7486751",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "Extra Large"
+          },
+          {
+            "optionName": "Color",
+            "name": "sky blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 15
+          }
+        ]
+      },
+      {
+        "sku": "SQ0093281",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "Extra Large"
+          },
+          {
+            "optionName": "Color",
+            "name": "Gray"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 12
+          }
+        ]
+      },
+      {
+        "sku": "SQ0598690",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "2Extra Large"
+          },
+          {
+            "optionName": "Color",
+            "name": "Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "sku": "SQ6964833",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "2Extra Large"
+          },
+          {
+            "optionName": "Color",
+            "name": "sky blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "sku": "SQ0028196",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "2Extra Large"
+          },
+          {
+            "optionName": "Color",
+            "name": "Gray"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.5,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 15
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2198115f-aa6b-4beb-b7cf-b40f23ede9a8/IMG-20260521-WA0016%281%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wild Sea Performance Hoodie"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/608c1f4d-ce6f-495e-980a-34acbfb13284/IMG-20260521-WA0017.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wild Sea Performance Hoodie"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/85f05a40-5d7e-4ea9-ac04-5a45bf8d1bed/IMG-20260521-WA0021.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wild Sea Performance Hoodie"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3bf50c09-be57-414b-88e9-6c3bfc9a8f4e/IMG-20260521-WA0020.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wild Sea Performance Hoodie"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/63bb1de0-27cd-46b7-b9c1-17660cd52a8e/IMG-20260521-WA0018+%281%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wild Sea Performance Hoodie"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/231cb1eb-c931-42f4-add6-8c61ac9974d2/IMG-20260521-WA0019.jpg",
+        "contentType": "IMAGE",
+        "alt": "Wild Sea Performance Hoodie"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

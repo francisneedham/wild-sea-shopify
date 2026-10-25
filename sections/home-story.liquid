@@ -1,0 +1,85 @@
+{% doc %}
+  Renders an editorial image and text feature using original expedition content.
+  Uses section image, heading, rich text, link and color scheme settings.
+
+  @example
+  Add Expedition story through the Theme Editor section picker.
+{% enddoc %}
+
+{% render 'home-styles' %}
+
+<section class="home-story color-scheme color-{{ section.settings.color_scheme }}" aria-labelledby="HomeStory-{{ section.id }}">
+  <div class="home-story__image" data-parallax>
+    {% render 'home-image', image: section.settings.image, original: 'about-1', alt: section.settings.image_alt, sizes: '(min-width: 990px) 50vw, 100vw' %}
+  </div>
+  <div class="home-story__copy">
+    {% if section.settings.kicker != blank %}<p class="home-kicker">{{ section.settings.kicker | escape }}</p>{% endif %}
+    <h2 class="home-heading" data-reveal="title" id="HomeStory-{{ section.id }}">{{ section.settings.heading | escape }}</h2>
+    {% if section.settings.text != blank %}<div class="home-intro">{{ section.settings.text }}</div>{% endif %}
+    {% if section.settings.link != blank and section.settings.link_label != blank %}
+      <a class="home-link" href="{{ section.settings.link | escape }}">{{ section.settings.link_label | escape }}</a>
+    {% endif %}
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Expedition story",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    },
+    {
+      "type": "text",
+      "id": "image_alt",
+      "label": "Image description",
+      "default": "An angler fighting a fish on a Wild Sea expedition"
+    },
+    {
+      "type": "text",
+      "id": "kicker",
+      "label": "Eyebrow",
+      "default": "This is Wild Sea"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Drawn to the wild."
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Text",
+      "default": "<p>Since 2012, we have explored remote saltwater fisheries, bringing passionate anglers to places beyond the usual routes.</p>"
+    },
+    {
+      "type": "url",
+      "id": "link",
+      "label": "Link"
+    },
+    {
+      "type": "text",
+      "id": "link_label",
+      "label": "Link label",
+      "default": "Meet the people behind the adventure"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "Color scheme",
+      "default": "scheme-2"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Expedition story",
+      "settings": {
+        "link": "shopify://pages/about"
+      }
+    }
+  ]
+}
+{% endschema %}

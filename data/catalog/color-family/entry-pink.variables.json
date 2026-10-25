@@ -1,0 +1,18 @@
+{
+  "handle": {
+    "type": "wildsea_color_family",
+    "handle": "pink"
+  },
+  "metaobject": {
+    "fields": [
+      {
+        "key": "label",
+        "value": "Pink"
+      },
+      {
+        "key": "swatch_color",
+        "value": "#DD81A4"
+      }
+    ]
+  }
+}

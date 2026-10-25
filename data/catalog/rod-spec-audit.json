@@ -1,0 +1,2027 @@
+{
+  "counts_with_labeled_evidence": {
+    "length": 26,
+    "pe": 28,
+    "cast": 29,
+    "drag": 19,
+    "made_in": 17
+  },
+  "products": [
+    {
+      "handle": "full-hand-onikiri-100h",
+      "title": "Full Hands Onikiri 100H",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "llowtail from the shore. Length: 3.00 meters Shot weights: 150 grams Action: Fast Wire: P"
+        ],
+        "pe": [
+          ": 150 grams Action: Fast Wire: PE 5~8 Weight: 410 grams Drag: 13 kg Handmade and made in J"
+        ],
+        "cast": [
+          "ore. Length: 3.00 meters Shot weights: 150 grams Action: Fast Wire: PE 5~8 Weight: 410 grams Dr"
+        ],
+        "drag": [
+          "PE 5~8 Weight: 410 grams Drag: 13 kg Handmade and made in Japan"
+        ],
+        "made_in": [
+          "t: 410 grams Drag: 13 kg Handmade and made in Japan"
+        ]
+      },
+      "flags": [
+        "Cast context differs: ideal lure 70–120g; shot weight 150g"
+      ],
+      "description_text": "Onikiri 100H This rod born as a shore GT rod, is one of the most pretty and classy rod we've put our hands on. Apart from the aesthetic aspect, the rod has a great action, pasty to cast a mile with plenty of backbone for some real fight. The ideal range to really push in the cast is 70 to 120 grams lures. This rod is also a great choice for trophy Tarpon and Yellowtail from the shore. Length: 3.00 meters Shot weights: 150 grams Action: Fast Wire: PE 5~8 Weight: 410 grams Drag: 13 kg Handmade and made in Japan",
+      "candidates": {
+        "length_ftin": [],
+        "length_m": [
+          {
+            "raw": "Length: 3.00 meters",
+            "groups": [
+              "3.00"
+            ],
+            "position": 388
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE 5~8",
+            "groups": [
+              "5",
+              "8"
+            ],
+            "position": 451
+          }
+        ],
+        "cast_range": [],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "full-hands-custom-works-kusanagi-p78hh",
+      "title": "Full Hands Custom Works Kusanagi P78HH",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "tom Works Kusanagi P78HH Length : 7′ 8″ PE : 6~8 Lure : 150g Max Drag : 17kg Type : Butt J"
+        ],
+        "pe": [
+          "nion a solid PE8, more a PE 8-10 than PE 6-8, a new brand that will amaze you for th",
+          "PE8, more a PE 8-10 than PE 6-8, a new brand that will amaze you for the action and ",
+          "agi P78HH Length : 7′ 8″ PE : 6~8 Lure : 150g Max Drag : 17kg Type : Butt Joint Made i"
+        ],
+        "cast": [
+          " Length : 7′ 8″ PE : 6~8 Lure : 150g Max Drag : 17kg Type : Butt Joint Made in Japan"
+        ],
+        "drag": [
+          " 8″ PE : 6~8 Lure : 150g Max Drag : 17kg Type : Butt Joint Made in Japan"
+        ],
+        "made_in": [
+          ": 17kg Type : Butt Joint Made in Japan"
+        ]
+      },
+      "flags": [
+        "PE conflict: prose PE 8–10; specifications PE 6–8"
+      ],
+      "description_text": "Kusanagi P78HH A beautiful modern popping rod, incredibly light and powerful in you hands. Designed to handle large mouth poppers ideally up to 130 gr, it can also handle medium to big size stickbait thanks to a moderate stiffness of the tip. In our opinion a solid PE8, more a PE 8-10 than PE 6-8, a new brand that will amaze you for the action and the quality of the finishing. Full Hands Custom Works Kusanagi P78HH Length : 7′ 8″ PE : 6~8 Lure : 150g Max Drag : 17kg Type : Butt Joint Made in Japan",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length : 7' 8\"",
+            "groups": [
+              "7",
+              "8"
+            ],
+            "position": 419
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length : 7",
+            "groups": [
+              "7"
+            ],
+            "position": 419
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE 8-10",
+            "groups": [
+              "8",
+              "10"
+            ],
+            "position": 278
+          },
+          {
+            "raw": "PE 6-8",
+            "groups": [
+              "6",
+              "8"
+            ],
+            "position": 291
+          },
+          {
+            "raw": "PE : 6~8",
+            "groups": [
+              "6",
+              "8"
+            ],
+            "position": 434
+          }
+        ],
+        "cast_range": [],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "Max Drag : 17kg",
+            "groups": [
+              "17"
+            ],
+            "position": 455
+          }
+        ]
+      }
+    },
+    {
+      "handle": "jumprize-monster-absorber-82-8",
+      "title": "Jumprize Monster Absorber 82-8",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "cifications : Type: Spin Length: 8’2” Line: PE6/10 Casting max: gr 60/180 Drag max: 18kg "
+        ],
+        "pe": [
+          " as situations requiring PE 8 line did not exist at that time. In recent years, howe",
+          "ngle-angler combat—using PE 8–10 and 15 kg of drag. That is precisely where the mons",
+          " Type: Spin Length: 8’2” Line: PE6/10 Casting max: gr 60/180 Drag max: 18kg Grips: EVA Gu"
+        ],
+        "cast": [
+          "ength: 8’2” Line: PE6/10 Casting max: gr 60/180 Drag max: 18kg Grips: EVA Guides: Fuji guides"
+        ],
+        "drag": [
+          "0 Casting max: gr 60/180 Drag max: 18kg Grips: EVA Guides: Fuji guides"
+        ],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "When the Monster Absorber series launched in 2019, it debuted with four models from No. 3 to No. 6, designed to make targeting coastal blue-runners, large yellowfin tuna, and GT more accessible. During the same period, developer Tomoki Inoue privately created and field-tested a prototype model capable of handling PE 8–10 lines, the 82/8. It was originally designed solely for comfortably casting massive 30 cm class plugs, as situations requiring PE 8 line did not exist at that time. In recent years, however, ocean conditions have changed drastically. Winter season “saury pattern” fisheries now regularly see monstrous yellowfin over 80 kg and even bluefin exceeding 150 kg migrating close to shore. Anglers can now make day trips for a style of extreme fishing once considered the limit of stand-up single-angler combat—using PE 8–10 and 15 kg of drag. That is precisely where the monster absorber 82-8 comes in. Its construction centers around 15-ton carbon with 24-ton carbon strategically added to key lifting sections to generate partial rebound power. This enables the angler to maintain pressure effortlessly—simply by keeping the rod upright in a relaxed stance. Yellowfin in the 70–80 kg class can now be landed quickly and without physical exhaustion. Giant GT and trophy-class kingfish holding over shallow reefs can be controlled without letting them run, bringing them boatside in one decisive move. In bluefin tuna game, the rod is designed around 150 kg class fish—but in the hands of a skilled angler, 200 kg+ battles are achievable, with a proven record of landing fish over 240 kg. Beyond brute strength, the 82/8 also pursues balance and lightness that allow even intermediate anglers to swing and work the rod comfortably all day. This is the rod many have been waiting for—the most powerful model in Jumprize history: the Monster Absorber 82/8 is here. Specifications : Type: Spin Length: 8’2” Line: PE6/10 Casting max: gr 60/180 Drag max: 18kg Grips: EVA Guides: Fuji guides",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 8'2\"",
+            "groups": [
+              "8",
+              "2"
+            ],
+            "position": 1907
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 8",
+            "groups": [
+              "8"
+            ],
+            "position": 1907
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE6/10",
+            "groups": [
+              "6",
+              "10"
+            ],
+            "position": 1926
+          }
+        ],
+        "cast_range": [],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "Drag max: 18kg",
+            "groups": [
+              "18"
+            ],
+            "position": 1956
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-2023-explosion-817hf-special-model",
+      "title": "MC Works 2023 Explosion 817HF Special Model",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "ntrol. Handmade in Japan Length: 8'1 ” Line: PE # 6-10 Cast: 100-200G Drag max: 18KG Guid"
+        ],
+        "pe": [
+          "apan Length: 8'1 ” Line: PE # 6-10 Cast: 100-200G Drag max: 18KG Guide: Titanium Hybri"
+        ],
+        "cast": [
+          "h: 8'1 ” Line: PE # 6-10 Cast: 100-200G Drag max: 18KG Guide: Titanium Hybrid PMNSG + K"
+        ],
+        "drag": [
+          "PE # 6-10 Cast: 100-200G Drag max: 18KG Guide: Titanium Hybrid PMNSG + KWSG guide Code: #23"
+        ],
+        "made_in": [
+          "ior casting and control. Handmade in Japan Length: 8'1 ” Line: PE # 6-10 Cast: 100-200G Drag max:"
+        ]
+      },
+      "flags": [],
+      "description_text": "The MC WORKS Explosion series incorporates a medium elastic multi-ply structure enable a rod which is light, responsive and has a powerful backbone. Ideal for casting stickbaits and diving pencils, this series is designed for kingfish and tuna anglers. With a higher PE rating and wide casting range, the 817HF is the perfect model for anglers seeking a powerful rod to handle monstrous kingfish and GT’s. The blank enables a comfortable yet powerful fight with an ease of manoeuvrability. The rod will swim lures accurately in addition to superior casting and control. Handmade in Japan Length: 8'1 ” Line: PE # 6-10 Cast: 100-200G Drag max: 18KG Guide: Titanium Hybrid PMNSG + KWSG guide Code: #2304EXP817HFSP Colourway: Black x titanium pin stripes & pewter wrapping (butt section) & gunmetal",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 8'1 \"",
+            "groups": [
+              "8",
+              "1"
+            ],
+            "position": 588
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 8",
+            "groups": [
+              "8"
+            ],
+            "position": 588
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE # 6-10",
+            "groups": [
+              "6",
+              "10"
+            ],
+            "position": 608
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Cast: 100-200G",
+            "groups": [
+              "100",
+              "200"
+            ],
+            "position": 618
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "Drag max: 18KG",
+            "groups": [
+              "18"
+            ],
+            "position": 633
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-804-hr",
+      "title": "MC Works 804 HR",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "ble in the CUSTOM MODEL. LENGTH 8'0\" LINE PE #3-5 CAST 40-80G DRAG MAX 8KG Made in Japan"
+        ],
+        "pe": [
+          "USTOM MODEL. LENGTH 8'0\" LINE PE #3-5 CAST 40-80G DRAG MAX 8KG Made in Japan"
+        ],
+        "cast": [
+          "LENGTH 8'0\" LINE PE #3-5 CAST 40-80G DRAG MAX 8KG Made in Japan"
+        ],
+        "drag": [
+          "d that easily clears the DRAG MAX 8KG. Even if you keep casting all day, you won't get tir",
+          "LINE PE #3-5 CAST 40-80G DRAG MAX 8KG Made in Japan"
+        ],
+        "made_in": [
+          "CAST 40-80G DRAG MAX 8KG Made in Japan"
+        ]
+      },
+      "flags": [],
+      "description_text": "A commitment to the explosive wild. Casting for yellowtail and fishing with plugs. Our EXPLOSION was born as a rod to support this completely new type of fishing, 10 years later, it continues to evolve and is now a lineup that supports a wide variety of targets, from yellowtail to GT and tuna, as well as yellowtail casting. The basic characteristics are a soft tip and a hard butt, a high level of castability and lifting power. Although there are differences in power class and length, it has linear trajectory characteristics and flight distance, and the repulsive force to lift the target just by supporting it at 45 degrees. It is a rod that is unmatched in terms of its high breaking strength, power-to-weight ratio, and strength around the base, and is suitable for yellowtail, the strongest target in the coastal waters. An overwhelming lightness that you wouldn't expect from a casting rod that easily clears the DRAG MAX 8KG. Even if you keep casting all day, you won't get tired at all, and the ease of handling has amazed everyone who has monitored it. Furthermore, the tip's tracking ability can be operated with the same feeling as the longer 864HR. The ultimate finesse model that perfects the delicate control of lightweight plugs. Full titanium K guide. Titanium single foot model is also available in the CUSTOM MODEL. LENGTH 8'0\" LINE PE #3-5 CAST 40-80G DRAG MAX 8KG Made in Japan",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "LENGTH 8'0\"",
+            "groups": [
+              "8",
+              "0"
+            ],
+            "position": 1338
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "LENGTH 8",
+            "groups": [
+              "8"
+            ],
+            "position": 1338
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "LINE PE #3-5",
+            "groups": [
+              "3",
+              "5"
+            ],
+            "position": 1350
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "CAST 40-80G",
+            "groups": [
+              "40",
+              "80"
+            ],
+            "position": 1363
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "DRAG MAX 8KG",
+            "groups": [
+              "8"
+            ],
+            "position": 923
+          },
+          {
+            "raw": "DRAG MAX 8KG",
+            "groups": [
+              "8"
+            ],
+            "position": 1375
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-black-chrome-bc120htx",
+      "title": "MC Works Black & Chrome BC120HTX",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "ications: TYPE: Spinning LENGTH: 12'0\" LURE: 14-40g LINE: PE0.8-2.5 Guides : Full titaniu"
+        ],
+        "pe": [
+          "NGTH: 12'0\" LURE: 14-40g LINE: PE0.8-2.5 Guides : Full titanium RVSG + KTSG + KTTG guide"
+        ],
+        "cast": [
+          ": Spinning LENGTH: 12'0\" LURE: 14-40g LINE: PE0.8-2.5 Guides : Full titanium RVSG + KTS"
+        ],
+        "drag": [],
+        "made_in": [
+          " kingfish on light gear. Handmade in japan Specifications: TYPE: Spinning LENGTH: 12'0\" LURE: 14-"
+        ]
+      },
+      "flags": [],
+      "description_text": "MC works need no introduction and are known world wide for their excellence in custom rod building. All exclusively hand made and built in limited numbers, the MC Works rod range are one of the most sought rods out in the world for professional shore casting anglers. The Black & Chrome series of rods is ideal for finesse, shore-based anglers seeking a longer rod with enhanced casting abilities. With a focus on lightweight design, castability, and lure manipulation, these rods are perfect for casting light metals and hardbodies from the shore, harbor, breakwall, or beach. This model is a slightly stronger version of the BC110STX, with a 1ft extension. The #1 side is reinforced with 30t carbon, resulting in a sturdy and still maintains performance. Suitable for targeting tailor, salmon, bonito and kingfish on light gear. Handmade in japan Specifications: TYPE: Spinning LENGTH: 12'0\" LURE: 14-40g LINE: PE0.8-2.5 Guides : Full titanium RVSG + KTSG + KTTG guide",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "LENGTH: 12'0\"",
+            "groups": [
+              "12",
+              "0"
+            ],
+            "position": 880
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "LENGTH: 1",
+            "groups": [
+              "1"
+            ],
+            "position": 880
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE0.8-2.5",
+            "groups": [
+              "0.8",
+              "2.5"
+            ],
+            "position": 913
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "LURE: 14-40g",
+            "groups": [
+              "14",
+              "40"
+            ],
+            "position": 894
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "mc-works-explosion-817hf",
+      "title": "MC Works Explosion 817HF",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "ybrid PMNSG + KWSG guide LENGTH 8'1” LINE PE #6-10 CAST 100-200G DRAG MAX 18kg"
+        ],
+        "pe": [
+          "+ KWSG guide LENGTH 8'1” LINE PE #6-10 CAST 100-200G DRAG MAX 18kg"
+        ],
+        "cast": [
+          "ENGTH 8'1” LINE PE #6-10 CAST 100-200G DRAG MAX 18kg"
+        ],
+        "drag": [
+          "E PE #6-10 CAST 100-200G DRAG MAX 18kg"
+        ],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "This model inherits the action of the EX826HF and is one step up in power. It is not just strong, but is a heavy model that emphasizes ease of handling. Anglers looking to catch 20kg or more yellowtail need a strong rod, but it is physically tough... This is recommended for anglers who are troubled by such a paradox. Titanium hybrid PMNSG + KWSG guide LENGTH 8'1” LINE PE #6-10 CAST 100-200G DRAG MAX 18kg",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "LENGTH 8'1\"",
+            "groups": [
+              "8",
+              "1"
+            ],
+            "position": 354
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "LENGTH 8",
+            "groups": [
+              "8"
+            ],
+            "position": 354
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "LINE PE #6-10",
+            "groups": [
+              "6",
+              "10"
+            ],
+            "position": 366
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "CAST 100-200G",
+            "groups": [
+              "100",
+              "200"
+            ],
+            "position": 380
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "DRAG MAX 18kg",
+            "groups": [
+              "18"
+            ],
+            "position": 394
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-explosion-818-ctr-sp",
+      "title": "MC Works Explosion 818 CTR SP",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "Pcs: 2pcs (butt joint) - Length: 8'1\" - Line: PE # 8-12 - Casting range: 150-300g - Drag "
+        ],
+        "pe": [
+          "ion range rated at a max PE10 and enough power to turn a large GT or Kingfish. Suit",
+          "s rod can be fished with PE8 or 10 and will cause less fatigue on the angler. Handm",
+          ") - Length: 8'1\" - Line: PE # 8-12 - Casting range: 150-300g - Drag max: 20kg Guides: "
+        ],
+        "cast": [
+          "8'1\" - Line: PE # 8-12 - Casting range: 150-300g - Drag max: 20kg Guides: Fuji TITANIUM HYBRID P"
+        ],
+        "drag": [
+          "asting range: 150-300g - Drag max: 20kg Guides: Fuji TITANIUM HYBRID PMNSG + KWSG"
+        ],
+        "made_in": [
+          "s fatigue on the angler. Handmade in Japan Specifications: - Type: Spinning - Pcs: 2pcs (butt joi"
+        ]
+      },
+      "flags": [],
+      "description_text": "Experience the full power of the Explosion range with the 818CTR Special Model. Perfect for targeting GT and kingfish with larger stickbaits, this rod features a soft tip for precise control and a sturdy backbone for effortless casting and smooth action. This rod is the ultimate choice for topwater stickbaiting, providing a crisp, powerful, and forgiving experience. The backbone is the most superior out of the Explosion range rated at a max PE10 and enough power to turn a large GT or Kingfish. Suitable for anglers chasing the new PB fish. This rod can be fished with PE8 or 10 and will cause less fatigue on the angler. Handmade in Japan Specifications: - Type: Spinning - Pcs: 2pcs (butt joint) - Length: 8'1\" - Line: PE # 8-12 - Casting range: 150-300g - Drag max: 20kg Guides: Fuji TITANIUM HYBRID PMNSG + KWSG",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 8'1\"",
+            "groups": [
+              "8",
+              "1"
+            ],
+            "position": 704
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 8",
+            "groups": [
+              "8"
+            ],
+            "position": 704
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE # 8-12",
+            "groups": [
+              "8",
+              "12"
+            ],
+            "position": 725
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Casting range: 150-300g",
+            "groups": [
+              "150",
+              "300"
+            ],
+            "position": 737
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "Drag max: 20kg",
+            "groups": [
+              "20"
+            ],
+            "position": 763
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-explosion-835ctr-standard-model",
+      "title": "MC Works Explosion 835 CTR - Standard Model",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "at casting Tuna/Kingfish Length: 8'3\" Line: PE # 4-6 Casting range: 40-100g Drag max: 12k"
+        ],
+        "pe": [
+          "gfish Length: 8'3\" Line: PE # 4-6 Casting range: 40-100g Drag max: 12kg Guides : Fuji "
+        ],
+        "cast": [
+          "gth: 8'3\" Line: PE # 4-6 Casting range: 40-100g Drag max: 12kg Guides : Fuji TITANIUM HYBRID PMN"
+        ],
+        "drag": [
+          "6 Casting range: 40-100g Drag max: 12kg Guides : Fuji TITANIUM HYBRID PMNSG + KWSG Handmade"
+        ],
+        "made_in": [
+          "NIUM HYBRID PMNSG + KWSG Handmade in Japan"
+        ]
+      },
+      "flags": [],
+      "description_text": "The MC Works Explosion series incorporates a medium elastic multi-ply structure enable a rod which is light, responsive and has a powerful backbone. Ideal for casting stickbaits and diving pencils, this series is designed for kingfish and tuna anglers. The most versatile and comfortable model from the Explosion series. The 835CTR is perfect for anglers who want a balance between power, a comfortable fight and amazing action when working floating and sinking stickbaits. The complex action of the rod allows the user to work stickbaits with little effort by having a regular-fast tip action to absorb the initial shock when working stickbaits while having a fast tapered middle to back section to maintain tension with the lure. The backbone of this blank becomes noticeable around the middle of the rod which gives the angler an advantage when guiding fish to where you want. Boat casting Tuna/Kingfish Length: 8'3\" Line: PE # 4-6 Casting range: 40-100g Drag max: 12kg Guides : Fuji TITANIUM HYBRID PMNSG + KWSG Handmade in Japan",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 8'3\"",
+            "groups": [
+              "8",
+              "3"
+            ],
+            "position": 907
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 8",
+            "groups": [
+              "8"
+            ],
+            "position": 907
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE # 4-6",
+            "groups": [
+              "4",
+              "6"
+            ],
+            "position": 926
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Casting range: 40-100g",
+            "groups": [
+              "40",
+              "100"
+            ],
+            "position": 935
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "Drag max: 12kg",
+            "groups": [
+              "12"
+            ],
+            "position": 958
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-explosion-865hf",
+      "title": "MC Works Explosion 865HF",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "ght fish from 5 ~ 20kgs. Length: 8'6 ” Line: PE # 4-6 Cast: 60-110g Drag max: 12kg Guide:"
+        ],
+        "pe": [
+          "kgs. Length: 8'6 ” Line: PE # 4-6 Cast: 60-110g Drag max: 12kg Guide: Titanium Hybrid "
+        ],
+        "cast": [
+          "th: 8'6 ” Line: PE # 4-6 Cast: 60-110g Drag max: 12kg Guide: Titanium Hybrid PMNSG + KW"
+        ],
+        "drag": [
+          ": PE # 4-6 Cast: 60-110g Drag max: 12kg Guide: Titanium Hybrid PMNSG + KWSG guide Code: #22"
+        ],
+        "made_in": [
+          "butt section) & gunmetal Handmade in Japan"
+        ]
+      },
+      "flags": [],
+      "description_text": "The MC WORKS Explosion series incorporates a medium elastic multi-ply structure enable a rod which is light, responsive and has a powerful backbone. Ideal for casting stickbaits and diving pencils, this series is designed for kingfish and tuna anglers.An all rounder model that withstands good power with a drag max of 12kg whilst being balanced and easy to use. An ideal rod for swimming stickbaits and diving pencils with the strength to fight fish from 5 ~ 20kgs. Length: 8'6 ” Line: PE # 4-6 Cast: 60-110g Drag max: 12kg Guide: Titanium Hybrid PMNSG + KWSG guide Code: #2204EXP865HFSTD Colourway: Black x titanium pin stripes & pewter wrapping (butt section) & gunmetal Handmade in Japan",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 8'6 \"",
+            "groups": [
+              "8",
+              "6"
+            ],
+            "position": 467
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 8",
+            "groups": [
+              "8"
+            ],
+            "position": 467
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE # 4-6",
+            "groups": [
+              "4",
+              "6"
+            ],
+            "position": 487
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Cast: 60-110g",
+            "groups": [
+              "60",
+              "110"
+            ],
+            "position": 496
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "Drag max: 12kg",
+            "groups": [
+              "12"
+            ],
+            "position": 510
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-explosion-full-contact-843ctr",
+      "title": "MC Works Explosion Full Contact 843CTR",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "cifications : Type: Spin Length: 8’4” Line: PE2/4 Casting max: gr 20/60 Drag max: 6kg Gri"
+        ],
+        "pe": [
+          " Type: Spin Length: 8’4” Line: PE2/4 Casting max: gr 20/60 Drag max: 6kg Grips: EVA Guide"
+        ],
+        "cast": [
+          "Length: 8’4” Line: PE2/4 Casting max: gr 20/60 Drag max: 6kg Grips: EVA Guides:Fuji Taitanium"
+        ],
+        "drag": [
+          "/4 Casting max: gr 20/60 Drag max: 6kg Grips: EVA Guides:Fuji Taitanium"
+        ],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "The MC Works Explosion Full Contact EX843CTR is a lightweight, high-performance spinning rod designed for topwater casting. Built with a soft tip for easy pencil and stickbait manipulation, paired with a powerful progressive butt section. Engineered for high lift and heavy drag handling despite its slim, light blank profile, capable of handling fish over 10 kg. Specifications : Type: Spin Length: 8’4” Line: PE2/4 Casting max: gr 20/60 Drag max: 6kg Grips: EVA Guides:Fuji Taitanium",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 8'4\"",
+            "groups": [
+              "8",
+              "4"
+            ],
+            "position": 392
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 8",
+            "groups": [
+              "8"
+            ],
+            "position": 392
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE2/4",
+            "groups": [
+              "2",
+              "4"
+            ],
+            "position": 411
+          }
+        ],
+        "cast_range": [],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "Drag max: 6kg",
+            "groups": [
+              "6"
+            ],
+            "position": 439
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-raging-bull-104xxstd",
+      "title": "MC Works Raging Bull 104XX STD",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          " with the 104XX. POWER 9 LENGTH 10'4″ LINE PE#8-10 CAST 100-200G DRAG MAX 13KG"
+        ],
+        "pe": [
+          "XX. POWER 9 LENGTH 10'4″ LINE PE#8-10 CAST 100-200G DRAG MAX 13KG"
+        ],
+        "cast": [
+          "ENGTH 10'4″ LINE PE#8-10 CAST 100-200G DRAG MAX 13KG"
+        ],
+        "drag": [
+          "NE PE#8-10 CAST 100-200G DRAG MAX 13KG"
+        ],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "Introducing the MC Works Raging Bull 104XX STD Ultimate Rock Shore. With its monster-compatible design, this rod is perfect for veteran giant fish hunters in need of strength and reach. As the strongest model in RAGING BULL history, it's a must-have for any serious angler. Upgrade your fishing game with the 104XX. POWER 9 LENGTH 10'4″ LINE PE#8-10 CAST 100-200G DRAG MAX 13KG",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "LENGTH 10'4\"",
+            "groups": [
+              "10",
+              "4"
+            ],
+            "position": 324
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "LENGTH 1",
+            "groups": [
+              "1"
+            ],
+            "position": 324
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "LINE PE#8-10",
+            "groups": [
+              "8",
+              "10"
+            ],
+            "position": 337
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "CAST 100-200G",
+            "groups": [
+              "100",
+              "200"
+            ],
+            "position": 350
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "DRAG MAX 13KG",
+            "groups": [
+              "13"
+            ],
+            "position": 364
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-raging-bull-93xx-trident",
+      "title": "MC Works Raging Bull 93XX Trident",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "cifications : Type: Spin Length: 9’3” Line: PE8/10 Casting max: gr 200 Drag max: 13kg Gri"
+        ],
+        "pe": [
+          " Type: Spin Length: 9’3” Line: PE8/10 Casting max: gr 200 Drag max: 13kg Grips: EVA Guide"
+        ],
+        "cast": [
+          "ength: 9’3” Line: PE8/10 Casting max: gr 200 Drag max: 13kg Grips: EVA Guides: Fuji guides"
+        ],
+        "drag": [
+          "8/10 Casting max: gr 200 Drag max: 13kg Grips: EVA Guides: Fuji guides"
+        ],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "It is the xx model of the largest power class in the trident series, in terms of material configuration, it is a power-up version of the rb95sd. The split configuration is a grip joint + center 2 pieces, ensuring high strength. For expert anglers who aim for giant fish from the sea and embankments it is max power trident. Specifications : Type: Spin Length: 9’3” Line: PE8/10 Casting max: gr 200 Drag max: 13kg Grips: EVA Guides: Fuji guides",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 9'3\"",
+            "groups": [
+              "9",
+              "3"
+            ],
+            "position": 352
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 9",
+            "groups": [
+              "9"
+            ],
+            "position": 352
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE8/10",
+            "groups": [
+              "8",
+              "10"
+            ],
+            "position": 371
+          }
+        ],
+        "cast_range": [],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "Drag max: 13kg",
+            "groups": [
+              "13"
+            ],
+            "position": 398
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-rod-cb-98xs2-std",
+      "title": "MC Works Raging Bull 98XS2 STD",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "Specifications: Power: 8 Length: 9.8ft Line: PE#6-8 Cast: 80-150g Drag Max: 11kg Handmade"
+        ],
+        "pe": [
+          "shion big dives with the PE8 strength present towards the handle. The rod is easy t",
+          "seeking a more forgiving PE8 rod. Built from the experimental limited model Paganis",
+          "r: 8 Length: 9.8ft Line: PE#6-8 Cast: 80-150g Drag Max: 11kg Handmade in Japan."
+        ],
+        "cast": [
+          "ngth: 9.8ft Line: PE#6-8 Cast: 80-150g Drag Max: 11kg Handmade in Japan."
+        ],
+        "drag": [
+          "ne: PE#6-8 Cast: 80-150g Drag Max: 11kg Handmade in Japan."
+        ],
+        "made_in": [
+          ": 80-150g Drag Max: 11kg Handmade in Japan."
+        ]
+      },
+      "flags": [],
+      "description_text": "MC WORKS RAGING BULL 98 XS-2A model designed for topwater fishing with stickbaits and diving pencils. Features a soft tip to easily work stickbaits with a smoother mid section compared to other Raging Bull models to cushion big dives with the PE8 strength present towards the handle. The rod is easy to cast and with the slower taper that makes swimming stickbaits in rougher conditions easier. The blank has been designed to be more parabolic compared to other models in the Raging Bull series. This rod is targeted to anglers who are seeking a more forgiving PE8 rod. Built from the experimental limited model Paganism96Z-XR, the MC Works Raging Bull 98 XS-2 is a big game model developed with the hard rock shore game in mind. After extensive trials, it provides rod characteristics that allow for a stable and possible to run higher drag settings. A strong rod capable of preserving pressure even among anglers with lighter body masses. Specifications: Power: 8 Length: 9.8ft Line: PE#6-8 Cast: 80-150g Drag Max: 11kg Handmade in Japan.",
+      "candidates": {
+        "length_ftin": [],
+        "length_m": [
+          {
+            "raw": "Length: 9.8",
+            "groups": [
+              "9.8"
+            ],
+            "position": 966
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE#6-8",
+            "groups": [
+              "6",
+              "8"
+            ],
+            "position": 986
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Cast: 80-150g",
+            "groups": [
+              "80",
+              "150"
+            ],
+            "position": 993
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "Drag Max: 11kg",
+            "groups": [
+              "11"
+            ],
+            "position": 1007
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-rod-explosion-807-ctr-standard-model",
+      "title": "MC Works Explosion 807 CTR Standard Model",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "ior casting and control. Length : 8'0\" Line : PE #6-10 Cast: 80-150g Drag max: 18 kg Guide"
+        ],
+        "pe": [
+          "ol. Length : 8'0\" Line : PE #6-10 Cast: 80-150g Drag max: 18 kg Guide: Titanium Hybri"
+        ],
+        "cast": [
+          "h : 8'0\" Line : PE #6-10 Cast: 80-150g Drag max: 18 kg Guide: Titanium Hybrid PMNSG + K"
+        ],
+        "drag": [
+          ": PE #6-10 Cast: 80-150g Drag max: 18 kg Guide: Titanium Hybrid PMNSG + KWSG guide Handmade"
+        ],
+        "made_in": [
+          "ybrid PMNSG + KWSG guide Handmade in Japan"
+        ]
+      },
+      "flags": [],
+      "description_text": "The MC WORKS Explosion series incorporates a medium elastic multi-ply structure enable a rod which is light, responsive and has a powerful backbone. Ideal for casting stickbaits and diving pencils, this series is designed for kingfish and tuna anglers. With a higher PE rating and wide casting range, the 807CTR is the perfect model for anglers seeking a powerful rod to handle monstrous kingfish and GT’s. The blank enables a comfortable yet powerful fight with an ease of manoeuvrability. The rod will swim lures accurately in addition to superior casting and control. Length : 8'0\" Line : PE #6-10 Cast: 80-150g Drag max: 18 kg Guide: Titanium Hybrid PMNSG + KWSG guide Handmade in Japan",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length : 8'0\"",
+            "groups": [
+              "8",
+              "0"
+            ],
+            "position": 571
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length : 8",
+            "groups": [
+              "8"
+            ],
+            "position": 571
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE #6-10",
+            "groups": [
+              "6",
+              "10"
+            ],
+            "position": 592
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Cast: 80-150g",
+            "groups": [
+              "80",
+              "150"
+            ],
+            "position": 601
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "Drag max: 18 kg",
+            "groups": [
+              "18"
+            ],
+            "position": 615
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-slow-hand-all-that-tuna-sh729tsz",
+      "title": "MC Works Slow Hand All That Tuna SH729TSZ",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "L BE A HIGH-POWER MODEL. LENGTH 7'2′′ LINE PE #10-12 CAST RANGE 150-250G DRAG MAX 25KG"
+        ],
+        "pe": [
+          "OWER MODEL. LENGTH 7'2′′ LINE PE #10-12 CAST RANGE 150-250G DRAG MAX 25KG"
+        ],
+        "cast": [
+          "GTH 7'2′′ LINE PE #10-12 CAST RANGE 150-250G DRAG MAX 25KG"
+        ],
+        "drag": [
+          "0-12 CAST RANGE 150-250G DRAG MAX 25KG"
+        ],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "HIGH-TORQUE FAST TAPER TSZ WITH A VIEW TO THE 200KG CLASS. DEPENDING ON THE USER, IT IS POSSIBLE TO ACHIEVE A SHORT FIGHT TIME IT WILL BE A HIGH-POWER MODEL. LENGTH 7'2′′ LINE PE #10-12 CAST RANGE 150-250G DRAG MAX 25KG",
+      "candidates": {
+        "length_ftin": [],
+        "length_m": [
+          {
+            "raw": "LENGTH 7",
+            "groups": [
+              "7"
+            ],
+            "position": 158
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "LINE PE #10-12",
+            "groups": [
+              "10",
+              "12"
+            ],
+            "position": 171
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "CAST RANGE 150-250G",
+            "groups": [
+              "150",
+              "250"
+            ],
+            "position": 186
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "DRAG MAX 25KG",
+            "groups": [
+              "25"
+            ],
+            "position": 206
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-x-fish-trippers-village-barbaro-788",
+      "title": "MC Works X Fish Trippers Village Barbaro 788",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "stickbaitds and poppers. LENGTH: 7'8 ” LINE PE: # 8 ~ 12 LURE MAX: 300g DRAG MAX: 20KG Ha"
+        ],
+        "pe": [],
+        "cast": [
+          " 7'8 ” LINE PE: # 8 ~ 12 LURE MAX: 300g DRAG MAX: 20KG Handmade in Japan."
+        ],
+        "drag": [
+          " # 8 ~ 12 LURE MAX: 300g DRAG MAX: 20KG Handmade in Japan."
+        ],
+        "made_in": [
+          "MAX: 300g DRAG MAX: 20KG Handmade in Japan."
+        ]
+      },
+      "flags": [],
+      "description_text": "Experience the power of the MC Works X Fish Trippers Village collaboration rod based off the MC Works EXPLOSION Full Contact 818CTR, designed for conquering large fish such as GT, Kingfish, and tuna in both fast-paced and extended battles. This expedition-sized XXL rod is lauded as the ultimate utility rod, boasting unparalleled castability, fighting performance, and reduced strain on the angler. What is also unique with this rods is that they are good for stickbaitds and poppers. LENGTH: 7'8 ” LINE PE: # 8 ~ 12 LURE MAX: 300g DRAG MAX: 20KG Handmade in Japan.",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "LENGTH: 7'8 \"",
+            "groups": [
+              "7",
+              "8"
+            ],
+            "position": 486
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "LENGTH: 7",
+            "groups": [
+              "7"
+            ],
+            "position": 486
+          }
+        ],
+        "pe_range": [],
+        "cast_range": [],
+        "cast_max": [
+          {
+            "raw": "LURE MAX: 300g",
+            "groups": [
+              "300"
+            ],
+            "position": 518
+          }
+        ],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "DRAG MAX: 20KG",
+            "groups": [
+              "20"
+            ],
+            "position": 533
+          }
+        ]
+      }
+    },
+    {
+      "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+      "title": "MC Works x Fish Trippers Village Orquesta 759\\7106",
+      "variant_count": 2,
+      "evidence": {
+        "length": [
+          "ations 759SH: Type: Spin Length: 7’5” Line: Max PE12 Casting max: 250g Drag max: 25kg Gri",
+          "tions 7106SH: Type: Spin Length: 7’10” Line: Max PE8 Casting max: 180g Drag max: 15kg Gri"
+        ],
+        "pe": [
+          "n Length: 7’5” Line: Max PE12 Casting max: 250g Drag max: 25kg Grips: EVA Guides:Fu",
+          " Length: 7’10” Line: Max PE8 Casting max: 180g Drag max: 15kg Grips: EVA Guides:Fuj"
+        ],
+        "cast": [
+          "gth: 7’5” Line: Max PE12 Casting max: 250g Drag max: 25kg Grips: EVA Guides:Fuji guides Specif",
+          "gth: 7’10” Line: Max PE8 Casting max: 180g Drag max: 15kg Grips: EVA Guides:Fuji guides"
+        ],
+        "drag": [
+          "x PE12 Casting max: 250g Drag max: 25kg Grips: EVA Guides:Fuji guides Specifications 7106SH",
+          "ax PE8 Casting max: 180g Drag max: 15kg Grips: EVA Guides:Fuji guides"
+        ],
+        "made_in": [
+          " and big yellowfin tuna. Handmade in Japan. Specifications 759SH: Type: Spin Length: 7’5” Line: M"
+        ]
+      },
+      "flags": [],
+      "description_text": "The MC Works x Fish Trippers Village Orquestra 7106 is a collaboration between MC WORKS & Fish Trippers Village Japan. Two boutique Japanese fishing brands both creating art in the fishing scene. The Slow Hand boat casting rods have been built for anglers who seek maximum casting distance, whilst also being able to control lures through rough waters. The rod is flexible enough at the tip to cast lures on a crowded boat, whilst also being versatile and responsive enough to swim lures through difficult conditions without losing the ability to fight big fish in close to the boat with a powerful backbone strength. The Slow Hand 7106 is not the longest rod, but will still give the angler maximum casting distance whilst having more control with larger fish next to the boat. The MC Works x Fish Trippers Village Orquestra 759 Tuna is the strongest model in the Trippers lineup, engineered specifically for targeting large bluefin tuna, including fish up to 200kg. It combines high-end features with excellent lure manoeuvrability and designed to make hook setting a breeze on trophy fish. The entire blank flexes to absorb the fish’s power to reduce anglers fatigue when fighting larger tuna. The rod’s flexible action and strong butt section work in harmony to tire the fish efficiently. This is achieved through low-resilience materials and a distinctive taper, making it an optimal rod for those with less physical strength who want to chase their trophy catch. The flexible blank on the Orquestra 759 is equally capable of handling large kingfish, GT and big yellowfin tuna. Handmade in Japan. Specifications 759SH: Type: Spin Length: 7’5” Line: Max PE12 Casting max: 250g Drag max: 25kg Grips: EVA Guides:Fuji guides Specifications 7106SH: Type: Spin Length: 7’10” Line: Max PE8 Casting max: 180g Drag max: 15kg Grips: EVA Guides:Fuji guides",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 7'5\"",
+            "groups": [
+              "7",
+              "5"
+            ],
+            "position": 1635
+          },
+          {
+            "raw": "Length: 7'10\"",
+            "groups": [
+              "7",
+              "10"
+            ],
+            "position": 1760
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 7",
+            "groups": [
+              "7"
+            ],
+            "position": 1635
+          },
+          {
+            "raw": "Length: 7",
+            "groups": [
+              "7"
+            ],
+            "position": 1760
+          }
+        ],
+        "pe_range": [],
+        "cast_range": [],
+        "cast_max": [
+          {
+            "raw": "Casting max: 250g",
+            "groups": [
+              "250"
+            ],
+            "position": 1663
+          },
+          {
+            "raw": "Casting max: 180g",
+            "groups": [
+              "180"
+            ],
+            "position": 1788
+          }
+        ],
+        "drag_rec": [],
+        "drag_max": [
+          {
+            "raw": "Drag max: 25kg",
+            "groups": [
+              "25"
+            ],
+            "position": 1681
+          },
+          {
+            "raw": "Drag max: 15kg",
+            "groups": [
+              "15"
+            ],
+            "position": 1806
+          }
+        ]
+      }
+    },
+    {
+      "handle": "rodcom-straight-shore-ss-10015-sf047y",
+      "title": "Rodcom Straight Shore Ss-100/15 /Sf047Y",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          " butt cap is made of BRC Total length (m): 3.04 Number of joints (pieces): 2 Weight (g): 394 Lure J"
+        ],
+        "pe": [
+          "0-150 Lure Piug±20g: 100 Line (PE size): 5-8 Drag Max (kg): 10 Power: XH Action (condition): Fast"
+        ],
+        "cast": [
+          "eces): 2 Weight (g): 394 Lure Jig: 80-150 Lure Piug±20g: 100 Line (PE size): 5-8 Drag Max ("
+        ],
+        "drag": [],
+        "made_in": [
+          "t Tip diameter (mm): 3.0 Made in Japan"
+        ]
+      },
+      "flags": [],
+      "description_text": "Uses high-quality, high-elasticity carbon prepreg Anglers say it's light when they hold it Lightweight design with balanced technology and a cast that gives a good feeling of swinging, providing maximum rod performance. Guide Mainly uses titanium frame K series guides Sharp casts and increased distance. Guide setting considering the texture and action of the blank Double lock nut seat Double nut system with special anti-rust paint finish Back stop mechanism is used to minimize loosening. The butt cap is made of BRC Total length (m): 3.04 Number of joints (pieces): 2 Weight (g): 394 Lure Jig: 80-150 Lure Piug±20g: 100 Line (PE size): 5-8 Drag Max (kg): 10 Power: XH Action (condition): Fast Tip diameter (mm): 3.0 Made in Japan",
+      "candidates": {
+        "length_ftin": [],
+        "length_m": [
+          {
+            "raw": "Total length (m): 3.04 ",
+            "groups": [
+              "3.04"
+            ],
+            "position": 521
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "Line (PE size): 5-8",
+            "groups": [
+              "5",
+              "8"
+            ],
+            "position": 625
+          }
+        ],
+        "cast_range": [],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "truth-ocean-sprinter-7510-standard-black-model-",
+      "title": "Truth Ocean Sprinter 7510 - standard black model",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "an master with effort. · Length: 7ft5inch · Closed Length: 155.5㎝ · Weight: 395g ( #1 : 1",
+          "ength: 7ft5inch · Closed Length: 155.5㎝ · Weight: 395g ( #1 : 173g #2 : 222g ) · Tip Dia."
+        ],
+        "pe": [
+          "6mm · Butt Dia: 12.0mm · Pe: Pe8-10 · Lure: 100-250g · Pieces: 2 · Guide: All stainless"
+        ],
+        "cast": [
+          "a: 12.0mm · Pe: Pe8-10 · Lure: 100-250g · Pieces: 2 · Guide: All stainless, PMNST16 / P"
+        ],
+        "drag": [],
+        "made_in": [
+          "SG25 / PMNSG30 / PMNSG40 Made in Japan"
+        ]
+      },
+      "flags": [],
+      "description_text": "Challenging large GTs hidden in shallow, torrent areas A short length setting that makes it easier for anglers to apply high loads and even endure the intense follow from boats on unstable decks. Rod power that anglers of average physique (physical strength) can master with effort. · Length: 7ft5inch · Closed Length: 155.5㎝ · Weight: 395g ( #1 : 173g #2 : 222g ) · Tip Dia.: 3.6mm · Butt Dia: 12.0mm · Pe: Pe8-10 · Lure: 100-250g · Pieces: 2 · Guide: All stainless, PMNST16 / PMNSG16 / PMNSG20 / PMNSG25 / PMNSG30 / PMNSG40 Made in Japan",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 7ft5inch",
+            "groups": [
+              "7",
+              "5"
+            ],
+            "position": 285
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 7",
+            "groups": [
+              "7"
+            ],
+            "position": 285
+          },
+          {
+            "raw": "Length: 1",
+            "groups": [
+              "1"
+            ],
+            "position": 311
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "Pe8-10",
+            "groups": [
+              "8",
+              "10"
+            ],
+            "position": 408
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Lure: 100-250g",
+            "groups": [
+              "100",
+              "250"
+            ],
+            "position": 417
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "truth-ocean-sprinter-8110",
+      "title": "Truth Ocean Sprinter 8110",
+      "variant_count": 1,
+      "evidence": {
+        "length": [],
+        "pe": [
+          "500 to 7000) Recommended line: PE8 to 10 (appropriate drag load ~ 15 kg) Recommended lure"
+        ],
+        "cast": [
+          "oad ~ 15 kg) Recommended lure: 100g to 270g This model is also related to the weight of"
+        ],
+        "drag": [],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "Encounters with large fish come suddenly. A powerful run that cannot be stopped even with a high load. I think that \"stickiness\" and \"honest bend curve\" are necessary to catch the large fish. This is even more so in the time and rapids shallow areas. As the load is applied, it draws a smooth bend curve and is designed so that it does not cause a sudden change in tension to the fish. In this way, the load fluctuation for anglers is reduced, and stable pressure can be applied to the fish throughout. In addition, by achieving these, it is possible to obtain excellent performance in terms of casting, and it is possible to surprisingly reduce the burden on the body from small to large lures. 8ft1inch (regular taper) Rod weight: 392g Recommended reel: STELLA18000HG (compatible with STELLA14000XG SALTIGA5500 to 7000) Recommended line: PE8 to 10 (appropriate drag load ~ 15 kg) Recommended lure: 100g to 270g This model is also related to the weight of the angler. It is recommended to weigh more than 70 kilos, but even if you are small, you can fight with your weight firmly. You can show your rod power. Those who want to put a higher load than #8, those who like a strong cast feeling, and popper while using a pencil (e.g. can be used up to HAMMERHEAD Gcup, but it is not a feeling of playing, but a feeling of use that is entangled in water It is. A model recommended for those who also want to use small-caliber poppers such as EXTREMELURE DEKAGERO and various actions are possible), and those who want to pull the GT firmly while bending flexibly in fighting. It is. It is an honest taper that responds relatively flexibly to sudden rushes, so it is a model that can be recommended to those who have been afraid of challenging with high loads so far, and it is possible to continue to apply high loads easily. ( Around 15 kilometers, 18 kilometers in the intense basin in the test) Of course, it is finished with a feeling that even those who do not fight with a high load and those with general physique can master the feeling of using it all day long. Compared to #8, it is a regular taper, so you need some arm strength when throwing a large lure, but you can easily cast up to 170g. *In the description, it seems to be a hard image compared to #8, but it is by no means a hard one, but a mild type. It is a model that can be used not only for GTs, but also for large Hiramasa, but if there is a fish directly below, it will be a corresponding power balance by lowering the waist, so I think it is necessary to consider the height of the pole and the standing position when used in Hiramasa. Su. If the fish is far away, you can stand up the rod firmly and respond. It is recommended for targets who can compete in a short time (within 15 minutes). From this point of view, I think you can understand the performance of the rod.",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "8ft1inch",
+            "groups": [
+              "8",
+              "1"
+            ],
+            "position": 696
+          }
+        ],
+        "length_m": [],
+        "pe_range": [],
+        "cast_range": [],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "truth-ocean-sprinter-838",
+      "title": "Truth Ocean Sprinter 838",
+      "variant_count": 1,
+      "evidence": {
+        "length": [],
+        "pe": [
+          "GA5500・6000) Recommended line: PE6 to 8 (appropriate drag load ~ 13 kg) Recommended lure:"
+        ],
+        "cast": [
+          "oad ~ 13 kg) Recommended lure: 80g to 220g Do not choose the type of lure Diving pencil"
+        ],
+        "drag": [],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "The development concept that can be said in common with the OceanSprinter series is that the ease of fishing and the original lifting power of the rod are the first. Encounters with large fish come suddenly. A powerful run that cannot be stopped even with a high load. I think that \"stickiness\" and \"honest bend curve\" are necessary to catch the large fish. This is even more so in the time and rapids shallow areas. As the load is applied, it draws a smooth bend curve and is designed so that it does not cause a sudden change in tension to the fish. In this way, the load fluctuation for anglers is reduced, and stable pressure can be applied to the fish throughout. In addition, by achieving these, it is possible to obtain excellent performance in terms of casting, and it is possible to surprisingly reduce the burden on the body from small to large lures. 8ft3inch regular (slightly slow) taper Rod weight: 385g Recommended reel: STELLA 14000XG (compatible with STELLA18000HG SALTIGA5500・6000) Recommended line: PE6 to 8 (appropriate drag load ~ 13 kg) Recommended lure: 80g to 220g Do not choose the type of lure Diving pencil Diving popper (easy to tangle even in places with fast flow / NativeWorks Napalm220) Popper (e.g. can be used up to HAMMERHEAD Dcup, but play It's not a feeling like that, but a feeling of being entangled in water. The water entanglement and operation of the small-caliber popper are also outstanding.) A highly versatile model that can be handled widely even by advanced users. It is possible to throw and operate easily all day long. It feels like riding on the body, but there is no tip blur that you are worried about when casting, so it is comfortable even when fishing against (~130g) Although it is sharp when casting, it is easy to put the lure on, and the casting of a lure of nearly 200g is surprisingly easy, so it is possible to continue casting all day even with 200g. In the fight, while accepting the GT pull flexibly, it always continues to exert pressure, so it is possible to raise it very easily. In addition to the GT, it is a very wide model that can accommodate large tuna up to the 50-kilogram class of tuna.",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "8ft3inch",
+            "groups": [
+              "8",
+              "3"
+            ],
+            "position": 862
+          }
+        ],
+        "length_m": [],
+        "pe_range": [],
+        "cast_range": [],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "truth-oceansprinter-711-rs",
+      "title": "Truth Ocean sprinter 711RS",
+      "variant_count": 1,
+      "evidence": {
+        "length": [],
+        "pe": [],
+        "cast": [],
+        "drag": [],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "This model offers a sharp casting feeling, outstanding distance, manual operation feel and speedy lift. For anglers who prefer a faster action. The current OceanSprinter 838/8110 was developed with the primary focus on ease of catching fish and ease of control. The new 711 is designed for ease of casting and operability, especially for poppers (HAMMERHEAD C/D/E and other diving poppers (HAMMERHEAD Jakure / NativeWorks The tone is specialized for the operability of Napalm 220, 250, etc. Of course, with ingenuity and fine-tuning on the angler's side, it can also be used for diving pencil operation. The blank repulsion has been increased, improving the response of manual operation of lures and other actions. It is set to a short length so that it can be used comfortably for long periods of time. After a hit, the blank repulsion is used to create a tone that can handle faster developments. The degree of completion is high from the prototype No. 1, and in 2019, we have been fishing in various fields with the help of our collaborators. There is no room for improvement in the development concept, and it has been completed as a wonderful model. As you can imagine, when casting, the release point and sweet spot are also narrow. (Personally, I think that around 140g is the easiest and most comfortable way to cast.) If you are confident in your strength, you can cast it further than the indication below. It is also possible to perform a diving pencil action that cannot be expressed with a soft tip. I feel that it is also effective for casting yellowtail that preys on large bait. (RS: response It is an abbreviation for \"Reaction\", \"Response\", and \"Good response!\". Note: Although it is a hard and resilient blank, it is not as sticky as the WhiteInsight series, so please be careful not to stand it up too much when fighting directly below.",
+      "candidates": {
+        "length_ftin": [],
+        "length_m": [],
+        "pe_range": [],
+        "cast_range": [],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "truth-oceansprinter-856",
+      "title": "Truth Ocean Sprinter 856",
+      "variant_count": 1,
+      "evidence": {
+        "length": [],
+        "pe": [
+          "asting to kingfish using PE5/6. It is the sharpest model in the series and is the o",
+          " SALTIGA5500 Recommended line: PE5-6 (suitable drag load ~11kg) Recommended lure: 30g-130",
+          "f about 10 minutes using PE6. (Please use it when you need to fight for a long time"
+        ],
+        "cast": [
+          " load ~11kg) Recommended lure: 30g-130g (up to 100g can be cast firmly. For lures close"
+        ],
+        "drag": [],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "It is both \"light\" to cast an d opera te and \"tenacity\" after hooking. It is extremely easy to use for casting to yellowfin tuna up to 40kg class and casting to kingfish using PE5/6. It is the sharpest model in the series and is the one that the development staff uses most frequently for casting to kingfish and yellowfin tuna. The common development con cep t for t he OceanSprinter series is that the ease of catching fish and the inherent lifting power of the rod are the most important. An encounter with a large fish can come suddenly. A powerful run that cannot be stopped even under high load. In order to catch such a large fish, we believe that \"tenacity\" and a \"straightforward bend curve\" are necessary. This is especially true in stormy or shallow areas with strong currents. The rod is designed to draw a straight bend curve as the load increases, so that the tension on the fish does not change suddenly. This reduces the load fluctuation for the angler, allowing the angler to continue applying stable pressure to the fish from start to finish. Furthermore, by achieving these, we have achieved excellent casting performance, and it has become possible to reduce the burden on the body from small to large lures. Recommended reel: STELLA 14000XG / SALTIGA5500 Recommended line: PE5-6 (suitable drag load ~11kg) Recommended lure: 30g-130g (up to 100g can be cast firmly. For lures close to 130g, cast it by placing it on the rod for easier and more comfortable casting) Tested for casting yellowfin tuna in the Goto Islands, Nagasaki and northern Kyushu, and for luring yellowfin tuna off the coast of Mie Prefecture. This model can handle everything from sardine patterns to dolphin fish patterns. Compared to the 838/8110 and models, it puts less strain on the body, so it has a sharper feeling while still having some tenacity, so you can cast more easily through the wind even for long periods of time or against the wind. (up to 100g) This model is also very useful for luring yellowfin tuna up to 40kg. *Regarding the fighting position We do not recommend using the gimbal belt in a low position. This model does not require the use of a gimbal belt when the fight is decided in a short time of about 10 minutes using PE6. (Please use it when you need to fight for a long time, such as with tuna over 40 kg.) When fighting, do not stand too upright, but maintain an angle that puts load on the butt part, and you can draw out the lift power of the blank. Laying it down puts more strain on the body, but also increases the pressure on the fish. There are various factors such as the fight time and the size of the fish, so please respond according to the situation. (There is a possibility that the fish will come off when fixing the rod end to the gimbal belt. Also, fixing the rod end may slow down the response to sudden movements of the fish.)",
+      "candidates": {
+        "length_ftin": [],
+        "length_m": [],
+        "pe_range": [
+          {
+            "raw": "PE5/6",
+            "groups": [
+              "5",
+              "6"
+            ],
+            "position": 176
+          },
+          {
+            "raw": "PE5-6",
+            "groups": [
+              "5",
+              "6"
+            ],
+            "position": 1294
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "lure: 30g-130g",
+            "groups": [
+              "30",
+              "130"
+            ],
+            "position": 1339
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "truth-white-insight-611-12",
+      "title": "Truth White Insight 611 12",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "nsight 7210/7610/61112 · Length: 6ft 11inch（2m11㎝） · Weight: 475g · Tip Dia. / Butt Dia. "
+        ],
+        "pe": [
+          "tt Dia. : 3.2mm / 14mm · Pe: PE8-12 · Lure: 80-250g · Guide: All Stainless PMNST16/PMNS"
+        ],
+        "cast": [
+          "mm / 14mm · Pe: PE8-12 · Lure: 80-250g · Guide: All Stainless PMNST16/PMNSG16/PMNSG20/P"
+        ],
+        "drag": [],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "Patible with 100 kg over bluefin tuna and large yellowfin tuna. 1pc rod with further enhanced breaking strength, short length model aim for over 100kg in the Strait! It enables you to fight for a long time while continuing to give pressure and long-distance castability required for outstanding line omission and invitation. Guideline for models to be used by size of tuna～30km OceanSprinter844 / 856 WhiteInsight828～50km OceanSprinter856/838/8110 WhiteInsight828/801050 km ~ WhiteInsight828/8010/7210/7610/61112Torrent waters: WhiteInsight 7210/7610/61112 · Length: 6ft 11inch（2m11㎝） · Weight: 475g · Tip Dia. / Butt Dia. : 3.2mm / 14mm · Pe: PE8-12 · Lure: 80-250g · Guide: All Stainless PMNST16/PMNSG16/PMNSG20/PMNSG25/PMNSG30/PMNSG40 The rear grip is set to be about 20mm longer than the Ocean Sprinter 838/8110, and it is also compatible with style belts that specialize in long-term fights with tuna. It is about 505mm from the reel foot center to the end. Recommended size Yellowfin tuna 100 kg~Yellowfin tuna compatible models (reference) · ~ 30 km : OceanSprinter844 / 856 WhiteInsight828 · ~ 50 km : OceanSprinter856 / 838 / 8110 WhiteInsight828 / 8010 · 50 kg ~ : WhiteInsight828 / 8010 / 7210 / 7610 / 61112Proto · Torrent sea area: WhiteInsight 7210/7610/61112 Proto (It does not mean that WI828 is stronger than OS838, but it is a guideline based on the balance between longer fight time and drag tension)",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 6ft 11inch",
+            "groups": [
+              "6",
+              "11"
+            ],
+            "position": 559
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 6",
+            "groups": [
+              "6"
+            ],
+            "position": 559
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE8-12",
+            "groups": [
+              "8",
+              "12"
+            ],
+            "position": 644
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Lure: 80-250g",
+            "groups": [
+              "80",
+              "250"
+            ],
+            "position": 653
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "truth-white-insight-7210-custom-red",
+      "title": "Truth White Insight 7210 Custom Red",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          " lifting it firmly. Spec Length: 7ft2inch (2m19cm) Weight: 391g (#1: 163g #2 grip: 228g) "
+        ],
+        "pe": [
+          " a model that can handle PE10 high drag, so the angler needs to conserve his physic",
+          " to cover both legs. The PE12 compatible model is being developed with a shorter le",
+          "lity required for luring PE10 compatible fish and has an additional 20% increase in"
+        ],
+        "cast": [
+          "2 grip: 228g) Pe: 8 - 10 Lure: 60 - 250g Guide: PMNST16-PMNSG40 Two types with differen"
+        ],
+        "drag": [],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "Suitable for casting games of bluefin tuna and large yellowfin tuna in the Tsugaru Strait. Compatible with PE10. Suitable for bluefin tuna over 100kg. Recommended for those who are trying to catch bluefin tuna in the Tsugaru Strait for the first time, and for small people. A short length model with less burden. Suitable for lures used in sardine patterns and large dolphin fish patterns. With a tone that can withstand long, high-load fights and bat power that can keep putting pressure on the circling bluefin tuna and lifting it firmly. Spec Length: 7ft2inch (2m19cm) Weight: 391g (#1: 163g #2 grip: 228g) Pe: 8 - 10 Lure: 60 - 250g Guide: PMNST16-PMNSG40 Two types with different power (No1 / No2 (No1 has been strengthened overall)) were produced from the first prototype, and actual fishing began. Regarding the guide settings, with the cooperation of the people involved, we repeatedly cast various lures in the Tokara Islands, bluefin tuna in the Tsugaru Strait, overseas fields, etc., and after making only small changes, we were able to come up with a satisfactory setting . The guide settings were designed to take advantage of both the PE10 and the large-diameter spool to reduce line thrashing, and the guide settings to make the most of the lift power. Initially, we were using a concept of line compatible with 12, but after repeatedly fighting sharks and GTs with a live horse mackerel, we realized that the power balance of PE12 was a little light for both blanks. However, the casting performance of various lures, the bending, strength, and lightness of the blank that continues to put pressure on the target with the least burden on the angler, and the overall balance, it was a model with the high level of completion that we were looking for. After fighting with various fish, we were convinced that the PE10 tension is suitable for this 72 length and this tone. We tested this 72 model with PE10. During a fishing trip to Yonaguni in January 2020, we caught two marlin with No1 and one with No2. Although there are some differences from fighting with bluefin tuna, it was an excellent test subject for checking the blank condition, such as the load on the angler and lift power. The thorough differences between No1 and No2 were also revealed. (See the video link below.) Including these points, we have reaffirmed that No2 has a good balance in various ways with PE10, and have decided to proceed with it as a release model. The WhiteInsight 7210 is a model that targets bluefin tuna and large yellowfin tuna, and the fighting time can last several hours. Moreover, it is a model that can handle PE10 high drag, so the angler needs to conserve his physical strength, and the fighting style is different from other models. The OceanSprinter 8110 , which is in the same PE class, feels like you are lowering your hips and lifting up by bending and stretching your legs without standing the rod too high. If you have strength and weight, you can use the lifting power of the rod with just your arms. The position of the waist belt where you insert the rod end is located just above the crotch. However, the fight time is limited to around 15 minutes. (This model is suitable for GT and yellowtail that will win in one go.) On the other hand, the biggest advantage of the WhiteInsight7210 is that it reduces the consumption of arm strength, back strength, and grip strength by bending the rod upright and placing the fulcrum in front of you, and releasing the load on the rod to the rod end. (See the first to eighth images below. Or watch the YouTube video of Yonaguni.) When the rod is upright, the load is concentrated on the rod end, and the load is placed on the waist belt through the rod belt. For this reason, a rod belt that hangs from the waist belt (a Souls product was used during testing) is necessary. This leads to a decrease in back strength and leg strength, so hold the rod lightly without lowering your waist more than necessary. If your grip strength decreases, you should hold the rod with your elbow, or remove the rod end from the belt and take a break with your armpits bent. It's a long, fierce fight that you don't know when it will end, so it's best to approach it as if you were running a long distance. (This is a fighting style that is also suitable for WhiteInsight8010.) (GT and yellowtail are short-distance races that decide the outcome in one go. OceanSprinter838/8110/711RS/7510NL) Note: Although the rod is made of carbon material that is stronger than the OceanSprinter series in terms of breaking strength, the rod can still be damaged if handled incorrectly. In particular, if the tuna turns widely and goes under the boat, which is likely to happen just before landing, do not keep the rod upright, but remove the rod end from the belt and change the side to deal with it. Regarding the gimbal belt: In the test, we used one made by Souls. We also use TT BELT from MC Works. In that case, we change it to a hanging type from the waist in combination with SANSUI's original Super Urethane Back Saver Belt SW (waist belt). In any case, please use a strong and reliable gimbal belt that is large enough to cover both legs. The PE12 compatible model is being developed with a shorter length, and has already moved from Proto No. 1 to No. 2 (April 2021). Actual fishing tests have been conducted since spring 2020. Released as WhiteInsight 61112 (2022). In addition, we have developed and released the WhiteInsight 7610, which has improved the long-distance casting ability required for luring PE10 compatible fish and has an additional 20% increase in power, making it recommended for anglers who are used to fighting. (July 2021) Recommended usage for tuna by size Up to 30kg OceanSprinter844 / 856 WhiteInsight828 Up to 50kg OceanSprinter856 / 838 / 8110 WhiteInsight828 / 8010 50kg and up WhiteInsight828 / 8010 / 7210 100kg and up WhiteInsight7210 / 7610/ 61112 (WI828 is not stronger than OS838, but is a guideline based on the balance between longer fight time and drag tension) About Tsugaru Strait compatible models WhiteInsight7210 For those tuna fishing in the strait for the first time, small anglers, small boats WhiteInsight7610 For anglers who are used to fighting, also suitable for size 12 (in this case, be careful not to tie directly below and use straight fights frequently) WhiteInsight61112 It is possible to take on a higher load than the 7610 and has a higher breaking strength, but because it is a one-piece structure, the lift power is inferior to the 7610, but the physical burden is less. *The 7210/7610 can also handle size 12, but when it is directly below or goes under the boat, you should use side grips to fight straight. Of course, when the 61112 goes under the boat, you should also use side grips. We have also tried and tested the 7210 and bait casting models and have rod setting data. As shown in the image below, we have caught several small-class tuna, GT and yellowtail, but the line capacity and drag performance of the bait reel used in the test cannot be said to be able to handle bluefin tuna over 100 kg. We will need to choose a new reel, which will be a challenge for the future. *When it comes to GT casting and yellowtail casting, there are some effective points such as casting and operating large lures and high drag pressure with a short rod. We would like to express our sincere gratitude to everyone who cooperated with the test development. *The 4th, 5th, 6th, 7th and 8th images below are the No.1 blank (a little lighter). The rest are the release model No.2 blanks. (I also use this 7210 for GT casting. It is easy to cast and operate large lures, and when you hit it, you can apply high pressure and catch it easily. Since it is a tuna rod, please think of it as one way of using it.)",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 7ft2inch",
+            "groups": [
+              "7",
+              "2"
+            ],
+            "position": 546
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 7",
+            "groups": [
+              "7"
+            ],
+            "position": 546
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "Pe: 8 - 10",
+            "groups": [
+              "8",
+              "10"
+            ],
+            "position": 610
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Lure: 60 - 250g",
+            "groups": [
+              "60",
+              "250"
+            ],
+            "position": 621
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "truth-white-insight-7210-standard-black-model-",
+      "title": "Truth White Insight 7210 - standard black model",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          " lifting it firmly. Spec Length: 7ft2inch (2m19cm) Weight: 391g (#1: 163g #2 grip: 228g) "
+        ],
+        "pe": [
+          " a model that can handle PE10 high drag, so the angler needs to conserve his physic",
+          " to cover both legs. The PE12 compatible model is being developed with a shorter le",
+          "lity required for luring PE10 compatible fish and has an additional 20% increase in"
+        ],
+        "cast": [
+          "2 grip: 228g) Pe: 8 - 10 Lure: 60 - 250g Guide: PMNST16-PMNSG40 Two types with differen"
+        ],
+        "drag": [],
+        "made_in": []
+      },
+      "flags": [],
+      "description_text": "Suitable for casting games of bluefin tuna and large yellowfin tuna in the Tsugaru Strait. Compatible with PE10. Suitable for bluefin tuna over 100kg. Recommended for those who are trying to catch bluefin tuna in the Tsugaru Strait for the first time, and for small people. A short length model with less burden. Suitable for lures used in sardine patterns and large dolphin fish patterns. With a tone that can withstand long, high-load fights and bat power that can keep putting pressure on the circling bluefin tuna and lifting it firmly. Spec Length: 7ft2inch (2m19cm) Weight: 391g (#1: 163g #2 grip: 228g) Pe: 8 - 10 Lure: 60 - 250g Guide: PMNST16-PMNSG40 Two types with different power (No1 / No2 (No1 has been strengthened overall)) were produced from the first prototype, and actual fishing began. Regarding the guide settings, with the cooperation of the people involved, we repeatedly cast various lures in the Tokara Islands, bluefin tuna in the Tsugaru Strait, overseas fields, etc., and after making only small changes, we were able to come up with a satisfactory setting . The guide settings were designed to take advantage of both the PE10 and the large-diameter spool to reduce line thrashing, and the guide settings to make the most of the lift power. Initially, we were using a concept of line compatible with 12, but after repeatedly fighting sharks and GTs with a live horse mackerel, we realized that the power balance of PE12 was a little light for both blanks. However, the casting performance of various lures, the bending, strength, and lightness of the blank that continues to put pressure on the target with the least burden on the angler, and the overall balance, it was a model with the high level of completion that we were looking for. After fighting with various fish, we were convinced that the PE10 tension is suitable for this 72 length and this tone. We tested this 72 model with PE10. During a fishing trip to Yonaguni in January 2020, we caught two marlin with No1 and one with No2. Although there are some differences from fighting with bluefin tuna, it was an excellent test subject for checking the blank condition, such as the load on the angler and lift power. The thorough differences between No1 and No2 were also revealed. (See the video link below.) Including these points, we have reaffirmed that No2 has a good balance in various ways with PE10, and have decided to proceed with it as a release model. Regarding the fighting style The WhiteInsight 7210 is a model that targets bluefin tuna and large yellowfin tuna, and the fighting time can last several hours. Moreover, it is a model that can handle PE10 high drag, so the angler needs to conserve his physical strength, and the fighting style is different from other models. The OceanSprinter 8110 , which is in the same PE class, feels like you are lowering your hips and lifting up by bending and stretching your legs without standing the rod too high. If you have strength and weight, you can use the lifting power of the rod with just your arms. The position of the waist belt where you insert the rod end is located just above the crotch. However, the fight time is limited to around 15 minutes. (This model is suitable for GT and yellowtail that will win in one go.) On the other hand, the biggest advantage of the WhiteInsight7210 is that it reduces the consumption of arm strength, back strength, and grip strength by bending the rod upright and placing the fulcrum in front of you, and releasing the load on the rod to the rod end. (See the first to eighth images below. Or watch the YouTube video of Yonaguni.) When the rod is upright, the load is concentrated on the rod end, and the load is placed on the waist belt through the rod belt. For this reason, a rod belt that hangs from the waist belt (a Souls product was used during testing) is necessary. This leads to a decrease in back strength and leg strength, so hold the rod lightly without lowering your waist more than necessary. If your grip strength decreases, you should hold the rod with your elbow, or remove the rod end from the belt and take a break with your armpits bent. It's a long, fierce fight that you don't know when it will end, so it's best to approach it as if you were running a long distance. (This is a fighting style that is also suitable for WhiteInsight8010.) (GT and yellowtail are short-distance races that decide the outcome in one go. OceanSprinter838/8110/711RS/7510NL) Note: Although the rod is made of carbon material that is stronger than the OceanSprinter series in terms of breaking strength, the rod can still be damaged if handled incorrectly. In particular, if the tuna turns widely and goes under the boat, which is likely to happen just before landing, do not keep the rod upright, but remove the rod end from the belt and change the side to deal with it. Regarding the gimbal belt: In the test, we used one made by Souls. We also use TT BELT from MC Works. In that case, we change it to a hanging type from the waist in combination with SANSUI's original Super Urethane Back Saver Belt SW (waist belt). In any case, please use a strong and reliable gimbal belt that is large enough to cover both legs. The PE12 compatible model is being developed with a shorter length, and has already moved from Proto No. 1 to No. 2 (April 2021). Actual fishing tests have been conducted since spring 2020. Released as WhiteInsight 61112 (2022). In addition, we have developed and released the WhiteInsight 7610, which has improved the long-distance casting ability required for luring PE10 compatible fish and has an additional 20% increase in power, making it recommended for anglers who are used to fighting. (July 2021) Recommended usage for tuna by size Up to 30kg OceanSprinter844 / 856 WhiteInsight828 Up to 50kg OceanSprinter856 / 838 / 8110 WhiteInsight828 / 8010 50kg and up WhiteInsight828 / 8010 / 7210 100kg and up WhiteInsight7210 / 7610/ 61112 (WI828 is not stronger than OS838, but is a guideline based on the balance between longer fight time and drag tension) About Tsugaru Strait compatible models WhiteInsight7210 For those tuna fishing in the strait for the first time, small anglers, small boats WhiteInsight7610 For anglers who are used to fighting, also suitable for size 12 (in this case, be careful not to tie directly below and use straight fights frequently) WhiteInsight61112 It is possible to take on a higher load than the 7610 and has a higher breaking strength, but because it is a one-piece structure, the lift power is inferior to the 7610, but the physical burden is less. *The 7210/7610 can also handle size 12, but when it is directly below or goes under the boat, you should use side grips to fight straight. Of course, when the 61112 goes under the boat, you should also use side grips. We have also tried and tested the 7210 and bait casting models and have rod setting data. As shown in the image below, we have caught several small-class tuna, GT and yellowtail, but the line capacity and drag performance of the bait reel used in the test cannot be said to be able to handle bluefin tuna over 100 kg. We will need to choose a new reel, which will be a challenge for the future. *When it comes to GT casting and yellowtail casting, there are some effective points such as casting and operating large lures and high drag pressure with a short rod. We would like to express our sincere gratitude to everyone who cooperated with the test development. *The 4th, 5th, 6th, 7th and 8th images below are the No.1 blank (a little lighter). The rest are the release model No.2 blanks. (I also use this 7210 for GT casting. It is easy to cast and operate large lures, and when you hit it, you can apply high pressure and catch it easily. Since it is a tuna rod, please think of it as one way of using it.)",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 7ft2inch",
+            "groups": [
+              "7",
+              "2"
+            ],
+            "position": 546
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 7",
+            "groups": [
+              "7"
+            ],
+            "position": 546
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "Pe: 8 - 10",
+            "groups": [
+              "8",
+              "10"
+            ],
+            "position": 610
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Lure: 60 - 250g",
+            "groups": [
+              "60",
+              "250"
+            ],
+            "position": 621
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "truth-white-insight-7415",
+      "title": "Truth White Insight 7415",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "d be especially careful. Length: 7ft 4inch (2m 24cm) Number of joints (pieces): 2 bottles"
+        ],
+        "pe": [
+          "na over 200kg 7ft 4 inch PE12-15 compatible After repeated fights in the Tsugaru St",
+          ": 2 bottles Weight: 497g Line PE #: 12 - 15 Cast: 70 - 250g Recommended Drag : 20kg Made in "
+        ],
+        "cast": [
+          " 497g Line PE #: 12 - 15 Cast: 70 - 250g Recommended Drag : 20kg Made in Japan"
+        ],
+        "drag": [
+          " 12 - 15 Cast: 70 - 250g Recommended Drag : 20kg Made in Japan"
+        ],
+        "made_in": [
+          " Recommended Drag : 20kg Made in Japan"
+        ]
+      },
+      "flags": [],
+      "description_text": "Tsugaru Strait \"TRUTH JAPAN\" strongest model aiming for single fight against bluefin tuna over 200kg 7ft 4 inch PE12-15 compatible After repeated fights in the Tsugaru Strait with 170kg and more, the idea of ​​a new model came up. \"The goal is a single fight against over 200kg\" Not just strong Power and tone according to the boat's follow Power balance suitable for fighting in the strait's rapids Rod stroke and bending fulcrum when turning Tone and strength that can be subjected to even higher loads Material composition that can absorb the burden on the body while standing the rod for a long time (Lightness is not required for this model, the blank composition uses a lot of glass material.) The first proto that challenged a completely different composition from the past after repeated exchanges with Captain Kikuchi of Hakodate STEEL. 1pc structure consisting of one blank up to the grip end WhiteInsight 611 12 When fighting, the reel seat or the holding part of the front grip is the fulcrum, and the rod bends slightly up to the rear grip, releasing the load throughout the entire rod. Above all, it boasts excellent breaking strength. This reduces the burden on the angler even when a high load is applied. Of course, there are also benefits from the short length. Those who are used to fighting may feel that the lift power is insufficient when lifting directly below or when pulling up as hard as they can when the fish closes in on the remaining 10 meters and turns widely and comes out from under the boat, as the bending force is distributed to the front grip. Also, because of the short length, it is difficult to gain lift width, and hard fighters may feel that it is insufficient in some situations. The stored dimensions are long, so it can be a little inconvenient to carry. (It has never been a problem when traveling by plane within Japan.) Detachable grip - 2pc structure that can be detached at the end of the front grip WhiteInsight 7610 Even when loaded, the grip part hardly bends, and bending stops between a dozen centimeters above the front grip and the butt guide. The remaining butt part is large, so it has great lifting power. Even when the tuna turns, if you match the lift timing to the direction of travel, you can respond to the angler's feelings and guide the head more smoothly. However, if the fight lasts for a long time, the fight fulcrum due to the remaining butt part may be far away, and the angler may lose strength, or be unable to absorb a sudden charge in a close-quarters battle with the tuna and be knocked down. In addition, compared to the 1pc structure of the 61112, its breaking strength is slightly lower. (However, it has never broken so far.) This time, we have tried to combine the best parts of these two models in the Proto, which can be said to be the strongest tuna casting model of our company. As shown in the image below, the joint is slightly above the reel seat. This rod combines the flex and shock absorption of the 61112's 1-piece structure with the strong butt power of the 7610's grip joint. This is the strongest model in the tuna casting model WhiteInsight series. Therefore, further improvements will be made to the attachment of grips, guides, etc. Damage to the Proto model during test development of the WhiteInsight 61112 Perhaps the coating had become fatigued due to Captain Kikuchi's extraordinary catch-and-release, but the PE line pulled straight down during the fight, deforming the guide frame and pulling it out of the coating, causing the rod to break. This prompted repeated trial and error to prevent the guide frame from coming out, and the current Proto was made using the method that seemed to be the most suitable. And this manufacturing method was also adopted for the release model. With the goal of releasing it in 2024, we have been fishing in various fields. And after completing the actual fishing up to January 2025, STEEL Captain Kikuchi's fishing was extraordinary. After repeated casting and operation, and fighting with fish over 150 kg in the Tsugaru Strait and the Pacific Ocean, Captain Kikuchi was convinced that the power and tone were enough to compete with fish over 200 kg. I wanted to experience it myself (Maeda) and decide to release it, so I went to Hakodate STEEL more than usual. While checking the castability and operability with Captain Kikuchi, I also experienced fighting with a large bluefin tuna. After the fight, I was able to see the bottomless potential of this rod. The length was decided to be 7ft4inch based on the taper and power balance, and the grip shape was improved to reduce strain on the grip and provide grip strength, and we were able to decide the final specifications with confidence. Fighting with this rod (for reference) For fish under 100kg, I was able to fight with the rod upright and catch and release it easily by holding it under my arm immediately after landing. When fighting a large fish with the rod upright, it is of course possible to fight with the rod upright as long as you are strong and healthy. However, as your grip strength, arm strength and physical strength gradually decrease, it becomes difficult to keep the rod upright. At that time, as shown in the 6th image, I was able to withstand high loads by using the principle of leverage with the reel seat part against the pole as a fulcrum. In this case, I try to hit the reel seat as much as possible rather than the EVA grip part at the rear. No matter how strong the blank is, if you put too much weight on it, it may be crushed and damaged. Just using a little leverage reduces the burden on your body and gives you a considerable advantage in the fight. (I have also done this with large GTs depending on the situation) In addition, since the rod end is subjected to a force that tries to rise up, a gimbal belt is needed to prevent the end from coming out upwards. If it comes out, the rod end will hit your jaw or other parts of your body, which is very dangerous. I use MC works' \"TT BELT\" and SOULS' \"Support Belt\". (It's easy to pull out the grip end smoothly, so I feel safe.) Of course, it's better to fight without relying on the pole, but I can't withstand a long period of high load on the rod. Also, this strong butt power gives the angler an advantage when fighting in a straight line. The larger the fish, the larger the arc, but this becomes even larger when it is less than 20m away from the landing. I also use the pole in that case. When the fish is in front of the angler, it is the angler's time to attack. When laying out under the boat, the reel is turned (upward) to protect the line so that it does not touch the pole or the edge of the boat, but even in that case, if you hold the grip end under your arm with the front grip part of the pole as a fulcrum, and put your weight on the rod and continue to endure at an angle that bends it slightly, the repulsive force of the rod will always keep the tuna under pressure, and if it lets its head turn when it is off guard for a moment, it will be possible to reel in a little bit of line. When he was fighting an opponent that he couldn't beat with his own strength, he used the pole of the boat like this. The height of the pole is important. A height of about crotch height like that of a GT boat is effective, and Captain Kikuchi is an angler who fights by lowering his hips like in GT games, so he set the height to accommodate that style. In particular, with this \"7415\", if you lower your hips, put your weight on the rod and fight by putting load on the butt part, you will generate even more amazing lift power. If you stand it almost vertically when the tuna is directly below you, the load will be concentrated on the tip part and you will not be able to bend the butt part, so you will not be able to exert the original lift power, but if you stand it upright, the fight fulcrum will be closer and the angler will be able to endure it easily. *Of course, each manufacturer's development concept and rod condition are different, and everyone has their own fighting style, so please use this as a reference only. This is a very strong model, so always be sure to be able to quickly remove the grip end from the gimbal in order to instantly respond to the tuna's unexpected movements, and take great care not to fall into the water or get injured. (Practice is also required.) Those who have installed an aluminum gimbal for customization, etc., should be especially careful. Length: 7ft 4inch (2m 24cm) Number of joints (pieces): 2 bottles Weight: 497g Line PE #: 12 - 15 Cast: 70 - 250g Recommended Drag : 20kg Made in Japan",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "7ft 4 inch",
+            "groups": [
+              "7",
+              "4"
+            ],
+            "position": 101
+          },
+          {
+            "raw": "7ft4inch",
+            "groups": [
+              "7",
+              "4"
+            ],
+            "position": 4532
+          },
+          {
+            "raw": "Length: 7ft 4inch",
+            "groups": [
+              "7",
+              "4"
+            ],
+            "position": 8485
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 7",
+            "groups": [
+              "7"
+            ],
+            "position": 8485
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "PE12-15",
+            "groups": [
+              "12",
+              "15"
+            ],
+            "position": 112
+          },
+          {
+            "raw": "Line PE #: 12 - 15",
+            "groups": [
+              "12",
+              "15"
+            ],
+            "position": 8563
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Cast: 70 - 250g",
+            "groups": [
+              "70",
+              "250"
+            ],
+            "position": 8582
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [
+          {
+            "raw": "Recommended Drag : 20kg",
+            "groups": [
+              "20"
+            ],
+            "position": 8598
+          }
+        ],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "truth-white-insight-7610",
+      "title": "Truth White Insight 7610",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          " or Stella 18000H/20000H Length: 7'6 \" Line PE #: 8 - 10 Cast: 60g ~ 250g Recommended Dra"
+        ],
+        "pe": [
+          "model that also supports PE10 with high drag settings, and when it's necessary to p",
+          "00H/20000H Length: 7'6 \" Line PE #: 8 - 10 Cast: 60g ~ 250g Recommended Drag : 18kg Made in "
+        ],
+        "cast": [
+          " 7'6 \" Line PE #: 8 - 10 Cast: 60g ~ 250g Recommended Drag : 18kg Made in Japan"
+        ],
+        "drag": [
+          " 8 - 10 Cast: 60g ~ 250g Recommended Drag : 18kg Made in Japan"
+        ],
+        "made_in": [
+          " Recommended Drag : 18kg Made in Japan"
+        ]
+      },
+      "flags": [],
+      "description_text": "WhiteInsight 7610 is a model targeting bluefin tuna and large yellowfin tuna, and the when the fight time can be several hours. A model that also supports PE10 with high drag settings, and when it's necessary to preserve the physical strength of the angler. The biggest advantage is that the rod is bent and the fulcrum is in front, and the load applied to the rod is released to the rod end, which gives strength. It is to reduce the consumption of back muscle strength and grip strength. The power of the current \"White Insight 7210\" ​​has been increased by about 120%. Lift speed and power that can be recommended for fighting in tight fast flowing currents and for anglers who are accustomed to long fights. The length has also been extended by 4 inches to improve long-distance casting. The tip feeling is not a hard feeling, but a soft tip feeling similar to \"7210\". Since it absorbs the movement of fish when running well, it can easily handle large Kingfish and Tuna when diving deep. Works a versatile lure range from small to large lures up to 250g. The grips are designed with slender hard EVA. Guide: All stainless All stainless steel PMNST16 / PMNSG16 / PMNSG20 / PMNSG25 / PMNSG30 / PMNSG40 TUNA model, so long-time fighting is expected. A stainless steel guide is used to withstand the continuous load and impact. The 7610, which is expected to fight for a longer time with a higher load, is processed so that the thread coating adheres more closely to the guide foot. All guides are underwrapped. In order to improve the cast feeling, the under wrapping is wrapped as narrowly as possible. Recommended Reels: Daiwa Saltiga 18000H/20000H/6500H/7000H/8000H or Stella 18000H/20000H Length: 7'6 \" Line PE #: 8 - 10 Cast: 60g ~ 250g Recommended Drag : 18kg Made in Japan",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 7'6 \"",
+            "groups": [
+              "7",
+              "6"
+            ],
+            "position": 1695
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 7",
+            "groups": [
+              "7"
+            ],
+            "position": 1695
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "Line PE #: 8 - 10",
+            "groups": [
+              "8",
+              "10"
+            ],
+            "position": 1709
+          }
+        ],
+        "cast_range": [
+          {
+            "raw": "Cast: 60g ~ 250g",
+            "groups": [
+              "60",
+              "250"
+            ],
+            "position": 1727
+          }
+        ],
+        "cast_max": [],
+        "drag_rec": [
+          {
+            "raw": "Recommended Drag : 18kg",
+            "groups": [
+              "18"
+            ],
+            "position": 1744
+          }
+        ],
+        "drag_max": []
+      }
+    },
+    {
+      "handle": "truth-white-insight-828",
+      "title": "Truth White Insight 828",
+      "variant_count": 1,
+      "evidence": {
+        "length": [
+          "time and drag tension) · Length: 8ft2inch · Weight: 378g · Tip Dia. / Butt Dia. : 2.8mm /"
+        ],
+        "pe": [
+          "tt Dia. : 2.8mm / 16mm · Pe: 6-8 · Lure: 30～200g · Pieces: Grip Joint · Guide: All St"
+        ],
+        "cast": [
+          "2.8mm / 16mm · Pe: 6-8 · Lure: 30～200g · Pieces: Grip Joint · Guide: All Stainless PMNS"
+        ],
+        "drag": [],
+        "made_in": [
+          "& Daiwa 5500, 6000, 7500 Made In Japan"
+        ]
+      },
+      "flags": [],
+      "description_text": "The rear grip is set to be about 20mm longer than the Ocean Sprinter 838/8110, and it is also compatible with style belts that specialize in long-term fights with tuna. It is about 505mm from the reel foot center to the end. Recommended size Yellowfin tuna-100 kg (It does not support places with fast tides such as Tappi Aomori and 100 kg class bluefin tuna. We will develop a dedicated model in the future.) Yellowfin tuna compatible models (reference) ~ 30 km OceanSprinter844 / 856 WhiteInsight828 ~ 50 km OceanSprinter856 / 838/8110 WhiteInsight828 / 8010 50 kg ~ WhiteInsight828 / 8010/7210 (It does not mean that WI828 is stronger than OS838, but it is a guideline based on the balance between longer fight time and drag tension) · Length: 8ft2inch · Weight: 378g · Tip Dia. / Butt Dia. : 2.8mm / 16mm · Pe: 6-8 · Lure: 30～200g · Pieces: Grip Joint · Guide: All Stainless PMNST16 / PMNSG16×2 / PMNSG20 / PMNSG25 / PMNSG30 / PMNSG40 · Sheet: DPS20LD UP · Grip: EVA · Compatible Reel: Shimano 14000, 18000 & Daiwa 5500, 6000, 7500 Made In Japan",
+      "candidates": {
+        "length_ftin": [
+          {
+            "raw": "Length: 8ft2inch",
+            "groups": [
+              "8",
+              "2"
+            ],
+            "position": 739
+          }
+        ],
+        "length_m": [
+          {
+            "raw": "Length: 8",
+            "groups": [
+              "8"
+            ],
+            "position": 739
+          }
+        ],
+        "pe_range": [
+          {
+            "raw": "Pe: 6-8",
+            "groups": [
+              "6",
+              "8"
+            ],
+            "position": 811
+          }
+        ],
+        "cast_range": [],
+        "cast_max": [],
+        "drag_rec": [],
+        "drag_max": []
+      }
+    }
+  ]
+}

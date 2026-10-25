@@ -23,6 +23,7 @@ export default defineConfig({
         'blog.ts': `${ts}/blog.ts`,
         'article.ts': `${ts}/article.ts`,
         'page.ts': `${ts}/page.ts`,
+        'metaobject.ts': `${ts}/metaobject.ts`,
         '404.ts': `${ts}/404.ts`,
         'password.ts': `${ts}/password.ts`,
         'gift-card.ts': `${ts}/gift-card.ts`,

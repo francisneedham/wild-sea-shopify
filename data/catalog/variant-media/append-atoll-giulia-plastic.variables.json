@@ -1,0 +1,29 @@
+{
+  "productId": "gid://shopify/Product/15439412723825",
+  "variantMedia": [
+    {
+      "variantId": "gid://shopify/ProductVariant/67841300562033",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284869501041"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841300594801",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284869566577"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841300627569",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284869533809"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841300660337",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284869599345"
+      ]
+    }
+  ]
+}

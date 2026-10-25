@@ -1,0 +1,10 @@
+{
+  "id": "gid://shopify/MetaobjectDefinition/37090918513",
+  "definition": {
+    "fieldDefinitions": [
+      { "create": { "key": "listing_image", "name": "Listing image", "type": "file_reference", "validations": [{ "name": "file_type_options", "value": "[\"Image\"]" }] } },
+      { "create": { "key": "region", "name": "Region", "type": "single_line_text_field" } },
+      { "create": { "key": "technique", "name": "Technique", "type": "single_line_text_field" } }
+    ]
+  }
+}

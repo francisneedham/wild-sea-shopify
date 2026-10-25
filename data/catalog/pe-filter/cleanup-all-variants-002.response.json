@@ -1,0 +1,1510 @@
+{
+  "productVariants": {
+    "edges": [
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNTczMzYxNywibGFzdF92YWx1ZSI6IjY3ODQxMzE1NzMzNjE3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841315733617",
+          "sku": "SQ0746987",
+          "product": {
+            "handle": "floating-24cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNTc2NjM4NSwibGFzdF92YWx1ZSI6IjY3ODQxMzE1NzY2Mzg1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841315766385",
+          "sku": "SQ2703032",
+          "product": {
+            "handle": "floating-24cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNjM1NjIwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzE2MzU2MjA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841316356209",
+          "sku": "SQ3239372",
+          "product": {
+            "handle": "full-hand-onikiri-100h",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "70"
+          },
+          "castMax": {
+            "value": "120"
+          },
+          "castingWeight": {
+            "value": "70–120 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNzU2ODYyNSwibGFzdF92YWx1ZSI6IjY3ODQxMzE3NTY4NjI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841317568625",
+          "sku": "SQ5054748",
+          "product": {
+            "handle": "full-hands-custom-works-kusanagi-p78hh",
+            "productType": "Rods"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxOTQwMzYzMywibGFzdF92YWx1ZSI6IjY3ODQxMzE5NDAzNjMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841319403633",
+          "sku": "SQ6280239",
+          "product": {
+            "handle": "good-bait-bnd-180f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyMDM4NjY3MywibGFzdF92YWx1ZSI6IjY3ODQxMzIwMzg2NjczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841320386673",
+          "sku": "SQ9849808",
+          "product": {
+            "handle": "good-bait-fzr-188f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyMDQxOTQ0MSwibGFzdF92YWx1ZSI6IjY3ODQxMzIwNDE5NDQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841320419441",
+          "sku": "SQ3782824",
+          "product": {
+            "handle": "good-bait-fzr-188f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyMTczMDE2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzIxNzMwMTYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841321730161",
+          "sku": "SQ6338628",
+          "product": {
+            "handle": "good-bait-monsterzone-210f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyMTc2MjkyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzIxNzYyOTI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841321762929",
+          "sku": "SQ3001944",
+          "product": {
+            "handle": "good-bait-monsterzone-210f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyMTc5NTY5NywibGFzdF92YWx1ZSI6IjY3ODQxMzIxNzk1Njk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841321795697",
+          "sku": "SQ4921310",
+          "product": {
+            "handle": "good-bait-monsterzone-210f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyMzMzNTc5MywibGFzdF92YWx1ZSI6IjY3ODQxMzIzMzM1NzkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841323335793",
+          "sku": "SQ6785501",
+          "product": {
+            "handle": "good-bait-number-five-148f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyMzM2ODU2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzIzMzY4NTYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841323368561",
+          "sku": "SQ1426494",
+          "product": {
+            "handle": "good-bait-number-five-148f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyMzQwMTMyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzIzNDAxMzI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841323401329",
+          "sku": "SQ9919896",
+          "product": {
+            "handle": "good-bait-number-five-148f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyNDEyMjIyNSwibGFzdF92YWx1ZSI6IjY3ODQxMzI0MTIyMjI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841324122225",
+          "sku": "SQ2779949",
+          "product": {
+            "handle": "good-bait-respect-190f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyNDE1NDk5MywibGFzdF92YWx1ZSI6IjY3ODQxMzI0MTU0OTkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841324154993",
+          "sku": "SQ4420567",
+          "product": {
+            "handle": "good-bait-respect-190f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyNDE4Nzc2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzI0MTg3NzYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841324187761",
+          "sku": "SQ2037100",
+          "product": {
+            "handle": "good-bait-respect-190f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyNDIyMDUyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzI0MjIwNTI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841324220529",
+          "sku": "SQ4234089",
+          "product": {
+            "handle": "good-bait-respect-190f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyNDI1MzI5NywibGFzdF92YWx1ZSI6IjY3ODQxMzI0MjUzMjk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841324253297",
+          "sku": "SQ8945722",
+          "product": {
+            "handle": "good-bait-respect-190f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyNTQ2NTcxMywibGFzdF92YWx1ZSI6IjY3ODQxMzI1NDY1NzEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841325465713",
+          "sku": "SQ8930403",
+          "product": {
+            "handle": "hammerhead-sharapoa-250-slim-lv",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyNTQ5ODQ4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzI1NDk4NDgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841325498481",
+          "sku": "SQ2313758",
+          "product": {
+            "handle": "hammerhead-sharapoa-250-slim-lv",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyNTUzMTI0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzI1NTMxMjQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841325531249",
+          "sku": "SQ9880121",
+          "product": {
+            "handle": "hammerhead-sharapoa-250-slim-lv",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyNTU2NDAxNywibGFzdF92YWx1ZSI6IjY3ODQxMzI1NTY0MDE3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841325564017",
+          "sku": "SQ3589401",
+          "product": {
+            "handle": "hammerhead-sharapoa-250-slim-lv",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyODY3Njk3NywibGFzdF92YWx1ZSI6IjY3ODQxMzI4Njc2OTc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841328676977",
+          "sku": "SQ6888012",
+          "product": {
+            "handle": "hammerhead-tobi-140-sus",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyODcwOTc0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzI4NzA5NzQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841328709745",
+          "sku": "SQ0095289",
+          "product": {
+            "handle": "hammerhead-tobi-140-sus",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyODc0MjUxMywibGFzdF92YWx1ZSI6IjY3ODQxMzI4NzQyNTEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841328742513",
+          "sku": "SQ8584270",
+          "product": {
+            "handle": "hammerhead-tobi-140-sus",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMyODc3NTI4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzI4Nzc1MjgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841328775281",
+          "sku": "SQ4745268",
+          "product": {
+            "handle": "hammerhead-tobi-140-sus",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMDQ0NjQ0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzMwNDQ2NDQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841330446449",
+          "sku": "SQ3416271",
+          "product": {
+            "handle": "indigoblue-musya",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMDQ3OTIxNywibGFzdF92YWx1ZSI6IjY3ODQxMzMwNDc5MjE3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841330479217",
+          "sku": "SQ6175308",
+          "product": {
+            "handle": "indigoblue-musya",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMDUxMTk4NSwibGFzdF92YWx1ZSI6IjY3ODQxMzMwNTExOTg1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841330511985",
+          "sku": "SQ9393439",
+          "product": {
+            "handle": "indigoblue-musya",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMDU0NDc1MywibGFzdF92YWx1ZSI6IjY3ODQxMzMwNTQ0NzUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841330544753",
+          "sku": "SQ9506637",
+          "product": {
+            "handle": "indigoblue-musya",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMTkyMTAwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzMxOTIxMDA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841331921009",
+          "sku": "SQ9471621",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMTk1Mzc3NywibGFzdF92YWx1ZSI6IjY3ODQxMzMxOTUzNzc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841331953777",
+          "sku": "SQ0622643",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMTk4NjU0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzMxOTg2NTQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841331986545",
+          "sku": "SQ4437370",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjAxOTMxMywibGFzdF92YWx1ZSI6IjY3ODQxMzMyMDE5MzEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332019313",
+          "sku": "SQ9740868",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjA1MjA4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzMyMDUyMDgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332052081",
+          "sku": "SQ2226325",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjA4NDg0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzMyMDg0ODQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332084849",
+          "sku": "SQ9081961",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjExNzYxNywibGFzdF92YWx1ZSI6IjY3ODQxMzMyMTE3NjE3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332117617",
+          "sku": "SQ3644597",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjE1MDM4NSwibGFzdF92YWx1ZSI6IjY3ODQxMzMyMTUwMzg1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332150385",
+          "sku": "SQ3143433",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjE4MzE1MywibGFzdF92YWx1ZSI6IjY3ODQxMzMyMTgzMTUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332183153",
+          "sku": "SQ0277449",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjIxNTkyMSwibGFzdF92YWx1ZSI6IjY3ODQxMzMyMjE1OTIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332215921",
+          "sku": "SQ4150438",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjI0ODY4OSwibGFzdF92YWx1ZSI6IjY3ODQxMzMyMjQ4Njg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332248689",
+          "sku": "SQ6409380",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjI4MTQ1NywibGFzdF92YWx1ZSI6IjY3ODQxMzMyMjgxNDU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332281457",
+          "sku": "SQ8194100",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjMxNDIyNSwibGFzdF92YWx1ZSI6IjY3ODQxMzMyMzE0MjI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332314225",
+          "sku": "SQ2532620",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjM0Njk5MywibGFzdF92YWx1ZSI6IjY3ODQxMzMyMzQ2OTkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332346993",
+          "sku": "SQ0352269",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMjM3OTc2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzMyMzc5NzYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841332379761",
+          "sku": "SQ3464404",
+          "product": {
+            "handle": "jumprize-lalapen",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzMzQ5Mzg3MywibGFzdF92YWx1ZSI6IjY3ODQxMzMzNDkzODczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841333493873",
+          "sku": "SQ5732665",
+          "product": {
+            "handle": "jumprize-monster-absorber-82-8",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "60"
+          },
+          "castMax": {
+            "value": "180"
+          },
+          "castingWeight": {
+            "value": "60–180 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzNTUyNTQ4OSwibGFzdF92YWx1ZSI6IjY3ODQxMzM1NTI1NDg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841335525489",
+          "sku": "SQ5177796",
+          "product": {
+            "handle": "kikuchi-craft-bubble-swimmer",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzNTU1ODI1NywibGFzdF92YWx1ZSI6IjY3ODQxMzM1NTU4MjU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841335558257",
+          "sku": "SQ4936759",
+          "product": {
+            "handle": "kikuchi-craft-bubble-swimmer",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzNzA2NTU4NSwibGFzdF92YWx1ZSI6IjY3ODQxMzM3MDY1NTg1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841337065585",
+          "sku": "SQ5629077",
+          "product": {
+            "handle": "lazarat-griffon-diving-170",
+            "productType": ""
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzNzA5ODM1MywibGFzdF92YWx1ZSI6IjY3ODQxMzM3MDk4MzUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841337098353",
+          "sku": "SQ9850845",
+          "product": {
+            "handle": "lazarat-griffon-diving-170",
+            "productType": ""
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzODY3MTIxNywibGFzdF92YWx1ZSI6IjY3ODQxMzM4NjcxMjE3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841338671217",
+          "sku": "SQ0417057",
+          "product": {
+            "handle": "lazarat-griffon-diving-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzODcwMzk4NSwibGFzdF92YWx1ZSI6IjY3ODQxMzM4NzAzOTg1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841338703985",
+          "sku": "SQ7624755",
+          "product": {
+            "handle": "lazarat-griffon-diving-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzODczNjc1MywibGFzdF92YWx1ZSI6IjY3ODQxMzM4NzM2NzUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841338736753",
+          "sku": "SQ9355053",
+          "product": {
+            "handle": "lazarat-griffon-diving-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzODc2OTUyMSwibGFzdF92YWx1ZSI6IjY3ODQxMzM4NzY5NTIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841338769521",
+          "sku": "SQ0297571",
+          "product": {
+            "handle": "lazarat-griffon-diving-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzODgwMjI4OSwibGFzdF92YWx1ZSI6IjY3ODQxMzM4ODAyMjg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841338802289",
+          "sku": "SQ5334114",
+          "product": {
+            "handle": "lazarat-griffon-diving-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzODgzNTA1NywibGFzdF92YWx1ZSI6IjY3ODQxMzM4ODM1MDU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841338835057",
+          "sku": "SQ5330644",
+          "product": {
+            "handle": "lazarat-griffon-diving-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMzODg2NzgyNSwibGFzdF92YWx1ZSI6IjY3ODQxMzM4ODY3ODI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841338867825",
+          "sku": "SQ0771397",
+          "product": {
+            "handle": "lazarat-griffon-diving-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM0MDUzODk5MywibGFzdF92YWx1ZSI6IjY3ODQxMzQwNTM4OTkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841340538993",
+          "sku": "SQ7328256",
+          "product": {
+            "handle": "lazarat-griffon-diving-200-1",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM0MDU3MTc2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzQwNTcxNzYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841340571761",
+          "sku": "SQ0163718",
+          "product": {
+            "handle": "lazarat-griffon-diving-200-1",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM0MTYyMDMzNywibGFzdF92YWx1ZSI6IjY3ODQxMzQxNjIwMzM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841341620337",
+          "sku": "SQ3498813",
+          "product": {
+            "handle": "lazarat-griffon-diving-230",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM0MTY1MzEwNSwibGFzdF92YWx1ZSI6IjY3ODQxMzQxNjUzMTA1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841341653105",
+          "sku": "SQ2270853",
+          "product": {
+            "handle": "lazarat-griffon-diving-230",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM0MTY4NTg3MywibGFzdF92YWx1ZSI6IjY3ODQxMzQxNjg1ODczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841341685873",
+          "sku": "SQ1909163",
+          "product": {
+            "handle": "lazarat-griffon-diving-230",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM0MzcxNzQ4OSwibGFzdF92YWx1ZSI6IjY3ODQxMzQzNzE3NDg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841343717489",
+          "sku": "SQ6723507",
+          "product": {
+            "handle": "mc-works-2023-explosion-817hf-special-model",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "100"
+          },
+          "castMax": {
+            "value": "200"
+          },
+          "castingWeight": {
+            "value": "100–200 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM0NTI5MDM1MywibGFzdF92YWx1ZSI6IjY3ODQxMzQ1MjkwMzUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841345290353",
+          "sku": "SQ4642026",
+          "product": {
+            "handle": "mc-works-804-hr",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "40"
+          },
+          "castMax": {
+            "value": "80"
+          },
+          "castingWeight": {
+            "value": "40–80 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM0Njk5NDI4OSwibGFzdF92YWx1ZSI6IjY3ODQxMzQ2OTk0Mjg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841346994289",
+          "sku": "SQ0124327",
+          "product": {
+            "handle": "mc-works-black-chrome-bc120htx",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "14"
+          },
+          "castMax": {
+            "value": "40"
+          },
+          "castingWeight": {
+            "value": "14–40 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM0OTE4OTc0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzQ5MTg5NzQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841349189745",
+          "sku": "SQ8456306",
+          "product": {
+            "handle": "mc-works-explosion-817hf",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "100"
+          },
+          "castMax": {
+            "value": "200"
+          },
+          "castingWeight": {
+            "value": "100–200 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM1MTA1NzUyMSwibGFzdF92YWx1ZSI6IjY3ODQxMzUxMDU3NTIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841351057521",
+          "sku": "SQ7991571",
+          "product": {
+            "handle": "mc-works-explosion-818-ctr-sp",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "150"
+          },
+          "castMax": {
+            "value": "300"
+          },
+          "castingWeight": {
+            "value": "150–300 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM1Mjg1OTc2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzUyODU5NzYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841352859761",
+          "sku": "SQ7276269",
+          "product": {
+            "handle": "mc-works-explosion-835ctr-standard-model",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "40"
+          },
+          "castMax": {
+            "value": "100"
+          },
+          "castingWeight": {
+            "value": "40–100 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM1NDE3MDQ4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzU0MTcwNDgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841354170481",
+          "sku": "SQ8944563",
+          "product": {
+            "handle": "mc-works-explosion-865hf",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "60"
+          },
+          "castMax": {
+            "value": "110"
+          },
+          "castingWeight": {
+            "value": "60–110 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM1NTE4NjI4OSwibGFzdF92YWx1ZSI6IjY3ODQxMzU1MTg2Mjg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841355186289",
+          "sku": "SQ2026432",
+          "product": {
+            "handle": "mc-works-explosion-full-contact-843ctr",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "20"
+          },
+          "castMax": {
+            "value": "60"
+          },
+          "castingWeight": {
+            "value": "20–60 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM1NTg0MTY0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzU1ODQxNjQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841355841649",
+          "sku": "SQ6357972",
+          "product": {
+            "handle": "mc-works-raging-bull-104xxstd",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "100"
+          },
+          "castMax": {
+            "value": "200"
+          },
+          "castingWeight": {
+            "value": "100–200 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM1Njk4ODUyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzU2OTg4NTI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841356988529",
+          "sku": "SQ0790696",
+          "product": {
+            "handle": "mc-works-raging-bull-93xx-trident",
+            "productType": "Rods"
+          },
+          "castMin": null,
+          "castMax": {
+            "value": "200"
+          },
+          "castingWeight": {
+            "value": "≤200 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM1NzY3NjY1NywibGFzdF92YWx1ZSI6IjY3ODQxMzU3Njc2NjU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841357676657",
+          "sku": "SQ9546515",
+          "product": {
+            "handle": "mc-works-rod-cb-98xs2-std",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "80"
+          },
+          "castMax": {
+            "value": "150"
+          },
+          "castingWeight": {
+            "value": "80–150 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM1ODc1ODAwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzU4NzU4MDAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841358758001",
+          "sku": "SQ8538348",
+          "product": {
+            "handle": "mc-works-rod-explosion-807-ctr-standard-model",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "80"
+          },
+          "castMax": {
+            "value": "150"
+          },
+          "castingWeight": {
+            "value": "80–150 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2MDE2NzAyNSwibGFzdF92YWx1ZSI6IjY3ODQxMzYwMTY3MDI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841360167025",
+          "sku": "SQ1151521",
+          "product": {
+            "handle": "mc-works-slow-hand-768tsx-all-that-tuna",
+            "productType": ""
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2MDY1ODU0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzYwNjU4NTQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841360658545",
+          "sku": "SQ4295003",
+          "product": {
+            "handle": "mc-works-slow-hand-all-that-tuna-sh729tsz",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "150"
+          },
+          "castMax": {
+            "value": "250"
+          },
+          "castingWeight": {
+            "value": "150–250 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2MTkwMzcyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzYxOTAzNzI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841361903729",
+          "sku": "SQ0014654",
+          "product": {
+            "handle": "mc-works-x-fish-trippers-village-barbaro-788",
+            "productType": "Rods"
+          },
+          "castMin": null,
+          "castMax": {
+            "value": "300"
+          },
+          "castingWeight": {
+            "value": "≤300 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NDEzMTk1MywibGFzdF92YWx1ZSI6IjY3ODQxMzY0MTMxOTUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841364131953",
+          "sku": "SQ8022087",
+          "product": {
+            "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+            "productType": "Rods"
+          },
+          "castMin": null,
+          "castMax": {
+            "value": "250"
+          },
+          "castingWeight": {
+            "value": "≤250 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NDE2NDcyMSwibGFzdF92YWx1ZSI6IjY3ODQxMzY0MTY0NzIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841364164721",
+          "sku": "SQ3711317",
+          "product": {
+            "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+            "productType": "Rods"
+          },
+          "castMin": null,
+          "castMax": {
+            "value": "180"
+          },
+          "castingWeight": {
+            "value": "≤180 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTE4MDUyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzY1MTgwNTI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365180529",
+          "sku": "SQ6662260",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTIxMzI5NywibGFzdF92YWx1ZSI6IjY3ODQxMzY1MjEzMjk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365213297",
+          "sku": "SQ1063271",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTI0NjA2NSwibGFzdF92YWx1ZSI6IjY3ODQxMzY1MjQ2MDY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365246065",
+          "sku": "SQ5201605",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTI3ODgzMywibGFzdF92YWx1ZSI6IjY3ODQxMzY1Mjc4ODMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365278833",
+          "sku": "SQ8098961",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTMxMTYwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzY1MzExNjAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365311601",
+          "sku": "SQ7818955",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTM0NDM2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzY1MzQ0MzY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365344369",
+          "sku": "SQ7560260",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTM3NzEzNywibGFzdF92YWx1ZSI6IjY3ODQxMzY1Mzc3MTM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365377137",
+          "sku": "SQ5845873",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTQwOTkwNSwibGFzdF92YWx1ZSI6IjY3ODQxMzY1NDA5OTA1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365409905",
+          "sku": "SQ7486751",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTQ0MjY3MywibGFzdF92YWx1ZSI6IjY3ODQxMzY1NDQyNjczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365442673",
+          "sku": "SQ0093281",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTQ3NTQ0MSwibGFzdF92YWx1ZSI6IjY3ODQxMzY1NDc1NDQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365475441",
+          "sku": "SQ0598690",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTUwODIwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzY1NTA4MjA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365508209",
+          "sku": "SQ6964833",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NTU0MDk3NywibGFzdF92YWx1ZSI6IjY3ODQxMzY1NTQwOTc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841365540977",
+          "sku": "SQ0028196",
+          "product": {
+            "handle": "mens-tropic-sun-hoody",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2NjgxODkyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzY2ODE4OTI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841366818929",
+          "sku": "SQ3261392",
+          "product": {
+            "handle": "native-works-gazelle-230",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2OTA0NzE1MywibGFzdF92YWx1ZSI6IjY3ODQxMzY5MDQ3MTUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841369047153",
+          "sku": "SQ2106374",
+          "product": {
+            "handle": "native-works-gazelle-270",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2OTA3OTkyMSwibGFzdF92YWx1ZSI6IjY3ODQxMzY5MDc5OTIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841369079921",
+          "sku": "SQ7431133",
+          "product": {
+            "handle": "native-works-gazelle-270",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM2OTExMjY4OSwibGFzdF92YWx1ZSI6IjY3ODQxMzY5MTEyNjg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841369112689",
+          "sku": "SQ1542471",
+          "product": {
+            "handle": "native-works-gazelle-270",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MTIwOTg0MSwibGFzdF92YWx1ZSI6IjY3ODQxMzcxMjA5ODQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841371209841",
+          "sku": "SQ6101444",
+          "product": {
+            "handle": "native-works-napalm-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MTI0MjYwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzcxMjQyNjA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841371242609",
+          "sku": "SQ5456763",
+          "product": {
+            "handle": "native-works-napalm-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MTI3NTM3NywibGFzdF92YWx1ZSI6IjY3ODQxMzcxMjc1Mzc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841371275377",
+          "sku": "SQ9271934",
+          "product": {
+            "handle": "native-works-napalm-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MTMwODE0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzcxMzA4MTQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841371308145",
+          "sku": "SQ4669765",
+          "product": {
+            "handle": "native-works-napalm-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MTM0MDkxMywibGFzdF92YWx1ZSI6IjY3ODQxMzcxMzQwOTEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841371340913",
+          "sku": "SQ0857222",
+          "product": {
+            "handle": "native-works-napalm-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      }
+    ],
+    "pageInfo": {
+      "hasNextPage": true,
+      "endCursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MTM0MDkxMywibGFzdF92YWx1ZSI6IjY3ODQxMzcxMzQwOTEzIn0="
+    }
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "input": {
+    "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+    "title": "FishTrippers Village Liber Tango",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Made in Japan by hand in high density polyurethane.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><br /><span>It is an excellent lure for kingfish, tuna and pelagic fish.</span><br /><span>Its swimming action during recovery is ultimate with extreme movements in the water!</span><br /><span>An important sintillation on its flat sides stimulates the instinct of the big predators.</span></p><ul data-rte-list=\"default\"><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lenght 200 mm</p></li><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 83</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "kingfish",
+      "tuna",
+      "gian",
+      "snap",
+      "FishTripper Village",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-floating",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          {
+            "name": "200"
+          },
+          {
+            "name": "220"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          {
+            "name": "Blue"
+          },
+          {
+            "name": "Rainbow Trout"
+          },
+          {
+            "name": "Silver Black Yellow Head"
+          },
+          {
+            "name": "Silver Blue Yellow Head"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ5719846",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "200"
+          },
+          {
+            "optionName": "Color",
+            "name": "Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ8340518",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "200"
+          },
+          {
+            "optionName": "Color",
+            "name": "Rainbow Trout"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "sku": "SQ2416371",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "200"
+          },
+          {
+            "optionName": "Color",
+            "name": "Silver Black Yellow Head"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ0653809",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "200"
+          },
+          {
+            "optionName": "Color",
+            "name": "Silver Blue Yellow Head"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ3470066",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "220"
+          },
+          {
+            "optionName": "Color",
+            "name": "Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ9920592",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "220"
+          },
+          {
+            "optionName": "Color",
+            "name": "Rainbow Trout"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ5225677",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "220"
+          },
+          {
+            "optionName": "Color",
+            "name": "Silver Black Yellow Head"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1847202",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "220"
+          },
+          {
+            "optionName": "Color",
+            "name": "Silver Blue Yellow Head"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5d5a2bd2-f4e3-4a56-b7e2-32dc955499fa/img-20241227-wa0009.JPG",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Liber Tango"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c0287819-b9d7-4008-b38b-93b01c41940a/IMG-20241227-WA0086sssdsd.JPG",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Liber Tango"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4f01e323-9b6c-4d45-9f68-808e85323626/Grand+Tango+silver+blue.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Liber Tango"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e7d5764e-75e4-4e56-8ab8-1931c6e6b588/Tango+silver_pink_gree.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Liber Tango"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b6e09a88-3438-48b2-ab56-8b55a5f960f8/Tango+Silver_black+Yellow+head.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Liber Tango"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c7c45d33-9139-4c72-bde9-4f81bd10b6d9/Tango+Silver_blue+Yellow+head.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Liber Tango"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

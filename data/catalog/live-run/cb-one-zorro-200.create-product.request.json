@@ -1,0 +1,71 @@
+{
+  "input": {
+    "handle": "cb-one-zorro-200",
+    "title": "CB One Zorro 200",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>CB One Zorro are developed to target Tuna, Amberjack and Yellowtail Kingfish.</span><br /><span>Made of Hardwood, each lure is carefully tuned for reduced rolling movement, balance and casting. Combine both twitching and long sweep for most effective swim action!</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>200 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 60</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Color GreenSardin</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "saltwater lures",
+      "fishing lure",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "CB One lure",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ0108475",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/11297dc0-38d0-46d7-8840-af885f71c77b/zorro.jpg",
+        "contentType": "IMAGE",
+        "alt": "CB One Zorro 200"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

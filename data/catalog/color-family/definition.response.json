@@ -1,0 +1,30 @@
+{
+  "metaobjectDefinitionCreate": {
+    "metaobjectDefinition": {
+      "id": "gid://shopify/MetaobjectDefinition/37648040049",
+      "type": "wildsea_color_family",
+      "name": "Color family",
+      "access": {
+        "admin": "PUBLIC_READ_WRITE",
+        "storefront": "PUBLIC_READ"
+      },
+      "fieldDefinitions": [
+        {
+          "key": "label",
+          "name": "Label",
+          "type": {
+            "name": "single_line_text_field"
+          }
+        },
+        {
+          "key": "swatch_color",
+          "name": "Swatch color",
+          "type": {
+            "name": "color"
+          }
+        }
+      ]
+    },
+    "userErrors": []
+  }
+}

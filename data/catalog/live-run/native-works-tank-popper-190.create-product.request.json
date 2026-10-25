@@ -1,0 +1,389 @@
+{
+  "input": {
+    "handle": "native-works-tank-popper-190",
+    "title": "Native Works Tank Popper 190",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>This product is made for GT. It was developed with the aim of reducing fatigue from casting to action and allowing the angler to continue throwing.We designed it to have the lowest possible center of gravity, and made it so that it would resonate more bass than splashing.The shape reduces action errors as much as possible, so it can be used in any sea conditions. It has a particularly good track record in deep water. As a result of prioritizing flying distance and action by using special wood, we have judged that the goodness of the product will be lost if more strength is demanded.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Recommended Hook BKK-Z Raptor 5/0 or equivelant.</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length 190 mm</span></p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Gr. 120</span></p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Native Works",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-poppers",
+      "legacy-category-lures-floating"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Yellow Fin"
+          },
+          {
+            "name": "Black"
+          },
+          {
+            "name": "Blue"
+          },
+          {
+            "name": "White Glow"
+          },
+          {
+            "name": "White Blooded"
+          },
+          {
+            "name": "Titanium"
+          },
+          {
+            "name": "Black Snow"
+          },
+          {
+            "name": "Pink Back"
+          },
+          {
+            "name": "Crab"
+          },
+          {
+            "name": "Green Shad"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ1060796",
+        "price": "150.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Yellow Fin"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1302102",
+        "price": "150.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Black"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ6481537",
+        "price": "150.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4015776",
+        "price": "150.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "White Glow"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ3954638",
+        "price": "150.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "White Blooded"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2227887",
+        "price": "150.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Titanium"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2234384",
+        "price": "150.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Black Snow"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ6393804",
+        "price": "150.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Pink Back"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4796736",
+        "price": "150.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Crab"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2241956",
+        "price": "150.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Green Shad"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/36a54931-e265-45e8-9c98-f1f3a0de56a9/456065308_910720764431887_4016672469317358950_n.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Tank Popper 190"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5afaf27b-8c9b-4a14-a01f-5fa8ab53b082/456140688_910720937765203_3668171412130754604_n.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Tank Popper 190"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2b2d859d-66c7-45be-acc5-4fb5c64aae11/IMG-20241226-WA0020.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Tank Popper 190"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/fc6681a2-9172-4383-957b-dac33e513799/White+Glow.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Tank Popper 190"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/095a5110-3394-40cc-b91d-f20bd914b511/Blooded+White+Glow.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Tank Popper 190"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/44277841-b5ae-4926-947b-eb7a9ae2cd65/tank+190+titanium.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Tank Popper 190"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/016abdd1-7486-4cd0-aa4b-fb1eb3e61d7e/tank+190+green+shad.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Tank Popper 190"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5fcd862c-43a0-4236-ae3f-7942bb08632c/tank+190+black+snow.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Tank Popper 190"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/20779147-8c6d-4680-bea5-8291d46b15e8/tank+190+pink+back.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Tank Popper 190"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c6e1df5c-69fd-4ea9-a29c-503a6565a07d/tank+190+crab.jpg",
+        "contentType": "IMAGE",
+        "alt": "Native Works Tank Popper 190"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

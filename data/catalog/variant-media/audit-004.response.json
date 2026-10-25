@@ -1,0 +1,694 @@
+{
+  "nodes": [
+    {
+      "id": "gid://shopify/Product/15439415771249",
+      "handle": "floating-22cm-120g",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284885917809",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-black.webp?v=1792927441"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284885950577",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-blackbone.webp?v=1792927442"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284885983345",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-banana.webp?v=1792927441"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886016113",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-coral.webp?v=1792927442"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886048881",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-carbon.webp?v=1792927441"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886081649",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-holo-black.webp?v=1792927441"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886114417",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-holo-blue.webp?v=1792927442"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886147185",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-holo-pink.webp?v=1792927441"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886179953",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-mahi.jpg?v=1792927442"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886245489",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-pink.webp?v=1792927441"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886278257",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-sarda.webp?v=1792927441"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886311025",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-shark.webp?v=1792927442"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886343793",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-22cm-120g-youpop.webp?v=1792927441"
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841314553969",
+            "sku": "SQ8441079",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Black"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314586737",
+            "sku": "SQ8241258",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Blackbone"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314619505",
+            "sku": "SQ3121307",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Banana"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314652273",
+            "sku": "SQ9954176",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Coral"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314685041",
+            "sku": "SQ8361686",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Carbon"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314717809",
+            "sku": "SQ2422357",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Holo black"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314750577",
+            "sku": "SQ3660400",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Holo blue"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314783345",
+            "sku": "SQ2750120",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Holo pink"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314816113",
+            "sku": "SQ7711059",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Mahi"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314848881",
+            "sku": "SQ7461328",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Nemo"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314881649",
+            "sku": "SQ6899363",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Pink"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314914417",
+            "sku": "SQ8806675",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Sarda"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314947185",
+            "sku": "SQ2533420",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Shark"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841314979953",
+            "sku": "SQ5868404",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "YouPop"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439415869553",
+      "handle": "floating-24cm-150g",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284886835313",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-24cm-150g-holo-pink.jpg?v=1792927447"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886868081",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-24cm-150g-carbon.webp?v=1792927447"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886900849",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-24cm-150g-holo-black.webp?v=1792927446"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886933617",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-24cm-150g-holo-blue.webp?v=1792927447"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886966385",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-24cm-150g-pink.webp?v=1792927446"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284886999153",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-24cm-150g-nemo.webp?v=1792927446"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284887031921",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-24cm-150g-coral.webp?v=1792927447"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284887064689",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-24cm-150g-mahi.webp?v=1792927447"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284887097457",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-24cm-150g-banana.jpg?v=1792927447"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284887130225",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Floating-24cm-150g-YouPop.webp?v=1792927446"
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841315471473",
+            "sku": "SQ0962319",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Holo Pink"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841315504241",
+            "sku": "SQ3602819",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Carbon"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841315537009",
+            "sku": "SQ2640495",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Holo Black"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841315569777",
+            "sku": "SQ0412405",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Holo Blue"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841315602545",
+            "sku": "SQ1718712",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Pink"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841315635313",
+            "sku": "SQ9815424",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Nemo"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841315668081",
+            "sku": "SQ7294551",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Coral"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841315700849",
+            "sku": "SQ5154938",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Mahi"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841315733617",
+            "sku": "SQ0746987",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Banana"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841315766385",
+            "sku": "SQ2703032",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "YouPop"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439416721521",
+      "handle": "good-bait-bnd-180f",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284890407025",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/bnd.webp?v=1792927462"
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841319403633",
+            "sku": "SQ6280239",
+            "selectedOptions": [
+              {
+                "name": "Title",
+                "value": "Default Title"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439417016433",
+      "handle": "good-bait-fzr-188f",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284890931313",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/fzr1.webp?v=1792927468"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284890964081",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/fzr3.webp?v=1792927468"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284890996849",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/fzr2.jpg?v=1792927468"
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841320386673",
+            "sku": "SQ9849808",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "SilverRed"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841320419441",
+            "sku": "SQ3782824",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Silver"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439417376881",
+      "handle": "good-bait-monsterzone-210f",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284892110961",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/monsterzone.webp?v=1792927473"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284892143729",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/monsterzone1.webp?v=1792927473"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284892176497",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/monsterzone2.jpg?v=1792927473"
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841321730161",
+            "sku": "SQ6338628",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "SmallBait"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841321762929",
+            "sku": "SQ3001944",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "MonsterGold"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841321795697",
+            "sku": "SQ4921310",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "PilotBlue"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    }
+  ]
+}

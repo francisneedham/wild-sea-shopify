@@ -1,0 +1,67 @@
+{
+  "input": {
+    "handle": "truth-ocean-sprinter-8110",
+    "title": "Truth Ocean Sprinter 8110",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Encounters with large fish come suddenly.</span><br /><span>A powerful run that cannot be stopped even with a high load.</span><br /><span>I think that &quot;stickiness&quot; and &quot;honest bend curve&quot; are necessary to catch the large fish. This is even more so in the time and rapids shallow areas.</span><br /><span>As the load is applied, it draws a smooth bend curve and is designed so that it does not cause a sudden change in tension to the fish. In this way, the load fluctuation for anglers is reduced, and stable pressure can be applied to the fish throughout. In addition, by achieving these, it is possible to obtain excellent performance in terms of casting, and it is possible to surprisingly reduce the burden on the body from small to large lures.</span><br /><br /><br /><span>8ft1inch (regular taper)</span><br /><span>Rod weight: 392g</span><br /><span>Recommended reel: STELLA18000HG (compatible with STELLA14000XG SALTIGA5500 to 7000)</span><br /><span>Recommended line: PE8 to 10 (appropriate drag load ~ 15 kg)</span><br /><span>Recommended lure: 100g to 270g</span><br /><br /><span>This model is also related to the weight of the angler.</span><br /><span>It is recommended to weigh more than 70 kilos, but even if you are small, you can fight with your weight firmly. You can show your rod power.</span><br /><br /><br /><span>Those who want to put a higher load than #8, those who like a strong cast feeling, and popper while using a pencil (e.g. can be used up to HAMMERHEAD Gcup, but it is not a feeling of playing, but a feeling of use that is entangled in water It is. A model recommended for those who also want to use small-caliber poppers such as EXTREMELURE DEKAGERO and various actions are possible), and those who want to pull the GT firmly while bending flexibly in fighting. It is. It is an honest taper that responds relatively flexibly to sudden rushes, so it is a model that can be recommended to those who have been afraid of challenging with high loads so far, and it is possible to continue to apply high loads easily. ( Around 15 kilometers, 18 kilometers in the intense basin in the test)</span><br /><span>Of course, it is finished with a feeling that even those who do not fight with a high load and those with general physique can master the feeling of using it all day long.</span><br /><span>Compared to #8, it is a regular taper, so you need some arm strength when throwing a large lure, but you can easily cast up to 170g.</span><br /><br /><br /><span>*In the description, it seems to be a hard image compared to #8, but it is by no means a hard one, but a mild type.</span><br /><span>It is a model that can be used not only for GTs, but also for large Hiramasa, but if there is a fish directly below, it will be a corresponding power balance by lowering the waist, so I think it is necessary to consider the height of the pole and the standing position when used in Hiramasa. Su. If the fish is far away, you can stand up the rod firmly and respond.</span><br /><br /><span>It is recommended for targets who can compete in a short time (within 15 minutes).</span><br /><span>From this point of view, I think you can understand the performance of the rod.</span></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "truth",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ9772854",
+        "price": "780.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 5
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/797d52a9-bf79-43b5-a1ba-8d3cfb6ddbde/truth+ocean+sprinter+8110.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean Sprinter 8110"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/26339bc8-6c90-43d5-bb72-df88b907b3ee/truth+ocean+sprinter.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean Sprinter 8110"
+      }
+    ]
+  }
+}

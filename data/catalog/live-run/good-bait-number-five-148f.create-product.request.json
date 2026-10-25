@@ -1,0 +1,143 @@
+{
+  "input": {
+    "handle": "good-bait-number-five-148f",
+    "title": "Good Bait Number Five 148F",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Made smaller. The concept is under 15cm and PE5gou. It has the cup as similar as popper on the chin. So this is a popper for me by short jerk. But I can make diving action as same as stick bait with long sweep action.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>You can make small splash and bubbles by short jerk action after float up the head to surface. It is effective to fish tuna. Please try quick jerk with line slug if you difficult to make splash.&nbsp;</span><br /><span>It will dive and slalom by long jerk action. This method is very effective to fish predators.&nbsp;</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>148 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr.46</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "fishing lure",
+      "saltwater lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "Good Bait lure",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "SilverPink"
+          },
+          {
+            "name": "SilverBlue"
+          },
+          {
+            "name": "YellowHead"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6785501",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "SilverPink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ1426494",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "SilverBlue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 4
+          }
+        ]
+      },
+      {
+        "sku": "SQ9919896",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "YellowHead"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1010d5d2-5351-4f80-a29e-c6655f2a223c/nuberfive2.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait Number Five 148F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e1b2943f-8a32-4c95-b7db-ff8d89ab2430/numberfive.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait Number Five 148F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/743fcd04-d2f3-4c90-94b9-f8ec23fb299d/numberfive1.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait Number Five 148F"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

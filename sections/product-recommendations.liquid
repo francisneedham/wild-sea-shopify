@@ -1,8 +1,16 @@
-<div class="section-template--product-recommendations" data-js="product-recommendations-root">
+{% doc %}
+  Related products section hydrated after product interaction.
+  @example
+  {% section 'product-recommendations' %}
+{% enddoc %}
+
+<div class="wildsea-recommendations" data-js="recommendations" data-product-id="{{ product.id }}" data-section-id="{{ section.id }}">
+<div data-js="product-recommendations-root">
   {% if recommendations.performed and recommendations.products_count > 0 %}
-    <section class="py-8">
-      <h2 class="text-xl font-semibold mb-4">You may also like</h2>
-      <ul class="grid grid-cols-2 gap-4 lg:grid-cols-4" role="list">
+    <section class="wildsea-recommendations__content">
+      <p class="wildsea-recommendations__eyebrow">Complete your setup</p>
+      <h2 data-reveal="title">You may also like.</h2>
+      <ul class="wildsea-recommendations__grid" role="list">
         {% for product in recommendations.products limit: section.settings.products_limit %}
           <li>
             {% render 'product-card', product: product %}
@@ -12,6 +20,16 @@
     </section>
   {% endif %}
 </div>
+</div>
+
+{% stylesheet %}
+  .wildsea-recommendations { width: min(100%, var(--page-width)); padding-inline: var(--site-gutter); margin: 0 auto; }
+  .wildsea-recommendations__content { padding: 65px 0; border-top: 1px solid var(--theme-border); }
+  .wildsea-recommendations__eyebrow { font-size: var(--text-label); letter-spacing: .15em; text-transform: uppercase; }
+  .wildsea-recommendations h2 { margin: 12px 0 32px; font-size: clamp(35px, 5vw, 58px); line-height: 1.05; }
+  .wildsea-recommendations__grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; }
+  @media (max-width: 760px) { .wildsea-recommendations__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+{% endstylesheet %}
 
 {% schema %}
 {

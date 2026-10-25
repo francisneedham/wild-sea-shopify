@@ -1,0 +1,127 @@
+source_value,canonical_key,name_hues,filter_group,mapping_basis,variants,products
+AbalonColor,abaloncolor,,Pattern / Natural,named_or_mixed_pattern,1,1
+anemone blue,anemoneblue,Blue,Blue,explicit_color_word,1,1
+Anemone Orange,anemoneorange,Orange,Orange,explicit_color_word,1,1
+Banana,banana,Yellow,Yellow,name_or_material,8,8
+BgMoray,bgmoray,,Pattern / Natural,named_or_mixed_pattern,1,1
+Black,black,Black,Black,explicit_color_word,8,8
+Black Back,blackback,Black,Black,explicit_color_word,2,1
+Black Snow,blacksnow,Black,Black,explicit_color_word,1,1
+blackblood,blackblood,Black,Black,explicit_color_word,1,1
+Blackbone,blackbone,Black,Black,name_or_material,2,2
+Blacklame,blacklame,Black,Black,name_or_material,1,1
+blacknow,blacknow,Black,Black,name_or_material,1,1
+Blacknow,blacknow,Black,Black,name_or_material,1,1
+blackout,blackout,Black,Black,name_or_material,1,1
+Blue,blue,Blue,Blue,explicit_color_word,12,7
+Blue Holo Foil,blueholofoil,Blue,Blue,explicit_color_word,1,1
+Blue Holographic,blueholographic,Blue,Blue,explicit_color_word,3,1
+Blue Nemo,bluenemo,Blue,Blue,explicit_color_word,1,1
+Blue Silver Stripe,bluesilverstripe,Blue|Silver,Pattern / Natural,named_or_mixed_pattern,1,1
+BlueBack,blueback,Blue,Blue,explicit_color_word,1,1
+Blueback Silver,bluebacksilver,Blue|Silver,Pattern / Natural,named_or_mixed_pattern,3,1
+BluebackBaitfish,bluebackbaitfish,Blue,Blue,explicit_color_word,1,1
+BlueHead,bluehead,Blue,Blue,explicit_color_word,1,1
+Candy,candy,,Pattern / Natural,named_or_mixed_pattern,1,1
+Candy Holo Foil,candyholofoil,,Pattern / Natural,named_or_mixed_pattern,1,1
+Carbon,carbon,Black,Black,name_or_material,4,4
+carbon,carbon,Black,Black,name_or_material,3,1
+Coral,coral,,Pattern / Natural,named_or_mixed_pattern,8,8
+Crab,crab,,Pattern / Natural,named_or_mixed_pattern,2,2
+Dead Bait,deadbait,,Pattern / Natural,named_or_mixed_pattern,1,1
+FlyiiFish,flyiifish,,Pattern / Natural,named_or_mixed_pattern,1,1
+Flying Fish,flyingfish,,Pattern / Natural,named_or_mixed_pattern,5,4
+FlyingFish,flyingfish,,Pattern / Natural,named_or_mixed_pattern,1,1
+Fusilier,fusilier,,Pattern / Natural,named_or_mixed_pattern,8,6
+GlitterBlue,glitterblue,Blue,Blue,explicit_color_word,1,1
+GlitterPink,glitterpink,Pink,Pink,explicit_color_word,1,1
+Golden Orange,goldenorange,Gold|Orange,Pattern / Natural,named_or_mixed_pattern,1,1
+GoldGreen,goldgreen,Gold|Green,Pattern / Natural,named_or_mixed_pattern,2,1
+Gray,gray,Gray,Gray,explicit_color_word,4,1
+Green,green,Green,Green,explicit_color_word,3,1
+Green Pink,greenpink,Green|Pink,Pattern / Natural,named_or_mixed_pattern,1,1
+Green Shad,greenshad,Green,Green,explicit_color_word,1,1
+Green Wood,greenwood,Green|Brown,Pattern / Natural,named_or_mixed_pattern,1,1
+GreenBack,greenback,Green,Green,explicit_color_word,1,1
+GreenBack Yellow,greenbackyellow,Green|Yellow,Pattern / Natural,named_or_mixed_pattern,3,1
+GreenBaitfish,greenbaitfish,Green,Green,explicit_color_word,1,1
+GreenHead,greenhead,Green,Green,explicit_color_word,1,1
+greenshad,greenshad,Green,Green,explicit_color_word,1,1
+Greenshad,greenshad,Green,Green,explicit_color_word,2,2
+Holo black,holoblack,Black,Black,explicit_color_word,1,1
+Holo Black,holoblack,Black,Black,explicit_color_word,3,3
+Holo blue,holoblue,Blue,Blue,explicit_color_word,1,1
+Holo Blue,holoblue,Blue,Blue,explicit_color_word,3,3
+Holo pink,holopink,Pink,Pink,explicit_color_word,1,1
+Holo Pink,holopink,Pink,Pink,explicit_color_word,3,3
+HoloSilver,holosilver,Silver,Silver,explicit_color_word,3,1
+joker,joker,,Pattern / Natural,named_or_mixed_pattern,3,1
+Mackarell,mackarell,,Pattern / Natural,named_or_mixed_pattern,3,1
+Mahi,mahi,,Pattern / Natural,named_or_mixed_pattern,8,8
+Mahi Mahi,mahimahi,,Pattern / Natural,named_or_mixed_pattern,3,3
+Mahimahi,mahimahi,,Pattern / Natural,named_or_mixed_pattern,3,2
+MahiMahi,mahimahi,,Pattern / Natural,named_or_mixed_pattern,1,1
+Majiora,majiora,,Pattern / Natural,named_or_mixed_pattern,1,1
+MandarinePearch,mandarinepearch,,Pattern / Natural,named_or_mixed_pattern,1,1
+Matte Red Gold,matteredgold,Gold|Red,Pattern / Natural,named_or_mixed_pattern,1,1
+MonsterGold,monstergold,Gold,Gold,explicit_color_word,2,2
+Natural Bait,naturalbait,,Pattern / Natural,named_or_mixed_pattern,3,1
+natural wood,naturalwood,Brown,Brown,name_or_material,1,1
+Natural Wood,naturalwood,Brown,Brown,name_or_material,1,1
+NaturalBait,naturalbait,,Pattern / Natural,named_or_mixed_pattern,1,1
+NaturalGold,naturalgold,Gold,Gold,explicit_color_word,1,1
+Nemo,nemo,,Pattern / Natural,named_or_mixed_pattern,6,6
+Orange Marbled,orangemarbled,Orange,Orange,explicit_color_word,1,1
+Orange Nemo,orangenemo,Orange,Orange,explicit_color_word,1,1
+Pearl,pearl,White,White,name_or_material,1,1
+PilotBlue,pilotblue,Blue,Blue,explicit_color_word,1,1
+Pink,pink,Pink,Pink,explicit_color_word,13,11
+Pink Abalone,pinkabalone,Pink,Pink,explicit_color_word,1,1
+Pink Back,pinkback,Pink,Pink,explicit_color_word,2,2
+Pink Head,pinkhead,Pink,Pink,explicit_color_word,1,1
+Pink Holo Foil,pinkholofoil,Pink,Pink,explicit_color_word,1,1
+PinkHead,pinkhead,Pink,Pink,explicit_color_word,1,1
+Punk Mackerel,punkmackerel,,Pattern / Natural,named_or_mixed_pattern,3,3
+Purple,purple,Purple,Purple,explicit_color_word,3,2
+Purple Glitter,purpleglitter,Purple,Purple,explicit_color_word,3,1
+PurpleYellow,purpleyellow,Purple|Yellow,Pattern / Natural,named_or_mixed_pattern,1,1
+Rainbow Trout,rainbowtrout,,Pattern / Natural,named_or_mixed_pattern,2,1
+RainbowTrout,rainbowtrout,,Pattern / Natural,named_or_mixed_pattern,1,1
+ReadHead,readhead,Red,Red,name_or_material,1,1
+Red Abalone,redabalone,Red,Red,explicit_color_word,1,1
+Redhead Glitter,redheadglitter,Red,Red,explicit_color_word,3,1
+Sapphire Abalone Gray,sapphireabalonegray,Gray,Gray,explicit_color_word,1,1
+Sapphire Abalone Yellow,sapphireabaloneyellow,Yellow,Yellow,explicit_color_word,1,1
+Sarda,sarda,,Pattern / Natural,named_or_mixed_pattern,3,3
+Sardine,sardine,,Pattern / Natural,named_or_mixed_pattern,2,1
+Shark,shark,,Pattern / Natural,named_or_mixed_pattern,6,6
+Silver,silver,Silver,Silver,explicit_color_word,4,2
+Silver Black,silverblack,Black|Silver,Pattern / Natural,named_or_mixed_pattern,1,1
+Silver Black Yellow Head,silverblackyellowhead,Black|Silver|Yellow,Pattern / Natural,named_or_mixed_pattern,2,1
+Silver Blue,silverblue,Blue|Silver,Pattern / Natural,named_or_mixed_pattern,1,1
+Silver Blue Yellow Head,silverblueyellowhead,Blue|Silver|Yellow,Pattern / Natural,named_or_mixed_pattern,3,2
+SilverBlack,silverblack,Black|Silver,Pattern / Natural,named_or_mixed_pattern,2,1
+SilverBlue,silverblue,Blue|Silver,Pattern / Natural,named_or_mixed_pattern,7,4
+SilverGoldBlack,silvergoldblack,Black|Gold|Silver,Pattern / Natural,named_or_mixed_pattern,4,2
+SilverOrange,silverorange,Orange|Silver,Pattern / Natural,named_or_mixed_pattern,5,3
+SilverPink,silverpink,Pink|Silver,Pattern / Natural,named_or_mixed_pattern,6,4
+SilverPurple,silverpurple,Purple|Silver,Pattern / Natural,named_or_mixed_pattern,2,1
+SilverRed,silverred,Red|Silver,Pattern / Natural,named_or_mixed_pattern,3,2
+SkipJack,skipjack,,Pattern / Natural,named_or_mixed_pattern,1,1
+sky blue,skyblue,Blue,Blue,explicit_color_word,4,1
+SmallBait,smallbait,,Pattern / Natural,named_or_mixed_pattern,2,2
+SpottedBaitfish,spottedbaitfish,,Pattern / Natural,named_or_mixed_pattern,1,1
+Titanium,titanium,Gray,Gray,name_or_material,4,4
+White,white,White,White,explicit_color_word,3,3
+White Blooded,whiteblooded,White,White,explicit_color_word,1,1
+White Glow,whiteglow,White,White,explicit_color_word,2,2
+WhiteSilver,whitesilver,Silver|White,Pattern / Natural,named_or_mixed_pattern,1,1
+WineBack,wineback,Red,Red,name_or_material,1,1
+Yellow,yellow,Yellow,Yellow,explicit_color_word,1,1
+Yellow Blue Snapper,yellowbluesnapper,Blue|Yellow,Pattern / Natural,named_or_mixed_pattern,1,1
+Yellow Fin,yellowfin,Yellow,Yellow,explicit_color_word,1,1
+Yellowfin,yellowfin,Yellow,Yellow,explicit_color_word,2,2
+Yellowfin Tuna,yellowfintuna,Yellow,Yellow,explicit_color_word,1,1
+YellowHead,yellowhead,Yellow,Yellow,explicit_color_word,1,1
+YellowOrange,yelloworange,Orange|Yellow,Pattern / Natural,named_or_mixed_pattern,1,1
+YouPop,youpop,,Pattern / Natural,named_or_mixed_pattern,8,8

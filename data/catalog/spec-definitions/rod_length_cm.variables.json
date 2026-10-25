@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Rod length (cm)",
+    "namespace": "specs",
+    "key": "rod_length_cm",
+    "description": "Physical rod length in centimetres; numeric filter value.",
+    "type": "number_decimal",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

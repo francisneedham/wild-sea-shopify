@@ -1,0 +1,72 @@
+{
+  "v0": {
+    "id": "gid://shopify/Product/15439419998321",
+    "handle": "lazarat-griffon-diving-170",
+    "title": "Lazarat Griffon Diving 170",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Lazarat"
+  },
+  "v1": {
+    "id": "gid://shopify/Product/15439420194929",
+    "handle": "lazarat-griffon-diving-200",
+    "title": "Lazarat Griffon PoP 200",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Lazarat"
+  },
+  "v2": {
+    "id": "gid://shopify/Product/15439420489841",
+    "handle": "lazarat-griffon-diving-200-1",
+    "title": "Lazarat Griffon Diving 200",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Lazarat"
+  },
+  "v3": {
+    "id": "gid://shopify/Product/15439420686449",
+    "handle": "lazarat-griffon-diving-230",
+    "title": "Lazarat Griffon Diving 230",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Lazarat"
+  },
+  "v4": {
+    "id": "gid://shopify/Product/15439420981361",
+    "handle": "mc-works-2023-explosion-817hf-special-model",
+    "title": "MC Works 2023 Explosion 817HF Special Model",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v5": {
+    "id": "gid://shopify/Product/15439421243505",
+    "handle": "mc-works-804-hr",
+    "title": "MC Works 804 HR",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v6": {
+    "id": "gid://shopify/Product/15439421472881",
+    "handle": "mc-works-black-chrome-bc120htx",
+    "title": "MC Works Black & Chrome BC120HTX",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v7": {
+    "id": "gid://shopify/Product/15439421735025",
+    "handle": "mc-works-explosion-817hf",
+    "title": "MC Works Explosion 817HF",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v8": {
+    "id": "gid://shopify/Product/15439422062705",
+    "handle": "mc-works-explosion-818-ctr-sp",
+    "title": "MC Works Explosion 818 CTR SP",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v9": {
+    "id": "gid://shopify/Product/15439422357617",
+    "handle": "mc-works-explosion-835ctr-standard-model",
+    "title": "MC Works Explosion 835 CTR - Standard Model",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  }
+}

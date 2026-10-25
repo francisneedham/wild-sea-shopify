@@ -1,0 +1,25 @@
+query AuditLureVariantMedia($ids: [ID!]!) {
+  nodes(ids: $ids) {
+    ... on Product {
+      id
+      handle
+      media(first: 100, sortKey: POSITION) {
+        nodes {
+          id
+          status
+          ... on MediaImage { image { url } }
+        }
+        pageInfo { hasNextPage }
+      }
+      variants(first: 100) {
+        nodes {
+          id
+          sku
+          selectedOptions { name value }
+          media(first: 10) { nodes { id } }
+        }
+        pageInfo { hasNextPage }
+      }
+    }
+  }
+}

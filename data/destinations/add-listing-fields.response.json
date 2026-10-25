@@ -1,0 +1,73 @@
+{
+  "metaobjectDefinitionUpdate": {
+    "metaobjectDefinition": {
+      "id": "gid://shopify/MetaobjectDefinition/37090918513",
+      "fieldDefinitions": [
+        {
+          "key": "title",
+          "name": "title",
+          "type": {
+            "name": "single_line_text_field"
+          }
+        },
+        {
+          "key": "caption",
+          "name": "caption",
+          "type": {
+            "name": "multi_line_text_field"
+          }
+        },
+        {
+          "key": "season",
+          "name": "season",
+          "type": {
+            "name": "single_line_text_field"
+          }
+        },
+        {
+          "key": "fishing_days",
+          "name": "fishing days",
+          "type": {
+            "name": "single_line_text_field"
+          }
+        },
+        {
+          "key": "on_the_water",
+          "name": "on the water",
+          "type": {
+            "name": "single_line_text_field"
+          }
+        },
+        {
+          "key": "target_species",
+          "name": "target species",
+          "type": {
+            "name": "single_line_text_field"
+          }
+        },
+        {
+          "key": "listing_image",
+          "name": "Listing image",
+          "type": {
+            "name": "file_reference"
+          }
+        },
+        {
+          "key": "region",
+          "name": "Region",
+          "type": {
+            "name": "single_line_text_field"
+          }
+        },
+        {
+          "key": "technique",
+          "name": "Technique",
+          "type": {
+            "name": "single_line_text_field"
+          }
+        }
+      ]
+    },
+    "userErrors": []
+  }
+}

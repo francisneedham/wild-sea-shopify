@@ -1,0 +1,87 @@
+{
+  "productVariantAppendMedia": {
+    "product": {
+      "id": "gid://shopify/Product/15439429664881"
+    },
+    "productVariants": [
+      {
+        "id": "gid://shopify/ProductVariant/67841382875249",
+        "sku": "SQ8371419",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284956074097"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841382908017",
+        "sku": "SQ6428731",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284956106865"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841382940785",
+        "sku": "SQ7213301",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284956139633"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841382973553",
+        "sku": "SQ6283725",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284956172401"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841383006321",
+        "sku": "SQ4286020",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284956205169"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841383039089",
+        "sku": "SQ0478688",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284956237937"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/ProductVariant/67841383071857",
+        "sku": "SQ1274080",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284956270705"
+            }
+          ]
+        }
+      }
+    ],
+    "userErrors": []
+  }
+}

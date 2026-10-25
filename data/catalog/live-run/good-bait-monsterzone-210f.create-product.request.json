@@ -1,0 +1,143 @@
+{
+  "input": {
+    "handle": "good-bait-monsterzone-210f",
+    "title": "Good Bait MonsterZone 210F",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>This lure comes up to the surface faster than other diving stick baits after the diving action. When a fish notices the presence of bait, the lure immediately floats to surface and disappears from the fish’s sight. The fish perceives the bait as running away and chases it more fiercely.&nbsp;</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>210 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 100</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "fishing lure",
+      "saltwater lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "Good Bait lure",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "SmallBait"
+          },
+          {
+            "name": "MonsterGold"
+          },
+          {
+            "name": "PilotBlue"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6338628",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "SmallBait"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.16,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ3001944",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "MonsterGold"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.16,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "sku": "SQ4921310",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "PilotBlue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.16,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 5
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/966562cb-10c6-43ea-9e66-647e2cffc4ba/monsterzone.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait MonsterZone 210F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/afb4bcac-4666-4d1b-ad38-837dd03918e4/monsterzone1.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait MonsterZone 210F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3ae6990f-183d-47b3-8b16-bb6503c528d8/monsterzone2.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait MonsterZone 210F"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

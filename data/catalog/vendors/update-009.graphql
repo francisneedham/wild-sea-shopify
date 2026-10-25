@@ -1,0 +1,22 @@
+mutation UpdateVendorBatch009 {
+  v0: productUpdate(product: {id: "gid://shopify/Product/15439544680561", vendor: "Truth Japan"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v1: productUpdate(product: {id: "gid://shopify/Product/15439544877169", vendor: "Truth Japan"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v2: productUpdate(product: {id: "gid://shopify/Product/15439545139313", vendor: "Wild Gambler"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v3: productUpdate(product: {id: "gid://shopify/Product/15439545466993", vendor: "Woodream"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v4: productUpdate(product: {id: "gid://shopify/Product/15439545630833", vendor: "Woodream"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "sections": {
+    "hero": {
+      "type": "page-hero",
+      "settings": {
+        "original": "about-0",
+        "image_alt": "Wildsea guides on expedition",
+        "kicker": "Our story · Est. 2012",
+        "heading": "Born to explore.",
+        "text": "A shared passion for fishing. A restless curiosity.\nA life spent searching for the extraordinary.",
+        "interval": 6
+      },
+      "blocks": {
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/about-slide-1.webp",
+            "alt": "Wild Sea expedition on the water"
+          }
+        },
+        "slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/about-slide-2.jpg",
+            "alt": "An angler fighting a fish"
+          }
+        },
+        "slide-3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/about-slide-3.webp",
+            "alt": "Wild Sea expedition in the deep south"
+          }
+        },
+        "slide-4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/about-slide-4.webp",
+            "alt": "Remote coastline on a Wild Sea expedition"
+          }
+        },
+        "slide-5": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/about-slide-5.webp",
+            "alt": "Wild Sea guides at sea"
+          }
+        },
+        "slide-6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/about-slide-6.jpg",
+            "alt": "A monster giant trevally in Socotra"
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2",
+        "slide-3",
+        "slide-4",
+        "slide-5",
+        "slide-6"
+      ]
+    },
+    "story": {
+      "type": "destination-editorial",
+      "settings": {
+        "anchor": "our-story",
+        "background": "none",
+        "kicker": "The people behind the adventure",
+        "heading": "Follow your passion.\nFind your people.",
+        "text": "<p>Wildsea began in 2012 with a passion for saltwater fishing and remote travel. Our team was among the first to fish parts of the Red Sea, the Gulf of Aden and the Indian Ocean, exploring coastlines beyond the usual routes.</p><p>Our guides bring together experience, curiosity and respect for the natural world. We look for unspoilt destinations and pair extraordinary fishing with the landscapes, nature and culture around it.</p>",
+        "original": "about-2",
+        "image_alt": "Wildsea exploration in the Red Sea",
+        "reverse": false
+      },
+      "blocks": {
+        "p1": {
+          "type": "point",
+          "settings": {
+            "icon": "compass",
+            "text": "Saltwater fishing expeditions since 2012"
+          }
+        },
+        "p2": {
+          "type": "point",
+          "settings": {
+            "icon": "waves-horizontal",
+            "text": "Red Sea, Gulf of Aden and Indian Ocean pioneers"
+          }
+        },
+        "p3": {
+          "type": "point",
+          "settings": {
+            "icon": "users-round",
+            "text": "Fishing, nature and local culture in one journey"
+          }
+        }
+      },
+      "block_order": [
+        "p1",
+        "p2",
+        "p3"
+      ]
+    },
+    "quote": {
+      "type": "page-quote",
+      "settings": {
+        "quote": "Go further. Feel more.\nLeave less.",
+        "caption": "Our commitment to the wild"
+      }
+    },
+    "ecology": {
+      "type": "destination-editorial",
+      "settings": {
+        "anchor": "ecology",
+        "background": "none",
+        "kicker": "Catch. Respect. Release.",
+        "heading": "Keep it wild.",
+        "text": "<p>The places we explore deserve care. We do not fish for the table: fish are released in good condition, we always use barbless hooks and we make every effort to ensure their survival.</p><p>We keep improving our tackle, boats and practices, and work with local communities so that exploration is a positive part of the places we visit.</p>",
+        "original": "news-0",
+        "image_alt": "Socotra communities and natural landscapes",
+        "reverse": true
+      },
+      "blocks": {
+        "b1": {
+          "type": "button",
+          "settings": {
+            "label": "Read our conservation stories",
+            "target": "custom",
+            "link": "https://www.wildseaexpedition.com/en/news/protecting-socotra-through-responsible-tourism-supporting-communities-conserving-nature-and-building-a-sustainable-future",
+            "style": "text",
+            "icon": "arrow-right"
+          }
+        }
+      },
+      "block_order": [
+        "b1"
+      ]
+    },
+    "team": {
+      "type": "page-team",
+      "settings": {
+        "anchor": "team",
+        "kicker": "Meet your guides",
+        "heading": "The Wildsea crew.",
+        "intro": "Passionate anglers. Curious explorers. The people who make every expedition possible.",
+        "more_label": "Read more"
+      },
+      "blocks": {
+        "member-1": {
+          "type": "member",
+          "settings": {
+            "original": "about-10",
+            "name": "Nicola Vitali",
+            "role": "Founder & trip manager",
+            "bio": "<p>Born in Italy in 1986. Leads our Sudan and Socotra trips across popping, jigging and fly fishing. A civil and environmental engineer and licensed skipper, he speaks Italian, English and French, and is learning Arabic.</p>",
+            "image": "shopify://shop_images/team-nicola-vitali.webp",
+            "bio_full": "<p>Born in Italy in 1986, he has been fishing since he was four years old. He started travelling to fish at 18, visiting Australia, Nepal, Ireland, Morocco, the Maldives, Oman, Mauritius, Nicaragua, Peru, India, Egypt, Sudan, Saudi Arabia, Djibouti, Eritrea and Yemen, always drawn to new and unknown destinations.</p><p>After a degree in civil and environmental engineering he set out to find some of the last frontier destinations for fishing, discovering the huge GTs of Socotra Island, where he organised a fishing camp, and the virgin reefs of Sudan.</p><p>You will find him as trip manager in Sudan and Socotra, guiding you through popping, jigging or fly fishing. He speaks Italian, English and French, is learning Arabic, and holds an international sailing licence for boats up to 24 m. In his free time in Sudan he tests new spots, techniques and equipment, and he collaborates with fishing magazines around the world.</p>"
+          }
+        },
+        "member-2": {
+          "type": "member",
+          "settings": {
+            "original": "about-11",
+            "name": "Joshua Wareham",
+            "role": "Fishing & nature guide",
+            "bio": "<p>Born in South Africa in 1995. Our main fishing guide in Socotra and a guide for Unique Socotra, our eco-tourism division, with a background in ichthyology and environmental science.</p>",
+            "image": "shopify://shop_images/team-joshua-wareham.jpg",
+            "bio_full": "<p>Born in South Africa in 1995, he has been fishing for as long as he can remember, thanks to his father’s love of fishing and family holidays that always had to include it. That gave him experience in many techniques and most of South Africa’s diverse fisheries, both salt and freshwater.</p><p>Spending so much of his childhood in remote and untamed wilderness nurtured a deep love for the natural world. It grew alongside his fascination with fishing and led him to a degree in Ichthyology (fisheries science) and Environmental Science.</p><p>Before studying he worked as a fly-fishing and white-water rafting guide on the Orange River, where his love for guiding began. Today he is one of the main fishing guides in Socotra and a tour guide for Unique Socotra, our eco-tourism division, combining adventure, fishing and conservation for visitors to one of the world’s most extraordinary and pristine ecosystems.</p>"
+          }
+        },
+        "member-3": {
+          "type": "member",
+          "settings": {
+            "original": "about-12",
+            "name": "Robert Pljuscec",
+            "role": "Guide, photographer & filmmaker",
+            "bio": "<p>Born in Croatia in 1982. Fishing guide and visual storyteller, whose photo and video work includes brands such as BKK Hooks, Red Bull and Adidas.</p>",
+            "image": "shopify://shop_images/team-robert-pljuscec.webp",
+            "bio_full": "<p>Born in Croatia in 1982, he caught his first fish as a very young child and has been hooked ever since. Growing up, the National Geographic magazines his father brought home sparked a lasting interest in photography, nature and other cultures.</p><p>With his creative and curious nature, those interests took off in his mid-twenties and became a career in photography, videography and fishing guiding, first locally and then internationally.</p><p>Photo and video clients include BKK Hooks International, Eva Zubeck, Stroft, Adidas, Reebok, Red Bull, TropicFeel, the European Rugby Federation, 404 Agency, More Magazine, Intersport, Highlander Adventure, Staropramen Brewery and Go2Digital.</p>"
+          }
+        },
+        "member-4": {
+          "type": "member",
+          "settings": {
+            "original": "about-13",
+            "name": "Johan Persson Friberg",
+            "role": "Fly-fishing specialist",
+            "bio": "<p>Born in Norway in 1979. Focused on tropical fly fishing and new destinations, he helps anglers with bookings and advice on rods, reels, flies and fly-tying.</p>",
+            "image": "shopify://shop_images/team-johan-persson-friberg.webp",
+            "bio_full": "<p>Born in Norway in 1979, he began fishing not long after he could walk. Growing up next door to his grandfather, a keen angler, with a trout river close by, the path into the fishing obsession was short, and never-ending.</p><p>He began travelling in his early twenties and has fished Sweden, Denmark, Russia, Iceland, England, the USA, Antigua, Tobago, the Bahamas, Bonaire, India, Oman, Sudan, Yemen, Djibouti, Costa Rica, Colombia, Venezuela and Eritrea. He spends a lot of time spin and fly fishing for many species, but his true passion is tropical fly fishing, exploring new places and figuring out their potential, and catching the “freaky” fish, not just the average flats species.</p><p>Johan helps with everything from booking to advice on rods, reels, flies, fly-tying and any practical question that comes to mind.</p>"
+          }
+        },
+        "member-5": {
+          "type": "member",
+          "settings": {
+            "original": "about-14",
+            "name": "Gareth Sims",
+            "role": "Expedition guide",
+            "bio": "<p>Born in Zimbabwe in 1990. A freelance guide in Madagascar, the Seychelles, Central and South America and Yemen, who previously ran his own guiding company in Mozambique.</p>",
+            "image": "shopify://shop_images/team-gareth-sims.webp",
+            "bio_full": "<p>Born in Zimbabwe in 1990, Gareth fell for fishing on school holidays in Mozambique with his dad, which led to a guiding opportunity there. After three years guiding in Mozambique, he started his own guiding company at 21.</p><p>He closed it eight years later because demand from his clients to freelance around the world had grown too much to give the Mozambique operation enough time, though he still runs freelance trips there for select clients. His destinations now include Madagascar, the Seychelles, Central and South America and Yemen.</p><p>Exploring remote and unknown places has always been his passion, and working in Socotra has been one of his highlights. His goal is to keep pushing the boundaries to discover new and unique fisheries, a spirit shaped by working with Nicola and Wild Sea Expedition.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "member-1",
+        "member-2",
+        "member-3",
+        "member-4",
+        "member-5"
+      ]
+    },
+    "partners": {
+      "type": "page-partners",
+      "settings": {
+        "background": "stone",
+        "kicker": "Trusted on every trip",
+        "heading": "Our partners.",
+        "intro": "Brands we rely on, from hooks and lures to travel cover."
+      },
+      "blocks": {
+        "partner-1": {
+          "type": "partner",
+          "settings": {
+            "name": "BKK Hooks",
+            "link": "https://bkkhooks.com/",
+            "logo": "shopify://shop_images/partner-bkk-hooks.webp"
+          }
+        },
+        "partner-2": {
+          "type": "partner",
+          "settings": {
+            "name": "Glide Tackle",
+            "link": "https://glidetackle.com",
+            "logo": "shopify://shop_images/partner-glide-tackle.webp"
+          }
+        },
+        "partner-3": {
+          "type": "partner",
+          "settings": {
+            "name": "IATI Travel Insurance",
+            "link": "https://www.iatitravelinsurance.com/en-eu?r=00090919959664",
+            "logo": "shopify://shop_images/partner-iati.webp"
+          }
+        },
+        "partner-4": {
+          "type": "partner",
+          "settings": {
+            "name": "Maguro Pro Shop",
+            "link": "https://www.maguro-pro-shop.com",
+            "logo": "shopify://shop_images/partner-maguro-pro-shop.webp"
+          }
+        }
+      },
+      "block_order": [
+        "partner-1",
+        "partner-2",
+        "partner-3",
+        "partner-4"
+      ]
+    },
+    "instagram": {
+      "type": "home-card-grid",
+      "settings": {
+        "heading": "Follow Wild Sea.",
+        "text": "A few moments from our journeys. Follow the expeditions on Instagram.",
+        "layout": "gallery",
+        "link": "https://www.instagram.com/wildseaexpedition/",
+        "link_label": "@wildseaexpedition",
+        "color_scheme": "scheme-1",
+        "kicker": "Follow our journey"
+      },
+      "blocks": {
+        "photo_1": {
+          "type": "photo",
+          "settings": {
+            "heading": "Moments from a Wild Sea expedition",
+            "original": "about-4",
+            "link": "https://www.instagram.com/wildseaexpedition/"
+          }
+        },
+        "photo_2": {
+          "type": "photo",
+          "settings": {
+            "heading": "Giant trevally fishing in Socotra",
+            "original": "article-1",
+            "link": "https://www.instagram.com/wildseaexpedition/"
+          }
+        },
+        "photo_3": {
+          "type": "photo",
+          "settings": {
+            "heading": "The coastal expedition camp in Socotra",
+            "original": "socotra-5",
+            "link": "https://www.instagram.com/wildseaexpedition/"
+          }
+        },
+        "photo_4": {
+          "type": "photo",
+          "settings": {
+            "heading": "Fishing the remote waters with Wild Sea",
+            "original": "about-3",
+            "link": "https://www.instagram.com/wildseaexpedition/"
+          }
+        },
+        "photo_5": {
+          "type": "photo",
+          "settings": {
+            "heading": "The wild coastline of Socotra",
+            "original": "socotra-2",
+            "link": "https://www.instagram.com/wildseaexpedition/"
+          }
+        }
+      },
+      "block_order": [
+        "photo_1",
+        "photo_2",
+        "photo_3",
+        "photo_4",
+        "photo_5"
+      ]
+    }
+  },
+  "order": [
+    "hero",
+    "story",
+    "quote",
+    "ecology",
+    "team",
+    "partners",
+    "instagram"
+  ]
+}

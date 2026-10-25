@@ -1,0 +1,648 @@
+{
+  "nodes": [
+    {
+      "id": "gid://shopify/Product/15439428649073",
+      "handle": "popper-18cm-75g",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284949848177",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-18cm-75g-mahi.webp?v=1792927714"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284949880945",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-18cm-75g-banana.webp?v=1792927713"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284949913713",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-18cm-75g-black.webp?v=1792927714"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284949946481",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-18cm-75g-coral.webp?v=1792927714"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284949979249",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-18cm-75g-shark.webp?v=1792927714"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284950012017",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-18cm-75g-youpop.webp?v=1792927713"
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841379172465",
+            "sku": "SQ2806036",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Mahi"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841379205233",
+            "sku": "SQ1778175",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Banana"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841379238001",
+            "sku": "SQ2816028",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Black"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841379270769",
+            "sku": "SQ4988796",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Coral"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841379303537",
+            "sku": "SQ2905866",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Shark"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841379336305",
+            "sku": "SQ8157867",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "YouPop"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439428812913",
+      "handle": "popper-22cm-110g",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284950634609",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-22cm-110g-banana.webp?v=1792927719"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284950667377",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-22cm-110g-black.webp?v=1792927718"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284950700145",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-22cm-110g-carbon.webp?v=1792927719"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284950732913",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-22cm-110g-coral.jpg?v=1792927719"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284950765681",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-22cm-110g-mahi.webp?v=1792927719"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284950798449",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-22cm-110g-pink.webp?v=1792927719"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284950831217",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-22cm-110g-punk-mackerel.webp?v=1792927719"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284950863985",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-22cm-110g-sarda.webp?v=1792927719"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284950896753",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-22cm-110g-shark.webp?v=1792927719"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284950929521",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Popper-22cm-110g-youpop.webp?v=1792927719"
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841380155505",
+            "sku": "SQ5925045",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Banana"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841380188273",
+            "sku": "SQ8035429",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Black"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841380221041",
+            "sku": "SQ1785377",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Carbon"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841380253809",
+            "sku": "SQ6803691",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Coral"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841380286577",
+            "sku": "SQ3177287",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Mahi"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841380319345",
+            "sku": "SQ8842762",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Pink"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841380352113",
+            "sku": "SQ4793061",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Punk Mackerel"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841380384881",
+            "sku": "SQ2651929",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Sarda"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841380417649",
+            "sku": "SQ7245243",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Shark"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841380450417",
+            "sku": "SQ8282102",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "YouPop"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439429206129",
+      "handle": "rst-supply-nezul-210",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284953026673",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/IMG_20260513_225659_61599587014469.jpg?v=1792927728"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284953059441",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/IMG_20260513_225827_61599594003896.webp?v=1792927728"
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841381597297",
+            "sku": "SQ5754232",
+            "selectedOptions": [
+              {
+                "name": "Title",
+                "value": "Default Title"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439429402737",
+      "handle": "rst-supply-rilana-180f",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284954108017",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/rst_rilana_180_blue.webp?v=1792927733"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284954140785",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/rst_rilana_180_pink.webp?v=1792927734"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284954173553",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/rst_rilana_180.webp?v=1792927734"
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841382318193",
+            "sku": "SQ6791078",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Pink"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841382350961",
+            "sku": "SQ6074839",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Blue"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439429501041",
+      "handle": "sinking-10cm-50g",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284954959985",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Sinking-10cm-50g-black.jpg?v=1792927739"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284954992753",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Sinking-10cm-50g-coral.jpg?v=1792927739"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284955025521",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Sinking-10cm-50g-holo-black.webp?v=1792927739"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284955058289",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Sinking-10cm-50g-holo-blue.webp?v=1792927738"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284955091057",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Sinking-10cm-50g-holo-pink.webp?v=1792927739"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284955123825",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Sinking-10cm-50g-mahi.jpg?v=1792927739"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284955156593",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Sinking-10cm-50g-nemo.webp?v=1792927739"
+            }
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284955189361",
+            "status": "READY",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0706/7533/3233/files/Glide-Sinking-10cm-50g-shark.webp?v=1792927739"
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841382482033",
+            "sku": "SQ8909010",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Black"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841382514801",
+            "sku": "SQ0570592",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Coral"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841382547569",
+            "sku": "SQ3679915",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Holo Black"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841382580337",
+            "sku": "SQ8328549",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Holo Blue"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841382613105",
+            "sku": "SQ6002304",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Holo Pink"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841382645873",
+            "sku": "SQ2629408",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Mahi"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841382678641",
+            "sku": "SQ4155596",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Nemo"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841382711409",
+            "sku": "SQ0681038",
+            "selectedOptions": [
+              {
+                "name": "Color",
+                "value": "Shark"
+              }
+            ],
+            "media": {
+              "nodes": []
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    }
+  ]
+}

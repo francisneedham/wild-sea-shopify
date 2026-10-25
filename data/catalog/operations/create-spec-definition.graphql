@@ -1,0 +1,14 @@
+mutation CreateSpecDefinition($definition: MetafieldDefinitionInput!) {
+  metafieldDefinitionCreate(definition: $definition) {
+    createdDefinition {
+      id
+      namespace
+      key
+      name
+      type { name }
+      ownerType
+      access { storefront }
+    }
+    userErrors { field message code }
+  }
+}

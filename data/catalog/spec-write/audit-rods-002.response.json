@@ -1,0 +1,370 @@
+{
+  "nodes": [
+    {
+      "id": "gid://shopify/Product/15439424192625",
+      "handle": "mc-works-rod-explosion-807-ctr-standard-model",
+      "length": {
+        "value": "243.84"
+      },
+      "lengthLabel": {
+        "value": "8'0\""
+      },
+      "peMin": {
+        "value": "6.0"
+      },
+      "peMax": {
+        "value": "10.0"
+      },
+      "castMin": {
+        "value": "80"
+      },
+      "castMax": {
+        "value": "150"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "18.0"
+      },
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439424815217",
+      "handle": "mc-works-slow-hand-all-that-tuna-sh729tsz",
+      "length": {
+        "value": "218.44"
+      },
+      "lengthLabel": {
+        "value": "7'2\""
+      },
+      "peMin": {
+        "value": "10.0"
+      },
+      "peMax": {
+        "value": "12.0"
+      },
+      "castMin": {
+        "value": "150"
+      },
+      "castMax": {
+        "value": "250"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "25.0"
+      },
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439425044593",
+      "handle": "mc-works-x-fish-trippers-village-barbaro-788",
+      "length": {
+        "value": "233.68"
+      },
+      "lengthLabel": {
+        "value": "7'8\""
+      },
+      "peMin": {
+        "value": "8.0"
+      },
+      "peMax": {
+        "value": "12.0"
+      },
+      "castMin": null,
+      "castMax": {
+        "value": "300"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "20.0"
+      },
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439428976753",
+      "handle": "rodcom-straight-shore-ss-10015-sf047y",
+      "length": {
+        "value": "304.0"
+      },
+      "lengthLabel": {
+        "value": "3.04 m"
+      },
+      "peMin": {
+        "value": "5.0"
+      },
+      "peMax": {
+        "value": "8.0"
+      },
+      "castMin": null,
+      "castMax": null,
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "10.0"
+      },
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439430844529",
+      "handle": "truth-ocean-sprinter-7510-standard-black-model",
+      "length": {
+        "value": "226.06"
+      },
+      "lengthLabel": {
+        "value": "7'5\""
+      },
+      "peMin": {
+        "value": "8.0"
+      },
+      "peMax": {
+        "value": "10.0"
+      },
+      "castMin": {
+        "value": "100"
+      },
+      "castMax": {
+        "value": "250"
+      },
+      "recommendedDrag": null,
+      "maxDrag": null,
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439543631985",
+      "handle": "truth-ocean-sprinter-8110",
+      "length": {
+        "value": "246.38"
+      },
+      "lengthLabel": {
+        "value": "8'1\""
+      },
+      "peMin": {
+        "value": "8.0"
+      },
+      "peMax": {
+        "value": "10.0"
+      },
+      "castMin": {
+        "value": "100"
+      },
+      "castMax": {
+        "value": "270"
+      },
+      "recommendedDrag": null,
+      "maxDrag": null,
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439543763057",
+      "handle": "truth-ocean-sprinter-838",
+      "length": {
+        "value": "251.46"
+      },
+      "lengthLabel": {
+        "value": "8'3\""
+      },
+      "peMin": {
+        "value": "6.0"
+      },
+      "peMax": {
+        "value": "8.0"
+      },
+      "castMin": {
+        "value": "80"
+      },
+      "castMax": {
+        "value": "220"
+      },
+      "recommendedDrag": null,
+      "maxDrag": null,
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439544057969",
+      "handle": "truth-oceansprinter-856",
+      "length": null,
+      "lengthLabel": null,
+      "peMin": {
+        "value": "5.0"
+      },
+      "peMax": {
+        "value": "6.0"
+      },
+      "castMin": {
+        "value": "30"
+      },
+      "castMax": {
+        "value": "130"
+      },
+      "recommendedDrag": null,
+      "maxDrag": null,
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439544156273",
+      "handle": "truth-white-insight-611-12",
+      "length": {
+        "value": "210.82"
+      },
+      "lengthLabel": {
+        "value": "6'11\""
+      },
+      "peMin": {
+        "value": "8.0"
+      },
+      "peMax": {
+        "value": "12.0"
+      },
+      "castMin": {
+        "value": "80"
+      },
+      "castMax": {
+        "value": "250"
+      },
+      "recommendedDrag": null,
+      "maxDrag": null,
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439544287345",
+      "handle": "truth-white-insight-7210-custom-red",
+      "length": {
+        "value": "218.44"
+      },
+      "lengthLabel": {
+        "value": "7'2\""
+      },
+      "peMin": {
+        "value": "8.0"
+      },
+      "peMax": {
+        "value": "10.0"
+      },
+      "castMin": {
+        "value": "60"
+      },
+      "castMax": {
+        "value": "250"
+      },
+      "recommendedDrag": null,
+      "maxDrag": null,
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439544516721",
+      "handle": "truth-white-insight-7210-standard-black-model",
+      "length": {
+        "value": "218.44"
+      },
+      "lengthLabel": {
+        "value": "7'2\""
+      },
+      "peMin": {
+        "value": "8.0"
+      },
+      "peMax": {
+        "value": "10.0"
+      },
+      "castMin": {
+        "value": "60"
+      },
+      "castMax": {
+        "value": "250"
+      },
+      "recommendedDrag": null,
+      "maxDrag": null,
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439544647793",
+      "handle": "truth-white-insight-7415",
+      "length": {
+        "value": "223.52"
+      },
+      "lengthLabel": {
+        "value": "7'4\""
+      },
+      "peMin": {
+        "value": "12.0"
+      },
+      "peMax": {
+        "value": "15.0"
+      },
+      "castMin": {
+        "value": "70"
+      },
+      "castMax": {
+        "value": "250"
+      },
+      "recommendedDrag": {
+        "value": "20.0"
+      },
+      "maxDrag": null,
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439544680561",
+      "handle": "truth-white-insight-7610",
+      "length": {
+        "value": "228.6"
+      },
+      "lengthLabel": {
+        "value": "7'6\""
+      },
+      "peMin": {
+        "value": "8.0"
+      },
+      "peMax": {
+        "value": "10.0"
+      },
+      "castMin": {
+        "value": "60"
+      },
+      "castMax": {
+        "value": "250"
+      },
+      "recommendedDrag": {
+        "value": "18.0"
+      },
+      "maxDrag": null,
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439544877169",
+      "handle": "truth-white-insight-828",
+      "length": {
+        "value": "248.92"
+      },
+      "lengthLabel": {
+        "value": "8'2\""
+      },
+      "peMin": {
+        "value": "6.0"
+      },
+      "peMax": {
+        "value": "8.0"
+      },
+      "castMin": {
+        "value": "30"
+      },
+      "castMax": {
+        "value": "200"
+      },
+      "recommendedDrag": null,
+      "maxDrag": null,
+      "madeIn": {
+        "value": "Japan"
+      }
+    }
+  ]
+}

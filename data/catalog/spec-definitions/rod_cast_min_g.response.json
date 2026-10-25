@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/509622222961",
+      "namespace": "specs",
+      "key": "rod_cast_min_g",
+      "name": "Rod cast minimum (g)",
+      "type": {
+        "name": "number_integer"
+      },
+      "ownerType": "PRODUCT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

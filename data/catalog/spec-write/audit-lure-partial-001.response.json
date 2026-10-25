@@ -1,0 +1,196 @@
+{
+  "nodes": [
+    {
+      "id": "gid://shopify/ProductVariant/67841304428657",
+      "sku": "SQ2495051",
+      "lureLength": null,
+      "lureWeight": {
+        "value": "130.0"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841304461425",
+      "sku": "SQ6390907",
+      "lureLength": null,
+      "lureWeight": {
+        "value": "130.0"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841304494193",
+      "sku": "SQ7486479",
+      "lureLength": null,
+      "lureWeight": {
+        "value": "130.0"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841307967601",
+      "sku": "SQ3470066",
+      "lureLength": {
+        "value": "220"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841308000369",
+      "sku": "SQ9920592",
+      "lureLength": {
+        "value": "220"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841308033137",
+      "sku": "SQ5225677",
+      "lureLength": {
+        "value": "220"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841308065905",
+      "sku": "SQ1847202",
+      "lureLength": {
+        "value": "220"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309343857",
+      "sku": "SQ7163674",
+      "lureLength": {
+        "value": "210"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309376625",
+      "sku": "SQ7540757",
+      "lureLength": {
+        "value": "210"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309409393",
+      "sku": "SQ2763829",
+      "lureLength": {
+        "value": "210"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309442161",
+      "sku": "SQ9949874",
+      "lureLength": {
+        "value": "210"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309474929",
+      "sku": "SQ1924530",
+      "lureLength": {
+        "value": "210"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309507697",
+      "sku": "SQ1070246",
+      "lureLength": {
+        "value": "210"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309540465",
+      "sku": "SQ4389930",
+      "lureLength": {
+        "value": "240"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309573233",
+      "sku": "SQ8402685",
+      "lureLength": {
+        "value": "240"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309606001",
+      "sku": "SQ9480444",
+      "lureLength": {
+        "value": "240"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309638769",
+      "sku": "SQ5421325",
+      "lureLength": {
+        "value": "240"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841309671537",
+      "sku": "SQ5187126",
+      "lureLength": {
+        "value": "240"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67842269380721",
+      "sku": "SQ9590418",
+      "lureLength": {
+        "value": "215"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67842269413489",
+      "sku": "SQ1096296",
+      "lureLength": {
+        "value": "215"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67842269446257",
+      "sku": "SQ7060695",
+      "lureLength": {
+        "value": "215"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67842269577329",
+      "sku": "SQ1397248",
+      "lureLength": {
+        "value": "270"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67842269610097",
+      "sku": "SQ4418084",
+      "lureLength": {
+        "value": "270"
+      },
+      "lureWeight": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67842269642865",
+      "sku": "SQ2919639",
+      "lureLength": {
+        "value": "270"
+      },
+      "lureWeight": null
+    }
+  ]
+}

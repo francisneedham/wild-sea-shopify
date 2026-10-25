@@ -1,0 +1,14 @@
+query AuditAllRodProductFields {
+  products(first: 250) {
+    nodes {
+      id
+      handle
+      peMin: metafield(namespace: "specs", key: "rod_pe_min") { value }
+      peMax: metafield(namespace: "specs", key: "rod_pe_max") { value }
+      castMin: metafield(namespace: "specs", key: "rod_cast_min_g") { value }
+      castMax: metafield(namespace: "specs", key: "rod_cast_max_g") { value }
+      dragMax: metafield(namespace: "specs", key: "rod_drag_max_kg") { value }
+    }
+    pageInfo { hasNextPage }
+  }
+}

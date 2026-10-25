@@ -1,0 +1,18 @@
+query AuditOrquestraSpecs($productId: ID!, $variantIds: [ID!]!) {
+  product(id: $productId) {
+    id
+    handle
+    madeIn: metafield(namespace: "specs", key: "rod_made_in") { value }
+  }
+  nodes(ids: $variantIds) {
+    ... on ProductVariant {
+      id
+      sku
+      length: metafield(namespace: "specs", key: "rod_length_cm") { value }
+      lengthLabel: metafield(namespace: "specs", key: "rod_length_label") { value }
+      peMax: metafield(namespace: "specs", key: "rod_pe_max") { value }
+      castMax: metafield(namespace: "specs", key: "rod_cast_max_g") { value }
+      maxDrag: metafield(namespace: "specs", key: "rod_drag_max_kg") { value }
+    }
+  }
+}

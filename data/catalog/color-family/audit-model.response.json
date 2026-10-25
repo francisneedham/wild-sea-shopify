@@ -1,0 +1,460 @@
+{
+  "metaobjectDefinitions": {
+    "nodes": [
+      {
+        "id": "gid://shopify/MetaobjectDefinition/26319552625",
+        "type": "shopify--knowledge-base-fact",
+        "access": {
+          "storefront": "NONE"
+        },
+        "fieldDefinitions": [
+          {
+            "key": "external_id",
+            "type": {
+              "name": "id"
+            }
+          },
+          {
+            "key": "published",
+            "type": {
+              "name": "boolean"
+            }
+          },
+          {
+            "key": "category",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "source",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "title",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "value_string",
+            "type": {
+              "name": "multi_line_text_field"
+            }
+          },
+          {
+            "key": "value_string_list",
+            "type": {
+              "name": "list.single_line_text_field"
+            }
+          },
+          {
+            "key": "value_boolean",
+            "type": {
+              "name": "boolean"
+            }
+          },
+          {
+            "key": "value_number",
+            "type": {
+              "name": "number_decimal"
+            }
+          },
+          {
+            "key": "value_reference",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "references",
+            "type": {
+              "name": "list.single_line_text_field"
+            }
+          },
+          {
+            "key": "suggested_value_string",
+            "type": {
+              "name": "multi_line_text_field"
+            }
+          },
+          {
+            "key": "suggested_value_string_list",
+            "type": {
+              "name": "list.single_line_text_field"
+            }
+          },
+          {
+            "key": "suggested_value_boolean",
+            "type": {
+              "name": "boolean"
+            }
+          },
+          {
+            "key": "suggested_value_number",
+            "type": {
+              "name": "number_decimal"
+            }
+          },
+          {
+            "key": "suggested_value_reference",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "suggested_references",
+            "type": {
+              "name": "list.single_line_text_field"
+            }
+          },
+          {
+            "key": "suggestion_state",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MetaobjectDefinition/37090918513",
+        "type": "destinations",
+        "access": {
+          "storefront": "PUBLIC_READ"
+        },
+        "fieldDefinitions": [
+          {
+            "key": "title",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "caption",
+            "type": {
+              "name": "multi_line_text_field"
+            }
+          },
+          {
+            "key": "season",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "fishing_days",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "on_the_water",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "target_species",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "listing_image",
+            "type": {
+              "name": "file_reference"
+            }
+          },
+          {
+            "key": "region",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "technique",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "status",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "booking_url",
+            "type": {
+              "name": "url"
+            }
+          },
+          {
+            "key": "brochure_url",
+            "type": {
+              "name": "url"
+            }
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MetaobjectDefinition/37092458609",
+        "type": "travel_slot",
+        "access": {
+          "storefront": "PUBLIC_READ"
+        },
+        "fieldDefinitions": [
+          {
+            "key": "dates",
+            "type": {
+              "name": "list.date"
+            }
+          },
+          {
+            "key": "available_slots",
+            "type": {
+              "name": "number_integer"
+            }
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MetaobjectDefinition/37648040049",
+        "type": "wildsea_color_family",
+        "access": {
+          "storefront": "PUBLIC_READ"
+        },
+        "fieldDefinitions": [
+          {
+            "key": "label",
+            "type": {
+              "name": "single_line_text_field"
+            }
+          },
+          {
+            "key": "swatch_color",
+            "type": {
+              "name": "color"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "metaobjects": {
+    "nodes": [
+      {
+        "id": "gid://shopify/Metaobject/650465935473",
+        "handle": "black",
+        "displayName": "Black",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Black"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#1D2425"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650466132081",
+        "handle": "blue",
+        "displayName": "Blue",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Blue"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#3669A3"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650466361457",
+        "handle": "brown",
+        "displayName": "Brown",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Brown"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#8A5C39"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650466656369",
+        "handle": "gold",
+        "displayName": "Gold",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Gold"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#C09A4E"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650466852977",
+        "handle": "gray",
+        "displayName": "Gray",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Gray"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#7D858C"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650467115121",
+        "handle": "green",
+        "displayName": "Green",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Green"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#528566"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650467246193",
+        "handle": "orange",
+        "displayName": "Orange",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Orange"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#D97A35"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650467410033",
+        "handle": "pink",
+        "displayName": "Pink",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Pink"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#DD81A4"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650467541105",
+        "handle": "purple",
+        "displayName": "Purple",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Purple"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#8061A5"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650467704945",
+        "handle": "red",
+        "displayName": "Red",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Red"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#C24845"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650467836017",
+        "handle": "silver",
+        "displayName": "Silver",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Silver"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#B8C1C7"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650468229233",
+        "handle": "white",
+        "displayName": "White",
+        "fields": [
+          {
+            "key": "label",
+            "value": "White"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#F2F1EA"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650468655217",
+        "handle": "yellow",
+        "displayName": "Yellow",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Yellow"
+          },
+          {
+            "key": "swatch_color",
+            "value": "#E2BC3F"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/Metaobject/650468819057",
+        "handle": "pattern-natural",
+        "displayName": "Pattern / Natural",
+        "fields": [
+          {
+            "key": "label",
+            "value": "Pattern / Natural"
+          },
+          {
+            "key": "swatch_color",
+            "value": null
+          }
+        ]
+      }
+    ]
+  }
+}

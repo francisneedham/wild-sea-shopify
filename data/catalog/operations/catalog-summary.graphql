@@ -1,0 +1,1 @@
+query ImportedCatalogSummary { products(first: 100) { nodes { id handle status totalInventory resourcePublicationsV2(first: 50) { nodes { isPublished publication { id } } } } pageInfo { hasNextPage } } productsCount { count } productVariantsCount { count } }

@@ -1,0 +1,104 @@
+{
+  "input": {
+    "handle": "rst-supply-rilana-180f",
+    "title": "RST Supply Rilana 180F",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A handmade, high end Japanese stickbait which is easy to swim. Whether you're winding, twitching or giving the lure a long sweep, the lure will swim in various conditions.&nbsp;</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Basic actions:</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The RilaNa can be swum simply by a straight winding action.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Technical action:</p><ul data-rte-list=\"default\"><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> Reeling speed variations: This lure can handle dead slow, slow, medium, and high speeds, so try varying the reeling speed throughout a single retrieve to entice the fish. Sudden changes of speed variations and pauses are also very effective.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Example: High-Middle-Slow-Pause-Middle-Dead Slow → Middle-High-Sudden Stop</p></li><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Reeling + Strong Jerks &amp; Twitches: Occasionally, try making the lure slide underwater with jerks while varying your reeling speed. The key to sliding is to use stronger, more impactful short jerks than usual and make them quick! This might be difficult with a rod that's too soft.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>180 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr.69</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Pink"
+          },
+          {
+            "name": "Blue"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6791078",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Pink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 6
+          }
+        ]
+      },
+      {
+        "sku": "SQ6074839",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 4
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2d0e24dc-f4c3-456a-bc8a-35d45e0f0ef1/rst+rilana+180+blue.jpg",
+        "contentType": "IMAGE",
+        "alt": "RST Supply Rilana 180F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e385a342-edc7-4c18-a4f2-63ab4dd60dc3/rst+rilana+180+pink.jpg",
+        "contentType": "IMAGE",
+        "alt": "RST Supply Rilana 180F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ddb3e25b-6b5c-4bb6-adf8-43eaa3a181cc/rst+rilana+180.jpg",
+        "contentType": "IMAGE",
+        "alt": "RST Supply Rilana 180F"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

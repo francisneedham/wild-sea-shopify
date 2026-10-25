@@ -1,0 +1,77 @@
+{
+  "productSet": {
+    "product": {
+      "id": "gid://shopify/Product/15439423602801",
+      "handle": "mc-works-raging-bull-93xx-trident",
+      "status": "ACTIVE",
+      "title": "MC Works Raging Bull 93XX Trident",
+      "resourcePublicationsV2": {
+        "nodes": [],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841356988529",
+            "sku": "SQ0790696",
+            "price": "650.00",
+            "compareAtPrice": null,
+            "inventoryPolicy": "DENY",
+            "selectedOptions": [
+              {
+                "name": "Title",
+                "value": "Default Title"
+              }
+            ],
+            "inventoryItem": {
+              "tracked": true,
+              "requiresShipping": true,
+              "measurement": {
+                "weight": {
+                  "value": 10,
+                  "unit": "KILOGRAMS"
+                }
+              },
+              "inventoryLevel": {
+                "quantities": [
+                  {
+                    "name": "available",
+                    "quantity": 2
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      },
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/46284925698161",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284925730929",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          },
+          {
+            "id": "gid://shopify/MediaImage/46284925763697",
+            "status": "PROCESSING",
+            "mediaErrors": []
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

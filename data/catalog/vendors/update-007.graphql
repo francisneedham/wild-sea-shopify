@@ -1,0 +1,42 @@
+mutation UpdateVendorBatch007 {
+  v0: productUpdate(product: {id: "gid://shopify/Product/15439428649073", vendor: "Glide Tackle"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v1: productUpdate(product: {id: "gid://shopify/Product/15439428812913", vendor: "Glide Tackle"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v2: productUpdate(product: {id: "gid://shopify/Product/15439428976753", vendor: "Rodcom"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v3: productUpdate(product: {id: "gid://shopify/Product/15439429206129", vendor: "RST Supply"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v4: productUpdate(product: {id: "gid://shopify/Product/15439429402737", vendor: "RST Supply"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v5: productUpdate(product: {id: "gid://shopify/Product/15439429501041", vendor: "Glide Tackle"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v6: productUpdate(product: {id: "gid://shopify/Product/15439429664881", vendor: "Glide Tackle"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v7: productUpdate(product: {id: "gid://shopify/Product/15439429828721", vendor: "Glide Tackle"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v8: productUpdate(product: {id: "gid://shopify/Product/15439430090865", vendor: "Glide Tackle"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+  v9: productUpdate(product: {id: "gid://shopify/Product/15439430353009", vendor: "Glide Tackle"}) {
+    product { id handle vendor }
+    userErrors { field message }
+  }
+}

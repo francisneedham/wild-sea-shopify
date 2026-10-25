@@ -1,0 +1,81 @@
+{
+  "input": {
+    "handle": "mc-works-rod-explosion-807-ctr-standard-model",
+    "title": "MC Works Explosion 807 CTR Standard Model",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The MC WORKS Explosion series incorporates a medium elastic multi-ply structure enable a rod which is light, responsive and has a powerful backbone. Ideal for casting stickbaits and diving pencils, this series is designed for kingfish and tuna anglers. </span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>With a higher PE rating and wide casting range, the 807CTR is the perfect model for anglers seeking a powerful rod to handle monstrous kingfish and GT’s. The blank enables a comfortable yet powerful fight with an ease of manoeuvrability. The rod will swim lures accurately in addition to superior casting and control.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong><span>Length</span></strong><span>: 8'0&quot;</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong><span>Line</span></strong><span>: PE #6-10</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong><span>Cast:</span></strong><span> 80-150g</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong><span>Drag max:</span></strong><span> 18 kg</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Guide: Titanium Hybrid PMNSG + KWSG guide</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Handmade in Japan</span></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "Giant Trevally",
+      "GT",
+      "Kingfish",
+      "tuna",
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ8538348",
+        "price": "600.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7fb65290-3895-487d-b3c4-3c7e823b8bb6/MC+Works+Explosion+807+CTR+Standard+Model1.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 807 CTR Standard Model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/aa33d56f-b036-4b23-b411-cbf0a659c374/MC+Works+Explosion+807+CTR+Standard+Model2+%281%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 807 CTR Standard Model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/89469a28-c196-4ba8-aa99-54cc7b901bd0/MC+Works+Explosion+807+CTR+Standard+Model+%281%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 807 CTR Standard Model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/45250ccf-73da-4608-82e1-537ab0b4df4f/A7402816.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 807 CTR Standard Model"
+      }
+    ]
+  }
+}

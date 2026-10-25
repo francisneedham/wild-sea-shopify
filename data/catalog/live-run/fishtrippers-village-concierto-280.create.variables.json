@@ -1,0 +1,255 @@
+{
+  "input": {
+    "handle": "fishtrippers-village-concierto-280",
+    "title": "FishTrippers Village Concierto 280",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The Concierto 280 is a large presence floating stickbait developed by SOHO and Trippers Japan. This 280mm 143g stickbait has been created with angler ease of use at the forefront of its creation. Although it is a large lure the flat side make it easy to work through the water cutting through with minimal effort. The action is more of an irregular darting motion that creates splashes and flashes above and below the surface of the water. Working the lure slow with long sweeps will cause a more predictable darting S-Shape action while short aggressive chops will really get the irregular darting action some desire.&nbsp;</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Being a big presence lure the Concierto 280 is ideal for targeting large GT's, large kingfish, dogtooth tuna, bluefin tuna, yellowfin tuna and monster reef species.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Made in Japan!</p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>280 mm </p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 143</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "fishing lure",
+      "saltwater lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "FishTrippers Village lure",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "MahiMahi"
+          },
+          {
+            "name": "MandarinePearch"
+          },
+          {
+            "name": "SilverPink"
+          },
+          {
+            "name": "WhiteSilver"
+          },
+          {
+            "name": "RainbowTrout"
+          },
+          {
+            "name": "Fusilier"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ5154028",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "MahiMahi"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ0986186",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "MandarinePearch"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ1296625",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "SilverPink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ3936196",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "WhiteSilver"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ3922828",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "RainbowTrout"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ3703796",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Fusilier"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/acda8f1a-39e2-4215-ba91-9c73e462ce02/Concierto+Mahi+Mahi.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Concierto 280"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/16744fb8-6591-400e-8f45-ee359b9b514b/Concierto+Mandarin+Perch.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Concierto 280"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/933cd22c-d721-47da-b991-3df5b1d649c9/Concierto+Raimbow+Trout.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Concierto 280"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6c34ee73-9f46-4d02-bea0-932ca43fe6d1/Concierto+silver_white.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Concierto 280"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d7bd54cd-b909-41aa-bd3d-941d7772cc13/concierto+silver_pink.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Concierto 280"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/eae5fddf-0579-44fc-90a8-3cd900fa6814/concierto.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Concierto 280"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/cbef7b0d-5459-47d6-a563-acba1d696f65/mazzo.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Concierto 280"
+      }
+    ]
+  }
+}

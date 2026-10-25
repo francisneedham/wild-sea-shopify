@@ -1,0 +1,182 @@
+{
+  "metafieldsSet": {
+    "metafields": [
+      {
+        "id": "gid://shopify/Metafield/191652338827377",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_casting_weight",
+        "value": "100–200 g"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652338860145",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "value": "8.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652338892913",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "10.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652338925681",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "200"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652338958449",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "13.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652338991217",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_supported",
+        "value": "[\"PE 8\",\"PE 10\"]"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339023985",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_casting_weight",
+        "value": "≤200 g"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339056753",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "value": "6.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339089521",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "8.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339122289",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_cast_min_g",
+        "value": "80"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339155057",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "150"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339187825",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "11.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339220593",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_supported",
+        "value": "[\"PE 6\",\"PE 8\"]"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339253361",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_casting_weight",
+        "value": "80–150 g"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339286129",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "value": "6.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339318897",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "10.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339351665",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_cast_min_g",
+        "value": "80"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339384433",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "150"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339417201",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "18.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339449969",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_supported",
+        "value": "[\"PE 6\",\"PE 8\",\"PE 10\"]"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339482737",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_casting_weight",
+        "value": "80–150 g"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339515505",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "value": "10.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339548273",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "12.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339581041",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_cast_min_g",
+        "value": "150"
+      },
+      {
+        "id": "gid://shopify/Metafield/191652339613809",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "250"
+      }
+    ],
+    "userErrors": []
+  }
+}

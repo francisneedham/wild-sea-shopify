@@ -1,0 +1,72 @@
+{
+  "input": {
+    "handle": "truth-ocean-sprinter-7510-standard-black-model-",
+    "title": "Truth Ocean Sprinter 7510 - standard black model",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Challenging large GTs hidden in shallow, torrent areas</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A short length setting that makes it easier for anglers to apply high loads and even endure the intense follow from boats on unstable decks.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rod power that anglers of average physique (physical strength) can master with effort.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot; Length: 7ft5inch</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot; Closed Length: 155.5㎝</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot; Weight: 395g ( #1 : 173g #2 : 222g )</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot; Tip Dia.: 3.6mm</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot; Butt Dia: 12.0mm</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot; Pe: Pe8-10</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot; Lure: 100-250g</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot; Pieces: 2</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">&middot; Guide: All stainless, PMNST16 / PMNSG16 / PMNSG20 / PMNSG25 / PMNSG30 / PMNSG40</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>Made in Japan</strong></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "Truth",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ4549114",
+        "price": "800.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3d43658a-b6df-442e-89da-725d520eff6b/Truth+Ocean+Sprinter+7510+-+standard+black+model2.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean Sprinter 7510 - standard black model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/961bf7e8-8f43-4098-8a57-518456939e07/Truth+Ocean+Sprinter+7510+-+standard+black+model.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean Sprinter 7510 - standard black model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3a828623-9658-43cf-bf0b-cce0df97425b/F0094486-11E2-4B17-B94A-A11C1CF72B3C.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean Sprinter 7510 - standard black model"
+      }
+    ]
+  }
+}

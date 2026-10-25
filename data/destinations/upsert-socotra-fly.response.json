@@ -1,0 +1,60 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650324738161",
+      "handle": "socotra-fly-fishing",
+      "displayName": "Socotra Fly Fishing",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Socotra Fly Fishing"
+        },
+        {
+          "key": "caption",
+          "value": "Explore Socotra’s Indian Ocean shores with a fly rod, from trevally and bonefish to permit, triggerfish and reef species."
+        },
+        {
+          "key": "season",
+          "value": "October / March–April"
+        },
+        {
+          "key": "fishing_days",
+          "value": null
+        },
+        {
+          "key": "on_the_water",
+          "value": "Small guided groups"
+        },
+        {
+          "key": "target_species",
+          "value": "Trevally & reef species"
+        },
+        {
+          "key": "listing_image",
+          "value": "gid://shopify/MediaImage/46288939483249"
+        },
+        {
+          "key": "region",
+          "value": "Yemen · Indian Ocean"
+        },
+        {
+          "key": "technique",
+          "value": "Fly fishing"
+        },
+        {
+          "key": "status",
+          "value": "available"
+        }
+      ],
+      "capabilities": {
+        "onlineStore": {
+          "templateSuffix": "socotra-fly"
+        },
+        "publishable": {
+          "status": "ACTIVE"
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

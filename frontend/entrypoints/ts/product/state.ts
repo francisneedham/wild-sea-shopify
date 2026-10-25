@@ -1,3 +1,4 @@
+import type { EmblaCarouselType } from 'embla-carousel';
 import type { ProductVariant, ProductData } from '../utils/variant-picker';
 
 export type CartState = 'idle' | 'loading' | 'success' | 'error';
@@ -9,7 +10,9 @@ export const state = {
   currentVariant: null as unknown as ProductVariant,
   selectedOptions: [] as string[],
   variantPrices: {} as Record<string, string>,
+  variantComparePrices: {} as Record<string, string | null>,
   cartState: 'idle' as CartState,
   currentMediaId: null as number | null,
   mediaContextVariantId: null as number | null,
+  gallery: null as EmblaCarouselType | null,
 };

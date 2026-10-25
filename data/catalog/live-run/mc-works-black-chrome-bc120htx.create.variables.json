@@ -1,0 +1,73 @@
+{
+  "input": {
+    "handle": "mc-works-black-chrome-bc120htx",
+    "title": "MC Works Black & Chrome BC120HTX",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">MC works need no introduction and are known world wide for their excellence in custom rod building. All exclusively hand made and built in limited numbers, the MC Works rod range are one of the most sought rods out in the world for professional shore casting anglers.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The Black &amp; Chrome series of rods is ideal for finesse, shore-based anglers seeking a longer rod with enhanced casting abilities. With a focus on lightweight design, castability, and lure manipulation, these rods are perfect for casting light metals and hardbodies from the shore, harbor, breakwall, or beach.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">This model is a slightly stronger version of the BC110STX, with a 1ft extension. The #1 side is reinforced with 30t carbon, resulting in a sturdy and still maintains performance.&nbsp;</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Suitable for targeting tailor, salmon, bonito and kingfish on light gear.&nbsp;</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Handmade&nbsp;in japan&nbsp;</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Specifications:</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>TYPE: Spinning&nbsp;<br />LENGTH: 12'0&quot;</span><br />LURE: 14-40g&nbsp;<br /><span>LINE: PE0.8-2.5</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Guides<span>: Full titanium RVSG + KTSG + KTTG guide</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ0124327",
+        "price": "500.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ],
+        "compareAtPrice": "600.00"
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/446a6ff8-ac3e-4aad-9a7b-9790765dda4c/mc+bc120+1.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Black & Chrome BC120HTX"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/38ef53d1-c28b-46fc-9f7d-d84770713a75/mc+bc120+2.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Black & Chrome BC120HTX"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/09c483e8-8200-444c-985f-34e47ef6c1fd/mc+bc120+3.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Black & Chrome BC120HTX"
+      }
+    ]
+  }
+}

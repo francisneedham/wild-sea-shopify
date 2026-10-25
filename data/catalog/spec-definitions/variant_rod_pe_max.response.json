@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/509905109105",
+      "namespace": "specs",
+      "key": "rod_pe_max",
+      "name": "Rod PE maximum (variant)",
+      "type": {
+        "name": "number_decimal"
+      },
+      "ownerType": "PRODUCTVARIANT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

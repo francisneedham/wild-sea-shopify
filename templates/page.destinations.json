@@ -1,0 +1,15 @@
+{
+  "sections": {
+    "main": {
+      "type": "destination-listing",
+      "settings": {
+        "kicker": "Find your frontier",
+        "heading": "Our destinations.",
+        "intro": "From the Indian Ocean to the Atlantic coast, discover a different kind of fishing journey."
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

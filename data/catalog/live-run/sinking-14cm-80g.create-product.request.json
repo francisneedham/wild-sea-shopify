@@ -1,0 +1,283 @@
+{
+  "input": {
+    "handle": "sinking-14cm-80g",
+    "title": "Glide Sinking 14cm - 80g",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\">Stick of 14 cm and 80g of weight.</p><p style=\"white-space:pre-wrap;\">Is perfect for a frenzy fishing of false albacore or bluefin tuna. Well used for reef fishing or in a light tropical fishing from the shore, very good for long cast.</p><p style=\"white-space:pre-wrap;\">With inline hooks bkk diablo 5/0 or even some trebles, it swims well.</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Glide",
+      "14cm",
+      "80g",
+      "Sinking",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-sinking"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Coral"
+          },
+          {
+            "name": "Nemo"
+          },
+          {
+            "name": "Pink"
+          },
+          {
+            "name": "Holo Black"
+          },
+          {
+            "name": "Holo Blue"
+          },
+          {
+            "name": "Holo Pink"
+          },
+          {
+            "name": "Mahi"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ8371419",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Coral"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ6428731",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Nemo"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7213301",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Pink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ6283725",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Holo Black"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4286020",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Holo Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ0478688",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Holo Pink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1274080",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Mahi"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/49bda153-5a1a-4da5-b48b-ee47528e7df3/Glide-Sinking-14cm-80g-coral.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 14cm - 80g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f8002e2b-5225-4060-9ead-d7369dd459d3/Glide-Sinking-14cm-80g-nemo.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 14cm - 80g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/798d3d0a-22a2-42ee-8222-a8dccb2b2698/Glide-Sinking-14cm-80g-pink.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 14cm - 80g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/396bbb13-ff89-4278-9b55-0214450b185c/Glide-Sinking-14cm-80g-holo-black.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 14cm - 80g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d036a23c-a309-475a-82c5-646b45b5c47d/Glide-Sinking-14cm-80g-holo-blue.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 14cm - 80g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1e3e7250-9147-4893-8907-e0f16b70158e/Glide-Sinking-14cm-80g-holo-pink.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 14cm - 80g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/555a1a91-2df6-4e6f-9541-bd662cb382c4/Glide-Sinking-14cm-80g-mahi.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Sinking 14cm - 80g"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

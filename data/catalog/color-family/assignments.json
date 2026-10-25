@@ -1,0 +1,2378 @@
+[
+  {
+    "sku": "SQ1797578",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "Mahimahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026140273",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0216913",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "GoldGreen",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026173041",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5475142",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "SilverBlack",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026205809",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3582499",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "SilverBlue",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026238577",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2734823",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "SilverOrange",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026271345",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9463989",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "Fusilier",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026304113",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2895747",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "SilverGoldBlack",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026336881",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5830182",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "Mahimahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026369649",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2404280",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "GoldGreen",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026402417",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5833797",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "SilverBlack",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026435185",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3088240",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "SilverBlue",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026467953",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7193431",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "SilverOrange",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026500721",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7496866",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "Fusilier",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026533489",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0400514",
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "source_value": "SilverGoldBlack",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67837026566257",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ6919783",
+    "handle": "atlantis-flapper-170f",
+    "source_value": "GlitterPink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841296924785",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ1222574",
+    "handle": "atlantis-flapper-170f",
+    "source_value": "GlitterBlue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841296957553",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ2779521",
+    "handle": "atlantis-flapper-170f",
+    "source_value": "Candy",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841296990321",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0080832",
+    "handle": "atlantis-funky-soda-170-85-gr",
+    "source_value": "Red Abalone",
+    "group": "Red",
+    "variant_id": "gid://shopify/ProductVariant/67841298595953",
+    "metaobject_id": "gid://shopify/Metaobject/650467704945"
+  },
+  {
+    "sku": "SQ2202787",
+    "handle": "atlantis-funky-soda-170-85-gr",
+    "source_value": "Pink Abalone",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841298628721",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ8425406",
+    "handle": "atoll-giulia",
+    "source_value": "SilverBlue",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841300299889",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1576048",
+    "handle": "atoll-giulia",
+    "source_value": "SilverOrange",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841300332657",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9275255",
+    "handle": "atoll-giulia",
+    "source_value": "Fusilier",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841300365425",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5019616",
+    "handle": "atoll-giulia-plastic",
+    "source_value": "PinkHead",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841300562033",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ3038090",
+    "handle": "atoll-giulia-plastic",
+    "source_value": "BlueHead",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841300594801",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ9447993",
+    "handle": "atoll-giulia-plastic",
+    "source_value": "GreenHead",
+    "group": "Green",
+    "variant_id": "gid://shopify/ProductVariant/67841300627569",
+    "metaobject_id": "gid://shopify/Metaobject/650467115121"
+  },
+  {
+    "sku": "SQ4067205",
+    "handle": "atoll-giulia-plastic",
+    "source_value": "YellowOrange",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841300660337",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0767144",
+    "handle": "atoll-misao",
+    "source_value": "SilverOrange",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841300758641",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7285006",
+    "handle": "atoll-misao",
+    "source_value": "Fusilier",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841300791409",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1884179",
+    "handle": "atoll-misao",
+    "source_value": "SilverGoldBlack",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841300824177",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9396740",
+    "handle": "atoll-misao",
+    "source_value": "SilverOrange",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841300856945",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5816270",
+    "handle": "atoll-misao",
+    "source_value": "Fusilier",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841300889713",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5280473",
+    "handle": "atoll-misao",
+    "source_value": "SilverGoldBlack",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841300922481",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2495051",
+    "handle": "craftbait-gt3-130-gr",
+    "source_value": "Blacklame",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841304428657",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ6390907",
+    "handle": "craftbait-gt3-130-gr",
+    "source_value": "Blue Silver Stripe",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841304461425",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7486479",
+    "handle": "craftbait-gt3-130-gr",
+    "source_value": "Green Pink",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841304494193",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9887077",
+    "handle": "fish-trippers-village-espuma-120-gr",
+    "source_value": "Silver Black",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841306755185",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1562135",
+    "handle": "fish-trippers-village-espuma-120-gr",
+    "source_value": "Silver Blue",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841306787953",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ6027343",
+    "handle": "fish-trippers-village-espuma-120-gr",
+    "source_value": "Silver Blue Yellow Head",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841306820721",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5719846",
+    "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841307836529",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ8340518",
+    "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+    "source_value": "Rainbow Trout",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841307869297",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2416371",
+    "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+    "source_value": "Silver Black Yellow Head",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841307902065",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0653809",
+    "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+    "source_value": "Silver Blue Yellow Head",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841307934833",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3470066",
+    "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841307967601",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ9920592",
+    "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+    "source_value": "Rainbow Trout",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841308000369",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5225677",
+    "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+    "source_value": "Silver Black Yellow Head",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841308033137",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1847202",
+    "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+    "source_value": "Silver Blue Yellow Head",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841308065905",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3639567",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841309147249",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ6965070",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Blue Holographic",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841309180017",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ6491760",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Purple Glitter",
+    "group": "Purple",
+    "variant_id": "gid://shopify/ProductVariant/67841309212785",
+    "metaobject_id": "gid://shopify/Metaobject/650467541105"
+  },
+  {
+    "sku": "SQ4039317",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Redhead Glitter",
+    "group": "Red",
+    "variant_id": "gid://shopify/ProductVariant/67841309245553",
+    "metaobject_id": "gid://shopify/Metaobject/650467704945"
+  },
+  {
+    "sku": "SQ3644600",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Green",
+    "group": "Green",
+    "variant_id": "gid://shopify/ProductVariant/67841309278321",
+    "metaobject_id": "gid://shopify/Metaobject/650467115121"
+  },
+  {
+    "sku": "SQ4350897",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841309311089",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ7163674",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841309343857",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ7540757",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Blue Holographic",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841309376625",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ2763829",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Purple Glitter",
+    "group": "Purple",
+    "variant_id": "gid://shopify/ProductVariant/67841309409393",
+    "metaobject_id": "gid://shopify/Metaobject/650467541105"
+  },
+  {
+    "sku": "SQ9949874",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Redhead Glitter",
+    "group": "Red",
+    "variant_id": "gid://shopify/ProductVariant/67841309442161",
+    "metaobject_id": "gid://shopify/Metaobject/650467704945"
+  },
+  {
+    "sku": "SQ1924530",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Green",
+    "group": "Green",
+    "variant_id": "gid://shopify/ProductVariant/67841309474929",
+    "metaobject_id": "gid://shopify/Metaobject/650467115121"
+  },
+  {
+    "sku": "SQ1070246",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841309507697",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ4389930",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841309540465",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ8402685",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Blue Holographic",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841309573233",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ9480444",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Purple Glitter",
+    "group": "Purple",
+    "variant_id": "gid://shopify/ProductVariant/67841309606001",
+    "metaobject_id": "gid://shopify/Metaobject/650467541105"
+  },
+  {
+    "sku": "SQ5421325",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Redhead Glitter",
+    "group": "Red",
+    "variant_id": "gid://shopify/ProductVariant/67841309638769",
+    "metaobject_id": "gid://shopify/Metaobject/650467704945"
+  },
+  {
+    "sku": "SQ5187126",
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "source_value": "Green",
+    "group": "Green",
+    "variant_id": "gid://shopify/ProductVariant/67841309671537",
+    "metaobject_id": "gid://shopify/Metaobject/650467115121"
+  },
+  {
+    "sku": "SQ5154028",
+    "handle": "fishtrippers-village-concierto-280",
+    "source_value": "MahiMahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841311211633",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0986186",
+    "handle": "fishtrippers-village-concierto-280",
+    "source_value": "MandarinePearch",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841311244401",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1296625",
+    "handle": "fishtrippers-village-concierto-280",
+    "source_value": "SilverPink",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841311277169",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3936196",
+    "handle": "fishtrippers-village-concierto-280",
+    "source_value": "WhiteSilver",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841311309937",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3922828",
+    "handle": "fishtrippers-village-concierto-280",
+    "source_value": "RainbowTrout",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841311342705",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3703796",
+    "handle": "fishtrippers-village-concierto-280",
+    "source_value": "Fusilier",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841311375473",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8727577",
+    "handle": "floating-18cm-75g",
+    "source_value": "Black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841312555121",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ4176743",
+    "handle": "floating-18cm-75g",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841312587889",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ4821465",
+    "handle": "floating-18cm-75g",
+    "source_value": "Mahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841312620657",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0653018",
+    "handle": "floating-18cm-75g",
+    "source_value": "Banana",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841312653425",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ8168902",
+    "handle": "floating-18cm-75g",
+    "source_value": "YouPop",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841312686193",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8441079",
+    "handle": "floating-22cm-120g",
+    "source_value": "Black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841314553969",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ8241258",
+    "handle": "floating-22cm-120g",
+    "source_value": "Blackbone",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841314586737",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ3121307",
+    "handle": "floating-22cm-120g",
+    "source_value": "Banana",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841314619505",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ9954176",
+    "handle": "floating-22cm-120g",
+    "source_value": "Coral",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841314652273",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8361686",
+    "handle": "floating-22cm-120g",
+    "source_value": "Carbon",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841314685041",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ2422357",
+    "handle": "floating-22cm-120g",
+    "source_value": "Holo black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841314717809",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ3660400",
+    "handle": "floating-22cm-120g",
+    "source_value": "Holo blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841314750577",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ2750120",
+    "handle": "floating-22cm-120g",
+    "source_value": "Holo pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841314783345",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ7711059",
+    "handle": "floating-22cm-120g",
+    "source_value": "Mahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841314816113",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7461328",
+    "handle": "floating-22cm-120g",
+    "source_value": "Nemo",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841314848881",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ6899363",
+    "handle": "floating-22cm-120g",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841314881649",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ8806675",
+    "handle": "floating-22cm-120g",
+    "source_value": "Sarda",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841314914417",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2533420",
+    "handle": "floating-22cm-120g",
+    "source_value": "Shark",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841314947185",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5868404",
+    "handle": "floating-22cm-120g",
+    "source_value": "YouPop",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841314979953",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0962319",
+    "handle": "floating-24cm-150g",
+    "source_value": "Holo Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841315471473",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ3602819",
+    "handle": "floating-24cm-150g",
+    "source_value": "Carbon",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841315504241",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ2640495",
+    "handle": "floating-24cm-150g",
+    "source_value": "Holo Black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841315537009",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ0412405",
+    "handle": "floating-24cm-150g",
+    "source_value": "Holo Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841315569777",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ1718712",
+    "handle": "floating-24cm-150g",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841315602545",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ9815424",
+    "handle": "floating-24cm-150g",
+    "source_value": "Nemo",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841315635313",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7294551",
+    "handle": "floating-24cm-150g",
+    "source_value": "Coral",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841315668081",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5154938",
+    "handle": "floating-24cm-150g",
+    "source_value": "Mahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841315700849",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0746987",
+    "handle": "floating-24cm-150g",
+    "source_value": "Banana",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841315733617",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ2703032",
+    "handle": "floating-24cm-150g",
+    "source_value": "YouPop",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841315766385",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9849808",
+    "handle": "good-bait-fzr-188f",
+    "source_value": "SilverRed",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841320386673",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3782824",
+    "handle": "good-bait-fzr-188f",
+    "source_value": "Silver",
+    "group": "Silver",
+    "variant_id": "gid://shopify/ProductVariant/67841320419441",
+    "metaobject_id": "gid://shopify/Metaobject/650467836017"
+  },
+  {
+    "sku": "SQ6338628",
+    "handle": "good-bait-monsterzone-210f",
+    "source_value": "SmallBait",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841321730161",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3001944",
+    "handle": "good-bait-monsterzone-210f",
+    "source_value": "MonsterGold",
+    "group": "Gold",
+    "variant_id": "gid://shopify/ProductVariant/67841321762929",
+    "metaobject_id": "gid://shopify/Metaobject/650466656369"
+  },
+  {
+    "sku": "SQ4921310",
+    "handle": "good-bait-monsterzone-210f",
+    "source_value": "PilotBlue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841321795697",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ6785501",
+    "handle": "good-bait-number-five-148f",
+    "source_value": "SilverPink",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841323335793",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1426494",
+    "handle": "good-bait-number-five-148f",
+    "source_value": "SilverBlue",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841323368561",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9919896",
+    "handle": "good-bait-number-five-148f",
+    "source_value": "YellowHead",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841323401329",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ2779949",
+    "handle": "good-bait-respect-190f",
+    "source_value": "FlyingFish",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841324122225",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ4420567",
+    "handle": "good-bait-respect-190f",
+    "source_value": "SmallBait",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841324154993",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2037100",
+    "handle": "good-bait-respect-190f",
+    "source_value": "MonsterGold",
+    "group": "Gold",
+    "variant_id": "gid://shopify/ProductVariant/67841324187761",
+    "metaobject_id": "gid://shopify/Metaobject/650466656369"
+  },
+  {
+    "sku": "SQ4234089",
+    "handle": "good-bait-respect-190f",
+    "source_value": "SilverPink",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841324220529",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8945722",
+    "handle": "good-bait-respect-190f",
+    "source_value": "PurpleYellow",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841324253297",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8930403",
+    "handle": "hammerhead-sharapoa-250-slim-lv",
+    "source_value": "Purple",
+    "group": "Purple",
+    "variant_id": "gid://shopify/ProductVariant/67841325465713",
+    "metaobject_id": "gid://shopify/Metaobject/650467541105"
+  },
+  {
+    "sku": "SQ2313758",
+    "handle": "hammerhead-sharapoa-250-slim-lv",
+    "source_value": "White",
+    "group": "White",
+    "variant_id": "gid://shopify/ProductVariant/67841325498481",
+    "metaobject_id": "gid://shopify/Metaobject/650468229233"
+  },
+  {
+    "sku": "SQ9880121",
+    "handle": "hammerhead-sharapoa-250-slim-lv",
+    "source_value": "Pink Head",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841325531249",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ3589401",
+    "handle": "hammerhead-sharapoa-250-slim-lv",
+    "source_value": "Yellow Blue Snapper",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841325564017",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ6888012",
+    "handle": "hammerhead-tobi-140-sus",
+    "source_value": "Yellowfin Tuna",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841328676977",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ0095289",
+    "handle": "hammerhead-tobi-140-sus",
+    "source_value": "Orange Nemo",
+    "group": "Orange",
+    "variant_id": "gid://shopify/ProductVariant/67841328709745",
+    "metaobject_id": "gid://shopify/Metaobject/650467246193"
+  },
+  {
+    "sku": "SQ8584270",
+    "handle": "hammerhead-tobi-140-sus",
+    "source_value": "Black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841328742513",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ4745268",
+    "handle": "hammerhead-tobi-140-sus",
+    "source_value": "Pearl",
+    "group": "White",
+    "variant_id": "gid://shopify/ProductVariant/67841328775281",
+    "metaobject_id": "gid://shopify/Metaobject/650468229233"
+  },
+  {
+    "sku": "SQ3416271",
+    "handle": "indigoblue-musya",
+    "source_value": "SilverPurple",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841330446449",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ6175308",
+    "handle": "indigoblue-musya",
+    "source_value": "SilverRed",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841330479217",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9393439",
+    "handle": "indigoblue-musya",
+    "source_value": "SilverPurple",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841330511985",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9506637",
+    "handle": "indigoblue-musya",
+    "source_value": "SilverRed",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841330544753",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9471621",
+    "handle": "jumprize-lalapen",
+    "source_value": "SilverPink",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841331921009",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0622643",
+    "handle": "jumprize-lalapen",
+    "source_value": "Mackarell",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841331953777",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ4437370",
+    "handle": "jumprize-lalapen",
+    "source_value": "Silver",
+    "group": "Silver",
+    "variant_id": "gid://shopify/ProductVariant/67841331986545",
+    "metaobject_id": "gid://shopify/Metaobject/650467836017"
+  },
+  {
+    "sku": "SQ9740868",
+    "handle": "jumprize-lalapen",
+    "source_value": "HoloSilver",
+    "group": "Silver",
+    "variant_id": "gid://shopify/ProductVariant/67841332019313",
+    "metaobject_id": "gid://shopify/Metaobject/650467836017"
+  },
+  {
+    "sku": "SQ2226325",
+    "handle": "jumprize-lalapen",
+    "source_value": "SilverBlue",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841332052081",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9081961",
+    "handle": "jumprize-lalapen",
+    "source_value": "SilverPink",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841332084849",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3644597",
+    "handle": "jumprize-lalapen",
+    "source_value": "Mackarell",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841332117617",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3143433",
+    "handle": "jumprize-lalapen",
+    "source_value": "Silver",
+    "group": "Silver",
+    "variant_id": "gid://shopify/ProductVariant/67841332150385",
+    "metaobject_id": "gid://shopify/Metaobject/650467836017"
+  },
+  {
+    "sku": "SQ0277449",
+    "handle": "jumprize-lalapen",
+    "source_value": "HoloSilver",
+    "group": "Silver",
+    "variant_id": "gid://shopify/ProductVariant/67841332183153",
+    "metaobject_id": "gid://shopify/Metaobject/650467836017"
+  },
+  {
+    "sku": "SQ4150438",
+    "handle": "jumprize-lalapen",
+    "source_value": "SilverBlue",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841332215921",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ6409380",
+    "handle": "jumprize-lalapen",
+    "source_value": "SilverPink",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841332248689",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8194100",
+    "handle": "jumprize-lalapen",
+    "source_value": "Mackarell",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841332281457",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2532620",
+    "handle": "jumprize-lalapen",
+    "source_value": "Silver",
+    "group": "Silver",
+    "variant_id": "gid://shopify/ProductVariant/67841332314225",
+    "metaobject_id": "gid://shopify/Metaobject/650467836017"
+  },
+  {
+    "sku": "SQ0352269",
+    "handle": "jumprize-lalapen",
+    "source_value": "HoloSilver",
+    "group": "Silver",
+    "variant_id": "gid://shopify/ProductVariant/67841332346993",
+    "metaobject_id": "gid://shopify/Metaobject/650467836017"
+  },
+  {
+    "sku": "SQ3464404",
+    "handle": "jumprize-lalapen",
+    "source_value": "SilverBlue",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841332379761",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5177796",
+    "handle": "kikuchi-craft-bubble-swimmer",
+    "source_value": "Sardine",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841335525489",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ4936759",
+    "handle": "kikuchi-craft-bubble-swimmer",
+    "source_value": "Sardine",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841335558257",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5629077",
+    "handle": "lazarat-griffon-diving-170",
+    "source_value": "Flying Fish",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841337065585",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9850845",
+    "handle": "lazarat-griffon-diving-170",
+    "source_value": "Mahi Mahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841337098353",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0417057",
+    "handle": "lazarat-griffon-diving-200",
+    "source_value": "Mahimahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841338671217",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7624755",
+    "handle": "lazarat-griffon-diving-200",
+    "source_value": "ReadHead",
+    "group": "Red",
+    "variant_id": "gid://shopify/ProductVariant/67841338703985",
+    "metaobject_id": "gid://shopify/Metaobject/650467704945"
+  },
+  {
+    "sku": "SQ9355053",
+    "handle": "lazarat-griffon-diving-200",
+    "source_value": "FlyiiFish",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841338736753",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0297571",
+    "handle": "lazarat-griffon-diving-200",
+    "source_value": "NaturalGold",
+    "group": "Gold",
+    "variant_id": "gid://shopify/ProductVariant/67841338769521",
+    "metaobject_id": "gid://shopify/Metaobject/650466656369"
+  },
+  {
+    "sku": "SQ5334114",
+    "handle": "lazarat-griffon-diving-200",
+    "source_value": "GreenBaitfish",
+    "group": "Green",
+    "variant_id": "gid://shopify/ProductVariant/67841338802289",
+    "metaobject_id": "gid://shopify/Metaobject/650467115121"
+  },
+  {
+    "sku": "SQ5330644",
+    "handle": "lazarat-griffon-diving-200",
+    "source_value": "SpottedBaitfish",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841338835057",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0771397",
+    "handle": "lazarat-griffon-diving-200",
+    "source_value": "BluebackBaitfish",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841338867825",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ7328256",
+    "handle": "lazarat-griffon-diving-200-1",
+    "source_value": "Flying Fish",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841340538993",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0163718",
+    "handle": "lazarat-griffon-diving-200-1",
+    "source_value": "Mahi Mahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841340571761",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3498813",
+    "handle": "lazarat-griffon-diving-230",
+    "source_value": "Flying Fish",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841341620337",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2270853",
+    "handle": "lazarat-griffon-diving-230",
+    "source_value": "Mahi Mahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841341653105",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1909163",
+    "handle": "lazarat-griffon-diving-230",
+    "source_value": "Green Wood",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841341685873",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ6662260",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841365180529",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ1063271",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "sky blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841365213297",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ5201605",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "Gray",
+    "group": "Gray",
+    "variant_id": "gid://shopify/ProductVariant/67841365246065",
+    "metaobject_id": "gid://shopify/Metaobject/650466852977"
+  },
+  {
+    "sku": "SQ8098961",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841365278833",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ7818955",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "sky blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841365311601",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ7560260",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "Gray",
+    "group": "Gray",
+    "variant_id": "gid://shopify/ProductVariant/67841365344369",
+    "metaobject_id": "gid://shopify/Metaobject/650466852977"
+  },
+  {
+    "sku": "SQ5845873",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841365377137",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ7486751",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "sky blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841365409905",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ0093281",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "Gray",
+    "group": "Gray",
+    "variant_id": "gid://shopify/ProductVariant/67841365442673",
+    "metaobject_id": "gid://shopify/Metaobject/650466852977"
+  },
+  {
+    "sku": "SQ0598690",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841365475441",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ6964833",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "sky blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841365508209",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ0028196",
+    "handle": "mens-tropic-sun-hoody",
+    "source_value": "Gray",
+    "group": "Gray",
+    "variant_id": "gid://shopify/ProductVariant/67841365540977",
+    "metaobject_id": "gid://shopify/Metaobject/650466852977"
+  },
+  {
+    "sku": "SQ2106374",
+    "handle": "native-works-gazelle-270",
+    "source_value": "Titanium",
+    "group": "Gray",
+    "variant_id": "gid://shopify/ProductVariant/67841369047153",
+    "metaobject_id": "gid://shopify/Metaobject/650466852977"
+  },
+  {
+    "sku": "SQ7431133",
+    "handle": "native-works-gazelle-270",
+    "source_value": "Golden Orange",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841369079921",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1542471",
+    "handle": "native-works-gazelle-270",
+    "source_value": "White Glow",
+    "group": "White",
+    "variant_id": "gid://shopify/ProductVariant/67841369112689",
+    "metaobject_id": "gid://shopify/Metaobject/650468229233"
+  },
+  {
+    "sku": "SQ6101444",
+    "handle": "native-works-napalm-200",
+    "source_value": "blackout",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841371209841",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ5456763",
+    "handle": "native-works-napalm-200",
+    "source_value": "natural wood",
+    "group": "Brown",
+    "variant_id": "gid://shopify/ProductVariant/67841371242609",
+    "metaobject_id": "gid://shopify/Metaobject/650466361457"
+  },
+  {
+    "sku": "SQ9271934",
+    "handle": "native-works-napalm-200",
+    "source_value": "Pink Back",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841371275377",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ4669765",
+    "handle": "native-works-napalm-200",
+    "source_value": "Titanium",
+    "group": "Gray",
+    "variant_id": "gid://shopify/ProductVariant/67841371308145",
+    "metaobject_id": "gid://shopify/Metaobject/650466852977"
+  },
+  {
+    "sku": "SQ0857222",
+    "handle": "native-works-napalm-200",
+    "source_value": "Crab",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841371340913",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7588783",
+    "handle": "native-works-napalm-200",
+    "source_value": "Sapphire Abalone Gray",
+    "group": "Gray",
+    "variant_id": "gid://shopify/ProductVariant/67841371373681",
+    "metaobject_id": "gid://shopify/Metaobject/650466852977"
+  },
+  {
+    "sku": "SQ6202744",
+    "handle": "native-works-napalm-220",
+    "source_value": "anemone blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841373438065",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ1820657",
+    "handle": "native-works-napalm-220",
+    "source_value": "blackblood",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841373470833",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ8382225",
+    "handle": "native-works-napalm-220",
+    "source_value": "blacknow",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841373503601",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ8732608",
+    "handle": "native-works-napalm-220",
+    "source_value": "greenshad",
+    "group": "Green",
+    "variant_id": "gid://shopify/ProductVariant/67841373536369",
+    "metaobject_id": "gid://shopify/Metaobject/650467115121"
+  },
+  {
+    "sku": "SQ9623535",
+    "handle": "native-works-napalm-220",
+    "source_value": "Titanium",
+    "group": "Gray",
+    "variant_id": "gid://shopify/ProductVariant/67841373569137",
+    "metaobject_id": "gid://shopify/Metaobject/650466852977"
+  },
+  {
+    "sku": "SQ4138495",
+    "handle": "native-works-napalm-220",
+    "source_value": "Sapphire Abalone Yellow",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841373601905",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ0782892",
+    "handle": "native-works-napalm-220",
+    "source_value": "Dead Bait",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841373634673",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7268835",
+    "handle": "native-works-napalm-250",
+    "source_value": "Yellowfin",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841374486641",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ5571575",
+    "handle": "native-works-napalm-250",
+    "source_value": "Greenshad",
+    "group": "Green",
+    "variant_id": "gid://shopify/ProductVariant/67841374519409",
+    "metaobject_id": "gid://shopify/Metaobject/650467115121"
+  },
+  {
+    "sku": "SQ4390825",
+    "handle": "native-works-napalm-250",
+    "source_value": "Natural Wood",
+    "group": "Brown",
+    "variant_id": "gid://shopify/ProductVariant/67841374552177",
+    "metaobject_id": "gid://shopify/Metaobject/650466361457"
+  },
+  {
+    "sku": "SQ1374809",
+    "handle": "native-works-napalm-250",
+    "source_value": "Blacknow",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841374584945",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ0757410",
+    "handle": "native-works-napalm-250",
+    "source_value": "Orange Marbled",
+    "group": "Orange",
+    "variant_id": "gid://shopify/ProductVariant/67841374617713",
+    "metaobject_id": "gid://shopify/Metaobject/650467246193"
+  },
+  {
+    "sku": "SQ0795181",
+    "handle": "native-works-rattler-210",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841375338609",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ5741887",
+    "handle": "native-works-rattler-210",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841375371377",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ0358744",
+    "handle": "native-works-rattler-210",
+    "source_value": "Greenshad",
+    "group": "Green",
+    "variant_id": "gid://shopify/ProductVariant/67841375404145",
+    "metaobject_id": "gid://shopify/Metaobject/650467115121"
+  },
+  {
+    "sku": "SQ3114539",
+    "handle": "native-works-rattler-210",
+    "source_value": "White",
+    "group": "White",
+    "variant_id": "gid://shopify/ProductVariant/67841375436913",
+    "metaobject_id": "gid://shopify/Metaobject/650468229233"
+  },
+  {
+    "sku": "SQ3347494",
+    "handle": "native-works-rattler-210",
+    "source_value": "Yellowfin",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841375469681",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ6821677",
+    "handle": "native-works-rattler-230",
+    "source_value": "Anemone Orange",
+    "group": "Orange",
+    "variant_id": "gid://shopify/ProductVariant/67841375928433",
+    "metaobject_id": "gid://shopify/Metaobject/650467246193"
+  },
+  {
+    "sku": "SQ6651220",
+    "handle": "native-works-rattler-230",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841375961201",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ2112243",
+    "handle": "native-works-rattler-230",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841375993969",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ2901320",
+    "handle": "native-works-rattler-230",
+    "source_value": "Blue Nemo",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841376026737",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ1060796",
+    "handle": "native-works-tank-popper-190",
+    "source_value": "Yellow Fin",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841376518257",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ1302102",
+    "handle": "native-works-tank-popper-190",
+    "source_value": "Black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841376551025",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ6481537",
+    "handle": "native-works-tank-popper-190",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841376583793",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ4015776",
+    "handle": "native-works-tank-popper-190",
+    "source_value": "White Glow",
+    "group": "White",
+    "variant_id": "gid://shopify/ProductVariant/67841376616561",
+    "metaobject_id": "gid://shopify/Metaobject/650468229233"
+  },
+  {
+    "sku": "SQ3954638",
+    "handle": "native-works-tank-popper-190",
+    "source_value": "White Blooded",
+    "group": "White",
+    "variant_id": "gid://shopify/ProductVariant/67841376649329",
+    "metaobject_id": "gid://shopify/Metaobject/650468229233"
+  },
+  {
+    "sku": "SQ2227887",
+    "handle": "native-works-tank-popper-190",
+    "source_value": "Titanium",
+    "group": "Gray",
+    "variant_id": "gid://shopify/ProductVariant/67841376682097",
+    "metaobject_id": "gid://shopify/Metaobject/650466852977"
+  },
+  {
+    "sku": "SQ2234384",
+    "handle": "native-works-tank-popper-190",
+    "source_value": "Black Snow",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841376714865",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ6393804",
+    "handle": "native-works-tank-popper-190",
+    "source_value": "Pink Back",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841376747633",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ4796736",
+    "handle": "native-works-tank-popper-190",
+    "source_value": "Crab",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841376780401",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2241956",
+    "handle": "native-works-tank-popper-190",
+    "source_value": "Green Shad",
+    "group": "Green",
+    "variant_id": "gid://shopify/ProductVariant/67841376813169",
+    "metaobject_id": "gid://shopify/Metaobject/650467115121"
+  },
+  {
+    "sku": "SQ8875384",
+    "handle": "patriot-design-master-bomb-big-cup-90",
+    "source_value": "Yellow",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841377370225",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ5417582",
+    "handle": "patriot-design-master-bomb-big-cup-90",
+    "source_value": "Fusilier",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841377402993",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9259378",
+    "handle": "patriot-design-master-bomb-big-cup-90",
+    "source_value": "BgMoray",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841377435761",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ4370188",
+    "handle": "patriot-design-master-bomb-big-cup-90",
+    "source_value": "Majiora",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841377468529",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5182833",
+    "handle": "patriot-design-master-bomb-big-cup-90",
+    "source_value": "SkipJack",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841377501297",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1762362",
+    "handle": "patriot-design-master-bomb-big-cup-90",
+    "source_value": "AbalonColor",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841377534065",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1396933",
+    "handle": "patriot-design-master-bomb-big-cup-90",
+    "source_value": "NaturalBait",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841377566833",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ6283810",
+    "handle": "popper-18cm-130g",
+    "source_value": "joker",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841378222193",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ4259113",
+    "handle": "popper-18cm-130g",
+    "source_value": "carbon",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841378254961",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ9777578",
+    "handle": "popper-18cm-130g",
+    "source_value": "carbon",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841378287729",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ8530309",
+    "handle": "popper-18cm-130g",
+    "source_value": "carbon",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841378320497",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ3206746",
+    "handle": "popper-18cm-130g",
+    "source_value": "joker",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841378353265",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3321847",
+    "handle": "popper-18cm-130g",
+    "source_value": "joker",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841378386033",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2806036",
+    "handle": "popper-18cm-75g",
+    "source_value": "Mahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841379172465",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1778175",
+    "handle": "popper-18cm-75g",
+    "source_value": "Banana",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841379205233",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ2816028",
+    "handle": "popper-18cm-75g",
+    "source_value": "Black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841379238001",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ4988796",
+    "handle": "popper-18cm-75g",
+    "source_value": "Coral",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841379270769",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2905866",
+    "handle": "popper-18cm-75g",
+    "source_value": "Shark",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841379303537",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8157867",
+    "handle": "popper-18cm-75g",
+    "source_value": "YouPop",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841379336305",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5925045",
+    "handle": "popper-22cm-110g",
+    "source_value": "Banana",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841380155505",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ8035429",
+    "handle": "popper-22cm-110g",
+    "source_value": "Black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841380188273",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ1785377",
+    "handle": "popper-22cm-110g",
+    "source_value": "Carbon",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841380221041",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ6803691",
+    "handle": "popper-22cm-110g",
+    "source_value": "Coral",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841380253809",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3177287",
+    "handle": "popper-22cm-110g",
+    "source_value": "Mahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841380286577",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8842762",
+    "handle": "popper-22cm-110g",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841380319345",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ4793061",
+    "handle": "popper-22cm-110g",
+    "source_value": "Punk Mackerel",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841380352113",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2651929",
+    "handle": "popper-22cm-110g",
+    "source_value": "Sarda",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841380384881",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7245243",
+    "handle": "popper-22cm-110g",
+    "source_value": "Shark",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841380417649",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8282102",
+    "handle": "popper-22cm-110g",
+    "source_value": "YouPop",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841380450417",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ6791078",
+    "handle": "rst-supply-rilana-180f",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841382318193",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ6074839",
+    "handle": "rst-supply-rilana-180f",
+    "source_value": "Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841382350961",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ8909010",
+    "handle": "sinking-10cm-50g",
+    "source_value": "Black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841382482033",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ0570592",
+    "handle": "sinking-10cm-50g",
+    "source_value": "Coral",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841382514801",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3679915",
+    "handle": "sinking-10cm-50g",
+    "source_value": "Holo Black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841382547569",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ8328549",
+    "handle": "sinking-10cm-50g",
+    "source_value": "Holo Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841382580337",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ6002304",
+    "handle": "sinking-10cm-50g",
+    "source_value": "Holo Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841382613105",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ2629408",
+    "handle": "sinking-10cm-50g",
+    "source_value": "Mahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841382645873",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ4155596",
+    "handle": "sinking-10cm-50g",
+    "source_value": "Nemo",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841382678641",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0681038",
+    "handle": "sinking-10cm-50g",
+    "source_value": "Shark",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841382711409",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8371419",
+    "handle": "sinking-14cm-80g",
+    "source_value": "Coral",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841382875249",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ6428731",
+    "handle": "sinking-14cm-80g",
+    "source_value": "Nemo",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841382908017",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7213301",
+    "handle": "sinking-14cm-80g",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841382940785",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ6283725",
+    "handle": "sinking-14cm-80g",
+    "source_value": "Holo Black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841382973553",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ4286020",
+    "handle": "sinking-14cm-80g",
+    "source_value": "Holo Blue",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841383006321",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ0478688",
+    "handle": "sinking-14cm-80g",
+    "source_value": "Holo Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841383039089",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ1274080",
+    "handle": "sinking-14cm-80g",
+    "source_value": "Mahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841383071857",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ4726944",
+    "handle": "sinking-18cm-100g",
+    "source_value": "Blue Holo Foil",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67841383661681",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ1588900",
+    "handle": "sinking-18cm-100g",
+    "source_value": "Pink Holo Foil",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841383694449",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ3218967",
+    "handle": "sinking-18cm-100g",
+    "source_value": "Candy Holo Foil",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841383727217",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8821546",
+    "handle": "stickpop-18cm-75g",
+    "source_value": "Banana",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841384808561",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ0230919",
+    "handle": "stickpop-18cm-75g",
+    "source_value": "Blackbone",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841384841329",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ5469331",
+    "handle": "stickpop-18cm-75g",
+    "source_value": "Nemo",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841384874097",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0065414",
+    "handle": "stickpop-18cm-75g",
+    "source_value": "Coral",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841384906865",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9311074",
+    "handle": "stickpop-18cm-75g",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841384939633",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ0747067",
+    "handle": "stickpop-18cm-75g",
+    "source_value": "Punk Mackerel",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841384972401",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9017232",
+    "handle": "stickpop-18cm-75g",
+    "source_value": "White",
+    "group": "White",
+    "variant_id": "gid://shopify/ProductVariant/67841385005169",
+    "metaobject_id": "gid://shopify/Metaobject/650468229233"
+  },
+  {
+    "sku": "SQ3543332",
+    "handle": "stickpop-18cm-75g",
+    "source_value": "YouPop",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841385037937",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7581226",
+    "handle": "stickpop-20cm-105g",
+    "source_value": "Fusilier",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841386512497",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2319235",
+    "handle": "stickpop-20cm-105g",
+    "source_value": "Mahi",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841386545265",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ0452227",
+    "handle": "stickpop-20cm-105g",
+    "source_value": "Banana",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841386578033",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ0859850",
+    "handle": "stickpop-20cm-105g",
+    "source_value": "Coral",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841386610801",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7270156",
+    "handle": "stickpop-20cm-105g",
+    "source_value": "Pink",
+    "group": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/67841386643569",
+    "metaobject_id": "gid://shopify/Metaobject/650467410033"
+  },
+  {
+    "sku": "SQ8096117",
+    "handle": "stickpop-20cm-105g",
+    "source_value": "Sarda",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841386676337",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7885850",
+    "handle": "stickpop-20cm-105g",
+    "source_value": "Shark",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841386709105",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ4227470",
+    "handle": "stickpop-20cm-105g",
+    "source_value": "YouPop",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841386741873",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ4099842",
+    "handle": "stickpop-22cm-150g",
+    "source_value": "Nemo",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841387593841",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7191530",
+    "handle": "stickpop-22cm-150g",
+    "source_value": "Black",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841387626609",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ1955957",
+    "handle": "stickpop-22cm-150g",
+    "source_value": "Shark",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841387659377",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ5510682",
+    "handle": "stickpop-22cm-150g",
+    "source_value": "YouPop",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841387692145",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7648587",
+    "handle": "stickpop-22cm-150g",
+    "source_value": "Punk Mackerel",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67841387724913",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8631115",
+    "handle": "stickpop-22cm-150g",
+    "source_value": "Banana",
+    "group": "Yellow",
+    "variant_id": "gid://shopify/ProductVariant/67841387757681",
+    "metaobject_id": "gid://shopify/Metaobject/650468655217"
+  },
+  {
+    "sku": "SQ7803890",
+    "handle": "stickpop-22cm-150g",
+    "source_value": "Carbon",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67841387790449",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ8955977",
+    "handle": "wild-gambler-rigin",
+    "source_value": "Purple",
+    "group": "Purple",
+    "variant_id": "gid://shopify/ProductVariant/67842267381873",
+    "metaobject_id": "gid://shopify/Metaobject/650467541105"
+  },
+  {
+    "sku": "SQ7854621",
+    "handle": "wild-gambler-rigin",
+    "source_value": "Flying Fish",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842267414641",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2278712",
+    "handle": "wild-gambler-rigin",
+    "source_value": "Black Back",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67842267447409",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ0394094",
+    "handle": "wild-gambler-rigin",
+    "source_value": "Purple",
+    "group": "Purple",
+    "variant_id": "gid://shopify/ProductVariant/67842267480177",
+    "metaobject_id": "gid://shopify/Metaobject/650467541105"
+  },
+  {
+    "sku": "SQ8611879",
+    "handle": "wild-gambler-rigin",
+    "source_value": "Flying Fish",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842267512945",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2502427",
+    "handle": "wild-gambler-rigin",
+    "source_value": "Black Back",
+    "group": "Black",
+    "variant_id": "gid://shopify/ProductVariant/67842267545713",
+    "metaobject_id": "gid://shopify/Metaobject/650465935473"
+  },
+  {
+    "sku": "SQ6562399",
+    "handle": "woodream-akiya-200",
+    "source_value": "WineBack",
+    "group": "Red",
+    "variant_id": "gid://shopify/ProductVariant/67842268758129",
+    "metaobject_id": "gid://shopify/Metaobject/650467704945"
+  },
+  {
+    "sku": "SQ7648304",
+    "handle": "woodream-akiya-200",
+    "source_value": "BlueBack",
+    "group": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/67842268790897",
+    "metaobject_id": "gid://shopify/Metaobject/650466132081"
+  },
+  {
+    "sku": "SQ7143061",
+    "handle": "woodream-akiya-200",
+    "source_value": "GreenBack",
+    "group": "Green",
+    "variant_id": "gid://shopify/ProductVariant/67842268823665",
+    "metaobject_id": "gid://shopify/Metaobject/650467115121"
+  },
+  {
+    "sku": "SQ3143650",
+    "handle": "woodream-akiya-200",
+    "source_value": "Matte Red Gold",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842268856433",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ9590418",
+    "handle": "wooodream-akiya-popper-215",
+    "source_value": "Blueback Silver",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842269380721",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1096296",
+    "handle": "wooodream-akiya-popper-215",
+    "source_value": "Natural Bait",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842269413489",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ7060695",
+    "handle": "wooodream-akiya-popper-215",
+    "source_value": "GreenBack Yellow",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842269446257",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ8547122",
+    "handle": "wooodream-akiya-popper-215",
+    "source_value": "Blueback Silver",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842269479025",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ4174714",
+    "handle": "wooodream-akiya-popper-215",
+    "source_value": "Natural Bait",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842269511793",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ3684988",
+    "handle": "wooodream-akiya-popper-215",
+    "source_value": "GreenBack Yellow",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842269544561",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ1397248",
+    "handle": "wooodream-akiya-popper-215",
+    "source_value": "Blueback Silver",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842269577329",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ4418084",
+    "handle": "wooodream-akiya-popper-215",
+    "source_value": "Natural Bait",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842269610097",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  },
+  {
+    "sku": "SQ2919639",
+    "handle": "wooodream-akiya-popper-215",
+    "source_value": "GreenBack Yellow",
+    "group": "Pattern / Natural",
+    "variant_id": "gid://shopify/ProductVariant/67842269642865",
+    "metaobject_id": "gid://shopify/Metaobject/650468819057"
+  }
+]

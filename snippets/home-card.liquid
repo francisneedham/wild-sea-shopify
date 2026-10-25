@@ -1,0 +1,32 @@
+{% doc %}
+  Renders an editorial card with an optional link and original photograph.
+
+  @param {image} [image] - Selected Shopify image.
+  @param {string} [original] - Original photograph key.
+  @param {string} heading - Card title or accessible gallery link label.
+  @param {string} [text] - Short card description.
+  @param {string} [kicker] - Region or publication date.
+  @param {string} [link] - Destination URL; no link rendered when empty.
+  @param {string} [link_label] - Optional visible link label.
+  @param {string} [badge] - Editorial badge.
+  @param {boolean} [photo_only] - Render a gallery image without visible text.
+  @param {string} [sizes] - Responsive image sizes.
+
+  @example
+  {% render 'home-card', heading: 'Socotra', original: 'socotra', link: section.settings.link %}
+{% enddoc %}
+
+{% if link != blank %}<a class="home-card" href="{{ link | escape }}"{% if photo_only %} aria-label="{{ heading | escape }}"{% endif %}>{% else %}<div class="home-card">{% endif %}
+  <div class="home-card__media" data-reveal="image">
+    {% render 'home-image', image: image, original: original, alt: heading, sizes: sizes %}
+    {% if badge != blank %}<span class="home-card__badge">{{ badge | escape }}</span>{% endif %}
+  </div>
+  {% unless photo_only %}
+    <div class="home-card__body">
+      {% if kicker != blank %}<p class="home-card__kicker">{{ kicker | escape }}</p>{% endif %}
+      <h3>{{ heading | escape }}</h3>
+      {% if text != blank %}<p class="home-card__text">{{ text | escape }}</p>{% endif %}
+      {% if link != blank and link_label != blank %}<span class="home-link">{{ link_label | escape }}</span>{% endif %}
+    </div>
+  {% endunless %}
+{% if link != blank %}</a>{% else %}</div>{% endif %}

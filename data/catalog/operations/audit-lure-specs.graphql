@@ -1,0 +1,10 @@
+query AuditLureSpecs($ids: [ID!]!) {
+  nodes(ids: $ids) {
+    ... on ProductVariant {
+      id
+      sku
+      lureLength: metafield(namespace: "specs", key: "lure_length_mm") { value }
+      lureWeight: metafield(namespace: "specs", key: "lure_weight_g") { value }
+    }
+  }
+}

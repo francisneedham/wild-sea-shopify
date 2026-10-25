@@ -1,0 +1,72 @@
+[
+  {
+    "handle": "black",
+    "label": "Black",
+    "swatch_color": "#1D2425"
+  },
+  {
+    "handle": "blue",
+    "label": "Blue",
+    "swatch_color": "#3669A3"
+  },
+  {
+    "handle": "brown",
+    "label": "Brown",
+    "swatch_color": "#8A5C39"
+  },
+  {
+    "handle": "gold",
+    "label": "Gold",
+    "swatch_color": "#C09A4E"
+  },
+  {
+    "handle": "gray",
+    "label": "Gray",
+    "swatch_color": "#7D858C"
+  },
+  {
+    "handle": "green",
+    "label": "Green",
+    "swatch_color": "#528566"
+  },
+  {
+    "handle": "orange",
+    "label": "Orange",
+    "swatch_color": "#D97A35"
+  },
+  {
+    "handle": "pink",
+    "label": "Pink",
+    "swatch_color": "#DD81A4"
+  },
+  {
+    "handle": "purple",
+    "label": "Purple",
+    "swatch_color": "#8061A5"
+  },
+  {
+    "handle": "red",
+    "label": "Red",
+    "swatch_color": "#C24845"
+  },
+  {
+    "handle": "silver",
+    "label": "Silver",
+    "swatch_color": "#B8C1C7"
+  },
+  {
+    "handle": "white",
+    "label": "White",
+    "swatch_color": "#F2F1EA"
+  },
+  {
+    "handle": "yellow",
+    "label": "Yellow",
+    "swatch_color": "#E2BC3F"
+  },
+  {
+    "handle": "pattern-natural",
+    "label": "Pattern / Natural",
+    "swatch_color": null
+  }
+]

@@ -1,0 +1,179 @@
+{
+  "metafields": [
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841352859761",
+      "namespace": "specs",
+      "key": "rod_cast_min_g",
+      "type": "number_integer",
+      "value": "40"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841352859761",
+      "namespace": "specs",
+      "key": "rod_cast_max_g",
+      "type": "number_integer",
+      "value": "100"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841352859761",
+      "namespace": "specs",
+      "key": "rod_drag_max_kg",
+      "type": "number_decimal",
+      "value": "12.0"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841352859761",
+      "namespace": "specs",
+      "key": "rod_pe_supported",
+      "type": "list.single_line_text_field",
+      "value": "[\"PE 4\", \"PE 5\", \"PE 6\"]"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841352859761",
+      "namespace": "specs",
+      "key": "rod_casting_weight",
+      "type": "single_line_text_field",
+      "value": "40–100 g"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841354170481",
+      "namespace": "specs",
+      "key": "rod_pe_min",
+      "type": "number_decimal",
+      "value": "4.0"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841354170481",
+      "namespace": "specs",
+      "key": "rod_pe_max",
+      "type": "number_decimal",
+      "value": "6.0"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841354170481",
+      "namespace": "specs",
+      "key": "rod_cast_min_g",
+      "type": "number_integer",
+      "value": "60"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841354170481",
+      "namespace": "specs",
+      "key": "rod_cast_max_g",
+      "type": "number_integer",
+      "value": "110"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841354170481",
+      "namespace": "specs",
+      "key": "rod_drag_max_kg",
+      "type": "number_decimal",
+      "value": "12.0"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841354170481",
+      "namespace": "specs",
+      "key": "rod_pe_supported",
+      "type": "list.single_line_text_field",
+      "value": "[\"PE 4\", \"PE 5\", \"PE 6\"]"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841354170481",
+      "namespace": "specs",
+      "key": "rod_casting_weight",
+      "type": "single_line_text_field",
+      "value": "60–110 g"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355186289",
+      "namespace": "specs",
+      "key": "rod_pe_min",
+      "type": "number_decimal",
+      "value": "2.0"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355186289",
+      "namespace": "specs",
+      "key": "rod_pe_max",
+      "type": "number_decimal",
+      "value": "4.0"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355186289",
+      "namespace": "specs",
+      "key": "rod_cast_min_g",
+      "type": "number_integer",
+      "value": "20"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355186289",
+      "namespace": "specs",
+      "key": "rod_cast_max_g",
+      "type": "number_integer",
+      "value": "60"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355186289",
+      "namespace": "specs",
+      "key": "rod_drag_max_kg",
+      "type": "number_decimal",
+      "value": "6.0"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355186289",
+      "namespace": "specs",
+      "key": "rod_pe_supported",
+      "type": "list.single_line_text_field",
+      "value": "[\"PE 2\", \"PE 2.5\", \"PE 3\", \"PE 4\"]"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355186289",
+      "namespace": "specs",
+      "key": "rod_casting_weight",
+      "type": "single_line_text_field",
+      "value": "20–60 g"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355841649",
+      "namespace": "specs",
+      "key": "rod_pe_min",
+      "type": "number_decimal",
+      "value": "8.0"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355841649",
+      "namespace": "specs",
+      "key": "rod_pe_max",
+      "type": "number_decimal",
+      "value": "10.0"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355841649",
+      "namespace": "specs",
+      "key": "rod_cast_min_g",
+      "type": "number_integer",
+      "value": "100"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355841649",
+      "namespace": "specs",
+      "key": "rod_cast_max_g",
+      "type": "number_integer",
+      "value": "200"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355841649",
+      "namespace": "specs",
+      "key": "rod_drag_max_kg",
+      "type": "number_decimal",
+      "value": "13.0"
+    },
+    {
+      "ownerId": "gid://shopify/ProductVariant/67841355841649",
+      "namespace": "specs",
+      "key": "rod_pe_supported",
+      "type": "list.single_line_text_field",
+      "value": "[\"PE 8\", \"PE 10\"]"
+    }
+  ]
+}

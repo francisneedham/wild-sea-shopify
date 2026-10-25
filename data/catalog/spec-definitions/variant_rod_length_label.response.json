@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/509903896689",
+      "namespace": "specs",
+      "key": "rod_length_label",
+      "name": "Rod length display (variant)",
+      "type": {
+        "name": "single_line_text_field"
+      },
+      "ownerType": "PRODUCTVARIANT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "input": {
+    "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+    "title": "MC Works x Fish Trippers Village Orquesta 759\\7106",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The MC Works x Fish Trippers Village Orquestra 7106 is a collaboration between MC WORKS &amp; Fish Trippers Village Japan. Two boutique Japanese fishing brands both creating art in the fishing scene.&nbsp;</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The Slow Hand boat casting rods have been built for anglers who seek maximum casting distance, whilst also being able to control lures through rough waters. The rod is flexible enough at the tip to cast lures on a crowded boat, whilst also being versatile and responsive enough to swim lures through difficult conditions without losing the ability to fight big fish in close to the boat with a powerful backbone strength.&nbsp;</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The Slow Hand 7106 is not the longest rod, but will still give the angler maximum casting distance whilst having more control with larger fish next to the boat.&nbsp;</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The MC Works x Fish Trippers Village Orquestra 759 Tuna is the strongest model&nbsp; in the Trippers lineup, engineered specifically for targeting large bluefin tuna, including fish up to 200kg.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">It combines high-end features with excellent lure manoeuvrability and designed to make hook setting a breeze on trophy fish. The entire blank flexes to absorb the fish’s power to reduce anglers fatigue when fighting larger tuna. The rod’s flexible action and strong butt section work in harmony to tire the fish efficiently. This is achieved through low-resilience materials and a distinctive taper, making it an optimal rod for those with less physical strength who want to chase their trophy catch. The flexible blank on the Orquestra 759 is equally capable of handling large kingfish, GT and big yellowfin tuna.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Handmade in Japan.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Specifications 759SH:<br /><span>Type:&nbsp;Spin&nbsp;<br />Length: 7’5”<br />Line:&nbsp;Max PE12<br />Casting max:&nbsp;250g<br />Drag max: 25kg<br />Grips: EVA<br /></span>Guides:Fuji guides</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Specifications 7106SH:<br /><span>Type:&nbsp;Spin&nbsp;<br />Length: 7’10”<br />Line:&nbsp;Max PE8<br />Casting max:&nbsp;180g<br />Drag max: 15kg<br />Grips: EVA<br /></span>Guides:Fuji guides</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "MC Works",
+      "Fish Trippers Village",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          {
+            "name": "759"
+          },
+          {
+            "name": "7106"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ8022087",
+        "price": "750.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "759"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "sku": "SQ3711317",
+        "price": "730.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "7106"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d7185789-d6cf-44d8-b49c-c74a8f33ca1e/orquestra1.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works x Fish Trippers Village Orquesta 759\\7106"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5f509e10-8c5e-4454-ab13-9e7616461d19/orquestra.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works x Fish Trippers Village Orquesta 759\\7106"
+      }
+    ]
+  }
+}

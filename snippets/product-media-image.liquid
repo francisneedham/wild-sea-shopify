@@ -1,11 +1,25 @@
-{% comment %}
-  Renders a product image media item using media_tag.
-  Accepts:
-    - media: {Object} Shopify media object (media_type: 'image')
-    - class: {String} CSS classes applied to the generated img element
-{% endcomment %}
+{% doc %}
+  Product image media sized to its layout slot.
+
+  @param {object} [media] - Shopify media object (media_type: 'image'); placeholder when blank.
+  @param {string} [class] - Class applied to the img element.
+  @param {string} [sizes] - `sizes` attribute matching the rendered width. Default 100vw.
+  @param {boolean} [priority] - Eager load with high fetch priority (first gallery image).
+  @example
+  {% render 'product-media-image', media: media, sizes: '(min-width: 761px) 50vw, 100vw', priority: forloop.first %}
+{% enddoc %}
+
+{%- liquid
+  assign loading = 'lazy'
+  assign fetchpriority = 'auto'
+  if priority
+    assign loading = 'eager'
+    assign fetchpriority = 'high'
+  endif
+-%}
+
 {% if media != blank %}
-  {{ media | media_tag: class: class, widths: '600,900,1200', sizes: '(min-width: 1024px) 50vw, 100vw' }}
+  {{ media.preview_image | image_url: width: 1600 | image_tag: widths: '400, 600, 800, 1000, 1200, 1400, 1600', sizes: sizes | default: '100vw', class: class, alt: media.alt | default: media.preview_image.alt, loading: loading, fetchpriority: fetchpriority }}
 {% else %}
   {{ 'product-1' | placeholder_svg_tag: class }}
 {% endif %}

@@ -1,0 +1,5 @@
+query AuditLureFilterDefinitions {
+  metafieldDefinitions(first: 250, ownerType: PRODUCT) {
+    nodes { id namespace key type { name } }
+  }
+}

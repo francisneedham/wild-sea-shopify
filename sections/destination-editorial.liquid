@@ -1,0 +1,397 @@
+{% doc %}
+  Editorial story (legacy .editorial), used on destination templates and pages: eyebrow, multi-line title, rich text, focus points, spec rows, buttons, photo + caption.
+  Button blocks link to the destination booking/brochure URL (metaobject) or a custom link.
+  @example
+  Add this section to a destination template; use Anchor ID for the anchor bar.
+{% enddoc %}
+{% render 'destination-styles' %}
+
+{%- liquid
+  assign points = section.blocks | where: 'type', 'point'
+  assign specs = section.blocks | where: 'type', 'spec'
+  assign buttons = section.blocks | where: 'type', 'button'
+-%}
+
+<div {% if section.settings.anchor != blank %}id="{{ section.settings.anchor | escape }}" {% endif %}class="destination-bg--{{ section.settings.background }}">
+  <section class="destination-wrap destination-section{% if section.settings.flush_top %} destination-section--flush-top{% endif %} destination-editorial{% if section.settings.reverse %} destination-editorial--reverse{% endif %}">
+    <div>
+      {% if section.settings.kicker != blank %}<p class="destination-eyebrow">{{ section.settings.kicker | escape }}</p>{% endif %}
+      <h2 class="destination-h2" data-reveal="title">{{ section.settings.heading | escape | newline_to_br }}</h2>
+      {% if section.settings.text != blank %}<div class="destination-body">{{ section.settings.text }}</div>{% endif %}
+      {% if points.size > 0 %}
+        <div class="destination-points">
+          {% for block in points %}<span {{ block.shopify_attributes }}>{% render 'lucide-icon', name: block.settings.icon %}{{ block.settings.text | escape }}</span>{% endfor %}
+        </div>
+      {% endif %}
+      {% if specs.size > 0 %}
+        <dl class="destination-specs-list">
+          {% for block in specs %}<div {{ block.shopify_attributes }}><dt>{{ block.settings.label | escape }}</dt><dd>{{ block.settings.value | escape }}</dd></div>{% endfor %}
+        </dl>
+      {% endif %}
+      {% if buttons.size > 0 %}
+        <div class="destination-editorial__actions">
+          {% for block in buttons %}
+            {%- liquid
+              case block.settings.target
+                when 'booking'
+                  assign button_link = metaobject.booking_url.value
+                when 'brochure'
+                  assign button_link = metaobject.brochure_url.value
+                else
+                  assign button_link = block.settings.link
+              endcase
+            -%}
+            {% render 'destination-button', label: block.settings.label, link: button_link, style: block.settings.style, icon: block.settings.icon %}
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+    <figure class="destination-editorial__photo" data-reveal="image">
+      {%- assign photo_sizes = '(min-width: 1440px) 660px, (min-width: 761px) 46vw, calc(100vw - 44px)' -%}
+      {% if section.settings.image != blank or section.settings.original contains 'socotra' %}
+        {% render 'destination-photo', image: section.settings.image, original: section.settings.original, alt: section.settings.image_alt, sizes: photo_sizes %}
+      {% elsif section.settings.original != 'none' %}
+        {% render 'home-image', original: section.settings.original, alt: section.settings.image_alt, sizes: photo_sizes %}
+      {% endif %}
+      {% if section.settings.caption != blank %}<figcaption class="destination-caption">{{ section.settings.caption | escape }}</figcaption>{% endif %}
+    </figure>
+  </section>
+</div>
+
+{% schema %}
+{
+  "name": "Editorial story",
+  "settings": [
+    {
+      "type": "text",
+      "id": "anchor",
+      "label": "Anchor ID"
+    },
+    {
+      "type": "select",
+      "id": "background",
+      "label": "Background",
+      "default": "none",
+      "options": [
+        {
+          "value": "none",
+          "label": "Page"
+        },
+        {
+          "value": "sage",
+          "label": "Sage"
+        },
+        {
+          "value": "stone",
+          "label": "Stone"
+        }
+      ]
+    },
+    {
+      "type": "checkbox",
+      "id": "flush_top",
+      "label": "Remove top spacing",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "kicker",
+      "label": "Eyebrow"
+    },
+    {
+      "type": "textarea",
+      "id": "heading",
+      "label": "Heading",
+      "info": "Line breaks are kept."
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Text"
+    },
+    {
+      "type": "header",
+      "content": "Photo"
+    },
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    },
+    {
+      "type": "select",
+      "id": "original",
+      "label": "Bundled photo (used when no image is picked)",
+      "default": "none",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "socotra-0",
+          "label": "Socotra photo 0"
+        },
+        {
+          "value": "socotra-1",
+          "label": "Socotra photo 1"
+        },
+        {
+          "value": "socotra-2",
+          "label": "Socotra photo 2"
+        },
+        {
+          "value": "socotra-3",
+          "label": "Socotra photo 3"
+        },
+        {
+          "value": "socotra-4",
+          "label": "Socotra photo 4"
+        },
+        {
+          "value": "socotra-5",
+          "label": "Socotra photo 5"
+        },
+        {
+          "value": "socotra-6",
+          "label": "Socotra photo 6"
+        },
+        {
+          "value": "socotra-7",
+          "label": "Socotra photo 7"
+        },
+        {
+          "value": "socotra-8",
+          "label": "Socotra photo 8"
+        },
+        {
+          "value": "socotra-9",
+          "label": "Socotra photo 9"
+        },
+        {
+          "value": "socotra-10",
+          "label": "Socotra photo 10"
+        },
+        {
+          "value": "socotra-11",
+          "label": "Socotra photo 11"
+        },
+        {
+          "value": "socotra-12",
+          "label": "Socotra photo 12"
+        },
+        {
+          "value": "socotra-13",
+          "label": "Socotra photo 13"
+        },
+        {
+          "value": "socotra-14",
+          "label": "Socotra photo 14"
+        },
+        {
+          "value": "socotra-15",
+          "label": "Socotra photo 15"
+        },
+        {
+          "value": "socotra-16",
+          "label": "Socotra photo 16"
+        },
+        {
+          "value": "about-1",
+          "label": "About · expedition 1"
+        },
+        {
+          "value": "about-2",
+          "label": "About · Red Sea exploration"
+        },
+        {
+          "value": "about-3",
+          "label": "About · expedition 3"
+        },
+        {
+          "value": "about-4",
+          "label": "About · expedition 4"
+        },
+        {
+          "value": "news-0",
+          "label": "News · Socotra communities"
+        },
+        {
+          "value": "news-1",
+          "label": "News · field notes"
+        },
+        {
+          "value": "article-1",
+          "label": "Article · catch"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "image_alt",
+      "label": "Image description"
+    },
+    {
+      "type": "text",
+      "id": "caption",
+      "label": "Caption"
+    },
+    {
+      "type": "checkbox",
+      "id": "reverse",
+      "label": "Photo first",
+      "default": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "point",
+      "name": "Focus point",
+      "settings": [
+        {
+          "type": "select",
+          "id": "icon",
+          "label": "Icon",
+          "default": "fish",
+          "options": [
+            {
+              "value": "fish",
+              "label": "Fish"
+            },
+            {
+              "value": "compass",
+              "label": "Compass"
+            },
+            {
+              "value": "waves-horizontal",
+              "label": "Waves"
+            },
+            {
+              "value": "users-round",
+              "label": "Group"
+            },
+            {
+              "value": "sun",
+              "label": "Sun"
+            },
+            {
+              "value": "calendar-days",
+              "label": "Calendar"
+            },
+            {
+              "value": "check",
+              "label": "Check"
+            },
+            {
+              "value": "wind",
+              "label": "Wind"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "text",
+          "label": "Text"
+        }
+      ]
+    },
+    {
+      "type": "spec",
+      "name": "Spec row",
+      "settings": [
+        {
+          "type": "text",
+          "id": "label",
+          "label": "Label"
+        },
+        {
+          "type": "text",
+          "id": "value",
+          "label": "Value"
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "name": "Button",
+      "settings": [
+        {
+          "type": "text",
+          "id": "label",
+          "label": "Label"
+        },
+        {
+          "type": "select",
+          "id": "target",
+          "label": "Link to",
+          "default": "booking",
+          "options": [
+            {
+              "value": "booking",
+              "label": "Destination booking URL"
+            },
+            {
+              "value": "brochure",
+              "label": "Destination brochure URL"
+            },
+            {
+              "value": "custom",
+              "label": "Custom link"
+            }
+          ]
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "Custom link"
+        },
+        {
+          "type": "select",
+          "id": "style",
+          "label": "Style",
+          "default": "dark",
+          "options": [
+            {
+              "value": "sand",
+              "label": "Sand"
+            },
+            {
+              "value": "dark",
+              "label": "Dark"
+            },
+            {
+              "value": "outline",
+              "label": "Outline (on dark)"
+            },
+            {
+              "value": "text",
+              "label": "Text link"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "id": "icon",
+          "label": "Icon",
+          "default": "arrow-right",
+          "options": [
+            {
+              "value": "arrow-right",
+              "label": "Arrow"
+            },
+            {
+              "value": "download",
+              "label": "Download"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Editorial story"
+    }
+  ]
+}
+{% endschema %}

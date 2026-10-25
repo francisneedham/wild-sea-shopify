@@ -1,0 +1,17 @@
+query AuditAllRodSpecs($ids: [ID!]!) {
+  nodes(ids: $ids) {
+    ... on Product {
+      id
+      handle
+      length: metafield(namespace: "specs", key: "rod_length_cm") { value }
+      lengthLabel: metafield(namespace: "specs", key: "rod_length_label") { value }
+      peMin: metafield(namespace: "specs", key: "rod_pe_min") { value }
+      peMax: metafield(namespace: "specs", key: "rod_pe_max") { value }
+      castMin: metafield(namespace: "specs", key: "rod_cast_min_g") { value }
+      castMax: metafield(namespace: "specs", key: "rod_cast_max_g") { value }
+      recommendedDrag: metafield(namespace: "specs", key: "rod_drag_recommended_kg") { value }
+      maxDrag: metafield(namespace: "specs", key: "rod_drag_max_kg") { value }
+      madeIn: metafield(namespace: "specs", key: "rod_made_in") { value }
+    }
+  }
+}

@@ -1,93 +1,177 @@
-<header class="mx-5">
-    <h2 class="header__title">
-        {{ shop.name | link_to: routes.root_url }}
-    </h2>
+{% doc %}
+  Global announcement and navigation. Shopify menus and branding stay editable.
+  Overlays the hero (tinted, then solid dark on scroll) on home, destination and listed page templates.
+  @example
+  {% sections 'header-group' %}
+{% enddoc %}
 
-    <div class="header__menu">
-        {% for link in section.settings.menu.links %}
-            {{ link.title | link_to: link.url }}
-        {% endfor %}
-    </div>
+{%- liquid
+  assign header_logo = settings.logo
+  if section.settings.use_inverse_logo and settings.logo_inverse != blank
+    assign header_logo = settings.logo_inverse
+  endif
+  assign hero_header = false
+  if request.page_type == 'index' or request.page_type == 'metaobject'
+    assign hero_header = true
+  endif
+  if request.page_type == 'page' and template.suffix != blank
+    assign hero_suffixes = section.settings.hero_page_templates | split: ','
+    for hero_suffix in hero_suffixes
+      assign hero_suffix_clean = hero_suffix | strip
+      if hero_suffix_clean == template.suffix
+        assign hero_header = true
+      endif
+    endfor
+  endif
+-%}
 
-    <div class="header__icons">
-        {% if shop.customer_accounts_enabled %}
-            <shopify-account menu="{{ section.settings.customer_account_menu }}">
-                {{ 'customers.account' | t }}
-            </shopify-account>
+{% if section.settings.announcement_text != blank %}
+  <div class="wildsea-announcement">
+    {% if section.settings.announcement_link != blank %}<a href="{{ section.settings.announcement_link }}">{% endif %}
+      {{ section.settings.announcement_text | escape }} {% if section.settings.announcement_link != blank %}{% render 'lucide-icon', name: 'arrow-right' %}{% endif %}
+    {% if section.settings.announcement_link != blank %}</a>{% endif %}
+  </div>
+{% endif %}
+
+<header class="site-header{% if hero_header %} site-header--hero{% endif %} color-scheme color-{{ section.settings.color_scheme }}" data-js="site-header" data-scrolled="false">
+  <div class="site-header__inner">
+    {% render 'site-brand', logo: header_logo %}
+    <nav class="site-header__nav" aria-label="{{ 'general.main_navigation' | t }}">
+      {% if section.settings.menu.links == blank %}
+        <a href="{{ routes.root_url }}pages/destinations">Destinations</a>
+        <a href="{{ routes.all_products_collection_url }}">Shop</a>
+        <a href="https://www.wildseaexpedition.com/en/news">News</a>
+        <a href="{{ routes.root_url }}pages/about">About</a>
+      {% endif %}
+      {% for link in section.settings.menu.links %}
+        {% if link.links != blank %}
+          <details class="site-header__nav-group">
+            <summary {% if link.active or link.child_active %}class="is-active"{% endif %}>{{ link.title | escape }} {% render 'lucide-icon', name: 'chevron-down' %}</summary>
+            <div class="site-header__submenu">
+              <a href="{{ link.url }}">All {{ link.title | escape }}</a>
+              {% for child in link.links %}<a href="{{ child.url }}" {% if child.current %}aria-current="page"{% endif %}>{{ child.title | escape }}</a>{% endfor %}
+            </div>
+          </details>
+        {% else %}
+          <a href="{{ link.url }}" {% if link.active %}class="is-active"{% endif %} {% if link.current %}aria-current="page"{% endif %}>{{ link.title | escape }}</a>
         {% endif %}
-
-        <a
-            href="{{ routes.search_url }}"
-            data-js="search-open"
-            aria-haspopup="dialog"
-            aria-controls="search-drawer"
-        >
-            {{ 'search.title' | t }}
-        </a>
-
-        <a
-            href="{{ routes.cart_url }}"
-            data-js="cart-open"
-            aria-haspopup="dialog"
-            aria-controls="cart-drawer"
-        >
-            <sup
-                data-js="cart-count"
-                {% if cart.item_count < 1 %}
-                    hidden
-                {% endif %}
-            >
-                {{- cart.item_count -}}
-            </sup>
-
-            {{ 'cart.title' | t }}
-        </a>
+      {% endfor %}
+    </nav>
+    <div class="site-header__actions">
+      {% if shop.customer_accounts_enabled %}
+        <shopify-account class="site-header__account" menu="{{ section.settings.customer_account_menu }}">
+          <span class="site-header__icon" aria-label="{{ 'customers.account' | t }}">{% render 'lucide-icon', name: 'user-round' %}</span>
+        </shopify-account>
+      {% endif %}
+      <a href="{{ routes.search_url }}" data-js="search-open" aria-haspopup="dialog" aria-controls="search-drawer" class="site-header__icon" aria-label="{{ 'search.title' | t }}">{% render 'lucide-icon', name: 'search' %}</a>
+      <a href="{{ routes.cart_url }}" data-js="cart-open" aria-haspopup="dialog" aria-controls="cart-drawer" class="site-header__icon site-header__cart" aria-label="{{ 'cart.title' | t }}">
+        {% render 'lucide-icon', name: 'shopping-bag' %}
+        <span class="site-header__cart-count" data-js="cart-count" {% if cart.item_count < 1 %}hidden{% endif %}>{{ cart.item_count }}</span>
+      </a>
+      <details class="site-header__mobile" data-js="mobile-menu">
+        <summary class="site-header__icon" aria-label="{{ 'general.main_navigation' | t }}">{% render 'lucide-icon', name: 'menu' %}</summary>
+        <div class="site-header__drawer">
+          <button type="button" class="site-header__icon site-header__drawer-close" data-js="mobile-menu-close" aria-label="{{ 'general.close' | t }}">{% render 'lucide-icon', name: 'x' %}</button>
+          {% if section.settings.mobile_kicker != blank %}<p class="site-header__drawer-kicker">{{ section.settings.mobile_kicker | escape }}</p>{% endif %}
+          {% if section.settings.mobile_heading != blank %}<p class="site-header__drawer-heading">{{ section.settings.mobile_heading | escape }}</p>{% endif %}
+          <nav aria-label="{{ 'general.main_navigation' | t }}">
+            {% if section.settings.menu.links == blank %}
+              <a href="{{ routes.root_url }}pages/destinations">Destinations</a>
+              <a href="{{ routes.all_products_collection_url }}">Shop</a>
+              <a href="https://www.wildseaexpedition.com/en/news">News</a>
+              <a href="{{ routes.root_url }}pages/about">About</a>
+            {% endif %}
+            {% for link in section.settings.menu.links %}
+              <a href="{{ link.url }}" {% if link.current %}aria-current="page"{% endif %}>{{ link.title | escape }}</a>
+              {% if link.links != blank %}
+                <div class="site-header__drawer-children">
+                  {% for child in link.links %}<a href="{{ child.url }}" {% if child.current %}aria-current="page"{% endif %}>{{ child.title | escape }}</a>{% endfor %}
+                </div>
+              {% endif %}
+            {% endfor %}
+          </nav>
+        </div>
+      </details>
     </div>
+  </div>
 </header>
 
 {% stylesheet %}
-    header {
-        height: 5rem;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-    }
-    header a {
-        position: relative;
-        text-decoration: none;
-        color: var(--color-foreground);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-    header a sup {
-        position: absolute;
-        left: 100%;
-        overflow: hidden;
-        max-width: var(--page-margin);
-    }
-    header .header__menu,
-    header .header__icons {
-        display: flex;
-        gap: 1rem;
-    }
+  :root { --header-height: 72px; }
+  @media (max-width: 760px) { :root { --header-height: 60px; } }
+  .shopify-section-group-header-group { display: contents; }
+  .wildsea-announcement { min-height: 32px; display: flex; align-items: center; justify-content: center; padding: 8px 22px; background: #dfc89e; color: #102c2d; text-align: center; font-size: var(--text-label); letter-spacing: .07em; }
+  .wildsea-announcement a { display: flex; gap: 12px; align-items: center; justify-content: center; color: inherit; text-decoration: none; }
+  .wildsea-announcement svg { width: 13px; height: 13px; }
+
+  /* Background lives on ::before. No backdrop-filter: blurring over the parallax hero made scrolling stutter. */
+  .site-header.color-scheme { position: sticky; top: 0; z-index: 40; height: var(--header-height); background: none; color: var(--theme-text); border-bottom: 1px solid color-mix(in srgb, var(--theme-text) 12.5%, transparent); transition: color .25s, border-color .25s; }
+  .site-header::before { content: ''; position: absolute; inset: 0; z-index: -1; background: var(--theme-background); box-shadow: 0 6px 24px #06191912; transition: background .25s, box-shadow .25s; }
+  .site-header__inner { max-width: var(--page-width); height: 100%; margin: auto; padding-inline: var(--site-gutter); display: flex; align-items: center; justify-content: space-between; gap: 35px; }
+  .site-header a { color: inherit; text-decoration: none; }
+  .site-header__nav { display: flex; align-items: center; gap: 32px; height: 100%; }
+  .site-header__nav > a, .site-header__nav-group > summary { position: relative; display: inline-flex; align-items: center; gap: 5px; font-size: var(--text-label); letter-spacing: .12em; text-transform: uppercase; cursor: pointer; list-style: none; }
+  .site-header__nav-group { position: relative; height: 100%; display: flex; align-items: center; }
+  .site-header__nav-group summary::-webkit-details-marker, .site-header__mobile summary::-webkit-details-marker { display: none; }
+  .site-header__nav-group svg { width: 12px; height: 12px; }
+  .site-header__nav .is-active::after { content: ''; position: absolute; inset: auto 0 -8px; border-bottom: 1px solid currentColor; }
+  .site-header__submenu { position: absolute; top: 100%; left: -24px; min-width: 210px; display: grid; gap: 15px; padding: 24px; background: #f6f5f0; color: #102c2d; box-shadow: 0 12px 30px #06191925; font-size: var(--text-sm); }
+  .site-header__actions { display: flex; align-items: center; gap: 13px; }
+  .site-header__icon { position: relative; display: inline-flex; align-items: center; justify-content: center; padding: 8px; border: 0; background: none; color: inherit; cursor: pointer; transition: opacity .2s; }
+  .site-header__icon:hover { opacity: .65; }
+  .site-header__icon svg { width: 15px; height: 15px; }
+  .site-header__cart-count { position: absolute; right: -4px; top: -2px; min-width: 17px; height: 17px; padding-inline: 3px; display: flex; align-items: center; justify-content: center; border-radius: 999px; background: #dfc89e; color: #102c2d; font-size: 11px; font-weight: 600; line-height: 1; }
+  .site-header__cart-count[hidden] { display: none; }
+  .site-header__mobile { display: none; }
+
+  /* Hero pages: transparent over the image, dark glass once scrolled (legacy .hero-header). */
+  .site-header--hero.color-scheme { color: #fff; border-color: #ffffff30; }
+  .site-header--hero::before { background: #0a2021; }
+  .site-header--hero[data-scrolled='false']::before { background: rgba(10,32,33,.28); box-shadow: none; }
+  .site-header.site-header--hero .site-brand__logo--fallback { filter: none; }
+  .site-header .site-brand__logo--fallback { filter: invert(1); }
+  body:has(.site-header--hero) #main-content { margin-top: calc(-1 * var(--header-height)); }
+
+  /* Mobile drawer (legacy right-side menu drawer). */
+  .site-header__mobile[open] > summary::before { content: ''; position: fixed; inset: 0; z-index: 50; background: #041a1ab3; backdrop-filter: blur(4px); cursor: default; }
+  .site-header__drawer { position: fixed; top: 0; right: 0; bottom: 0; z-index: 51; width: min(480px, 100%); overflow-y: auto; padding: 35px 25px; background: #f6f5f0; color: #102c2d; box-shadow: 0 20px 70px #0003; }
+  .site-header__drawer-close { position: absolute; top: 15px; right: 15px; }
+  .site-header__drawer-close svg { width: 18px; height: 18px; }
+  .site-header__drawer-kicker { display: flex; align-items: center; gap: 12px; margin: 0 0 18px; font-size: var(--text-label); font-weight: 600; letter-spacing: .23em; text-transform: uppercase; }
+  .site-header__drawer-kicker::before { content: ''; width: 28px; height: 1px; background: currentColor; }
+  .site-header__drawer-heading { margin: 0 0 15px; font-family: var(--font-heading-family); font-size: 43px; font-weight: 600; line-height: .98; letter-spacing: -.02em; text-transform: uppercase; }
+  .site-header__drawer nav { display: flex; flex-direction: column; }
+  .site-header__drawer nav > a { padding-block: 18px; border-bottom: 1px solid #d6dad2; font-family: var(--font-heading-family); font-size: 38px; text-transform: uppercase; }
+  .site-header__drawer-children { display: flex; flex-wrap: wrap; gap: 15px; padding-block: 20px; font-size: var(--text-sm); }
+
+  @media (max-width: 1100px) {
+    .site-header__nav { gap: 22px; }
+    .site-header__actions { gap: 6px; }
+  }
+  @media (max-width: 760px) {
+    .site-header__inner { gap: 10px; }
+    .site-header__nav, .site-header__account { display: none; }
+    .site-header__actions { gap: 5px; }
+    .site-header__icon svg { width: 18px; height: 18px; }
+    .site-header__mobile { display: block; }
+    .wildsea-announcement { letter-spacing: .025em; }
+  }
 {% endstylesheet %}
 
 {% schema %}
 {
-    "name": "t:general.header",
-    "settings": [
-        {
-            "type": "link_list",
-            "id": "menu",
-            "label": "t:labels.menu"
-        },
-        {
-            "type": "link_list",
-            "id": "customer_account_menu",
-            "label": "t:labels.customer_account_menu",
-            "default": "customer-account-main-menu"
-        }
-    ]
+  "name": "t:general.header",
+  "settings": [
+    { "type": "color_scheme", "id": "color_scheme", "label": "t:labels.color_scheme", "default": "scheme-1" },
+    { "type": "checkbox", "id": "use_inverse_logo", "label": "t:labels.use_inverse_logo", "default": false },
+    { "type": "text", "id": "announcement_text", "label": "Announcement", "default": "Your next adventure starts beyond the ordinary. Explore our expeditions" },
+    { "type": "url", "id": "announcement_link", "label": "Announcement link" },
+    { "type": "link_list", "id": "menu", "label": "t:labels.menu", "default": "main-menu" },
+    { "type": "link_list", "id": "customer_account_menu", "label": "t:labels.customer_account_menu", "default": "customer-account-main-menu" },
+    { "type": "text", "id": "hero_page_templates", "label": "Page templates with a full-bleed hero", "default": "about", "info": "Comma-separated page template suffixes; the header overlays their hero like on the home page." },
+    { "type": "header", "content": "Mobile menu" },
+    { "type": "text", "id": "mobile_kicker", "label": "Eyebrow", "default": "Go where you feel alive" },
+    { "type": "text", "id": "mobile_heading", "label": "Heading", "default": "Explore Wildsea." }
+  ]
 }
 {% endschema %}

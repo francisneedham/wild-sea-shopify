@@ -1,0 +1,183 @@
+{
+  "input": {
+    "handle": "atoll-giulia-plastic",
+    "title": "Atoll Giulia Plastic",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The upper side of the cup is cut, so when you jerk it, Julia appeals to the target who is aiming for irregularly moving with the water push that comes from its shape, so it is also effective for lure.</span><br /><span>Please give me a meal room after jerking.</span><br /><span>The flight distance is compact and has a weight, so you can fly well without stress.</span><br /><span>Because it has a compact body, the bait is small, and it is easy to use even when there is a flying distance.</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>148 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 71</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Atoll lure",
+      "fishing lure",
+      "saltwater lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-diving-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "PinkHead"
+          },
+          {
+            "name": "BlueHead"
+          },
+          {
+            "name": "GreenHead"
+          },
+          {
+            "name": "YellowOrange"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ5019616",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "PinkHead"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ3038090",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "BlueHead"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "sku": "SQ9447993",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "GreenHead"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 4
+          }
+        ]
+      },
+      {
+        "sku": "SQ4067205",
+        "price": "35.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "YellowOrange"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.1,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 4
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d8b47411-6569-4552-8518-ff0dcef96c60/IMG_20260514_000204_61600578014312.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Giulia Plastic"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/40056706-a50d-4ccf-88a7-8d15c234a602/IMG_20260514_000225_61600590497489.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Giulia Plastic"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e831f5b9-e943-4d30-9dd8-4116914746b9/IMG_20260514_000241_61600604794312.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Giulia Plastic"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/58f3b885-9f5d-41aa-85b0-20adb080853e/IMG_20260514_000300_61600627279052.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Giulia Plastic"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7cd50552-3070-4e56-a051-4687f23fbb7a/IMG_20260514_000340_61600643259156.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atoll Giulia Plastic"
+      }
+    ]
+  }
+}

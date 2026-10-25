@@ -1,0 +1,391 @@
+{
+  "input": {
+    "handle": "floating-24cm-150g",
+    "title": "Glide Floating 24cm - 150g",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\">The new model our classic floating 24cm and 150g of weight.</p><p style=\"white-space:pre-wrap;\">If you start looking for big fish it is right to use this stick. Big tuna or gt is the target, very frantic and precise swimming are the main characteristics.</p><p style=\"white-space:pre-wrap;\">Best hook setup: 5/0 treble in front and back or very big hooks front and rear.</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Glide",
+      "24cm",
+      "150g",
+      "Floating",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-floating"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Holo Pink"
+          },
+          {
+            "name": "Carbon"
+          },
+          {
+            "name": "Holo Black"
+          },
+          {
+            "name": "Holo Blue"
+          },
+          {
+            "name": "Pink"
+          },
+          {
+            "name": "Nemo"
+          },
+          {
+            "name": "Coral"
+          },
+          {
+            "name": "Mahi"
+          },
+          {
+            "name": "Banana"
+          },
+          {
+            "name": "YouPop"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ0962319",
+        "price": "65.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Holo Pink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ3602819",
+        "price": "75.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Carbon"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2640495",
+        "price": "75.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Holo Black"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ0412405",
+        "price": "75.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Holo Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1718712",
+        "price": "75.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Pink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ9815424",
+        "price": "75.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Nemo"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7294551",
+        "price": "75.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Coral"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ5154938",
+        "price": "75.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Mahi"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ0746987",
+        "price": "75.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Banana"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2703032",
+        "price": "75.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "YouPop"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/75127f27-0c90-4c90-bdd8-f9d333c50754/Glide-Floating-24cm-150g-holo-pink.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 24cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d70d8dd9-0538-4970-ad6e-bac3df903d38/Glide-Floating-24cm-150g-carbon.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 24cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/cae0d59a-3fcc-4fca-b470-1426a9c290f9/Glide-Floating-24cm-150g-holo-black.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 24cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1a5fe0ca-86f3-4a5d-9e6b-8ed3dc6768fc/Glide-Floating-24cm-150g-holo-blue.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 24cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e1fec7c7-3c18-4acc-ae17-9e47e23abfc9/Glide-Floating-24cm-150g-pink.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 24cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/cc88f7f6-e973-490e-ae98-c510ddc88094/Glide-Floating-24cm-150g-nemo.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 24cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2c553c75-57bd-4a3a-a547-48be81deb142/Glide-Floating-24cm-150g-coral.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 24cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f9217c8f-26ce-4da1-8891-54bf58ea6a7a/Glide-Floating-24cm-150g-mahi.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 24cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/8e0d69cf-9447-451a-815a-cf59489fc589/Glide-Floating-24cm-150g-banana.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 24cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/214f34b3-4091-4928-9dd9-3b25daae8e9d/Glide-Floating-24cm-150g-YouPop.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 24cm - 150g"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

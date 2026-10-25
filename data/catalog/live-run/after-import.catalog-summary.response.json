@@ -1,0 +1,1929 @@
+{
+  "products": {
+    "nodes": [
+      {
+        "id": "gid://shopify/Product/15439151366257",
+        "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+        "status": "ACTIVE",
+        "totalInventory": 8,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439412134001",
+        "handle": "atlantis-flapper-170f",
+        "status": "ACTIVE",
+        "totalInventory": 6,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439412363377",
+        "handle": "atlantis-funky-soda-170-85-gr",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439412592753",
+        "handle": "atoll-giulia",
+        "status": "ACTIVE",
+        "totalInventory": 4,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439412723825",
+        "handle": "atoll-giulia-plastic",
+        "status": "ACTIVE",
+        "totalInventory": 12,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439412822129",
+        "handle": "atoll-misao",
+        "status": "ACTIVE",
+        "totalInventory": 6,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439413051505",
+        "handle": "cb-one-rudolf-260",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439413248113",
+        "handle": "cb-one-ryan-230",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439413477489",
+        "handle": "cb-one-zorro-200",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439413674097",
+        "handle": "craftbait-gt3-130-gr",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439413870705",
+        "handle": "expedition-trucker-cap",
+        "status": "ACTIVE",
+        "totalInventory": 24,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439414100081",
+        "handle": "fish-trippers-village-espuma-120-gr",
+        "status": "ACTIVE",
+        "totalInventory": 7,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439414493297",
+        "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+        "status": "ACTIVE",
+        "totalInventory": 8,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439414820977",
+        "handle": "fishtripper-village-le-grand-tango-210",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439415148657",
+        "handle": "fishtrippers-village-concierto-280",
+        "status": "ACTIVE",
+        "totalInventory": 9,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439415443569",
+        "handle": "floating-18cm-75g",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439415771249",
+        "handle": "floating-22cm-120g",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439415869553",
+        "handle": "floating-24cm-150g",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439416033393",
+        "handle": "full-hand-onikiri-100h",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439416361073",
+        "handle": "full-hands-custom-works-kusanagi-p78hh",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439416721521",
+        "handle": "good-bait-bnd-180f",
+        "status": "ACTIVE",
+        "totalInventory": 3,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439417016433",
+        "handle": "good-bait-fzr-188f",
+        "status": "ACTIVE",
+        "totalInventory": 3,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439417376881",
+        "handle": "good-bait-monsterzone-210f",
+        "status": "ACTIVE",
+        "totalInventory": 9,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439417671793",
+        "handle": "good-bait-number-five-148f",
+        "status": "ACTIVE",
+        "totalInventory": 9,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439417835633",
+        "handle": "good-bait-respect-190f",
+        "status": "ACTIVE",
+        "totalInventory": 15,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439418097777",
+        "handle": "hammerhead-sharapoa-250-slim-lv",
+        "status": "ACTIVE",
+        "totalInventory": 5,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439418458225",
+        "handle": "hammerhead-tobi-140-sus",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439418785905",
+        "handle": "indigoblue-musya",
+        "status": "ACTIVE",
+        "totalInventory": 3,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439419113585",
+        "handle": "jumprize-lalapen",
+        "status": "ACTIVE",
+        "totalInventory": 20,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439419408497",
+        "handle": "jumprize-monster-absorber-82-8",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439419703409",
+        "handle": "kikuchi-craft-bubble-swimmer",
+        "status": "ACTIVE",
+        "totalInventory": 6,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439419998321",
+        "handle": "lazarat-griffon-diving-170",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439420194929",
+        "handle": "lazarat-griffon-diving-200",
+        "status": "ACTIVE",
+        "totalInventory": 9,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439420489841",
+        "handle": "lazarat-griffon-diving-200-1",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439420686449",
+        "handle": "lazarat-griffon-diving-230",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439420981361",
+        "handle": "mc-works-2023-explosion-817hf-special-model",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439421243505",
+        "handle": "mc-works-804-hr",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439421472881",
+        "handle": "mc-works-black-chrome-bc120htx",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439421735025",
+        "handle": "mc-works-explosion-817hf",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439422062705",
+        "handle": "mc-works-explosion-818-ctr-sp",
+        "status": "ACTIVE",
+        "totalInventory": 3,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439422357617",
+        "handle": "mc-works-explosion-835ctr-standard-model",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439422685297",
+        "handle": "mc-works-explosion-865hf",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439423012977",
+        "handle": "mc-works-explosion-full-contact-843ctr",
+        "status": "ACTIVE",
+        "totalInventory": 2,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439423307889",
+        "handle": "mc-works-raging-bull-104xxstd",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439423602801",
+        "handle": "mc-works-raging-bull-93xx-trident",
+        "status": "ACTIVE",
+        "totalInventory": 2,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439423864945",
+        "handle": "mc-works-rod-cb-98xs2-std",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439424192625",
+        "handle": "mc-works-rod-explosion-807-ctr-standard-model",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439424585841",
+        "handle": "mc-works-slow-hand-768tsx-all-that-tuna",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439424815217",
+        "handle": "mc-works-slow-hand-all-that-tuna-sh729tsz",
+        "status": "ACTIVE",
+        "totalInventory": 2,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439425044593",
+        "handle": "mc-works-x-fish-trippers-village-barbaro-788",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439425437809",
+        "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+        "status": "ACTIVE",
+        "totalInventory": 5,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439425601649",
+        "handle": "mens-tropic-sun-hoody",
+        "status": "ACTIVE",
+        "totalInventory": 95,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439425863793",
+        "handle": "native-works-gazelle-230",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439426191473",
+        "handle": "native-works-gazelle-270",
+        "status": "ACTIVE",
+        "totalInventory": 4,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439426519153",
+        "handle": "native-works-napalm-200",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439426846833",
+        "handle": "native-works-napalm-220",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439427076209",
+        "handle": "native-works-napalm-250",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439427371121",
+        "handle": "native-works-rattler-210",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439427600497",
+        "handle": "native-works-rattler-230",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439427862641",
+        "handle": "native-works-tank-popper-190",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439428124785",
+        "handle": "patriot-design-master-bomb-big-cup-90",
+        "status": "ACTIVE",
+        "totalInventory": 3,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439428354161",
+        "handle": "popper-18cm-130g",
+        "status": "ACTIVE",
+        "totalInventory": 35,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439428649073",
+        "handle": "popper-18cm-75g",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439428812913",
+        "handle": "popper-22cm-110g",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439428976753",
+        "handle": "rodcom-straight-shore-ss-10015-sf047y",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439429206129",
+        "handle": "rst-supply-nezul-210",
+        "status": "ACTIVE",
+        "totalInventory": 3,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439429402737",
+        "handle": "rst-supply-rilana-180f",
+        "status": "ACTIVE",
+        "totalInventory": 10,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439429501041",
+        "handle": "sinking-10cm-50g",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439429664881",
+        "handle": "sinking-14cm-80g",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439429828721",
+        "handle": "sinking-18cm-100g",
+        "status": "ACTIVE",
+        "totalInventory": 3,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439430090865",
+        "handle": "stickpop-18cm-75g",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439430353009",
+        "handle": "stickpop-20cm-105g",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439430582385",
+        "handle": "stickpop-22cm-150g",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439430844529",
+        "handle": "truth-ocean-sprinter-7510-standard-black-model",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439543631985",
+        "handle": "truth-ocean-sprinter-8110",
+        "status": "ACTIVE",
+        "totalInventory": 5,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439543763057",
+        "handle": "truth-ocean-sprinter-838",
+        "status": "ACTIVE",
+        "totalInventory": 3,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439543926897",
+        "handle": "truth-oceansprinter-711-rs",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439544057969",
+        "handle": "truth-oceansprinter-856",
+        "status": "ACTIVE",
+        "totalInventory": 0,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439544156273",
+        "handle": "truth-white-insight-611-12",
+        "status": "ACTIVE",
+        "totalInventory": 6,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439544287345",
+        "handle": "truth-white-insight-7210-custom-red",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439544516721",
+        "handle": "truth-white-insight-7210-standard-black-model",
+        "status": "ACTIVE",
+        "totalInventory": 2,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439544647793",
+        "handle": "truth-white-insight-7415",
+        "status": "ACTIVE",
+        "totalInventory": 1,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439544680561",
+        "handle": "truth-white-insight-7610",
+        "status": "ACTIVE",
+        "totalInventory": 6,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439544877169",
+        "handle": "truth-white-insight-828",
+        "status": "ACTIVE",
+        "totalInventory": 3,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439545139313",
+        "handle": "wild-gambler-rigin",
+        "status": "ACTIVE",
+        "totalInventory": 10,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439545466993",
+        "handle": "woodream-akiya-200",
+        "status": "ACTIVE",
+        "totalInventory": 10,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "gid://shopify/Product/15439545630833",
+        "handle": "wooodream-akiya-popper-215",
+        "status": "ACTIVE",
+        "totalInventory": 13,
+        "resourcePublicationsV2": {
+          "nodes": [
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400395377"
+              }
+            },
+            {
+              "isPublished": true,
+              "publication": {
+                "id": "gid://shopify/Publication/178400428145"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "pageInfo": {
+      "hasNextPage": false
+    }
+  },
+  "productsCount": {
+    "count": 87
+  },
+  "productVariantsCount": {
+    "count": 336
+  }
+}

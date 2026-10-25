@@ -1,0 +1,371 @@
+{
+  "metaobjectDefinitions": {
+    "nodes": [
+      {
+        "id": "gid://shopify/MetaobjectDefinition/26319552625",
+        "name": "Knowledge Base Facts",
+        "type": "shopify--knowledge-base-fact",
+        "displayNameKey": "title",
+        "fieldDefinitions": [
+          {
+            "key": "external_id",
+            "name": "External ID",
+            "type": {
+              "name": "id"
+            },
+            "required": false
+          },
+          {
+            "key": "published",
+            "name": "Published",
+            "type": {
+              "name": "boolean"
+            },
+            "required": true
+          },
+          {
+            "key": "category",
+            "name": "Category",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "source",
+            "name": "Source",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "title",
+            "name": "Title",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": true
+          },
+          {
+            "key": "value_string",
+            "name": "Value String",
+            "type": {
+              "name": "multi_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "value_string_list",
+            "name": "Value String List",
+            "type": {
+              "name": "list.single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "value_boolean",
+            "name": "Value Boolean",
+            "type": {
+              "name": "boolean"
+            },
+            "required": false
+          },
+          {
+            "key": "value_number",
+            "name": "Value Number",
+            "type": {
+              "name": "number_decimal"
+            },
+            "required": false
+          },
+          {
+            "key": "value_reference",
+            "name": "Value Reference",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "references",
+            "name": "References",
+            "type": {
+              "name": "list.single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "suggested_value_string",
+            "name": "Suggested Value String",
+            "type": {
+              "name": "multi_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "suggested_value_string_list",
+            "name": "Suggested Value String List",
+            "type": {
+              "name": "list.single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "suggested_value_boolean",
+            "name": "Suggested Value Boolean",
+            "type": {
+              "name": "boolean"
+            },
+            "required": false
+          },
+          {
+            "key": "suggested_value_number",
+            "name": "Suggested Value Number",
+            "type": {
+              "name": "number_decimal"
+            },
+            "required": false
+          },
+          {
+            "key": "suggested_value_reference",
+            "name": "Suggested Value Reference",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "suggested_references",
+            "name": "Suggested References",
+            "type": {
+              "name": "list.single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "suggestion_state",
+            "name": "Suggestion State",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          }
+        ],
+        "capabilities": {
+          "onlineStore": {
+            "enabled": false,
+            "data": null
+          },
+          "renderable": {
+            "enabled": false,
+            "data": null
+          },
+          "publishable": {
+            "enabled": false
+          }
+        },
+        "access": {
+          "storefront": "NONE"
+        }
+      },
+      {
+        "id": "gid://shopify/MetaobjectDefinition/37090918513",
+        "name": "Destinations",
+        "type": "destinations",
+        "displayNameKey": "title",
+        "fieldDefinitions": [
+          {
+            "key": "title",
+            "name": "title",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "caption",
+            "name": "caption",
+            "type": {
+              "name": "multi_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "season",
+            "name": "season",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "fishing_days",
+            "name": "fishing days",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "on_the_water",
+            "name": "on the water",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "target_species",
+            "name": "target species",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "listing_image",
+            "name": "Listing image",
+            "type": {
+              "name": "file_reference"
+            },
+            "required": false
+          },
+          {
+            "key": "region",
+            "name": "Region",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          },
+          {
+            "key": "technique",
+            "name": "Technique",
+            "type": {
+              "name": "single_line_text_field"
+            },
+            "required": false
+          }
+        ],
+        "capabilities": {
+          "onlineStore": {
+            "enabled": true,
+            "data": {
+              "urlHandle": "destinations"
+            }
+          },
+          "renderable": {
+            "enabled": true,
+            "data": {
+              "metaTitleKey": "title",
+              "metaDescriptionKey": "caption"
+            }
+          },
+          "publishable": {
+            "enabled": true
+          }
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      },
+      {
+        "id": "gid://shopify/MetaobjectDefinition/37092458609",
+        "name": "Travel slot",
+        "type": "travel_slot",
+        "displayNameKey": "available_slots",
+        "fieldDefinitions": [
+          {
+            "key": "dates",
+            "name": "dates",
+            "type": {
+              "name": "list.date"
+            },
+            "required": false
+          },
+          {
+            "key": "available_slots",
+            "name": "available slots",
+            "type": {
+              "name": "number_integer"
+            },
+            "required": false
+          }
+        ],
+        "capabilities": {
+          "onlineStore": {
+            "enabled": false,
+            "data": null
+          },
+          "renderable": {
+            "enabled": false,
+            "data": null
+          },
+          "publishable": {
+            "enabled": true
+          }
+        },
+        "access": {
+          "storefront": "PUBLIC_READ"
+        }
+      }
+    ]
+  },
+  "metaobjects": {
+    "nodes": [
+      {
+        "id": "gid://shopify/Metaobject/650226630769",
+        "handle": "socotra-fishing",
+        "displayName": "Socotra",
+        "fields": [
+          {
+            "key": "title",
+            "value": "Socotra",
+            "type": "single_line_text_field"
+          },
+          {
+            "key": "caption",
+            "value": "Wild coastlines. Powerful currents. Extraordinary giant trevally. Discover a fishing expedition unlike anywhere else.",
+            "type": "multi_line_text_field"
+          },
+          {
+            "key": "season",
+            "value": "March–April / October–November",
+            "type": "single_line_text_field"
+          },
+          {
+            "key": "fishing_days",
+            "value": "6 full fishing days",
+            "type": "single_line_text_field"
+          },
+          {
+            "key": "on_the_water",
+            "value": "Small guided groups",
+            "type": "single_line_text_field"
+          },
+          {
+            "key": "target_species",
+            "value": "Giant trevally",
+            "type": "single_line_text_field"
+          },
+          {
+            "key": "listing_image",
+            "value": "gid://shopify/MediaImage/46288823156849",
+            "type": "file_reference"
+          },
+          {
+            "key": "region",
+            "value": "Yemen · Indian Ocean",
+            "type": "single_line_text_field"
+          },
+          {
+            "key": "technique",
+            "value": "Popping & jigging",
+            "type": "single_line_text_field"
+          }
+        ]
+      }
+    ]
+  }
+}

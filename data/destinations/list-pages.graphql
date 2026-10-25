@@ -1,0 +1,5 @@
+query DestinationListingPage {
+  pages(first: 20, query: "handle:destinations") {
+    nodes { id handle title templateSuffix isPublished }
+  }
+}

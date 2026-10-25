@@ -1,0 +1,79 @@
+{% doc %}
+  Destination hero (legacy .socotra-hero) + recap strip with icons.
+  Title, region and recap values come from the destination metaobject; copy and actions are section settings.
+  Empty button links fall back to the metaobject booking_url.
+  @example
+  Add this section to a Destinations metaobject template.
+{% enddoc %}
+{% render 'destination-styles' %}
+
+{%- liquid
+  assign booking_link = section.settings.button_link | default: metaobject.booking_url.value
+  assign eyebrow = metaobject.region.value
+  if section.settings.kicker != blank
+    assign eyebrow = eyebrow | append: ' · ' | append: section.settings.kicker
+  endif
+-%}
+
+<section class="destination-hero">
+  <div class="destination-hero__image" data-parallax>
+    {% if section.settings.image != blank %}
+      {% render 'destination-photo', image: section.settings.image, alt: section.settings.image_alt, priority: true, sizes: '100vw' %}
+    {% elsif metaobject.listing_image.value != blank and section.settings.original == 'none' %}
+      {% render 'destination-photo', image: metaobject.listing_image.value, alt: section.settings.image_alt, priority: true, sizes: '100vw' %}
+    {% else %}
+      {% render 'destination-photo', original: section.settings.original, alt: section.settings.image_alt, priority: true, sizes: '100vw' %}
+    {% endif %}
+  </div>
+  <div class="destination-wrap destination-hero__content">
+    <nav class="destination-breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ routes.root_url }}pages/destinations">Destinations</a>
+      {% render 'lucide-icon', name: 'chevron-right' %}
+      <span>{{ metaobject.title.value | escape }}</span>
+    </nav>
+    {% case metaobject.status.value %}
+      {% when 'closed' %}<span class="destination-status">Temporarily closed</span>
+      {% when 'last slots' %}<span class="destination-status">Last slots</span>
+    {% endcase %}
+    {% if eyebrow != blank %}<p class="destination-eyebrow">{{ eyebrow | escape }}</p>{% endif %}
+    <h1 data-reveal="title">{{ metaobject.title.value | escape }}.{% if section.settings.tagline != blank %}<br><span>{{ section.settings.tagline | escape }}</span>{% endif %}</h1>
+    <p class="destination-hero__intro">{{ section.settings.intro | default: metaobject.caption.value | escape | newline_to_br }}</p>
+    <div class="destination-hero__actions">
+      {% render 'destination-button', label: section.settings.button_label, link: booking_link %}
+      {% if section.settings.scroll_label != blank and section.settings.scroll_anchor != blank %}
+        <a class="destination-hero__link" href="#{{ section.settings.scroll_anchor | escape }}">{{ section.settings.scroll_label | escape }} {% render 'lucide-icon', name: 'arrow-down' %}</a>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+<dl class="destination-wrap destination-recap">
+  {% if metaobject.season.value != blank %}<div>{% render 'lucide-icon', name: 'calendar-days' %}<div><dt>Best season</dt><dd>{{ metaobject.season.value | escape }}</dd></div></div>{% endif %}
+  {% if metaobject.fishing_days.value != blank %}<div>{% render 'lucide-icon', name: 'sun' %}<div><dt>Fishing days</dt><dd>{{ metaobject.fishing_days.value | escape }}</dd></div></div>{% endif %}
+  {% if metaobject.on_the_water.value != blank %}<div>{% render 'lucide-icon', name: 'users-round' %}<div><dt>On the water</dt><dd>{{ metaobject.on_the_water.value | escape }}</dd></div></div>{% endif %}
+  {% if metaobject.target_species.value != blank %}<div>{% render 'lucide-icon', name: 'fish' %}<div><dt>Main target</dt><dd>{{ metaobject.target_species.value | escape }}</dd></div></div>{% endif %}
+</dl>
+
+{% schema %}
+{
+  "name": "Destination hero",
+  "settings": [
+    { "type": "image_picker", "id": "image", "label": "Hero image" },
+    { "type": "select", "id": "original", "label": "Bundled photo (used when no image is picked)", "default": "none", "options": [
+      { "value": "none", "label": "Listing image" },
+      { "value": "socotra-0", "label": "Socotra · GT hero" },
+      { "value": "socotra-1", "label": "Socotra · boat & coast" },
+      { "value": "socotra-2", "label": "Socotra · dunes sunset" },
+      { "value": "socotra-3", "label": "Socotra · coastline" }
+    ] },
+    { "type": "text", "id": "image_alt", "label": "Image description" },
+    { "type": "text", "id": "kicker", "label": "Eyebrow (after the region)", "default": "Guided fishing expedition" },
+    { "type": "text", "id": "tagline", "label": "Title second line (sand)" },
+    { "type": "textarea", "id": "intro", "label": "Intro (defaults to the metaobject caption)" },
+    { "type": "text", "id": "button_label", "label": "Button label", "default": "Book your fishing trip" },
+    { "type": "url", "id": "button_link", "label": "Button link", "info": "Empty: destination booking URL." },
+    { "type": "text", "id": "scroll_label", "label": "Scroll link label", "default": "Explore the fishing" },
+    { "type": "text", "id": "scroll_anchor", "label": "Scroll link anchor ID", "default": "the-fishing" }
+  ]
+}
+{% endschema %}

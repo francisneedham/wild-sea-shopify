@@ -1,0 +1,49 @@
+{
+  "product": {
+    "id": "gid://shopify/Product/15439425437809",
+    "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+    "madeIn": {
+      "value": "Japan"
+    }
+  },
+  "nodes": [
+    {
+      "id": "gid://shopify/ProductVariant/67841364131953",
+      "sku": "SQ8022087",
+      "length": {
+        "value": "226.06"
+      },
+      "lengthLabel": {
+        "value": "7'5\""
+      },
+      "peMax": {
+        "value": "12.0"
+      },
+      "castMax": {
+        "value": "250"
+      },
+      "maxDrag": {
+        "value": "25.0"
+      }
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67841364164721",
+      "sku": "SQ3711317",
+      "length": {
+        "value": "238.76"
+      },
+      "lengthLabel": {
+        "value": "7'10\""
+      },
+      "peMax": {
+        "value": "8.0"
+      },
+      "castMax": {
+        "value": "180"
+      },
+      "maxDrag": {
+        "value": "15.0"
+      }
+    }
+  ]
+}

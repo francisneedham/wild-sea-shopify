@@ -1,0 +1,526 @@
+{
+  "nodes": [
+    {
+      "id": "gid://shopify/Product/15439151366257",
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "title": "Atoll Bonger",
+      "vendor": "Atoll"
+    },
+    {
+      "id": "gid://shopify/Product/15439412134001",
+      "handle": "atlantis-flapper-170f",
+      "title": "Atlantis Flapper 170F",
+      "vendor": "Atlantis"
+    },
+    {
+      "id": "gid://shopify/Product/15439412363377",
+      "handle": "atlantis-funky-soda-170-85-gr",
+      "title": "Atlantis Funky Soda 170",
+      "vendor": "Atlantis"
+    },
+    {
+      "id": "gid://shopify/Product/15439412592753",
+      "handle": "atoll-giulia",
+      "title": "Atoll Giulia",
+      "vendor": "Atoll"
+    },
+    {
+      "id": "gid://shopify/Product/15439412723825",
+      "handle": "atoll-giulia-plastic",
+      "title": "Atoll Giulia Plastic",
+      "vendor": "Atoll"
+    },
+    {
+      "id": "gid://shopify/Product/15439412822129",
+      "handle": "atoll-misao",
+      "title": "Atoll Misao",
+      "vendor": "Atoll"
+    },
+    {
+      "id": "gid://shopify/Product/15439413051505",
+      "handle": "cb-one-rudolf-260",
+      "title": "CB One Rudolf 260",
+      "vendor": "CB One"
+    },
+    {
+      "id": "gid://shopify/Product/15439413248113",
+      "handle": "cb-one-ryan-230",
+      "title": "CB One Ryan 230",
+      "vendor": "CB One"
+    },
+    {
+      "id": "gid://shopify/Product/15439413477489",
+      "handle": "cb-one-zorro-200",
+      "title": "CB One Zorro 200",
+      "vendor": "CB One"
+    },
+    {
+      "id": "gid://shopify/Product/15439413674097",
+      "handle": "craftbait-gt3-130-gr",
+      "title": "Craftbait GT3 130 gr",
+      "vendor": "Craftbait"
+    },
+    {
+      "id": "gid://shopify/Product/15439413870705",
+      "handle": "expedition-trucker-cap",
+      "title": "Expedition Trucker Cap",
+      "vendor": "Wild Sea Expeditions"
+    },
+    {
+      "id": "gid://shopify/Product/15439414100081",
+      "handle": "fish-trippers-village-espuma-120-gr",
+      "title": "FishTrippers Village Espuma 220",
+      "vendor": "Fish Trippers Village"
+    },
+    {
+      "id": "gid://shopify/Product/15439414493297",
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "title": "FishTrippers Village Liber Tango",
+      "vendor": "Fish Trippers Village"
+    },
+    {
+      "id": "gid://shopify/Product/15439414820977",
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "title": "FishTripper Village Le Grand Tango",
+      "vendor": "Fish Trippers Village"
+    },
+    {
+      "id": "gid://shopify/Product/15439415148657",
+      "handle": "fishtrippers-village-concierto-280",
+      "title": "FishTrippers Village Concierto 280",
+      "vendor": "SOHO Trippers x Fish Trippers Village"
+    },
+    {
+      "id": "gid://shopify/Product/15439415443569",
+      "handle": "floating-18cm-75g",
+      "title": "Glide Floating 18cm - 75g",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439415771249",
+      "handle": "floating-22cm-120g",
+      "title": "Glide Floating 22cm - 120g",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439415869553",
+      "handle": "floating-24cm-150g",
+      "title": "Glide Floating 24cm - 150g",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439416033393",
+      "handle": "full-hand-onikiri-100h",
+      "title": "Full Hands Onikiri 100H",
+      "vendor": "Full Hands"
+    },
+    {
+      "id": "gid://shopify/Product/15439416361073",
+      "handle": "full-hands-custom-works-kusanagi-p78hh",
+      "title": "Full Hands Custom Works Kusanagi P78HH",
+      "vendor": "Full Hands"
+    },
+    {
+      "id": "gid://shopify/Product/15439416721521",
+      "handle": "good-bait-bnd-180f",
+      "title": "Good Bait BND 180F",
+      "vendor": "Good Bait"
+    },
+    {
+      "id": "gid://shopify/Product/15439417016433",
+      "handle": "good-bait-fzr-188f",
+      "title": "Good Bait FZR 188F",
+      "vendor": "Good Bait"
+    },
+    {
+      "id": "gid://shopify/Product/15439417376881",
+      "handle": "good-bait-monsterzone-210f",
+      "title": "Good Bait MonsterZone 210F",
+      "vendor": "Good Bait"
+    },
+    {
+      "id": "gid://shopify/Product/15439417671793",
+      "handle": "good-bait-number-five-148f",
+      "title": "Good Bait Number Five 148F",
+      "vendor": "Good Bait"
+    },
+    {
+      "id": "gid://shopify/Product/15439417835633",
+      "handle": "good-bait-respect-190f",
+      "title": "Good Bait Respect 190F",
+      "vendor": "Good Bait"
+    },
+    {
+      "id": "gid://shopify/Product/15439418097777",
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "title": "Hammerhead Sharapoa 250 Slim LV",
+      "vendor": "Hammerhead"
+    },
+    {
+      "id": "gid://shopify/Product/15439418458225",
+      "handle": "hammerhead-tobi-140-sus",
+      "title": "Hammerhead Tobi 140 SUS",
+      "vendor": "Hammerhead"
+    },
+    {
+      "id": "gid://shopify/Product/15439418785905",
+      "handle": "indigoblue-musya",
+      "title": "Indigo Blue Musya Pop",
+      "vendor": "Indigo Blue"
+    },
+    {
+      "id": "gid://shopify/Product/15439419113585",
+      "handle": "jumprize-lalapen",
+      "title": "Jumprize Lalapen",
+      "vendor": "Jumprize"
+    },
+    {
+      "id": "gid://shopify/Product/15439419408497",
+      "handle": "jumprize-monster-absorber-82-8",
+      "title": "Jumprize Monster Absorber 82-8",
+      "vendor": "Jumprize"
+    },
+    {
+      "id": "gid://shopify/Product/15439419703409",
+      "handle": "kikuchi-craft-bubble-swimmer",
+      "title": "Kikuchi Craft Bubble Swimmer",
+      "vendor": "Kikuchi Craft"
+    },
+    {
+      "id": "gid://shopify/Product/15439419998321",
+      "handle": "lazarat-griffon-diving-170",
+      "title": "Lazarat Griffon Diving 170",
+      "vendor": "Lazarat"
+    },
+    {
+      "id": "gid://shopify/Product/15439420194929",
+      "handle": "lazarat-griffon-diving-200",
+      "title": "Lazarat Griffon PoP 200",
+      "vendor": "Lazarat"
+    },
+    {
+      "id": "gid://shopify/Product/15439420489841",
+      "handle": "lazarat-griffon-diving-200-1",
+      "title": "Lazarat Griffon Diving 200",
+      "vendor": "Lazarat"
+    },
+    {
+      "id": "gid://shopify/Product/15439420686449",
+      "handle": "lazarat-griffon-diving-230",
+      "title": "Lazarat Griffon Diving 230",
+      "vendor": "Lazarat"
+    },
+    {
+      "id": "gid://shopify/Product/15439420981361",
+      "handle": "mc-works-2023-explosion-817hf-special-model",
+      "title": "MC Works 2023 Explosion 817HF Special Model",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439421243505",
+      "handle": "mc-works-804-hr",
+      "title": "MC Works 804 HR",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439421472881",
+      "handle": "mc-works-black-chrome-bc120htx",
+      "title": "MC Works Black & Chrome BC120HTX",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439421735025",
+      "handle": "mc-works-explosion-817hf",
+      "title": "MC Works Explosion 817HF",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439422062705",
+      "handle": "mc-works-explosion-818-ctr-sp",
+      "title": "MC Works Explosion 818 CTR SP",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439422357617",
+      "handle": "mc-works-explosion-835ctr-standard-model",
+      "title": "MC Works Explosion 835 CTR - Standard Model",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439422685297",
+      "handle": "mc-works-explosion-865hf",
+      "title": "MC Works Explosion 865HF",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439423012977",
+      "handle": "mc-works-explosion-full-contact-843ctr",
+      "title": "MC Works Explosion Full Contact 843CTR",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439423307889",
+      "handle": "mc-works-raging-bull-104xxstd",
+      "title": "MC Works Raging Bull 104XX STD",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439423602801",
+      "handle": "mc-works-raging-bull-93xx-trident",
+      "title": "MC Works Raging Bull 93XX Trident",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439423864945",
+      "handle": "mc-works-rod-cb-98xs2-std",
+      "title": "MC Works Raging Bull 98XS2 STD",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439424192625",
+      "handle": "mc-works-rod-explosion-807-ctr-standard-model",
+      "title": "MC Works Explosion 807 CTR Standard Model",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439424585841",
+      "handle": "mc-works-slow-hand-768tsx-all-that-tuna",
+      "title": "MC Works Slow Hand All That Tuna 768TSX",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439424815217",
+      "handle": "mc-works-slow-hand-all-that-tuna-sh729tsz",
+      "title": "MC Works Slow Hand All That Tuna SH729TSZ",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439425044593",
+      "handle": "mc-works-x-fish-trippers-village-barbaro-788",
+      "title": "MC Works X Fish Trippers Village Barbaro 788",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439425437809",
+      "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+      "title": "MC Works x Fish Trippers Village Orquesta 759\\7106",
+      "vendor": "MC Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439425601649",
+      "handle": "mens-tropic-sun-hoody",
+      "title": "Wild Sea Performance Hoodie",
+      "vendor": "Wild Sea Expeditions"
+    },
+    {
+      "id": "gid://shopify/Product/15439425863793",
+      "handle": "native-works-gazelle-230",
+      "title": "Native Works Gazelle 230",
+      "vendor": "Native Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439426191473",
+      "handle": "native-works-gazelle-270",
+      "title": "Native Works Gazelle 270",
+      "vendor": "Native Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439426519153",
+      "handle": "native-works-napalm-200",
+      "title": "Native Works Napalm 200",
+      "vendor": "Native Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439426846833",
+      "handle": "native-works-napalm-220",
+      "title": "Native Works Napalm 220",
+      "vendor": "Native Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439427076209",
+      "handle": "native-works-napalm-250",
+      "title": "Native Works Napalm 250",
+      "vendor": "Native Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439427371121",
+      "handle": "native-works-rattler-210",
+      "title": "Native Works Rattler 210",
+      "vendor": "Native Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439427600497",
+      "handle": "native-works-rattler-230",
+      "title": "Native Works Rattler 230",
+      "vendor": "Native Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439427862641",
+      "handle": "native-works-tank-popper-190",
+      "title": "Native Works Tank Popper 190",
+      "vendor": "Native Works"
+    },
+    {
+      "id": "gid://shopify/Product/15439428124785",
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "title": "Patriot Design Master Bomb Big Cup 90",
+      "vendor": "Patriot Design"
+    },
+    {
+      "id": "gid://shopify/Product/15439428354161",
+      "handle": "popper-18cm-130g",
+      "title": "Glide Popper",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439428649073",
+      "handle": "popper-18cm-75g",
+      "title": "Glide Popper 18cm - 75g",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439428812913",
+      "handle": "popper-22cm-110g",
+      "title": "Glide Popper 22cm - 110g",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439428976753",
+      "handle": "rodcom-straight-shore-ss-10015-sf047y",
+      "title": "Rodcom Straight Shore Ss-100/15 /Sf047Y",
+      "vendor": "Rodcom"
+    },
+    {
+      "id": "gid://shopify/Product/15439429206129",
+      "handle": "rst-supply-nezul-210",
+      "title": "RST Supply Nezul 210",
+      "vendor": "RST Supply"
+    },
+    {
+      "id": "gid://shopify/Product/15439429402737",
+      "handle": "rst-supply-rilana-180f",
+      "title": "RST Supply Rilana 180F",
+      "vendor": "RST Supply"
+    },
+    {
+      "id": "gid://shopify/Product/15439429501041",
+      "handle": "sinking-10cm-50g",
+      "title": "Glide Sinking 10cm - 50g",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439429664881",
+      "handle": "sinking-14cm-80g",
+      "title": "Glide Sinking 14cm - 80g",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439429828721",
+      "handle": "sinking-18cm-100g",
+      "title": "Glide Stickbait Sinking 18cm - 100gr",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439430090865",
+      "handle": "stickpop-18cm-75g",
+      "title": "Glide Stickpop 18cm - 75g",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439430353009",
+      "handle": "stickpop-20cm-105g",
+      "title": "Glide Stickpop 20cm - 105g",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439430582385",
+      "handle": "stickpop-22cm-150g",
+      "title": "Glide Stickpop 22cm - 150g",
+      "vendor": "Glide Tackle"
+    },
+    {
+      "id": "gid://shopify/Product/15439430844529",
+      "handle": "truth-ocean-sprinter-7510-standard-black-model",
+      "title": "Truth Ocean Sprinter 7510 - standard black model",
+      "vendor": "Truth Japan"
+    },
+    {
+      "id": "gid://shopify/Product/15439543631985",
+      "handle": "truth-ocean-sprinter-8110",
+      "title": "Truth Ocean Sprinter 8110",
+      "vendor": "Truth Japan"
+    },
+    {
+      "id": "gid://shopify/Product/15439543763057",
+      "handle": "truth-ocean-sprinter-838",
+      "title": "Truth Ocean Sprinter 838",
+      "vendor": "Truth Japan"
+    },
+    {
+      "id": "gid://shopify/Product/15439543926897",
+      "handle": "truth-oceansprinter-711-rs",
+      "title": "Truth Ocean sprinter 711RS",
+      "vendor": "Truth Japan"
+    },
+    {
+      "id": "gid://shopify/Product/15439544057969",
+      "handle": "truth-oceansprinter-856",
+      "title": "Truth Ocean Sprinter 856",
+      "vendor": "Truth Japan"
+    },
+    {
+      "id": "gid://shopify/Product/15439544156273",
+      "handle": "truth-white-insight-611-12",
+      "title": "Truth White Insight 611 12",
+      "vendor": "Truth Japan"
+    },
+    {
+      "id": "gid://shopify/Product/15439544287345",
+      "handle": "truth-white-insight-7210-custom-red",
+      "title": "Truth White Insight 7210 Custom Red",
+      "vendor": "Truth Japan"
+    },
+    {
+      "id": "gid://shopify/Product/15439544516721",
+      "handle": "truth-white-insight-7210-standard-black-model",
+      "title": "Truth White Insight 7210 - standard black model",
+      "vendor": "Truth Japan"
+    },
+    {
+      "id": "gid://shopify/Product/15439544647793",
+      "handle": "truth-white-insight-7415",
+      "title": "Truth White Insight 7415",
+      "vendor": "Truth Japan"
+    },
+    {
+      "id": "gid://shopify/Product/15439544680561",
+      "handle": "truth-white-insight-7610",
+      "title": "Truth White Insight 7610",
+      "vendor": "Truth Japan"
+    },
+    {
+      "id": "gid://shopify/Product/15439544877169",
+      "handle": "truth-white-insight-828",
+      "title": "Truth White Insight 828",
+      "vendor": "Truth Japan"
+    },
+    {
+      "id": "gid://shopify/Product/15439545139313",
+      "handle": "wild-gambler-rigin",
+      "title": "Wild Gambler Rigin",
+      "vendor": "Wild Gambler"
+    },
+    {
+      "id": "gid://shopify/Product/15439545466993",
+      "handle": "woodream-akiya-200",
+      "title": "Woodream Akiya 200",
+      "vendor": "Woodream"
+    },
+    {
+      "id": "gid://shopify/Product/15439545630833",
+      "handle": "wooodream-akiya-popper-215",
+      "title": "Wooodream Akiya popper",
+      "vendor": "Woodream"
+    }
+  ]
+}

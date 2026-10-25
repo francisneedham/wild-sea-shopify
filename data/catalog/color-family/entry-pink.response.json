@@ -1,0 +1,20 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650467410033",
+      "handle": "pink",
+      "displayName": "Pink",
+      "fields": [
+        {
+          "key": "label",
+          "value": "Pink"
+        },
+        {
+          "key": "swatch_color",
+          "value": "#DD81A4"
+        }
+      ]
+    },
+    "userErrors": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pageCreate": {
+    "page": {
+      "id": "gid://shopify/Page/162999959665",
+      "title": "About",
+      "handle": "about",
+      "isPublished": true,
+      "templateSuffix": "about"
+    },
+    "userErrors": []
+  }
+}

@@ -1,6 +1,9 @@
 {
   "general": {
-    "skip_to_content": "Skip to content"
+    "skip_to_content": "Skip to content",
+    "main_navigation": "Main navigation",
+    "social_links": "Social links",
+    "close": "Close"
   },
   "404": {
     "title": "404",
@@ -50,7 +53,13 @@
     "quick_buy_loading": "Adding...",
     "quick_buy_success": "Added",
     "quick_buy_error": "Try again",
-    "view_options": "View options"
+    "view_options": "View options",
+    "sold_out": "Sold out",
+    "view_product": "View {{ title }}",
+    "filters_and_sort": "Filters & sort",
+    "sort_heading": "Sort by",
+    "product_count": { "one": "{{ count }} product", "other": "{{ count }} products" },
+    "all_products": "All gear"
   },
   "gift_card": {
     "add_to_apple_wallet": "Add to Apple Wallet",
@@ -64,6 +73,21 @@
     "password": "Password",
     "enter": "Enter"
   },
+  "product": {
+    "specifications": {
+      "title": "Specifications",
+      "length": "Length",
+      "line_pe": "Line PE #",
+      "casting_weight": "Casting weight",
+      "recommended_drag": "Recommended drag",
+      "maximum_drag": "Maximum drag",
+      "made_in": "Made in",
+      "lure_type": "Lure type",
+      "buoyancy": "Buoyancy",
+      "lure_length": "Lure length",
+      "lure_weight": "Lure weight"
+    }
+  },
   "search": {
     "title": "Search",
     "placeholder": "Search articles, pages, or products",
@@ -76,5 +100,14 @@
     "pages": "Pages",
     "articles": "Articles",
     "no_quick_matches": "No quick matches. Press Enter for full results."
+  },
+  "home": {
+    "read_story": "Read the story",
+    "email_address": "Email address",
+    "email_placeholder": "Your email address",
+    "sign_up": "Sign me up",
+    "newsletter_consent": "I agree to receive email updates from Wild Sea Expedition.",
+    "privacy_policy": "Read the privacy policy.",
+    "newsletter_success": "Thank you. Your signup request has been received."
   }
 }

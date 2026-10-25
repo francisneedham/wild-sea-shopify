@@ -1,0 +1,13 @@
+{
+  "page": {
+    "title": "About",
+    "handle": "about",
+    "body": "",
+    "templateSuffix": "about",
+    "isPublished": true,
+    "metafields": [
+      { "namespace": "global", "key": "title_tag", "type": "single_line_text_field", "value": "About us — Wild Sea Expeditions" },
+      { "namespace": "global", "key": "description_tag", "type": "single_line_text_field", "value": "Saltwater fishing expeditions since 2012. Meet the Wild Sea team, our approach to catch and release, and the partners we fish with." }
+    ]
+  }
+}

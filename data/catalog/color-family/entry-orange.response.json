@@ -1,0 +1,20 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650467246193",
+      "handle": "orange",
+      "displayName": "Orange",
+      "fields": [
+        {
+          "key": "label",
+          "value": "Orange"
+        },
+        {
+          "key": "swatch_color",
+          "value": "#D97A35"
+        }
+      ]
+    },
+    "userErrors": []
+  }
+}

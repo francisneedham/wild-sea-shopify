@@ -1,0 +1,70 @@
+{
+  "input": {
+    "handle": "rodcom-straight-shore-ss-10015-sf047y",
+    "title": "Rodcom Straight Shore Ss-100/15 /Sf047Y",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Uses high-quality, high-elasticity carbon prepreg</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Anglers say it's light when they hold it</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Lightweight design with balanced technology and a cast that gives a good feeling of swinging, providing maximum rod performance.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Guide</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Mainly uses titanium frame K series guides</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Sharp casts and increased distance.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Guide setting considering the texture and action of the blank</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Double lock nut seat</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Double nut system with special anti-rust paint finish</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Back stop mechanism is used to minimize loosening.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The butt cap is made of BRC</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Total length (m): 3.04</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Number of joints (pieces): 2</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Weight (g): 394</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Lure Jig: 80-150</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Lure Piug&plusmn;20g: 100</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Line (PE size): 5-8</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Drag Max (kg): 10</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Power: XH</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Action (condition): Fast</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Tip diameter (mm): 3.0</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Made in Japan</span></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "Shore fishing",
+      "tarpon",
+      "Rodcom",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ4320435",
+        "price": "450.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/fb3b3acc-4059-4caa-b9c2-2a80b31483e3/rodcom.jpg",
+        "contentType": "IMAGE",
+        "alt": "Rodcom Straight Shore Ss-100/15 /Sf047Y"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7f09d87b-d8c1-40c3-adf0-44cdb20bf096/4573240675254_2.jpg",
+        "contentType": "IMAGE",
+        "alt": "Rodcom Straight Shore Ss-100/15 /Sf047Y"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

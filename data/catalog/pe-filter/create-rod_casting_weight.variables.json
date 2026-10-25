@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Rod casting weight",
+    "namespace": "specs",
+    "key": "rod_casting_weight",
+    "description": "Exact casting weight label used for storefront filtering.",
+    "type": "single_line_text_field",
+    "ownerType": "PRODUCTVARIANT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

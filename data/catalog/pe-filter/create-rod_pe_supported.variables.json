@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Rod supported PE ratings",
+    "namespace": "specs",
+    "key": "rod_pe_supported",
+    "description": "Supported standard PE ratings used for storefront filtering.",
+    "type": "list.single_line_text_field",
+    "ownerType": "PRODUCTVARIANT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

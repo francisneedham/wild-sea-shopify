@@ -1,0 +1,23 @@
+{
+  "definition": {
+    "name": "Color family",
+    "type": "wildsea_color_family",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    },
+    "fieldDefinitions": [
+      {
+        "name": "Label",
+        "key": "label",
+        "type": "single_line_text_field",
+        "required": true
+      },
+      {
+        "name": "Swatch color",
+        "key": "swatch_color",
+        "type": "color"
+      }
+    ],
+    "displayNameKey": "label"
+  }
+}

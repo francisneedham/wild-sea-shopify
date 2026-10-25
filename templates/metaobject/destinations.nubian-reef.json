@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "hero": {
+      "type": "destination-hero",
+      "settings": {
+        "kicker": "Guided fishing expedition",
+        "tagline": "The remote Red Sea.",
+        "intro": "Remote reefs, open blue water and varied saltwater fishing. This expedition is temporarily closed.",
+        "link_label": "Explore the fishing",
+        "link": "#the-fishing"
+      }
+    },
+    "highlights": {
+      "type": "destination-cards",
+      "settings": {
+        "anchor": "the-fishing",
+        "kicker": "The expedition",
+        "heading": "Explore the fishing.",
+        "intro": "A Red Sea liveaboard expedition through remote Sudanese reefs for giant trevally, dogtooth tuna and other reef and pelagic species. Temporarily closed."
+      },
+      "blocks": {
+        "card_1": {
+          "type": "card",
+          "settings": {
+            "kicker": "Current status",
+            "heading": "Temporarily closed",
+            "text": "<p>This expedition remains visible for reference. Ask the team for updates before making travel plans.</p>"
+          }
+        },
+        "card_2": {
+          "type": "card",
+          "settings": {
+            "kicker": "The fishery",
+            "heading": "Reefs and blue water",
+            "text": "<p>The legacy itinerary describes popping, lure casting and jigging across Sudan’s Red Sea reefs.</p>"
+          }
+        },
+        "card_3": {
+          "type": "card",
+          "settings": {
+            "kicker": "The format",
+            "heading": "Liveaboard exploration",
+            "text": "<p>The original standard itinerary includes six fishing days from a motherboat, with extended journeys described separately.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "card_1",
+        "card_2",
+        "card_3"
+      ]
+    },
+    "enquiry": {
+      "type": "destination-cta",
+      "settings": {
+        "kicker": "Get in touch",
+        "heading": "Follow future expeditions.",
+        "text": "This trip is temporarily closed. Contact our team for future updates.",
+        "link_label": "Ask for updates",
+        "link": "mailto:fishing@wildseaexpedition.com?subject=Nubian%20Reef%20expedition"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "highlights",
+    "enquiry"
+  ]
+}

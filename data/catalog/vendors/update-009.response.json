@@ -1,0 +1,42 @@
+{
+  "v0": {
+    "product": {
+      "id": "gid://shopify/Product/15439544680561",
+      "handle": "truth-white-insight-7610",
+      "vendor": "Truth Japan"
+    },
+    "userErrors": []
+  },
+  "v1": {
+    "product": {
+      "id": "gid://shopify/Product/15439544877169",
+      "handle": "truth-white-insight-828",
+      "vendor": "Truth Japan"
+    },
+    "userErrors": []
+  },
+  "v2": {
+    "product": {
+      "id": "gid://shopify/Product/15439545139313",
+      "handle": "wild-gambler-rigin",
+      "vendor": "Wild Gambler"
+    },
+    "userErrors": []
+  },
+  "v3": {
+    "product": {
+      "id": "gid://shopify/Product/15439545466993",
+      "handle": "woodream-akiya-200",
+      "vendor": "Woodream"
+    },
+    "userErrors": []
+  },
+  "v4": {
+    "product": {
+      "id": "gid://shopify/Product/15439545630833",
+      "handle": "wooodream-akiya-popper-215",
+      "vendor": "Woodream"
+    },
+    "userErrors": []
+  }
+}

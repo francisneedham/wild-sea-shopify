@@ -1,0 +1,32 @@
+{
+  "shop": {
+    "name": "Wild Sea Expeditions",
+    "currencyCode": "EUR",
+    "myshopifyDomain": "wild-sea-expeditions-fvadj9fv.myshopify.com"
+  },
+  "locations": {
+    "nodes": [
+      {
+        "id": "gid://shopify/Location/80787898481",
+        "name": "Shop location",
+        "isActive": true,
+        "fulfillsOnlineOrders": true
+      }
+    ]
+  },
+  "publications": {
+    "nodes": [
+      {
+        "id": "gid://shopify/Publication/178400395377",
+        "name": "Negozio online"
+      },
+      {
+        "id": "gid://shopify/Publication/178400428145",
+        "name": "POS"
+      }
+    ]
+  },
+  "productsCount": {
+    "count": 0
+  }
+}

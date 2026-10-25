@@ -1,0 +1,80 @@
+{
+  "input": {
+    "handle": "mc-works-explosion-835ctr-standard-model",
+    "title": "MC Works Explosion 835 CTR - Standard Model",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The MC Works Explosion series incorporates a medium elastic multi-ply structure enable a rod which is light, responsive and has a powerful backbone. Ideal for casting stickbaits and diving pencils, this series is designed for kingfish and tuna anglers.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The most versatile and comfortable model from the Explosion series. The 835CTR is perfect for anglers who want a balance between power, a comfortable fight and amazing action when working floating and sinking stickbaits. The complex action of the rod allows the user to work stickbaits with little effort by having a regular-fast tip action to absorb the initial shock when working stickbaits while having a fast tapered middle to back section to maintain tension with the lure. The backbone of this blank becomes noticeable around the middle of the rod which gives the angler an advantage when guiding fish to where you want.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Boat casting Tuna/Kingfish</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length: 8'3&quot;</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Line: PE # 4-6</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Casting range: 40-100g</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Drag max: 12kg</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Guides</span><strong><span>: </span></strong><span>Fuji TITANIUM HYBRID PMNSG + KWSG</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Handmade in Japan</span></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "stickbait rod",
+      "kingfish",
+      "tuna",
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ7276269",
+        "price": "580.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/05c1a060-6712-4d39-a91f-0be0d4553198/MC+Works+Explosion+835+CTR+-+Standard+Model1.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 835 CTR - Standard Model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/8c12e6ac-c06b-4afe-a181-fafb874cee4b/MC+Works+Explosion+835+CTR+-+Standard+Model.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 835 CTR - Standard Model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/634d797d-f292-4a3b-a7e6-7415108af09c/MC+Works+Explosion+835+CTR+-+Standard+Model3.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 835 CTR - Standard Model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1a3b32f9-3603-4028-9629-9136549dfb65/MC+Works+Explosion+835+CTR+-+Standard+Model2.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 835 CTR - Standard Model"
+      }
+    ]
+  }
+}

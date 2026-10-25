@@ -1,1 +1,34 @@
 extends: theme-check:recommended
+
+# Agent data/audit files (API requests and responses), not theme files.
+ignore:
+  - data/**
+  - legacy_data/**
+
+# AGENTS.md requires LiquidDoc headers on edited sections.
+UnsupportedDocTag:
+  ignore:
+    - sections/header.liquid
+    - sections/footer.liquid
+    - sections/custom-section.liquid
+    - sections/index.liquid
+    - sections/home-card-grid.liquid
+    - sections/home-story.liquid
+    - sections/home-news.liquid
+    - sections/newsletter.liquid
+    - sections/product.liquid
+    - sections/product-recommendations.liquid
+    - sections/collection.liquid
+    - sections/destination-listing.liquid
+    - sections/destination-hero.liquid
+    - sections/destination-editorial.liquid
+    - sections/destination-cards.liquid
+    - sections/destination-gallery.liquid
+    - sections/destination-faq.liquid
+    - sections/destination-cta.liquid
+    - sections/destination-nav.liquid
+    - sections/destination-booking-bar.liquid
+    - sections/page-hero.liquid
+    - sections/page-quote.liquid
+    - sections/page-team.liquid
+    - sections/page-partners.liquid

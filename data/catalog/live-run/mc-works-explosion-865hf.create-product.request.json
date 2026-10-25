@@ -1,0 +1,86 @@
+{
+  "input": {
+    "handle": "mc-works-explosion-865hf",
+    "title": "MC Works Explosion 865HF",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The MC WORKS Explosion series incorporates a medium elastic multi-ply structure enable a rod which is light, responsive and has a powerful backbone. Ideal for casting stickbaits and diving pencils, this series is designed for kingfish and tuna anglers.An all rounder model that withstands good power with a drag max of 12kg whilst being balanced and easy to use. An ideal rod for swimming stickbaits and diving pencils with the strength to fight fish from 5 ~ 20kgs.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length: 8'6 ”</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Line: PE # 4-6</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Cast: 60-110g</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Drag max: 12kg</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Guide: Titanium Hybrid PMNSG + KWSG guide</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Code: #2204EXP865HFSTD</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Colourway: Black x titanium pin stripes &amp; pewter wrapping (butt section) &amp; gunmetal</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Handmade in Japan</span></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "Tuna",
+      "kingfish",
+      "japan handmade",
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ8944563",
+        "price": "600.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/777238c8-c552-46e1-a373-a1bd1d3299d1/MC+Works+Explosion+865HF2.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 865HF"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/48656641-5ff2-4d1e-9f93-aa2ef633c9c1/MC+Works+Explosion+865HF4.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 865HF"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1bd74771-e0b4-4780-bef5-f0f563d65da8/MC+Works+Explosion+865HF3.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 865HF"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9757ef2e-1623-4867-897b-fab06865a0cf/MC+Works+Explosion+865HF.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 865HF"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/aa04f7c8-dfd4-4e97-bfae-0eac267a8e51/MC+Works+Explosion+865HF1.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion 865HF"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

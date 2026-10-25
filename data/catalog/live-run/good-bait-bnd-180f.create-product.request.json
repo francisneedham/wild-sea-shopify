@@ -1,0 +1,71 @@
+{
+  "input": {
+    "handle": "good-bait-bnd-180f",
+    "title": "Good Bait BND 180F",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The Good Bait BnD was developed with one goal in mind: allowing anglers to perform several lure presentations with a single lure. Its innovative design enables diving pencil action, bubble-producing popper effects and subsurface minnow swimming action without changing tackle.</p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Diving jerk action with wobbling dive movement.</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Short jerks creating strong bubble attraction.</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Long jerks producing a straight slalom action.</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Slow retrieve imitating a fleeing baitfish.</p></li></ul><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">This versatility allows anglers to combine attraction, pursuit and feeding triggers during the same cast, making it highly effective on pressured or selective predators.</p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>180 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 91</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Color YellowHead</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Good Bait lure",
+      "fishing lure",
+      "saltwater lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-diving-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6280239",
+        "price": "42.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ab88ae22-e2ef-4bfe-9a45-5318be1361e0/bnd.jpg",
+        "contentType": "IMAGE",
+        "alt": "Good Bait BND 180F"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

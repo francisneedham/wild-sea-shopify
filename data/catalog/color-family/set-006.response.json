@@ -1,0 +1,175 @@
+{
+  "metafieldsSet": {
+    "metafields": [
+      {
+        "id": "gid://shopify/Metafield/191650534424689",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534391921",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534359153",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534326385",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534293617",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534260849",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650467836017"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534228081",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650467836017"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534195313",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534162545",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534129777",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534097009",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650467836017"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534064241",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650467836017"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650534031473",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650533998705",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650533965937",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650533933169",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650467836017"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650533900401",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650467836017"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650533867633",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650533834865",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650533802097",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650533769329",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650533736561",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650533703793",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650468819057"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650533671025",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "color_family",
+        "value": "gid://shopify/Metaobject/650467704945"
+      }
+    ],
+    "userErrors": []
+  }
+}

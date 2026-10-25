@@ -1,0 +1,77 @@
+{
+  "metafieldsSet": {
+    "metafields": [
+      {
+        "id": "gid://shopify/Metafield/191649979138161",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "200"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649979105393",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "97.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649979072625",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "200"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649979039857",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "97.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649979007089",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "250"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649978974321",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "130.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649978941553",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "250"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649978908785",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "130.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649978876017",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "250"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649978843249",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "130.0"
+      }
+    ],
+    "userErrors": []
+  }
+}

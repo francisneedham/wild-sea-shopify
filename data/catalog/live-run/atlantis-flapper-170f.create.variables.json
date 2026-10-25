@@ -1,0 +1,142 @@
+{
+  "input": {
+    "handle": "atlantis-flapper-170f",
+    "title": "Atlantis Flapper 170F",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The Atlantis&nbsp;Flapper is a diving pencil with a rolling action accompanied by vibration. The unique weight balance enables long diving and a sliding action during the sweep.&nbsp;It is advised by Atlantis not to&nbsp;use a rolling swivel to attach the lure to the leader and a solid ring is the best option to produce the original action.&nbsp;</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The ideal action for the Atlantis flapper is a long sweep with a pause, but even a straight wind and twitch will still swim the lure well. By continuously winding the lure, this will maintain a steady rolling action without risking the lure to fly out of the water. At the end of the action the lure will slide from side to side which has been designed on purpose to enhance the last kick of the lure during the action which can be achieved by maintain pressure in the line.&nbsp;</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A reaction bite can be induced even in a fast-tempo continuous action with short jerks.&nbsp;</p><ul data-rte-list=\"default\"><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>170 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr.60</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "atlantis lure",
+      "fishing lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "saltwater lures",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "GlitterPink"
+          },
+          {
+            "name": "GlitterBlue"
+          },
+          {
+            "name": "Candy"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6919783",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "GlitterPink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ1222574",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "GlitterBlue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ2779521",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Candy"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.12,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/32e57616-498a-4ff3-93c5-ffc2012d0529/Atlantis+Flapper+170+F+silver+pink.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atlantis Flapper 170F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2d62ddaf-f7e0-4e34-834a-b8a1e8fde3fb/Atlantis+flapper+170+candy.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atlantis Flapper 170F"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6dae0fc8-53ab-41bc-b867-675c45536875/Atlantis+Flapper+170+blue.jpg",
+        "contentType": "IMAGE",
+        "alt": "Atlantis Flapper 170F"
+      }
+    ]
+  }
+}

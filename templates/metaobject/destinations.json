@@ -1,0 +1,31 @@
+{
+  "sections": {
+    "hero": {
+      "type": "destination-hero",
+      "settings": {}
+    },
+    "story": {
+      "type": "destination-editorial",
+      "settings": {
+        "kicker": "Discover the destination",
+        "heading": "The expedition",
+        "original": "none"
+      }
+    },
+    "enquiry": {
+      "type": "destination-cta",
+      "settings": {
+        "kicker": "Plan your expedition",
+        "heading": "Ready to go further?",
+        "text": "Tell us where you want to fish. We will help shape the trip.",
+        "primary_label": "Enquire now",
+        "primary_link": "mailto:fishing@wildseaexpedition.com"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "story",
+    "enquiry"
+  ]
+}

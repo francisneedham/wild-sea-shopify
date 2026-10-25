@@ -1,0 +1,175 @@
+{
+  "metafieldsSet": {
+    "metafields": [
+      {
+        "id": "gid://shopify/Metafield/191650220540017",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_cm",
+        "value": "254.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220507249",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_label",
+        "value": "8'4\""
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220474481",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "value": "2.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220441713",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "4.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220408945",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_min_g",
+        "value": "20"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220376177",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "60"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220343409",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "6.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220310641",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_cm",
+        "value": "314.96"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220277873",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_label",
+        "value": "10'4\""
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220245105",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "value": "8.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220212337",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "10.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220179569",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_min_g",
+        "value": "100"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220146801",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "200"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220114033",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "13.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220081265",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_cm",
+        "value": "281.94"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220048497",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_length_label",
+        "value": "9'3\""
+      },
+      {
+        "id": "gid://shopify/Metafield/191650220015729",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "value": "8.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650219982961",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "10.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650219950193",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "200"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650219917425",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_drag_max_kg",
+        "value": "13.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650219884657",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_min",
+        "value": "6.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650219851889",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_pe_max",
+        "value": "8.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650219819121",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_min_g",
+        "value": "80"
+      },
+      {
+        "id": "gid://shopify/Metafield/191650219786353",
+        "ownerType": "PRODUCT",
+        "namespace": "specs",
+        "key": "rod_cast_max_g",
+        "value": "150"
+      }
+    ],
+    "userErrors": []
+  }
+}

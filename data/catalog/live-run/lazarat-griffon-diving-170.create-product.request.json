@@ -1,0 +1,97 @@
+{
+  "input": {
+    "handle": "lazarat-griffon-diving-170",
+    "title": "Lazarat Griffon Diving 170",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Floating 170mm 70g&nbsp;</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Rigging option:</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Hooks: Bkk lone diablo 7/0 or Bkk raptor z 2/0 (weight around 6g)</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Split rings: size 8-9</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Action:</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">When retrieved quickly with a long swipe, it leaves a bubble trail behind, wobbling its body underwater. On shorter swipes and slower retrieves, it offers versatility, allowing you to experiment with various techniques. Fish often strike when it surfaces after a pull, so it’s best to pause for a second and let it float between retrieves.&nbsp;</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The Griffon is a slim-style wooden floating lure series, featuring smallmouth poppers and diving poppers in various sizes. It offers long, stable casting, is easy to use, and highly durable. Built with a 2mm stainless steel through-body construction and coated with six layers of premium-quality epoxy for maximum durability.</p>",
+    "status": "ACTIVE",
+    "productType": "",
+    "tags": [
+      "legacy-catalog-import"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Flying Fish"
+          },
+          {
+            "name": "Mahi Mahi"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ5629077",
+        "price": "81.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Flying Fish"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ9850845",
+        "price": "81.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Mahi Mahi"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5349a447-ab6d-450d-9ed4-570c0fef0c33/1000080859.JPG",
+        "contentType": "IMAGE",
+        "alt": "Lazarat Griffon Diving 170"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/94676c03-b85f-4c70-9c32-118d117c1ed2/1000080861.JPG",
+        "contentType": "IMAGE",
+        "alt": "Lazarat Griffon Diving 170"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

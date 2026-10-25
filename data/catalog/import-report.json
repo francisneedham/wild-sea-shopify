@@ -1,0 +1,1235 @@
+{
+  "source": "legacy_data/shop.csv",
+  "source_sha256": "456444d66178208566b66dedbe517c64c1ace80ac6ed8bea065dc85687d27c7d",
+  "status": "prepared_not_imported",
+  "product_status": "draft",
+  "published": false,
+  "source_currency": "EUR",
+  "source_weight_unit": "kg",
+  "counts": {
+    "products": 87,
+    "variants": 336,
+    "image_references": 388,
+    "source_stock_units": 407,
+    "csv_rows": 434
+  },
+  "pending": [
+    "Verify target store currency is EUR",
+    "Verify target inventory location and import legacy quantities",
+    "Read/back up existing Shopify products and resolve handle/SKU collisions",
+    "Confirm source snapshot is current",
+    "Review vendor, tax, category and collection mappings",
+    "Verify image fetch results after import"
+  ],
+  "omitted_from_product_csv": [
+    "Inventory quantity",
+    "Vendor",
+    "Product taxonomy category",
+    "Tax override",
+    "Variant image mapping"
+  ],
+  "notes": [
+    "Source EUR and kg confirmed by user; prices unchanged and kilograms converted to whole grams",
+    "New Shopify tracked variants default to zero quantity until stock is imported",
+    "No products published; no store requests made",
+    "Option names Colore/Taglia normalized to Color/Size; values unchanged",
+    "Image URLs are product gallery images; no inferred variant-specific image assignments"
+  ],
+  "uncategorized": [
+    "Lazarat Griffon Diving 170",
+    "MC Works Slow Hand All That Tuna 768TSX"
+  ],
+  "zero_weight_skus": [
+    "SQ2495051",
+    "SQ6390907",
+    "SQ7486479",
+    "SQ3470066",
+    "SQ9920592",
+    "SQ5225677",
+    "SQ1847202",
+    "SQ7163674",
+    "SQ7540757",
+    "SQ2763829",
+    "SQ9949874",
+    "SQ1924530",
+    "SQ1070246",
+    "SQ4389930",
+    "SQ8402685",
+    "SQ9480444",
+    "SQ5421325",
+    "SQ5187126",
+    "SQ8727577",
+    "SQ4176743",
+    "SQ4821465",
+    "SQ0653018",
+    "SQ8168902",
+    "SQ8441079",
+    "SQ8241258",
+    "SQ3121307",
+    "SQ9954176",
+    "SQ8361686",
+    "SQ2422357",
+    "SQ3660400",
+    "SQ2750120",
+    "SQ7711059",
+    "SQ7461328",
+    "SQ6899363",
+    "SQ8806675",
+    "SQ2533420",
+    "SQ5868404",
+    "SQ0962319",
+    "SQ3602819",
+    "SQ2640495",
+    "SQ0412405",
+    "SQ1718712",
+    "SQ9815424",
+    "SQ7294551",
+    "SQ5154938",
+    "SQ0746987",
+    "SQ2703032",
+    "SQ5629077",
+    "SQ9850845",
+    "SQ7328256",
+    "SQ0163718",
+    "SQ3498813",
+    "SQ2270853",
+    "SQ1909163",
+    "SQ3261392",
+    "SQ6202744",
+    "SQ1820657",
+    "SQ8382225",
+    "SQ8732608",
+    "SQ9623535",
+    "SQ4138495",
+    "SQ0782892",
+    "SQ8530309",
+    "SQ3206746",
+    "SQ3321847",
+    "SQ2806036",
+    "SQ1778175",
+    "SQ2816028",
+    "SQ4988796",
+    "SQ2905866",
+    "SQ8157867",
+    "SQ5925045",
+    "SQ8035429",
+    "SQ1785377",
+    "SQ6803691",
+    "SQ3177287",
+    "SQ8842762",
+    "SQ4793061",
+    "SQ2651929",
+    "SQ7245243",
+    "SQ8282102",
+    "SQ8909010",
+    "SQ0570592",
+    "SQ3679915",
+    "SQ8328549",
+    "SQ6002304",
+    "SQ2629408",
+    "SQ4155596",
+    "SQ0681038",
+    "SQ8371419",
+    "SQ6428731",
+    "SQ7213301",
+    "SQ6283725",
+    "SQ4286020",
+    "SQ0478688",
+    "SQ1274080",
+    "SQ8821546",
+    "SQ0230919",
+    "SQ5469331",
+    "SQ0065414",
+    "SQ9311074",
+    "SQ0747067",
+    "SQ9017232",
+    "SQ3543332",
+    "SQ7581226",
+    "SQ2319235",
+    "SQ0452227",
+    "SQ0859850",
+    "SQ7270156",
+    "SQ8096117",
+    "SQ7885850",
+    "SQ4227470",
+    "SQ4099842",
+    "SQ7191530",
+    "SQ1955957",
+    "SQ5510682",
+    "SQ7648587",
+    "SQ8631115",
+    "SQ7803890",
+    "SQ9590418",
+    "SQ1096296",
+    "SQ7060695"
+  ],
+  "category_counts": {
+    "/clothing": 2,
+    "/lures": 5,
+    "/lures/diving-poppers": 13,
+    "/lures/floating": 21,
+    "/lures/poppers": 10,
+    "/lures/sinking": 3,
+    "/lures/stickbait": 18,
+    "/rods": 30
+  },
+  "products": [
+    {
+      "legacy_product_id": "6a105909086f311fc02a5cd8",
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "title": "Atoll Bonger",
+      "categories": [
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 14,
+      "image_count": 8,
+      "legacy_path": "/shop/catalog/p/7svpo1nl90mscugevufrnfct0iig9g",
+      "shopify_path": "/products/7svpo1nl90mscugevufrnfct0iig9g"
+    },
+    {
+      "legacy_product_id": "6a12c0fa3fda827df9cc1f36",
+      "handle": "atlantis-flapper-170f",
+      "title": "Atlantis Flapper 170F",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 3,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/atlantis-flapper-170f",
+      "shopify_path": "/products/atlantis-flapper-170f"
+    },
+    {
+      "legacy_product_id": "67643ed53e0801278f0f0f82",
+      "handle": "atlantis-funky-soda-170-85-gr",
+      "title": "Atlantis Funky Soda 170",
+      "categories": [
+        "/lures/floating",
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 2,
+      "image_count": 2,
+      "legacy_path": "/shop/catalog/p/atlantis-funky-soda-170-85-gr",
+      "shopify_path": "/products/atlantis-funky-soda-170-85-gr"
+    },
+    {
+      "legacy_product_id": "6a12b9c770b34345038bfe7f",
+      "handle": "atoll-giulia",
+      "title": "Atoll Giulia",
+      "categories": [
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 3,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/atoll-giulia",
+      "shopify_path": "/products/atoll-giulia"
+    },
+    {
+      "legacy_product_id": "6a12bb739bbeeb1bb6180571",
+      "handle": "atoll-giulia-plastic",
+      "title": "Atoll Giulia Plastic",
+      "categories": [
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 4,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/atoll-giulia-plastic",
+      "shopify_path": "/products/atoll-giulia-plastic"
+    },
+    {
+      "legacy_product_id": "6a12b8383fda827df9cc1d4c",
+      "handle": "atoll-misao",
+      "title": "Atoll Misao",
+      "categories": [
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 6,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/atoll-misao",
+      "shopify_path": "/products/atoll-misao"
+    },
+    {
+      "legacy_product_id": "6a5e9a3f7b54f252fefde68b",
+      "handle": "cb-one-rudolf-260",
+      "title": "CB One Rudolf 260",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 1,
+      "image_count": 1,
+      "legacy_path": "/shop/catalog/p/cb-one-rudolf-260",
+      "shopify_path": "/products/cb-one-rudolf-260"
+    },
+    {
+      "legacy_product_id": "67644155dc26d01aac2a089c",
+      "handle": "cb-one-ryan-230",
+      "title": "CB One Ryan 230",
+      "categories": [
+        "/lures/floating",
+        "/lures/stickbait"
+      ],
+      "variant_count": 1,
+      "image_count": 1,
+      "legacy_path": "/shop/catalog/p/cb-one-ryan-230",
+      "shopify_path": "/products/cb-one-ryan-230"
+    },
+    {
+      "legacy_product_id": "6a12c40d9bbeeb1bb618077e",
+      "handle": "cb-one-zorro-200",
+      "title": "CB One Zorro 200",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 1,
+      "image_count": 1,
+      "legacy_path": "/shop/catalog/p/cb-one-zorro-200",
+      "shopify_path": "/products/cb-one-zorro-200"
+    },
+    {
+      "legacy_product_id": "676440b8c113307863eb9ed9",
+      "handle": "craftbait-gt3-130-gr",
+      "title": "Craftbait GT3 130 gr",
+      "categories": [
+        "/lures/poppers",
+        "/lures/floating"
+      ],
+      "variant_count": 3,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/craftbait-gt3-130-gr",
+      "shopify_path": "/products/craftbait-gt3-130-gr"
+    },
+    {
+      "legacy_product_id": "6a14126a086f311fc02c718f",
+      "handle": "expedition-trucker-cap",
+      "title": "Expedition Trucker Cap",
+      "categories": [
+        "/clothing"
+      ],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/expedition-trucker-cap",
+      "shopify_path": "/products/expedition-trucker-cap"
+    },
+    {
+      "legacy_product_id": "67643e353e0801278f0f0f09",
+      "handle": "fish-trippers-village-espuma-120-gr",
+      "title": "FishTrippers Village Espuma 220",
+      "categories": [
+        "/lures/poppers",
+        "/lures/floating"
+      ],
+      "variant_count": 3,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/fish-trippers-village-espuma-120-gr",
+      "shopify_path": "/products/fish-trippers-village-espuma-120-gr"
+    },
+    {
+      "legacy_product_id": "67643ce8dc26d01aac2a03ee",
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "title": "FishTrippers Village Liber Tango",
+      "categories": [
+        "/lures/floating",
+        "/lures/stickbait"
+      ],
+      "variant_count": 8,
+      "image_count": 6,
+      "legacy_path": "/shop/catalog/p/fish-trippers-village-liber-tango-220-hd-110-gr",
+      "shopify_path": "/products/fish-trippers-village-liber-tango-220-hd-110-gr"
+    },
+    {
+      "legacy_product_id": "67643c01b1773e2b396df5be",
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "title": "FishTripper Village Le Grand Tango",
+      "categories": [
+        "/lures/floating",
+        "/lures/stickbait"
+      ],
+      "variant_count": 17,
+      "image_count": 8,
+      "legacy_path": "/shop/catalog/p/fishtripper-village-le-grand-tango-210",
+      "shopify_path": "/products/fishtripper-village-le-grand-tango-210"
+    },
+    {
+      "legacy_product_id": "6a12c9f870b34345038c02b0",
+      "handle": "fishtrippers-village-concierto-280",
+      "title": "FishTrippers Village Concierto 280",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 6,
+      "image_count": 7,
+      "legacy_path": "/shop/catalog/p/fishtrippers-village-concierto-280",
+      "shopify_path": "/products/fishtrippers-village-concierto-280"
+    },
+    {
+      "legacy_product_id": "652fceaca2028366a6f5e431",
+      "handle": "floating-18cm-75g",
+      "title": "Glide Floating 18cm - 75g",
+      "categories": [
+        "/lures/floating"
+      ],
+      "variant_count": 5,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/floating-18cm-75g",
+      "shopify_path": "/products/floating-18cm-75g"
+    },
+    {
+      "legacy_product_id": "652fcf228b41b94fac5002ce",
+      "handle": "floating-22cm-120g",
+      "title": "Glide Floating 22cm - 120g",
+      "categories": [
+        "/lures/floating"
+      ],
+      "variant_count": 14,
+      "image_count": 14,
+      "legacy_path": "/shop/catalog/p/floating-22cm-120g",
+      "shopify_path": "/products/floating-22cm-120g"
+    },
+    {
+      "legacy_product_id": "652fd066a2028366a6f5e4c1",
+      "handle": "floating-24cm-150g",
+      "title": "Glide Floating 24cm - 150g",
+      "categories": [
+        "/lures/floating"
+      ],
+      "variant_count": 10,
+      "image_count": 10,
+      "legacy_path": "/shop/catalog/p/floating-24cm-150g",
+      "shopify_path": "/products/floating-24cm-150g"
+    },
+    {
+      "legacy_product_id": "6764181bc113307863eb837e",
+      "handle": "full-hand-onikiri-100h",
+      "title": "Full Hands Onikiri 100H",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/full-hand-onikiri-100h",
+      "shopify_path": "/products/full-hand-onikiri-100h"
+    },
+    {
+      "legacy_product_id": "67641ab1b1773e2b396de12e",
+      "handle": "full-hands-custom-works-kusanagi-p78hh",
+      "title": "Full Hands Custom Works Kusanagi P78HH",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/full-hands-custom-works-kusanagi-p78hh",
+      "shopify_path": "/products/full-hands-custom-works-kusanagi-p78hh"
+    },
+    {
+      "legacy_product_id": "6a12d86b086f311fc02bc3a6",
+      "handle": "good-bait-bnd-180f",
+      "title": "Good Bait BND 180F",
+      "categories": [
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 1,
+      "image_count": 1,
+      "legacy_path": "/shop/catalog/p/good-bait-bnd-180f",
+      "shopify_path": "/products/good-bait-bnd-180f"
+    },
+    {
+      "legacy_product_id": "6a12db209bbeeb1bb6180e54",
+      "handle": "good-bait-fzr-188f",
+      "title": "Good Bait FZR 188F",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 2,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/good-bait-fzr-188f",
+      "shopify_path": "/products/good-bait-fzr-188f"
+    },
+    {
+      "legacy_product_id": "6a12d7453fda827df9cc25d3",
+      "handle": "good-bait-monsterzone-210f",
+      "title": "Good Bait MonsterZone 210F",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 3,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/good-bait-monsterzone-210f",
+      "shopify_path": "/products/good-bait-monsterzone-210f"
+    },
+    {
+      "legacy_product_id": "6a12d54e086f311fc02bc2a5",
+      "handle": "good-bait-number-five-148f",
+      "title": "Good Bait Number Five 148F",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 3,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/good-bait-number-five-148f",
+      "shopify_path": "/products/good-bait-number-five-148f"
+    },
+    {
+      "legacy_product_id": "6a12d9029bbeeb1bb6180db1",
+      "handle": "good-bait-respect-190f",
+      "title": "Good Bait Respect 190F",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 5,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/good-bait-respect-190f",
+      "shopify_path": "/products/good-bait-respect-190f"
+    },
+    {
+      "legacy_product_id": "6a5e94b07b54f252fefde028",
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "title": "Hammerhead Sharapoa 250 Slim LV",
+      "categories": [
+        "/lures/poppers",
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 4,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/hammerhead-sharapoa-250-slim-lv",
+      "shopify_path": "/products/hammerhead-sharapoa-250-slim-lv"
+    },
+    {
+      "legacy_product_id": "6a5e9661b545114fe3862b70",
+      "handle": "hammerhead-tobi-140-sus",
+      "title": "Hammerhead Tobi 140 SUS",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 4,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/hammerhead-tobi-140-sus",
+      "shopify_path": "/products/hammerhead-tobi-140-sus"
+    },
+    {
+      "legacy_product_id": "6a12bd9b70b34345038bff49",
+      "handle": "indigoblue-musya",
+      "title": "Indigo Blue Musya Pop",
+      "categories": [
+        "/lures/poppers"
+      ],
+      "variant_count": 4,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/indigoblue-musya",
+      "shopify_path": "/products/indigoblue-musya"
+    },
+    {
+      "legacy_product_id": "6a12cd559bbeeb1bb6180a27",
+      "handle": "jumprize-lalapen",
+      "title": "Jumprize Lalapen",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 15,
+      "image_count": 6,
+      "legacy_path": "/shop/catalog/p/jumprize-lalapen",
+      "shopify_path": "/products/jumprize-lalapen"
+    },
+    {
+      "legacy_product_id": "6a5f58c622d8fb7a65bdda55",
+      "handle": "jumprize-monster-absorber-82-8",
+      "title": "Jumprize Monster Absorber 82-8",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 1,
+      "legacy_path": "/shop/catalog/p/jumprize-monster-absorber-82-8",
+      "shopify_path": "/products/jumprize-monster-absorber-82-8"
+    },
+    {
+      "legacy_product_id": "6a12c89270b34345038c0253",
+      "handle": "kikuchi-craft-bubble-swimmer",
+      "title": "Kikuchi Craft Bubble Swimmer",
+      "categories": [
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 2,
+      "image_count": 1,
+      "legacy_path": "/shop/catalog/p/kikuchi-craft-bubble-swimmer",
+      "shopify_path": "/products/kikuchi-craft-bubble-swimmer"
+    },
+    {
+      "legacy_product_id": "6772a087fc91ce6c66776157",
+      "handle": "lazarat-griffon-diving-170",
+      "title": "Lazarat Griffon Diving 170",
+      "categories": [],
+      "variant_count": 2,
+      "image_count": 2,
+      "legacy_path": "/shop/catalog/p/lazarat-griffon-diving-170",
+      "shopify_path": "/products/lazarat-griffon-diving-170"
+    },
+    {
+      "legacy_product_id": "67729a20fc91ce6c66775f04",
+      "handle": "lazarat-griffon-diving-200",
+      "title": "Lazarat Griffon PoP 200",
+      "categories": [
+        "/lures/poppers",
+        "/lures/floating"
+      ],
+      "variant_count": 7,
+      "image_count": 7,
+      "legacy_path": "/shop/catalog/p/lazarat-griffon-diving-200",
+      "shopify_path": "/products/lazarat-griffon-diving-200"
+    },
+    {
+      "legacy_product_id": "67729e0fda44160bfc7686b3",
+      "handle": "lazarat-griffon-diving-200-1",
+      "title": "Lazarat Griffon Diving 200",
+      "categories": [
+        "/lures/floating",
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 2,
+      "image_count": 2,
+      "legacy_path": "/shop/catalog/p/lazarat-griffon-diving-200-1",
+      "shopify_path": "/products/lazarat-griffon-diving-200-1"
+    },
+    {
+      "legacy_product_id": "6772971fdb8d7917707d3100",
+      "handle": "lazarat-griffon-diving-230",
+      "title": "Lazarat Griffon Diving 230",
+      "categories": [
+        "/lures/floating",
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 3,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/lazarat-griffon-diving-230",
+      "shopify_path": "/products/lazarat-griffon-diving-230"
+    },
+    {
+      "legacy_product_id": "6763e06a3e0801278f0ed9bb",
+      "handle": "mc-works-2023-explosion-817hf-special-model",
+      "title": "MC Works 2023 Explosion 817HF Special Model",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/mc-works-2023-explosion-817hf-special-model",
+      "shopify_path": "/products/mc-works-2023-explosion-817hf-special-model"
+    },
+    {
+      "legacy_product_id": "676402873e0801278f0eeda7",
+      "handle": "mc-works-804-hr",
+      "title": "MC Works 804 HR",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/mc-works-804-hr",
+      "shopify_path": "/products/mc-works-804-hr"
+    },
+    {
+      "legacy_product_id": "6a2722839d129d02efd838ef",
+      "handle": "mc-works-black-chrome-bc120htx",
+      "title": "MC Works Black & Chrome BC120HTX",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/mc-works-black-chrome-bc120htx",
+      "shopify_path": "/products/mc-works-black-chrome-bc120htx"
+    },
+    {
+      "legacy_product_id": "678fb4686c9a8e41d1bf9f7c",
+      "handle": "mc-works-explosion-817hf",
+      "title": "MC Works Explosion 817HF",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/mc-works-explosion-817hf",
+      "shopify_path": "/products/mc-works-explosion-817hf"
+    },
+    {
+      "legacy_product_id": "6a2721a658b73f530a6f3b58",
+      "handle": "mc-works-explosion-818-ctr-sp",
+      "title": "MC Works Explosion 818 CTR SP",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/mc-works-explosion-818-ctr-sp",
+      "shopify_path": "/products/mc-works-explosion-818-ctr-sp"
+    },
+    {
+      "legacy_product_id": "6763e52bb1773e2b396dc39e",
+      "handle": "mc-works-explosion-835ctr-standard-model",
+      "title": "MC Works Explosion 835 CTR - Standard Model",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/mc-works-explosion-835ctr-standard-model",
+      "shopify_path": "/products/mc-works-explosion-835ctr-standard-model"
+    },
+    {
+      "legacy_product_id": "6763e61edc26d01aac29d01e",
+      "handle": "mc-works-explosion-865hf",
+      "title": "MC Works Explosion 865HF",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/mc-works-explosion-865hf",
+      "shopify_path": "/products/mc-works-explosion-865hf"
+    },
+    {
+      "legacy_product_id": "6a5f553522d8fb7a65bdd825",
+      "handle": "mc-works-explosion-full-contact-843ctr",
+      "title": "MC Works Explosion Full Contact 843CTR",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 1,
+      "legacy_path": "/shop/catalog/p/mc-works-explosion-full-contact-843ctr",
+      "shopify_path": "/products/mc-works-explosion-full-contact-843ctr"
+    },
+    {
+      "legacy_product_id": "6a2723aadbedb812c3243fd0",
+      "handle": "mc-works-raging-bull-104xxstd",
+      "title": "MC Works Raging Bull 104XX STD",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/mc-works-raging-bull-104xxstd",
+      "shopify_path": "/products/mc-works-raging-bull-104xxstd"
+    },
+    {
+      "legacy_product_id": "6a5f57721b9743318cce9ea5",
+      "handle": "mc-works-raging-bull-93xx-trident",
+      "title": "MC Works Raging Bull 93XX Trident",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/mc-works-raging-bull-93xx-trident",
+      "shopify_path": "/products/mc-works-raging-bull-93xx-trident"
+    },
+    {
+      "legacy_product_id": "6763e88dc113307863eb6858",
+      "handle": "mc-works-rod-cb-98xs2-std",
+      "title": "MC Works Raging Bull 98XS2 STD",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/mc-works-rod-cb-98xs2-std",
+      "shopify_path": "/products/mc-works-rod-cb-98xs2-std"
+    },
+    {
+      "legacy_product_id": "6763e9cdc113307863eb68c6",
+      "handle": "mc-works-rod-explosion-807-ctr-standard-model",
+      "title": "MC Works Explosion 807 CTR Standard Model",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/mc-works-rod-explosion-807-ctr-standard-model",
+      "shopify_path": "/products/mc-works-rod-explosion-807-ctr-standard-model"
+    },
+    {
+      "legacy_product_id": "6a272123dbedb812c3243ccf",
+      "handle": "mc-works-slow-hand-768tsx-all-that-tuna",
+      "title": "MC Works Slow Hand All That Tuna 768TSX",
+      "categories": [],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/mc-works-slow-hand-768tsx-all-that-tuna",
+      "shopify_path": "/products/mc-works-slow-hand-768tsx-all-that-tuna"
+    },
+    {
+      "legacy_product_id": "6a272424dbedb812c3244054",
+      "handle": "mc-works-slow-hand-all-that-tuna-sh729tsz",
+      "title": "MC Works Slow Hand All That Tuna SH729TSZ",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/mc-works-slow-hand-all-that-tuna-sh729tsz",
+      "shopify_path": "/products/mc-works-slow-hand-all-that-tuna-sh729tsz"
+    },
+    {
+      "legacy_product_id": "6763e6d83e0801278f0edbdd",
+      "handle": "mc-works-x-fish-trippers-village-barbaro-788",
+      "title": "MC Works X Fish Trippers Village Barbaro 788",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 7,
+      "legacy_path": "/shop/catalog/p/mc-works-x-fish-trippers-village-barbaro-788",
+      "shopify_path": "/products/mc-works-x-fish-trippers-village-barbaro-788"
+    },
+    {
+      "legacy_product_id": "6a2720979d129d02efd83658",
+      "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+      "title": "MC Works x Fish Trippers Village Orquesta 759\\7106",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 2,
+      "image_count": 2,
+      "legacy_path": "/shop/catalog/p/mc-works-x-fish-trippers-village-orquestra-759",
+      "shopify_path": "/products/mc-works-x-fish-trippers-village-orquestra-759"
+    },
+    {
+      "legacy_product_id": "6a0eebba70b3434503899354",
+      "handle": "mens-tropic-sun-hoody",
+      "title": "Wild Sea Performance Hoodie",
+      "categories": [
+        "/clothing"
+      ],
+      "variant_count": 12,
+      "image_count": 6,
+      "legacy_path": "/shop/catalog/p/mens-tropic-sun-hoody",
+      "shopify_path": "/products/mens-tropic-sun-hoody"
+    },
+    {
+      "legacy_product_id": "676420d2b1773e2b396de4e6",
+      "handle": "native-works-gazelle-230",
+      "title": "Native Works Gazelle 230",
+      "categories": [
+        "/lures"
+      ],
+      "variant_count": 1,
+      "image_count": 1,
+      "legacy_path": "/shop/catalog/p/native-works-gazelle-230",
+      "shopify_path": "/products/native-works-gazelle-230"
+    },
+    {
+      "legacy_product_id": "67642a2db1773e2b396de9ab",
+      "handle": "native-works-gazelle-270",
+      "title": "Native Works Gazelle 270",
+      "categories": [
+        "/lures"
+      ],
+      "variant_count": 3,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/native-works-gazelle-270",
+      "shopify_path": "/products/native-works-gazelle-270"
+    },
+    {
+      "legacy_product_id": "67642ca33e0801278f0f0231",
+      "handle": "native-works-napalm-200",
+      "title": "Native Works Napalm 200",
+      "categories": [
+        "/lures/floating",
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 6,
+      "image_count": 9,
+      "legacy_path": "/shop/catalog/p/native-works-napalm-200",
+      "shopify_path": "/products/native-works-napalm-200"
+    },
+    {
+      "legacy_product_id": "67642dd3c113307863eb8f19",
+      "handle": "native-works-napalm-220",
+      "title": "Native Works Napalm 220",
+      "categories": [
+        "/lures/floating",
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 7,
+      "image_count": 7,
+      "legacy_path": "/shop/catalog/p/native-works-napalm-220",
+      "shopify_path": "/products/native-works-napalm-220"
+    },
+    {
+      "legacy_product_id": "67642fffc113307863eb9048",
+      "handle": "native-works-napalm-250",
+      "title": "Native Works Napalm 250",
+      "categories": [
+        "/lures/floating",
+        "/lures/diving-poppers"
+      ],
+      "variant_count": 5,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/native-works-napalm-250",
+      "shopify_path": "/products/native-works-napalm-250"
+    },
+    {
+      "legacy_product_id": "676431b33e0801278f0f0517",
+      "handle": "native-works-rattler-210",
+      "title": "Native Works Rattler 210",
+      "categories": [
+        "/lures/floating",
+        "/lures/stickbait"
+      ],
+      "variant_count": 5,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/native-works-rattler-210",
+      "shopify_path": "/products/native-works-rattler-210"
+    },
+    {
+      "legacy_product_id": "676432b0dc26d01aac29fb5c",
+      "handle": "native-works-rattler-230",
+      "title": "Native Works Rattler 230",
+      "categories": [
+        "/lures/floating",
+        "/lures/stickbait"
+      ],
+      "variant_count": 4,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/native-works-rattler-230",
+      "shopify_path": "/products/native-works-rattler-230"
+    },
+    {
+      "legacy_product_id": "6764335edc26d01aac29fbea",
+      "handle": "native-works-tank-popper-190",
+      "title": "Native Works Tank Popper 190",
+      "categories": [
+        "/lures/poppers",
+        "/lures/floating"
+      ],
+      "variant_count": 10,
+      "image_count": 10,
+      "legacy_path": "/shop/catalog/p/native-works-tank-popper-190",
+      "shopify_path": "/products/native-works-tank-popper-190"
+    },
+    {
+      "legacy_product_id": "6a12c51d3fda827df9cc2041",
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "title": "Patriot Design Master Bomb Big Cup 90",
+      "categories": [
+        "/lures/poppers"
+      ],
+      "variant_count": 7,
+      "image_count": 8,
+      "legacy_path": "/shop/catalog/p/patriot-design-master-bomb-big-cup-90",
+      "shopify_path": "/products/patriot-design-master-bomb-big-cup-90"
+    },
+    {
+      "legacy_product_id": "652fc91a8b41b94fac500013",
+      "handle": "popper-18cm-130g",
+      "title": "Glide Popper",
+      "categories": [
+        "/lures/poppers"
+      ],
+      "variant_count": 6,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/popper-18cm-130g",
+      "shopify_path": "/products/popper-18cm-130g"
+    },
+    {
+      "legacy_product_id": "652fcab0a2028366a6f5e21b",
+      "handle": "popper-18cm-75g",
+      "title": "Glide Popper 18cm - 75g",
+      "categories": [
+        "/lures"
+      ],
+      "variant_count": 6,
+      "image_count": 6,
+      "legacy_path": "/shop/catalog/p/popper-18cm-75g",
+      "shopify_path": "/products/popper-18cm-75g"
+    },
+    {
+      "legacy_product_id": "652fcd41a2028366a6f5e378",
+      "handle": "popper-22cm-110g",
+      "title": "Glide Popper 22cm - 110g",
+      "categories": [
+        "/lures/floating"
+      ],
+      "variant_count": 10,
+      "image_count": 10,
+      "legacy_path": "/shop/catalog/p/popper-22cm-110g",
+      "shopify_path": "/products/popper-22cm-110g"
+    },
+    {
+      "legacy_product_id": "67641e04dc26d01aac29eff3",
+      "handle": "rodcom-straight-shore-ss-10015-sf047y",
+      "title": "Rodcom Straight Shore Ss-100/15 /Sf047Y",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 2,
+      "legacy_path": "/shop/catalog/p/rodcom-straight-shore-ss-10015-sf047y",
+      "shopify_path": "/products/rodcom-straight-shore-ss-10015-sf047y"
+    },
+    {
+      "legacy_product_id": "6a12c250086f311fc02bbcb0",
+      "handle": "rst-supply-nezul-210",
+      "title": "RST Supply Nezul 210",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 1,
+      "image_count": 2,
+      "legacy_path": "/shop/catalog/p/rst-supply-nezul-210",
+      "shopify_path": "/products/rst-supply-nezul-210"
+    },
+    {
+      "legacy_product_id": "6a5e92eb1b9743318ccde138",
+      "handle": "rst-supply-rilana-180f",
+      "title": "RST Supply Rilana 180F",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 2,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/rst-supply-rilana-180f",
+      "shopify_path": "/products/rst-supply-rilana-180f"
+    },
+    {
+      "legacy_product_id": "652fd3d28b41b94fac500476",
+      "handle": "sinking-10cm-50g",
+      "title": "Glide Sinking 10cm - 50g",
+      "categories": [
+        "/lures/sinking"
+      ],
+      "variant_count": 8,
+      "image_count": 8,
+      "legacy_path": "/shop/catalog/p/sinking-10cm-50g",
+      "shopify_path": "/products/sinking-10cm-50g"
+    },
+    {
+      "legacy_product_id": "652fd415019130531df495a2",
+      "handle": "sinking-14cm-80g",
+      "title": "Glide Sinking 14cm - 80g",
+      "categories": [
+        "/lures/sinking"
+      ],
+      "variant_count": 7,
+      "image_count": 7,
+      "legacy_path": "/shop/catalog/p/sinking-14cm-80g",
+      "shopify_path": "/products/sinking-14cm-80g"
+    },
+    {
+      "legacy_product_id": "652fd45da47f3b3d0ddc407a",
+      "handle": "sinking-18cm-100g",
+      "title": "Glide Stickbait Sinking 18cm - 100gr",
+      "categories": [
+        "/lures/sinking"
+      ],
+      "variant_count": 3,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/sinking-18cm-100g",
+      "shopify_path": "/products/sinking-18cm-100g"
+    },
+    {
+      "legacy_product_id": "652fd4b18b41b94fac5004e9",
+      "handle": "stickpop-18cm-75g",
+      "title": "Glide Stickpop 18cm - 75g",
+      "categories": [
+        "/lures/floating"
+      ],
+      "variant_count": 8,
+      "image_count": 8,
+      "legacy_path": "/shop/catalog/p/stickpop-18cm-75g",
+      "shopify_path": "/products/stickpop-18cm-75g"
+    },
+    {
+      "legacy_product_id": "652fd521a47f3b3d0ddc40dc",
+      "handle": "stickpop-20cm-105g",
+      "title": "Glide Stickpop 20cm - 105g",
+      "categories": [
+        "/lures"
+      ],
+      "variant_count": 8,
+      "image_count": 8,
+      "legacy_path": "/shop/catalog/p/stickpop-20cm-105g",
+      "shopify_path": "/products/stickpop-20cm-105g"
+    },
+    {
+      "legacy_product_id": "652fd78aa2028366a6f5e770",
+      "handle": "stickpop-22cm-150g",
+      "title": "Glide Stickpop 22cm - 150g",
+      "categories": [
+        "/lures"
+      ],
+      "variant_count": 7,
+      "image_count": 7,
+      "legacy_path": "/shop/catalog/p/stickpop-22cm-150g",
+      "shopify_path": "/products/stickpop-22cm-150g"
+    },
+    {
+      "legacy_product_id": "678a88372b47a06ca04dae22",
+      "handle": "truth-ocean-sprinter-7510-standard-black-model-",
+      "title": "Truth Ocean Sprinter 7510 - standard black model",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/truth-ocean-sprinter-7510-standard-black-model-",
+      "shopify_path": "/products/truth-ocean-sprinter-7510-standard-black-model-"
+    },
+    {
+      "legacy_product_id": "6a272046dbedb812c3243bb5",
+      "handle": "truth-ocean-sprinter-8110",
+      "title": "Truth Ocean Sprinter 8110",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 2,
+      "legacy_path": "/shop/catalog/p/truth-ocean-sprinter-8110",
+      "shopify_path": "/products/truth-ocean-sprinter-8110"
+    },
+    {
+      "legacy_product_id": "6a271ff480393763fe5b8b55",
+      "handle": "truth-ocean-sprinter-838",
+      "title": "Truth Ocean Sprinter 838",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 2,
+      "legacy_path": "/shop/catalog/p/truth-ocean-sprinter-838",
+      "shopify_path": "/products/truth-ocean-sprinter-838"
+    },
+    {
+      "legacy_product_id": "678f94a62b47a06ca051a93b",
+      "handle": "truth-oceansprinter-711-rs",
+      "title": "Truth Ocean sprinter 711RS",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/truth-oceansprinter-711-rs",
+      "shopify_path": "/products/truth-oceansprinter-711-rs"
+    },
+    {
+      "legacy_product_id": "678f9235a165a16c98b2b291",
+      "handle": "truth-oceansprinter-856",
+      "title": "Truth Ocean Sprinter 856",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/truth-oceansprinter-856",
+      "shopify_path": "/products/truth-oceansprinter-856"
+    },
+    {
+      "legacy_product_id": "67640c543e0801278f0ef1aa",
+      "handle": "truth-white-insight-611-12",
+      "title": "Truth White Insight 611 12",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/truth-white-insight-611-12",
+      "shopify_path": "/products/truth-white-insight-611-12"
+    },
+    {
+      "legacy_product_id": "678a8b21a165a16c98aec08f",
+      "handle": "truth-white-insight-7210-custom-red",
+      "title": "Truth White Insight 7210 Custom Red",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/truth-white-insight-7210-custom-red",
+      "shopify_path": "/products/truth-white-insight-7210-custom-red"
+    },
+    {
+      "legacy_product_id": "678a86e86a6c8305928b8cbd",
+      "handle": "truth-white-insight-7210-standard-black-model-",
+      "title": "Truth White Insight 7210 - standard black model",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/truth-white-insight-7210-standard-black-model-",
+      "shopify_path": "/products/truth-white-insight-7210-standard-black-model-"
+    },
+    {
+      "legacy_product_id": "67641004b1773e2b396ddbd1",
+      "handle": "truth-white-insight-7415",
+      "title": "Truth White Insight 7415",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 9,
+      "legacy_path": "/shop/catalog/p/truth-white-insight-7415",
+      "shopify_path": "/products/truth-white-insight-7415"
+    },
+    {
+      "legacy_product_id": "67640d82b1773e2b396ddabd",
+      "handle": "truth-white-insight-7610",
+      "title": "Truth White Insight 7610",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 6,
+      "legacy_path": "/shop/catalog/p/truth-white-insight-7610",
+      "shopify_path": "/products/truth-white-insight-7610"
+    },
+    {
+      "legacy_product_id": "67640e42c113307863eb7ea0",
+      "handle": "truth-white-insight-828",
+      "title": "Truth White Insight 828",
+      "categories": [
+        "/rods"
+      ],
+      "variant_count": 1,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/truth-white-insight-828",
+      "shopify_path": "/products/truth-white-insight-828"
+    },
+    {
+      "legacy_product_id": "6ab2db6e2efa7c342b2e56ba",
+      "handle": "wild-gambler-rigin",
+      "title": "Wild Gambler Rigin",
+      "categories": [
+        "/lures/poppers"
+      ],
+      "variant_count": 6,
+      "image_count": 4,
+      "legacy_path": "/shop/catalog/p/wild-gambler-rigin",
+      "shopify_path": "/products/wild-gambler-rigin"
+    },
+    {
+      "legacy_product_id": "6a12bf6e086f311fc02bbbe3",
+      "handle": "woodream-akiya-200",
+      "title": "Woodream Akiya 200",
+      "categories": [
+        "/lures/stickbait"
+      ],
+      "variant_count": 4,
+      "image_count": 5,
+      "legacy_path": "/shop/catalog/p/woodream-akiya-200",
+      "shopify_path": "/products/woodream-akiya-200"
+    },
+    {
+      "legacy_product_id": "67643a9edc26d01aac2a0211",
+      "handle": "wooodream-akiya-popper-215",
+      "title": "Wooodream Akiya popper",
+      "categories": [
+        "/lures/poppers",
+        "/lures/floating"
+      ],
+      "variant_count": 9,
+      "image_count": 3,
+      "legacy_path": "/shop/catalog/p/wooodream-akiya-popper-215",
+      "shopify_path": "/products/wooodream-akiya-popper-215"
+    }
+  ]
+}

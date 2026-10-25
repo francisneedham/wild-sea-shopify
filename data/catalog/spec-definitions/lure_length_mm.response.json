@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/509631234161",
+      "namespace": "specs",
+      "key": "lure_length_mm",
+      "name": "Lure length (mm)",
+      "type": {
+        "name": "number_integer"
+      },
+      "ownerType": "PRODUCTVARIANT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

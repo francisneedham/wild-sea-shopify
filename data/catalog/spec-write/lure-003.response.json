@@ -1,0 +1,175 @@
+{
+  "metafieldsSet": {
+    "metafields": [
+      {
+        "id": "gid://shopify/Metafield/191649940832369",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "148"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940799601",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "71.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940766833",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "148"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940734065",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "71.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940701297",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "215"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940668529",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "100.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940635761",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "215"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940602993",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "100.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940570225",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "215"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940537457",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "100.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940504689",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "230"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940471921",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "105.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940439153",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "230"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940406385",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "105.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940373617",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "230"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940340849",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "105.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940308081",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "260"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940275313",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "175.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940242545",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "230"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940209777",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "130.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940177009",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "200"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940144241",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "60.0"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940111473",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_length_mm",
+        "value": "220"
+      },
+      {
+        "id": "gid://shopify/Metafield/191649940078705",
+        "ownerType": "PRODUCTVARIANT",
+        "namespace": "specs",
+        "key": "lure_weight_g",
+        "value": "120.0"
+      }
+    ],
+    "userErrors": []
+  }
+}

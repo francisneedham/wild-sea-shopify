@@ -1,0 +1,4 @@
+{
+  "handle": { "type": "destinations", "handle": "socotra-fishing" },
+  "metaobject": { "fields": [{ "key": "status", "value": "available" }] }
+}

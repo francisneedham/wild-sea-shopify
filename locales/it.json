@@ -1,6 +1,9 @@
 {
   "general": {
-    "skip_to_content": "Salta al contenuto"
+    "skip_to_content": "Salta al contenuto",
+    "main_navigation": "Navigazione principale",
+    "social_links": "Link social",
+    "close": "Chiudi"
   },
   "404": {
     "title": "404",
@@ -50,7 +53,13 @@
     "quick_buy_loading": "Aggiunta...",
     "quick_buy_success": "Aggiunto",
     "quick_buy_error": "Riprova",
-    "view_options": "Vedi opzioni"
+    "view_options": "Vedi opzioni",
+    "sold_out": "Esaurito",
+    "view_product": "Vedi {{ title }}",
+    "filters_and_sort": "Filtri e ordinamento",
+    "sort_heading": "Ordina per",
+    "product_count": { "one": "{{ count }} prodotto", "other": "{{ count }} prodotti" },
+    "all_products": "Tutta l'attrezzatura"
   },
   "gift_card": {
     "add_to_apple_wallet": "Aggiungi ad Apple Wallet",
@@ -64,6 +73,21 @@
     "password": "Password",
     "enter": "Entra"
   },
+  "product": {
+    "specifications": {
+      "title": "Specifiche",
+      "length": "Lunghezza",
+      "line_pe": "Trecciato PE #",
+      "casting_weight": "Peso di lancio",
+      "recommended_drag": "Frizione consigliata",
+      "maximum_drag": "Frizione massima",
+      "made_in": "Prodotto in",
+      "lure_type": "Tipo di esca",
+      "buoyancy": "Galleggiamento",
+      "lure_length": "Lunghezza esca",
+      "lure_weight": "Peso esca"
+    }
+  },
   "search": {
     "title": "Cerca",
     "placeholder": "Cerca articoli, pagine o prodotti",
@@ -76,5 +100,14 @@
     "pages": "Pagine",
     "articles": "Articoli",
     "no_quick_matches": "Nessun risultato rapido. Premi Invio per la ricerca completa."
+  },
+  "home": {
+    "read_story": "Leggi la storia",
+    "email_address": "Indirizzo email",
+    "email_placeholder": "Il tuo indirizzo email",
+    "sign_up": "Iscrivimi",
+    "newsletter_consent": "Acconsento a ricevere aggiornamenti via email da Wild Sea Expedition.",
+    "privacy_policy": "Leggi l’informativa sulla privacy.",
+    "newsletter_success": "Grazie. La richiesta di iscrizione è stata ricevuta."
   }
 }

@@ -1,119 +1,175 @@
-{% comment %}
-    This section is used in the product template to render product page with
-    media, content, and add-to-cart form.
+{% doc %}
+  Product detail (legacy productDetail): Embla media gallery with thumbnails, vendor · type eyebrow,
+  variant price/stock, variant picker, quantity stepper, add to cart, editable accordion blocks.
+  @example
+  {% section 'product' %}
+{% enddoc %}
 
-    https://shopify.dev/docs/storefronts/themes/architecture/templates/product
-{% endcomment %}
+{%- liquid
+  assign current_variant = product.selected_or_first_available_variant
+  assign breadcrumb_collection = null
+  for item in product.collections
+    unless item.handle == 'frontpage' or item.handle == 'all'
+      assign breadcrumb_collection = item
+      break
+    endunless
+  endfor
+  assign media_sizes = '(min-width: 1440px) 690px, (min-width: 761px) 50vw, calc(100vw - 44px)'
+  # Start on the selected variant's image server-side, so JS (Embla startIndex) doesn't jump after load.
+  assign start_index = 0
+  if current_variant.featured_media
+    for media in product.media
+      if media.id == current_variant.featured_media.id
+        assign start_index = forloop.index0
+        break
+      endif
+    endfor
+  endif
+-%}
 
-{%- assign current_variant = product.selected_or_first_available_variant -%}
+<div class="wildsea-product">
+  <nav class="wildsea-product__breadcrumb" aria-label="Breadcrumb">
+    <a href="{{ routes.all_products_collection_url }}">Shop</a>
+    {% render 'lucide-icon', name: 'chevron-right' %}
+    {% if breadcrumb_collection %}
+      <a href="{{ breadcrumb_collection.url }}">{{ breadcrumb_collection.title | escape }}</a>
+      {% render 'lucide-icon', name: 'chevron-right' %}
+    {% endif %}
+    <span>{{ product.title | escape }}</span>
+  </nav>
 
-<div class="mx-2 grid grid-cols-1 gap-2 lg:grid-cols-2">
-    <aside>
-        <div class="flex flex-col gap-3 lg:flex-row-reverse">
-
-            {{- '<!-- Main viewer -->' }}
-            <div class="flex-1 lg:flex lg:max-h-[100svh] lg:flex-col lg:gap-3 lg:overflow-y-auto" data-product-media>
-                {% for media in product.media %}
-                    {%- assign media_variant_ids = '' -%}
-                    {%- for variant in product.variants -%}
-                        {%- if variant.featured_media.id == media.id -%}
-                            {%- if media_variant_ids == '' -%}
-                                {%- assign media_variant_ids = variant.id | append: '' -%}
-                            {%- else -%}
-                                {%- assign media_variant_ids = media_variant_ids | append: ',' | append: variant.id -%}
-                            {%- endif -%}
-                        {%- endif -%}
-                    {%- endfor -%}
-                    <div
-                        data-js="media-item"
-                        data-media-id="{{ media.id }}"
-                        {% if media_variant_ids != '' %}data-variant-media="{{ media_variant_ids }}"{% endif %}
-                        {% unless forloop.first %}hidden{% endunless %}
-                    >
-                        {% case media.media_type %}
-                            {% when 'image' %}
-                                {% render 'product-media-image', media: media, class: 'w-full aspect-square object-cover' %}
-                            {% when 'video', 'external_video' %}
-                                {% render 'product-media-video', media: media, class: 'w-full aspect-square' %}
-                            {% else %}
-                                {% render 'image', image: media.preview_image, class: 'w-full aspect-square object-cover' %}
-                        {% endcase %}
-                    </div>
-                {% else %}
-                    {% render 'product-media-image', class: 'w-full aspect-square object-cover' %}
-                {% endfor %}
-            </div>
-
-            {{- '<!-- Thumbnail strip -->' }}
-            {% if product.media.size > 1 %}
-                <div class="flex gap-2 overflow-x-auto lg:flex-col lg:w-16" data-product-thumbnails>
-                    {% for media in product.media %}
-                        {%- assign media_variant_ids = '' -%}
-                        {%- for variant in product.variants -%}
-                            {%- if variant.featured_media.id == media.id -%}
-                                {%- if media_variant_ids == '' -%}
-                                    {%- assign media_variant_ids = variant.id | append: '' -%}
-                                {%- else -%}
-                                    {%- assign media_variant_ids = media_variant_ids | append: ',' | append: variant.id -%}
-                                {%- endif -%}
-                            {%- endif -%}
-                        {%- endfor -%}
-                        <button
-                            type="button"
-                            data-js="thumbnail"
-                            data-thumbnail="{{ media.id }}"
-                            {% if media_variant_ids != '' %}data-variant-media="{{ media_variant_ids }}"{% endif %}
-                            aria-pressed="{{ forloop.first }}"
-                            class="w-16 h-16 shrink-0 overflow-hidden border"
-                        >
-                            {% render 'image', image: media.preview_image, widths: '64,128', class: 'w-full h-full object-cover' %}
-                        </button>
-                    {% endfor %}
-                </div>
-            {% endif %}
-
+  <div class="wildsea-product__detail">
+    <div class="wildsea-product__media-col">
+      <div class="wildsea-product__gallery" data-carousel data-carousel-owned data-js="product-gallery">
+        <div class="wildsea-product__viewport" data-carousel-viewport data-product-media>
+          <div class="wildsea-product__track"{% if start_index > 0 %} style="transform: translate3d(-{{ start_index | times: 100 }}%, 0, 0)"{% endif %}>
+            {% for media in product.media %}
+              {%- liquid
+                assign media_variant_ids = ''
+                for variant in product.variants
+                  if variant.featured_media.id == media.id
+                    if media_variant_ids == ''
+                      assign media_variant_ids = variant.id | append: ''
+                    else
+                      assign media_variant_ids = media_variant_ids | append: ',' | append: variant.id
+                    endif
+                  endif
+                endfor
+              -%}
+              <div
+                class="wildsea-product__slide"
+                data-js="media-item"
+                data-media-id="{{ media.id }}"
+                {% if media_variant_ids != '' %}data-variant-media="{{ media_variant_ids }}"{% endif %}
+              >
+                {%- liquid
+                  assign is_start = false
+                  if forloop.index0 == start_index
+                    assign is_start = true
+                  endif
+                -%}
+                {% case media.media_type %}
+                  {% when 'video', 'external_video' %}
+                    {% render 'product-media-video', media: media, class: 'wildsea-product__media' %}
+                  {% else %}
+                    {% render 'product-media-image', media: media, class: 'wildsea-product__media', sizes: media_sizes, priority: is_start %}
+                {% endcase %}
+              </div>
+            {% else %}
+              <div class="wildsea-product__slide">{% render 'product-media-image', class: 'wildsea-product__media' %}</div>
+            {% endfor %}
+          </div>
         </div>
-    </aside>
+        {% if product.media.size > 1 %}
+          <button type="button" class="wildsea-product__nav wildsea-product__nav--prev" data-carousel-prev aria-label="Previous image">{% render 'lucide-icon', name: 'arrow-left' %}</button>
+          <button type="button" class="wildsea-product__nav wildsea-product__nav--next" data-carousel-next aria-label="Next image">{% render 'lucide-icon', name: 'arrow-right' %}</button>
+          <p class="wildsea-product__counter" aria-hidden="true"><span data-js="gallery-index">{{ start_index | plus: 1 }}</span> / {{ product.media.size }}</p>
+        {% endif %}
+      </div>
 
-    <div>
-        <div class="product-info">
-            <h1>{{ product.title }}</h1>
-            <p data-js="product-price">{{ current_variant.price | money }}</p>
-            <p data-js="product-availability">
-                {%- unless current_variant.available -%}Sold out{%- endunless -%}
-            </p>
-            <p>{{ product.description }}</p>
+      {% if product.media.size > 1 %}
+        <div class="wildsea-product__thumbnails" data-product-thumbnails>
+          {% for media in product.media %}
+            <button
+              type="button"
+              data-js="thumbnail"
+              data-thumbnail="{{ media.id }}"
+              aria-pressed="{% if forloop.index0 == start_index %}true{% else %}false{% endif %}"
+              class="wildsea-product__thumbnail"
+              aria-label="View image {{ forloop.index }}"
+            >
+              {{ media.preview_image | image_url: width: 160 | image_tag: widths: '80, 160', sizes: '75px', alt: '', loading: 'lazy' }}
+            </button>
+          {% endfor %}
         </div>
-
-        <div class="product-form">
-            {% form 'product', product, id: 'product-form', data-js: 'product-form' %}
-                {% render 'variant-picker', product: product, current_variant: current_variant %}
-
-                <input type="number" name="quantity" min="1" value="1">
-
-                <button
-                    type="submit"
-                    data-js="add-to-cart"
-                    {% unless current_variant.available %}
-                        disabled
-                    {% endunless %}
-                >
-                    {%- if current_variant.available -%}Add to cart{%- else -%}Sold out{%- endif -%}
-                </button>
-
-                <p data-js="cart-status" role="status" aria-live="polite" class="mt-2 text-sm"></p>
-
-                {{ form | payment_button }}
-            {% endform %}
-        </div>
+      {% endif %}
     </div>
-</div>
 
-<div
-  data-js="recommendations"
-  data-product-id="{{ product.id }}"
-  data-section-id="product-recommendations"
-></div>
+    <div class="wildsea-product__info">
+      {%- capture kicker -%}{{ product.vendor | escape }}{% if product.vendor != blank and product.type != blank %} · {% endif %}{{ product.type | escape }}{%- endcapture -%}
+      {% if kicker != blank %}<p class="wildsea-product__eyebrow">{{ kicker }}</p>{% endif %}
+      <h1 data-reveal="title">{{ product.title | escape }}</h1>
+      <div class="wildsea-product__price">
+        <span data-js="product-price">{{ current_variant.price | money }}</span>
+        <s data-js="product-compare-price" {% unless current_variant.compare_at_price > current_variant.price %}hidden{% endunless %}>{{ current_variant.compare_at_price | money }}</s>
+      </div>
+      <p data-js="product-availability" class="wildsea-product__stock" data-available="{{ current_variant.available }}">
+        {%- if current_variant.available -%}Available{%- else -%}Sold out{%- endif -%}
+      </p>
+      {% if product.description != blank %}<div class="wildsea-product__description">{{ product.description }}</div>{% endif %}
+      {% render 'product-specifications', product: product, current_variant: current_variant %}
+
+      <div class="product-form">
+        {% form 'product', product, id: 'product-form', data-js: 'product-form' %}
+          {% render 'variant-picker', product: product, current_variant: current_variant %}
+
+          <div class="wildsea-product__purchase">
+            <div class="wildsea-product__qty">
+              <button type="button" data-js="product-qty-dec" aria-label="Decrease quantity">{% render 'lucide-icon', name: 'minus' %}</button>
+              <label class="sr-only" for="ProductQuantity">Quantity</label>
+              <input id="ProductQuantity" type="number" name="quantity" min="1" value="1" inputmode="numeric">
+              <button type="button" data-js="product-qty-inc" aria-label="Increase quantity">{% render 'lucide-icon', name: 'plus' %}</button>
+            </div>
+            <button
+              type="submit"
+              class="wildsea-product__add"
+              data-js="add-to-cart"
+              {% unless current_variant.available %}disabled{% endunless %}
+            >
+              <span data-js="add-to-cart-label">{%- if current_variant.available -%}Add to cart{%- else -%}Sold out{%- endif -%}</span>
+              {% render 'lucide-icon', name: 'shopping-bag' %}
+            </button>
+          </div>
+
+          <p data-js="cart-status" role="status" aria-live="polite" class="wildsea-product__status"></p>
+
+          {% if section.settings.show_dynamic_checkout %}{{ form | payment_button }}{% endif %}
+        {% endform %}
+      </div>
+
+      {% if section.settings.note != blank %}<p class="wildsea-product__note">{{ section.settings.note | escape }}</p>{% endif %}
+
+      {% if section.blocks.size > 0 %}
+        <div class="wildsea-product__accordions">
+          {% for block in section.blocks %}
+            {%- liquid
+              assign accordion_content = block.settings.content
+              if block.settings.page != blank
+                assign accordion_content = block.settings.page.content
+              endif
+            -%}
+            {% if block.settings.heading != blank and accordion_content != blank %}
+              <details class="wildsea-accordion" {% if block.settings.open %}open{% endif %} {{ block.shopify_attributes }}>
+                <summary>{{ block.settings.heading | escape }} {% render 'lucide-icon', name: 'plus' %}</summary>
+                <div class="wildsea-accordion__content">{{ accordion_content }}</div>
+              </details>
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
 
 <script id="product-data" data-js="product-data" type="application/json">
     {{ product | json }}
@@ -126,13 +182,128 @@
         {% endfor %}
     }
 </script>
+<script data-js="variant-compare-prices" type="application/json">
+  {
+    {% for variant in product.variants %}
+      "{{ variant.id }}": {% if variant.compare_at_price > variant.price %}"{{ variant.compare_at_price | money }}"{% else %}null{% endif %}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  }
+</script>
+
+{% stylesheet %}
+  .wildsea-product { width: min(100%, var(--page-width)); margin: 0 auto; padding: 40px var(--site-gutter) 75px; }
+  .wildsea-product a { color: inherit; }
+  .wildsea-product__breadcrumb { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 35px; font-size: var(--text-label); letter-spacing: .08em; text-transform: uppercase; }
+  .wildsea-product__breadcrumb a { text-decoration: none; }
+  .wildsea-product__breadcrumb svg { width: 12px; height: 12px; }
+  .wildsea-product__detail { display: grid; grid-template-columns: 1.1fr 1fr; gap: 80px; align-items: start; }
+
+  /* Gallery: Embla track, square black frame like the listing cards. */
+  .wildsea-product__media-col { position: sticky; top: calc(var(--header-height) + 24px); min-width: 0; }
+  .wildsea-product__gallery { position: relative; }
+  .wildsea-product__viewport { overflow: hidden; background: #000; }
+  .wildsea-product__track { display: flex; touch-action: pan-y pinch-zoom; }
+  .wildsea-product__slide { position: relative; flex: 0 0 100%; min-width: 0; aspect-ratio: 1; overflow: hidden; }
+  .wildsea-product__slide > img, .wildsea-product__slide > svg, .wildsea-product__slide > .wildsea-product__media { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: contain; }
+  .wildsea-product__media video, .wildsea-product__media iframe { width: 100%; height: 100%; object-fit: contain; }
+  .wildsea-product__nav { position: absolute; top: 50%; z-index: 2; display: grid; place-items: center; width: 46px; height: 46px; margin-top: -23px; border: 1px solid #ffffff60; border-radius: 50%; background: #10272799; color: #fff; cursor: pointer; transition: background .2s, opacity .2s; }
+  .wildsea-product__nav:hover { background: #102727; }
+  .wildsea-product__nav:disabled { opacity: 0; pointer-events: none; }
+  .wildsea-product__nav svg { width: 16px; height: 16px; }
+  .wildsea-product__nav--prev { left: 16px; }
+  .wildsea-product__nav--next { right: 16px; }
+  .wildsea-product__counter { position: absolute; right: 16px; bottom: 14px; margin: 0; color: #fff; font-size: var(--text-label); letter-spacing: .12em; }
+  .wildsea-product__thumbnails { display: flex; gap: 10px; margin-top: 14px; overflow-x: auto; scrollbar-width: none; }
+  .wildsea-product__thumbnail { flex: 0 0 75px; width: 75px; height: 75px; padding: 0; border: 1px solid var(--theme-border); background: #000; cursor: pointer; transition: border-color .2s; }
+  .wildsea-product__thumbnail[aria-pressed='true'] { border-color: var(--theme-text); outline: 1px solid var(--theme-text); }
+  .wildsea-product__thumbnail img { width: 100%; height: 100%; object-fit: contain; }
+
+  /* Info column (legacy .product-info). */
+  .wildsea-product__info { min-width: 0; }
+  .wildsea-product__eyebrow { display: flex; align-items: center; gap: 12px; margin: 0 0 22px; font-size: var(--text-label); font-weight: 600; letter-spacing: .23em; text-transform: uppercase; }
+  .wildsea-product__eyebrow::before { content: ''; width: 28px; height: 1px; background: currentColor; }
+  .wildsea-product__info h1 { margin: 0 0 25px; font-size: 62px; line-height: 1.05; text-transform: uppercase; }
+  .wildsea-product__price { display: flex; gap: 16px; align-items: baseline; margin-bottom: 22px; font-size: 23px; }
+  .wildsea-product__price s { color: #76807b; font-size: var(--text-sm); }
+  .wildsea-product__stock { display: flex; align-items: center; gap: 8px; margin: 0; font-size: var(--text-label); color: #4e7753; }
+  .wildsea-product__stock::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: currentColor; }
+  .wildsea-product__stock[data-available='false'] { color: #9a4b3c; }
+  .wildsea-product__description { margin: 24px 0 0; font-size: var(--text-sm); line-height: 1.75; color: color-mix(in srgb, var(--theme-text) 72%, transparent); }
+  .wildsea-product__description p + p { margin-top: 1em; }
+  .wildsea-product__specifications { margin-top: 28px; }
+  .wildsea-product__specifications[hidden], .wildsea-product__specifications [hidden] { display: none; }
+  .wildsea-product__specifications h2 { margin: 0 0 12px; font-size: var(--text-label); font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+  .wildsea-product__specifications table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); line-height: 1.5; }
+  .wildsea-product__specifications th, .wildsea-product__specifications td { padding: 10px 0; border-bottom: 1px solid var(--theme-border); vertical-align: top; }
+  .wildsea-product__specifications th { width: 48%; padding-right: 18px; font-weight: 500; text-align: left; color: color-mix(in srgb, var(--theme-text) 65%, transparent); }
+  .wildsea-product__specifications td { text-align: right; }
+  .wildsea-product .product-option { margin: 28px 0 0; }
+  .wildsea-product .product-option p { margin: 0 0 10px; font-size: var(--text-label); letter-spacing: .08em; text-transform: uppercase; }
+  .wildsea-product .product-option button { display: inline-flex; align-items: center; gap: 8px; margin: 0 6px 6px 0; padding: 11px 14px; border: 1px solid #c9d0c4; background: none; color: inherit; font-size: var(--text-sm); cursor: pointer; }
+  .wildsea-product .product-option button[aria-pressed='true'] { border-color: #102c2d; background: #102c2d; color: #fff; }
+  .wildsea-product .product-option button:disabled { opacity: .4; cursor: not-allowed; text-decoration: line-through; }
+  .wildsea-product__swatch { width: 17px; height: 17px; border-radius: 50%; border: 1px solid #102c2d25; }
+  .wildsea-product__swatch img { display: block; width: 100%; height: 100%; border-radius: inherit; object-fit: cover; }
+  .wildsea-product__swatch--pattern { background: conic-gradient(#3669a3 0 25%, #e2bc3f 25% 50%, #528566 50% 75%, #dd81a4 75%); }
+  .wildsea-product__purchase { display: flex; align-items: stretch; gap: 12px; margin-top: 28px; }
+  .wildsea-product__qty { display: flex; align-items: center; border: 1px solid #c9d0c4; }
+  .wildsea-product__qty button { display: grid; place-items: center; width: 44px; height: 100%; border: 0; background: none; color: inherit; cursor: pointer; }
+  .wildsea-product__qty button svg { width: 14px; height: 14px; }
+  .wildsea-product__qty input { width: 36px; border: 0; background: none; text-align: center; font-size: var(--text-base); -moz-appearance: textfield; }
+  .wildsea-product__qty input::-webkit-inner-spin-button, .wildsea-product__qty input::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+  .wildsea-product__add { flex: 1; display: inline-flex; align-items: center; justify-content: center; gap: 30px; min-height: 58px; padding: 19px 26px; border: 0; background: #102c2d; color: #fff; font-size: var(--text-label); font-weight: 700; letter-spacing: .1em; text-transform: uppercase; cursor: pointer; transition: background .2s; }
+  .wildsea-product__add:hover { background: #1d4243; }
+  .wildsea-product__add svg { width: 16px; height: 16px; }
+  .wildsea-product__add:disabled { opacity: .5; cursor: not-allowed; }
+  .wildsea-product__status { margin: 10px 0 0; font-size: var(--text-sm); }
+  .wildsea-product__status:empty { display: none; }
+  .wildsea-product__note { margin: 18px 0 0; font-size: var(--text-label); line-height: 1.7; color: color-mix(in srgb, var(--theme-text) 60%, transparent); }
+
+  /* Accordions (section blocks). */
+  .wildsea-product__accordions { margin-top: 30px; border-top: 1px solid var(--theme-border); }
+  .wildsea-accordion { border-bottom: 1px solid var(--theme-border); }
+  .wildsea-accordion summary { display: flex; justify-content: space-between; align-items: center; gap: 20px; padding-block: 20px; font-size: var(--text-label); font-weight: 600; letter-spacing: .1em; text-transform: uppercase; list-style: none; cursor: pointer; }
+  .wildsea-accordion summary::-webkit-details-marker { display: none; }
+  .wildsea-accordion summary svg { flex-shrink: 0; width: 15px; height: 15px; transition: transform .3s; }
+  .wildsea-accordion[open] summary svg { transform: rotate(45deg); }
+  .wildsea-accordion::details-content { block-size: 0; overflow: hidden; transition: block-size .35s ease, content-visibility .35s allow-discrete; }
+  .wildsea-accordion[open]::details-content { block-size: auto; }
+  .wildsea-accordion__content { padding-bottom: 22px; font-size: var(--text-sm); line-height: 1.75; color: color-mix(in srgb, var(--theme-text) 72%, transparent); }
+  .wildsea-accordion__content p + p { margin-top: 1em; }
+  .wildsea-accordion__content a { text-decoration: underline; }
+
+  @media (max-width: 1100px) { .wildsea-product__detail { gap: 45px; } .wildsea-product__info h1 { font-size: 50px; } }
+  @media (max-width: 760px) {
+    .wildsea-product { padding-top: 26px; }
+    .wildsea-product__detail { grid-template-columns: 1fr; gap: 35px; }
+    .wildsea-product__media-col { position: static; }
+    .wildsea-product__nav { display: none; }
+    .wildsea-product__thumbnail { flex-basis: 65px; width: 65px; height: 65px; }
+    .wildsea-product__info h1 { font-size: 50px; }
+  }
+{% endstylesheet %}
 
 {% schema %}
 {
-    "name": "t:general.product",
-    "settings": [],
-    "disabled_on": {
-        "groups": ["header", "footer"]
+  "name": "t:general.product",
+  "settings": [
+    { "type": "checkbox", "id": "show_dynamic_checkout", "label": "Show dynamic checkout button", "default": false },
+    { "type": "textarea", "id": "note", "label": "Note under add to cart", "default": "Need help choosing? Our guides can match your tackle to your destination and fishing style." }
+  ],
+  "blocks": [
+    {
+      "type": "accordion",
+      "name": "Accordion",
+      "settings": [
+        { "type": "text", "id": "heading", "label": "Heading", "default": "Equipment advice" },
+        { "type": "richtext", "id": "content", "label": "Content", "default": "<p>Our guides can help match your tackle to your destination and fishing style.</p>" },
+        { "type": "page", "id": "page", "label": "Use page content instead", "info": "Overrides the content above, e.g. a shipping page." },
+        { "type": "checkbox", "id": "open", "label": "Open by default", "default": false }
+      ]
     }
+  ],
+  "disabled_on": {
+    "groups": ["header", "footer"]
+  }
 }
 {% endschema %}

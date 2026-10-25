@@ -1,0 +1,72 @@
+{
+  "v0": {
+    "id": "gid://shopify/Product/15439417016433",
+    "handle": "good-bait-fzr-188f",
+    "title": "Good Bait FZR 188F",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Good Bait"
+  },
+  "v1": {
+    "id": "gid://shopify/Product/15439417376881",
+    "handle": "good-bait-monsterzone-210f",
+    "title": "Good Bait MonsterZone 210F",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Good Bait"
+  },
+  "v2": {
+    "id": "gid://shopify/Product/15439417671793",
+    "handle": "good-bait-number-five-148f",
+    "title": "Good Bait Number Five 148F",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Good Bait"
+  },
+  "v3": {
+    "id": "gid://shopify/Product/15439417835633",
+    "handle": "good-bait-respect-190f",
+    "title": "Good Bait Respect 190F",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Good Bait"
+  },
+  "v4": {
+    "id": "gid://shopify/Product/15439418097777",
+    "handle": "hammerhead-sharapoa-250-slim-lv",
+    "title": "Hammerhead Sharapoa 250 Slim LV",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Hammerhead"
+  },
+  "v5": {
+    "id": "gid://shopify/Product/15439418458225",
+    "handle": "hammerhead-tobi-140-sus",
+    "title": "Hammerhead Tobi 140 SUS",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Hammerhead"
+  },
+  "v6": {
+    "id": "gid://shopify/Product/15439418785905",
+    "handle": "indigoblue-musya",
+    "title": "Indigo Blue Musya Pop",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Indigo Blue"
+  },
+  "v7": {
+    "id": "gid://shopify/Product/15439419113585",
+    "handle": "jumprize-lalapen",
+    "title": "Jumprize Lalapen",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Jumprize"
+  },
+  "v8": {
+    "id": "gid://shopify/Product/15439419408497",
+    "handle": "jumprize-monster-absorber-82-8",
+    "title": "Jumprize Monster Absorber 82-8",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Jumprize"
+  },
+  "v9": {
+    "id": "gid://shopify/Product/15439419703409",
+    "handle": "kikuchi-craft-bubble-swimmer",
+    "title": "Kikuchi Craft Bubble Swimmer",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Kikuchi Craft"
+  }
+}

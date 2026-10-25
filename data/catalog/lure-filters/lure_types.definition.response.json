@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/510641700977",
+      "namespace": "specs",
+      "key": "lure_types",
+      "name": "Lure type",
+      "type": {
+        "name": "list.single_line_text_field"
+      },
+      "ownerType": "PRODUCT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "fileCreate": {
+    "files": [
+      {
+        "id": "gid://shopify/MediaImage/46288939384945",
+        "fileStatus": "UPLOADED",
+        "alt": "Fishing expedition in Djibouti",
+        "image": null
+      },
+      {
+        "id": "gid://shopify/MediaImage/46288939417713",
+        "fileStatus": "UPLOADED",
+        "alt": "Fishing expedition in Gabon",
+        "image": null
+      },
+      {
+        "id": "gid://shopify/MediaImage/46288939450481",
+        "fileStatus": "UPLOADED",
+        "alt": "Fly fishing in Los Roques",
+        "image": null
+      },
+      {
+        "id": "gid://shopify/MediaImage/46288939483249",
+        "fileStatus": "UPLOADED",
+        "alt": "Fly fishing in Socotra",
+        "image": null
+      },
+      {
+        "id": "gid://shopify/MediaImage/46288939516017",
+        "fileStatus": "UPLOADED",
+        "alt": "Nubian Reef fishing expedition",
+        "image": null
+      },
+      {
+        "id": "gid://shopify/MediaImage/46288939548785",
+        "fileStatus": "UPLOADED",
+        "alt": "Nubian Flat fly fishing expedition",
+        "image": null
+      }
+    ],
+    "userErrors": []
+  }
+}

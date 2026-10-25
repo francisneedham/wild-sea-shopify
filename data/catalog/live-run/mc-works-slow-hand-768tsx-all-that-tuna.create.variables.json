@@ -1,0 +1,70 @@
+{
+  "input": {
+    "handle": "mc-works-slow-hand-768tsx-all-that-tuna",
+    "title": "MC Works Slow Hand All That Tuna 768TSX",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">HIGH-POWER REGULAR TAPER MODEL OF THE HIGH-REBOUND TSX SERIES.<br />THE BIGGEST FEATURE IS THE REBOUND FORCE THAT FLOATS A TUNA DIVE OF OVER 100 KG.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">LENGTH 7'6′′<br />LINE PE #10-12<br />CAST RANGE 150-250G<br />DRAG MAX 20KG</p>",
+    "status": "ACTIVE",
+    "productType": "",
+    "tags": [
+      "legacy-catalog-import"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ1151521",
+        "price": "600.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b8ccb6a5-2ef0-40a6-ba04-2a4e67f8bf66/sh+768+tsx+2.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Slow Hand All That Tuna 768TSX"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0b957f0c-3b82-412d-b2e8-9d73339ba5ab/sh+768+tsx+3.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Slow Hand All That Tuna 768TSX"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/dd75eb79-b6ba-43a8-b43d-d4069a57a3c3/sh+768+tsx.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Slow Hand All That Tuna 768TSX"
+      }
+    ]
+  }
+}

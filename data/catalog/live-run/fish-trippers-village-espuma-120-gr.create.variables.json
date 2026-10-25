@@ -1,0 +1,140 @@
+{
+  "input": {
+    "handle": "fish-trippers-village-espuma-120-gr",
+    "title": "FishTrippers Village Espuma 220",
+    "descriptionHtml": "<h2 style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></h2><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The Fish Trippers Village Espuma 220 is a special popper. Designed as a Pencil Popper it draws a long bubble trail during long strokes. With short twitches the lure breaks out in zig-zag. The Espuma 220 is a great lure when fishing on overfished reefs because of its unique running behaviour.</p><ul data-rte-list=\"default\"><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Lenght 220 mm </p></li><li><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 120</p></li></ul><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">All Fish Trippers lures are 100% handmade from polyurethane and very resistant!</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Recommended hook: BKK Lone Diablo 9/0</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "giant trevally",
+      "tun",
+      "snap",
+      "king",
+      "FishTripper Village",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-poppers",
+      "legacy-category-lures-floating"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Silver Black"
+          },
+          {
+            "name": "Silver Blue"
+          },
+          {
+            "name": "Silver Blue Yellow Head"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ9887077",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Silver Black"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ1562135",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Silver Blue"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ6027343",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Silver Blue Yellow Head"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 4
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/54716a1e-3382-4333-9dc1-30d5911aa8a0/Espuma+Silver+Black.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Espuma 220"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/93389476-463f-4937-88e3-849597bc87a7/Espuma+Silver+blue.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Espuma 220"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e2399ae3-1d14-40cd-846c-1eeceb26b525/Espuma+silver_blue+Yellow+head.jpg",
+        "contentType": "IMAGE",
+        "alt": "FishTrippers Village Espuma 220"
+      }
+    ]
+  }
+}

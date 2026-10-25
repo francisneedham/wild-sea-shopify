@@ -1,0 +1,18 @@
+{
+  "rod_products": 30,
+  "products_with_product_metafields": 30,
+  "products_with_numeric_product_specs": 29,
+  "variant_models_with_numeric_variant_specs": 2,
+  "product_metafields": 196,
+  "variant_metafields": 10,
+  "total_verified_values": 206,
+  "new_values_this_pass": 198,
+  "previous_pilot_values": 8,
+  "review_file": "../rod-spec-reviewed.json",
+  "source_exceptions": [
+    "Kusanagi P78HH: conflicting PE ratings; PE blank",
+    "Full Hands Onikiri 100H: unqualified drag; drag blank",
+    "Rodcom Straight Shore: jig and plug weights differ; cast blank",
+    "MC Works Raging Bull 98XS2: ambiguous 9.8ft length; normalized length blank"
+  ]
+}

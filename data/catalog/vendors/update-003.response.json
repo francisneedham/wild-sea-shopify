@@ -1,0 +1,82 @@
+{
+  "v0": {
+    "product": {
+      "id": "gid://shopify/Product/15439417016433",
+      "handle": "good-bait-fzr-188f",
+      "vendor": "Good Bait"
+    },
+    "userErrors": []
+  },
+  "v1": {
+    "product": {
+      "id": "gid://shopify/Product/15439417376881",
+      "handle": "good-bait-monsterzone-210f",
+      "vendor": "Good Bait"
+    },
+    "userErrors": []
+  },
+  "v2": {
+    "product": {
+      "id": "gid://shopify/Product/15439417671793",
+      "handle": "good-bait-number-five-148f",
+      "vendor": "Good Bait"
+    },
+    "userErrors": []
+  },
+  "v3": {
+    "product": {
+      "id": "gid://shopify/Product/15439417835633",
+      "handle": "good-bait-respect-190f",
+      "vendor": "Good Bait"
+    },
+    "userErrors": []
+  },
+  "v4": {
+    "product": {
+      "id": "gid://shopify/Product/15439418097777",
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "vendor": "Hammerhead"
+    },
+    "userErrors": []
+  },
+  "v5": {
+    "product": {
+      "id": "gid://shopify/Product/15439418458225",
+      "handle": "hammerhead-tobi-140-sus",
+      "vendor": "Hammerhead"
+    },
+    "userErrors": []
+  },
+  "v6": {
+    "product": {
+      "id": "gid://shopify/Product/15439418785905",
+      "handle": "indigoblue-musya",
+      "vendor": "Indigo Blue"
+    },
+    "userErrors": []
+  },
+  "v7": {
+    "product": {
+      "id": "gid://shopify/Product/15439419113585",
+      "handle": "jumprize-lalapen",
+      "vendor": "Jumprize"
+    },
+    "userErrors": []
+  },
+  "v8": {
+    "product": {
+      "id": "gid://shopify/Product/15439419408497",
+      "handle": "jumprize-monster-absorber-82-8",
+      "vendor": "Jumprize"
+    },
+    "userErrors": []
+  },
+  "v9": {
+    "product": {
+      "id": "gid://shopify/Product/15439419703409",
+      "handle": "kikuchi-craft-bubble-swimmer",
+      "vendor": "Kikuchi Craft"
+    },
+    "userErrors": []
+  }
+}

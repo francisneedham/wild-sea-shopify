@@ -1,0 +1,17 @@
+{
+  "id": "gid://shopify/MetaobjectDefinition/37090918513",
+  "definition": {
+    "fieldDefinitions": [
+      {
+        "create": {
+          "key": "status",
+          "name": "Status",
+          "type": "single_line_text_field",
+          "validations": [
+            { "name": "choices", "value": "[\"available\",\"last slots\",\"closed\"]" }
+          ]
+        }
+      }
+    ]
+  }
+}

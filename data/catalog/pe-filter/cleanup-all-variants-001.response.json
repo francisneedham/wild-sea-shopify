@@ -1,0 +1,1410 @@
+{
+  "productVariants": {
+    "edges": [
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjE0MDI3MywibGFzdF92YWx1ZSI6IjY3ODM3MDI2MTQwMjczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026140273",
+          "sku": "SQ1797578",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjE3MzA0MSwibGFzdF92YWx1ZSI6IjY3ODM3MDI2MTczMDQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026173041",
+          "sku": "SQ0216913",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjIwNTgwOSwibGFzdF92YWx1ZSI6IjY3ODM3MDI2MjA1ODA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026205809",
+          "sku": "SQ5475142",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjIzODU3NywibGFzdF92YWx1ZSI6IjY3ODM3MDI2MjM4NTc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026238577",
+          "sku": "SQ3582499",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjI3MTM0NSwibGFzdF92YWx1ZSI6IjY3ODM3MDI2MjcxMzQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026271345",
+          "sku": "SQ2734823",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjMwNDExMywibGFzdF92YWx1ZSI6IjY3ODM3MDI2MzA0MTEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026304113",
+          "sku": "SQ9463989",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjMzNjg4MSwibGFzdF92YWx1ZSI6IjY3ODM3MDI2MzM2ODgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026336881",
+          "sku": "SQ2895747",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjM2OTY0OSwibGFzdF92YWx1ZSI6IjY3ODM3MDI2MzY5NjQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026369649",
+          "sku": "SQ5830182",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjQwMjQxNywibGFzdF92YWx1ZSI6IjY3ODM3MDI2NDAyNDE3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026402417",
+          "sku": "SQ2404280",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjQzNTE4NSwibGFzdF92YWx1ZSI6IjY3ODM3MDI2NDM1MTg1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026435185",
+          "sku": "SQ5833797",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjQ2Nzk1MywibGFzdF92YWx1ZSI6IjY3ODM3MDI2NDY3OTUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026467953",
+          "sku": "SQ3088240",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjUwMDcyMSwibGFzdF92YWx1ZSI6IjY3ODM3MDI2NTAwNzIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026500721",
+          "sku": "SQ7193431",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjUzMzQ4OSwibGFzdF92YWx1ZSI6IjY3ODM3MDI2NTMzNDg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026533489",
+          "sku": "SQ7496866",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2NzgzNzAyNjU2NjI1NywibGFzdF92YWx1ZSI6IjY3ODM3MDI2NTY2MjU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67837026566257",
+          "sku": "SQ0400514",
+          "product": {
+            "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTI5NjkyNDc4NSwibGFzdF92YWx1ZSI6IjY3ODQxMjk2OTI0Nzg1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841296924785",
+          "sku": "SQ6919783",
+          "product": {
+            "handle": "atlantis-flapper-170f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTI5Njk1NzU1MywibGFzdF92YWx1ZSI6IjY3ODQxMjk2OTU3NTUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841296957553",
+          "sku": "SQ1222574",
+          "product": {
+            "handle": "atlantis-flapper-170f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTI5Njk5MDMyMSwibGFzdF92YWx1ZSI6IjY3ODQxMjk2OTkwMzIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841296990321",
+          "sku": "SQ2779521",
+          "product": {
+            "handle": "atlantis-flapper-170f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTI5ODU5NTk1MywibGFzdF92YWx1ZSI6IjY3ODQxMjk4NTk1OTUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841298595953",
+          "sku": "SQ0080832",
+          "product": {
+            "handle": "atlantis-funky-soda-170-85-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTI5ODYyODcyMSwibGFzdF92YWx1ZSI6IjY3ODQxMjk4NjI4NzIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841298628721",
+          "sku": "SQ2202787",
+          "product": {
+            "handle": "atlantis-funky-soda-170-85-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDI5OTg4OSwibGFzdF92YWx1ZSI6IjY3ODQxMzAwMjk5ODg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300299889",
+          "sku": "SQ8425406",
+          "product": {
+            "handle": "atoll-giulia",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDMzMjY1NywibGFzdF92YWx1ZSI6IjY3ODQxMzAwMzMyNjU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300332657",
+          "sku": "SQ1576048",
+          "product": {
+            "handle": "atoll-giulia",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDM2NTQyNSwibGFzdF92YWx1ZSI6IjY3ODQxMzAwMzY1NDI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300365425",
+          "sku": "SQ9275255",
+          "product": {
+            "handle": "atoll-giulia",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDU2MjAzMywibGFzdF92YWx1ZSI6IjY3ODQxMzAwNTYyMDMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300562033",
+          "sku": "SQ5019616",
+          "product": {
+            "handle": "atoll-giulia-plastic",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDU5NDgwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzAwNTk0ODAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300594801",
+          "sku": "SQ3038090",
+          "product": {
+            "handle": "atoll-giulia-plastic",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDYyNzU2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzAwNjI3NTY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300627569",
+          "sku": "SQ9447993",
+          "product": {
+            "handle": "atoll-giulia-plastic",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDY2MDMzNywibGFzdF92YWx1ZSI6IjY3ODQxMzAwNjYwMzM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300660337",
+          "sku": "SQ4067205",
+          "product": {
+            "handle": "atoll-giulia-plastic",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDc1ODY0MSwibGFzdF92YWx1ZSI6IjY3ODQxMzAwNzU4NjQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300758641",
+          "sku": "SQ0767144",
+          "product": {
+            "handle": "atoll-misao",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDc5MTQwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzAwNzkxNDA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300791409",
+          "sku": "SQ7285006",
+          "product": {
+            "handle": "atoll-misao",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDgyNDE3NywibGFzdF92YWx1ZSI6IjY3ODQxMzAwODI0MTc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300824177",
+          "sku": "SQ1884179",
+          "product": {
+            "handle": "atoll-misao",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDg1Njk0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzAwODU2OTQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300856945",
+          "sku": "SQ9396740",
+          "product": {
+            "handle": "atoll-misao",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDg4OTcxMywibGFzdF92YWx1ZSI6IjY3ODQxMzAwODg5NzEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300889713",
+          "sku": "SQ5816270",
+          "product": {
+            "handle": "atoll-misao",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMDkyMjQ4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzAwOTIyNDgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841300922481",
+          "sku": "SQ5280473",
+          "product": {
+            "handle": "atoll-misao",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMTY0MzM3NywibGFzdF92YWx1ZSI6IjY3ODQxMzAxNjQzMzc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841301643377",
+          "sku": "SQ2943196",
+          "product": {
+            "handle": "cb-one-rudolf-260",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMjE2NzY2NSwibGFzdF92YWx1ZSI6IjY3ODQxMzAyMTY3NjY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841302167665",
+          "sku": "Black",
+          "product": {
+            "handle": "cb-one-ryan-230",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwMzcwNzc2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzAzNzA3NzYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841303707761",
+          "sku": "SQ0108475",
+          "product": {
+            "handle": "cb-one-zorro-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNDQyODY1NywibGFzdF92YWx1ZSI6IjY3ODQxMzA0NDI4NjU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841304428657",
+          "sku": "SQ2495051",
+          "product": {
+            "handle": "craftbait-gt3-130-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNDQ2MTQyNSwibGFzdF92YWx1ZSI6IjY3ODQxMzA0NDYxNDI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841304461425",
+          "sku": "SQ6390907",
+          "product": {
+            "handle": "craftbait-gt3-130-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNDQ5NDE5MywibGFzdF92YWx1ZSI6IjY3ODQxMzA0NDk0MTkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841304494193",
+          "sku": "SQ7486479",
+          "product": {
+            "handle": "craftbait-gt3-130-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNTUxMDAwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzA1NTEwMDAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841305510001",
+          "sku": "SQ2586645",
+          "product": {
+            "handle": "expedition-trucker-cap",
+            "productType": "Clothing"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNjc1NTE4NSwibGFzdF92YWx1ZSI6IjY3ODQxMzA2NzU1MTg1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841306755185",
+          "sku": "SQ9887077",
+          "product": {
+            "handle": "fish-trippers-village-espuma-120-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNjc4Nzk1MywibGFzdF92YWx1ZSI6IjY3ODQxMzA2Nzg3OTUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841306787953",
+          "sku": "SQ1562135",
+          "product": {
+            "handle": "fish-trippers-village-espuma-120-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNjgyMDcyMSwibGFzdF92YWx1ZSI6IjY3ODQxMzA2ODIwNzIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841306820721",
+          "sku": "SQ6027343",
+          "product": {
+            "handle": "fish-trippers-village-espuma-120-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNzgzNjUyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzA3ODM2NTI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841307836529",
+          "sku": "SQ5719846",
+          "product": {
+            "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNzg2OTI5NywibGFzdF92YWx1ZSI6IjY3ODQxMzA3ODY5Mjk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841307869297",
+          "sku": "SQ8340518",
+          "product": {
+            "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNzkwMjA2NSwibGFzdF92YWx1ZSI6IjY3ODQxMzA3OTAyMDY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841307902065",
+          "sku": "SQ2416371",
+          "product": {
+            "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNzkzNDgzMywibGFzdF92YWx1ZSI6IjY3ODQxMzA3OTM0ODMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841307934833",
+          "sku": "SQ0653809",
+          "product": {
+            "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwNzk2NzYwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzA3OTY3NjAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841307967601",
+          "sku": "SQ3470066",
+          "product": {
+            "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwODAwMDM2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzA4MDAwMzY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841308000369",
+          "sku": "SQ9920592",
+          "product": {
+            "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwODAzMzEzNywibGFzdF92YWx1ZSI6IjY3ODQxMzA4MDMzMTM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841308033137",
+          "sku": "SQ5225677",
+          "product": {
+            "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwODA2NTkwNSwibGFzdF92YWx1ZSI6IjY3ODQxMzA4MDY1OTA1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841308065905",
+          "sku": "SQ1847202",
+          "product": {
+            "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTE0NzI0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzA5MTQ3MjQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309147249",
+          "sku": "SQ3639567",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTE4MDAxNywibGFzdF92YWx1ZSI6IjY3ODQxMzA5MTgwMDE3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309180017",
+          "sku": "SQ6965070",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTIxMjc4NSwibGFzdF92YWx1ZSI6IjY3ODQxMzA5MjEyNzg1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309212785",
+          "sku": "SQ6491760",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTI0NTU1MywibGFzdF92YWx1ZSI6IjY3ODQxMzA5MjQ1NTUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309245553",
+          "sku": "SQ4039317",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTI3ODMyMSwibGFzdF92YWx1ZSI6IjY3ODQxMzA5Mjc4MzIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309278321",
+          "sku": "SQ3644600",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTMxMTA4OSwibGFzdF92YWx1ZSI6IjY3ODQxMzA5MzExMDg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309311089",
+          "sku": "SQ4350897",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTM0Mzg1NywibGFzdF92YWx1ZSI6IjY3ODQxMzA5MzQzODU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309343857",
+          "sku": "SQ7163674",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTM3NjYyNSwibGFzdF92YWx1ZSI6IjY3ODQxMzA5Mzc2NjI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309376625",
+          "sku": "SQ7540757",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTQwOTM5MywibGFzdF92YWx1ZSI6IjY3ODQxMzA5NDA5MzkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309409393",
+          "sku": "SQ2763829",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTQ0MjE2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzA5NDQyMTYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309442161",
+          "sku": "SQ9949874",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTQ3NDkyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzA5NDc0OTI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309474929",
+          "sku": "SQ1924530",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTUwNzY5NywibGFzdF92YWx1ZSI6IjY3ODQxMzA5NTA3Njk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309507697",
+          "sku": "SQ1070246",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTU0MDQ2NSwibGFzdF92YWx1ZSI6IjY3ODQxMzA5NTQwNDY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309540465",
+          "sku": "SQ4389930",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTU3MzIzMywibGFzdF92YWx1ZSI6IjY3ODQxMzA5NTczMjMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309573233",
+          "sku": "SQ8402685",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTYwNjAwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzA5NjA2MDAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309606001",
+          "sku": "SQ9480444",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTYzODc2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzA5NjM4NzY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309638769",
+          "sku": "SQ5421325",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMwOTY3MTUzNywibGFzdF92YWx1ZSI6IjY3ODQxMzA5NjcxNTM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841309671537",
+          "sku": "SQ5187126",
+          "product": {
+            "handle": "fishtripper-village-le-grand-tango-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxMTIxMTYzMywibGFzdF92YWx1ZSI6IjY3ODQxMzExMjExNjMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841311211633",
+          "sku": "SQ5154028",
+          "product": {
+            "handle": "fishtrippers-village-concierto-280",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxMTI0NDQwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzExMjQ0NDAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841311244401",
+          "sku": "SQ0986186",
+          "product": {
+            "handle": "fishtrippers-village-concierto-280",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxMTI3NzE2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzExMjc3MTY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841311277169",
+          "sku": "SQ1296625",
+          "product": {
+            "handle": "fishtrippers-village-concierto-280",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxMTMwOTkzNywibGFzdF92YWx1ZSI6IjY3ODQxMzExMzA5OTM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841311309937",
+          "sku": "SQ3936196",
+          "product": {
+            "handle": "fishtrippers-village-concierto-280",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxMTM0MjcwNSwibGFzdF92YWx1ZSI6IjY3ODQxMzExMzQyNzA1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841311342705",
+          "sku": "SQ3922828",
+          "product": {
+            "handle": "fishtrippers-village-concierto-280",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxMTM3NTQ3MywibGFzdF92YWx1ZSI6IjY3ODQxMzExMzc1NDczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841311375473",
+          "sku": "SQ3703796",
+          "product": {
+            "handle": "fishtrippers-village-concierto-280",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxMjU1NTEyMSwibGFzdF92YWx1ZSI6IjY3ODQxMzEyNTU1MTIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841312555121",
+          "sku": "SQ8727577",
+          "product": {
+            "handle": "floating-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxMjU4Nzg4OSwibGFzdF92YWx1ZSI6IjY3ODQxMzEyNTg3ODg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841312587889",
+          "sku": "SQ4176743",
+          "product": {
+            "handle": "floating-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxMjYyMDY1NywibGFzdF92YWx1ZSI6IjY3ODQxMzEyNjIwNjU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841312620657",
+          "sku": "SQ4821465",
+          "product": {
+            "handle": "floating-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxMjY1MzQyNSwibGFzdF92YWx1ZSI6IjY3ODQxMzEyNjUzNDI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841312653425",
+          "sku": "SQ0653018",
+          "product": {
+            "handle": "floating-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxMjY4NjE5MywibGFzdF92YWx1ZSI6IjY3ODQxMzEyNjg2MTkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841312686193",
+          "sku": "SQ8168902",
+          "product": {
+            "handle": "floating-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDU1Mzk2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzE0NTUzOTY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314553969",
+          "sku": "SQ8441079",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDU4NjczNywibGFzdF92YWx1ZSI6IjY3ODQxMzE0NTg2NzM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314586737",
+          "sku": "SQ8241258",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDYxOTUwNSwibGFzdF92YWx1ZSI6IjY3ODQxMzE0NjE5NTA1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314619505",
+          "sku": "SQ3121307",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDY1MjI3MywibGFzdF92YWx1ZSI6IjY3ODQxMzE0NjUyMjczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314652273",
+          "sku": "SQ9954176",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDY4NTA0MSwibGFzdF92YWx1ZSI6IjY3ODQxMzE0Njg1MDQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314685041",
+          "sku": "SQ8361686",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDcxNzgwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzE0NzE3ODA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314717809",
+          "sku": "SQ2422357",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDc1MDU3NywibGFzdF92YWx1ZSI6IjY3ODQxMzE0NzUwNTc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314750577",
+          "sku": "SQ3660400",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDc4MzM0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzE0NzgzMzQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314783345",
+          "sku": "SQ2750120",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDgxNjExMywibGFzdF92YWx1ZSI6IjY3ODQxMzE0ODE2MTEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314816113",
+          "sku": "SQ7711059",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDg0ODg4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzE0ODQ4ODgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314848881",
+          "sku": "SQ7461328",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDg4MTY0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzE0ODgxNjQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314881649",
+          "sku": "SQ6899363",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDkxNDQxNywibGFzdF92YWx1ZSI6IjY3ODQxMzE0OTE0NDE3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314914417",
+          "sku": "SQ8806675",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDk0NzE4NSwibGFzdF92YWx1ZSI6IjY3ODQxMzE0OTQ3MTg1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314947185",
+          "sku": "SQ2533420",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNDk3OTk1MywibGFzdF92YWx1ZSI6IjY3ODQxMzE0OTc5OTUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841314979953",
+          "sku": "SQ5868404",
+          "product": {
+            "handle": "floating-22cm-120g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNTQ3MTQ3MywibGFzdF92YWx1ZSI6IjY3ODQxMzE1NDcxNDczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841315471473",
+          "sku": "SQ0962319",
+          "product": {
+            "handle": "floating-24cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNTUwNDI0MSwibGFzdF92YWx1ZSI6IjY3ODQxMzE1NTA0MjQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841315504241",
+          "sku": "SQ3602819",
+          "product": {
+            "handle": "floating-24cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNTUzNzAwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzE1NTM3MDA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841315537009",
+          "sku": "SQ2640495",
+          "product": {
+            "handle": "floating-24cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNTU2OTc3NywibGFzdF92YWx1ZSI6IjY3ODQxMzE1NTY5Nzc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841315569777",
+          "sku": "SQ0412405",
+          "product": {
+            "handle": "floating-24cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNTYwMjU0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzE1NjAyNTQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841315602545",
+          "sku": "SQ1718712",
+          "product": {
+            "handle": "floating-24cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNTYzNTMxMywibGFzdF92YWx1ZSI6IjY3ODQxMzE1NjM1MzEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841315635313",
+          "sku": "SQ9815424",
+          "product": {
+            "handle": "floating-24cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNTY2ODA4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzE1NjY4MDgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841315668081",
+          "sku": "SQ7294551",
+          "product": {
+            "handle": "floating-24cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNTcwMDg0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzE1NzAwODQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841315700849",
+          "sku": "SQ5154938",
+          "product": {
+            "handle": "floating-24cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      }
+    ],
+    "pageInfo": {
+      "hasNextPage": true,
+      "endCursor": "eyJsYXN0X2lkIjo2Nzg0MTMxNTcwMDg0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzE1NzAwODQ5In0="
+    }
+  }
+}

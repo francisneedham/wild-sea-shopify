@@ -7,10 +7,50 @@
   quick-buy once a full option selection is made.
 
     @param {product} product - Product object to render
-    @param {boolean} [enable_quick_buy] - Enables quick buy CTA when possible
+    @param {string} [active_colors] - Comma-separated color-family metaobject GIDs from the active color filter; the card then shows the first matching variant (image, price, link).
+    @param {boolean} [enable_quick_buy] - Enables quick buy CTA (and inline variant picker) below the price row
+    @example
+    {% render 'product-card', product: product, enable_quick_buy: true %}
 {% enddoc %}
 
 {%- liquid
+    # Color filter: show the variant of the filtered color (prefer available with its own image).
+    assign card_variant = null
+    assign color_list = ',' | append: active_colors | append: ','
+    if active_colors != blank
+        for variant in product.variants
+            assign color_ref = variant.metafields.specs.color_family.value
+            if color_ref == blank
+                continue
+            endif
+            assign color_id = color_ref.system.id | append: ''
+            unless color_id contains 'gid://'
+                assign color_id = 'gid://shopify/Metaobject/' | append: color_id
+            endunless
+            assign color_token = ',' | append: color_id | append: ','
+            unless color_list contains color_token
+                continue
+            endunless
+            if card_variant == null
+                assign card_variant = variant
+            endif
+            if variant.available and variant.featured_media
+                assign card_variant = variant
+                break
+            endif
+        endfor
+    endif
+    assign card_image = product.featured_image
+    assign card_url = product.url
+    assign card_price = product.price
+    if card_variant
+        assign card_url = card_variant.url
+        assign card_price = card_variant.price
+        if card_variant.featured_media
+            assign card_image = card_variant.featured_media.preview_image
+        endif
+    endif
+
     assign quick_buy_variant = null
     assign show_variant_picker = false
 
@@ -22,30 +62,56 @@
 -%}
 
 <article class="collection-product" data-js="collection-product-card">
-    {% if product.featured_image %}
-        {% render 'image',
-            class: 'collection-product__image',
-            image: product.featured_image,
-            url: product.url,
-            width: 400,
-            height: 400,
-            crop: 'center'
-        %}
-    {% endif %}
-
-    <div class="collection-product__content space-y-2">
-        <p>{{ product.title | escape | link_to: product.url }}</p>
-        <p data-js="card-price">{{ product.price | money }}</p>
-
-        {% if show_variant_picker %}
-            {% render 'product-card-variant-picker', product: product %}
-        {% endif %}
-
-        {% render 'product-card-quick-buy',
-            product: product,
-            quick_buy_variant: quick_buy_variant,
-            enable_quick_buy: enable_quick_buy,
-            show_variant_picker: show_variant_picker
-        %}
+  <a class="collection-product__link" href="{{ card_url }}">
+    <div class="collection-product__image" data-reveal="image">
+      {% if card_image %}
+        {{ card_image | image_url: width: 900 | image_tag: widths: '300, 450, 600, 900', sizes: '(min-width: 1100px) 25vw, (min-width: 760px) 33vw, 50vw', alt: card_image.alt | default: product.title, loading: 'lazy' }}
+      {% else %}
+        {{ 'product-1' | placeholder_svg_tag }}
+      {% endif %}
+      {% unless product.available %}<span class="collection-product__badge">{{ 'collections.sold_out' | t }}</span>{% endunless %}
     </div>
+    {%- capture kicker -%}{{ product.vendor | escape }}{% if product.vendor != blank and product.type != blank %} · {% endif %}{{ product.type | escape }}{%- endcapture -%}
+    {% if kicker != blank %}<span class="collection-product__kicker">{{ kicker }}</span>{% endif %}
+    <h3>{{ product.title | escape }}</h3>
+  </a>
+  <div class="collection-product__price-row">
+    <span data-js="card-price">{{ card_price | money }}</span>
+    <a class="collection-product__arrow" href="{{ card_url }}" aria-label="{{ 'collections.view_product' | t: title: product.title | escape }}" tabindex="-1">{% render 'lucide-icon', name: 'arrow-up-right' %}</a>
+  </div>
+
+  {% if enable_quick_buy %}
+    <div class="collection-product__buy">
+      {% if show_variant_picker %}
+        {% render 'product-card-variant-picker', product: product %}
+      {% endif %}
+      {% render 'product-card-quick-buy',
+        product: product,
+        quick_buy_variant: quick_buy_variant,
+        enable_quick_buy: enable_quick_buy,
+        show_variant_picker: show_variant_picker
+      %}
+    </div>
+  {% endif %}
 </article>
+
+{% stylesheet %}
+  /* Legacy .product-card: square black frame, contained image, kicker, title, price row with arrow. */
+  .collection-product { min-width: 0; }
+  .collection-product a { color: inherit; text-decoration: none; }
+  .collection-product__link { display: block; }
+  .collection-product__image { position: relative; aspect-ratio: 1; overflow: hidden; background: #000; }
+  .collection-product__image img, .collection-product__image svg { width: 100%; height: 100%; object-fit: cover; }
+  .collection-product__image img { transition: transform .5s; }
+  .collection-product:hover .collection-product__image img { transform: scale(1.06); }
+  .collection-product__badge { position: absolute; top: 12px; left: 12px; z-index: 2; padding: 8px 10px; background: #e8eadd; color: #102c2d; font-size: var(--text-label); font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
+  .collection-product__kicker { display: block; margin: 18px 0 9px; font-size: var(--text-label); letter-spacing: .15em; text-transform: uppercase; color: color-mix(in srgb, var(--theme-text) 62%, transparent); }
+  .collection-product h3 { margin: 0 0 8px; font-family: var(--font-body-family); font-size: var(--text-sm); font-weight: 500; line-height: 1.6; text-transform: none; letter-spacing: 0; }
+  .collection-product__price-row { display: flex; justify-content: space-between; align-items: center; font-size: var(--text-sm); }
+  .collection-product__arrow { display: inline-flex; padding: 8px; margin-right: -8px; transition: opacity .2s; }
+  .collection-product__arrow:hover { opacity: .65; }
+  .collection-product__arrow svg { width: 15px; height: 15px; }
+  .collection-product__buy { margin-top: 12px; }
+  .collection-product__buy [data-js='collection-quick-buy'], .collection-product__buy > a { display: inline-flex; padding: 9px 12px; border: 1px solid var(--theme-border); font-size: var(--text-label); text-transform: uppercase; letter-spacing: .08em; }
+  .collection-product [data-js='card-variant-picker'] { margin: 12px 0; }
+{% endstylesheet %}

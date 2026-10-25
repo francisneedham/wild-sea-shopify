@@ -1,0 +1,29 @@
+{
+  "store": "wild-sea-expeditions-fvadj9fv.myshopify.com",
+  "status": "complete_with_source_media_issue",
+  "products_active": 87,
+  "variants_verified": 336,
+  "inventory_units_verified": 407,
+  "products_published_to_each_channel": 87,
+  "channels": ["Negozio online", "POS"],
+  "source_image_references": 388,
+  "shopify_images_ready": 387,
+  "missing_source_images": [
+    {
+      "product_handle": "floating-22cm-120g",
+      "product_title": "Glide Floating 22cm - 120g",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1697634191327-BFC56L3XDL6IB7LJGAJZ/stickpop-22-nemo.jpg",
+      "source_result": "HTTP 404",
+      "other_product_images_ready": 13
+    }
+  ],
+  "shopify_normalized_handles": {
+    "truth-ocean-sprinter-7510-standard-black-model-": "truth-ocean-sprinter-7510-standard-black-model",
+    "truth-white-insight-7210-standard-black-model-": "truth-white-insight-7210-standard-black-model"
+  },
+  "evidence": [
+    "data/catalog/live-run/journal.json",
+    "data/catalog/live-run/after-import.catalog-summary.response.json",
+    "data/catalog/live-run/audit-*.verify-product.response.json"
+  ]
+}

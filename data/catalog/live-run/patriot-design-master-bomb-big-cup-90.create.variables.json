@@ -1,0 +1,291 @@
+{
+  "input": {
+    "handle": "patriot-design-master-bomb-big-cup-90",
+    "title": "Patriot Design Master Bomb Big Cup 90",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Even in rough sea conditions fantastic popping control is available to the hunter with this BIG-CUP model.</span><br /><span>There is none of the stress anglers experience fighting to get their lures not only to dive in rough conditions but to stay submerged for more than a heartbeat.</span><br /><span>The Masterd Bomb BIG-CUP dives superbly and doesn’t rush for the surface, instead lurking in and around the bubbles it created.</span><br /><span>The angler can take great pleasure in his rod work actioning the Masterd Bomb BIG-CUP to his hearts content.</span><br /><span>For sure in flat conditions too its explosive power and very existence is larger than life.</span><br /><span>It is an irresistible target for any large GT in the vicinity and it will not be ignored.</span><br /><span>When popping, the MB Masterd Bomb BIG-CUP swallows a lot of air and produces huge bubbles and noises and acts like a parachute under the water.</span><br /><span>This allows it to stay very close to the bubbles it creates and is the reason for its very high average hook-up percentage.</span><br /><span>Missed bites are few and far between and this is the main Masterd Bomb BIG-CUP signature characteristic.</span><br /><span>Both the short touch loud popping action and the Long Jerk diving action produce excellent results when using the Masterd Bomb BIG-CUP.</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>140 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 90</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "fishing lure",
+      "saltwater lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lures",
+      "Patriot Design lure",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Yellow"
+          },
+          {
+            "name": "Fusilier"
+          },
+          {
+            "name": "BgMoray"
+          },
+          {
+            "name": "Majiora"
+          },
+          {
+            "name": "SkipJack"
+          },
+          {
+            "name": "AbalonColor"
+          },
+          {
+            "name": "NaturalBait"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ8875384",
+        "price": "65.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Yellow"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ5417582",
+        "price": "65.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Fusilier"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ9259378",
+        "price": "65.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "BgMoray"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4370188",
+        "price": "65.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Majiora"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ5182833",
+        "price": "65.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "SkipJack"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1762362",
+        "price": "65.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "AbalonColor"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1396933",
+        "price": "65.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "NaturalBait"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.15,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4a0676ac-b053-4e1a-87c9-36a37f188ec6/IMG_20260513_230530_61599630569938.jpg",
+        "contentType": "IMAGE",
+        "alt": "Patriot Design Master Bomb Big Cup 90"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/28744932-01c0-497f-b384-13c007826be0/IMG_20260513_230605_61599638974781.jpg",
+        "contentType": "IMAGE",
+        "alt": "Patriot Design Master Bomb Big Cup 90"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3bb22e03-564a-46d5-ab7a-ec43413faf3b/IMG_20260513_230619_61599656687021.jpg",
+        "contentType": "IMAGE",
+        "alt": "Patriot Design Master Bomb Big Cup 90"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0d562469-15a5-4e32-b740-1305ec11d96d/IMG_20260513_230628_61599703256969.jpg",
+        "contentType": "IMAGE",
+        "alt": "Patriot Design Master Bomb Big Cup 90"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/731d6e94-9a2a-489c-a0af-71360f66ed8b/IMG_20260513_230636_61599728447177.jpg",
+        "contentType": "IMAGE",
+        "alt": "Patriot Design Master Bomb Big Cup 90"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b0d33d2b-addd-4398-a108-bb942ce3b18d/IMG_20260513_230816_61599762410406.jpg",
+        "contentType": "IMAGE",
+        "alt": "Patriot Design Master Bomb Big Cup 90"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a5218cc5-d4af-4d77-bdb4-5d3faf6e1db1/IMG_20260513_231119_61599806770562.jpg",
+        "contentType": "IMAGE",
+        "alt": "Patriot Design Master Bomb Big Cup 90"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6f8ec339-d4a5-40ec-acb2-9bf463c7c57f/patriot.jpg",
+        "contentType": "IMAGE",
+        "alt": "Patriot Design Master Bomb Big Cup 90"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+query AuditSpecDefinitions {
+  products: metafieldDefinitions(ownerType: PRODUCT, first: 100) {
+    nodes { id namespace key type { name } access { storefront } }
+  }
+  variants: metafieldDefinitions(ownerType: PRODUCTVARIANT, first: 100) {
+    nodes { id namespace key type { name } access { storefront } }
+  }
+}

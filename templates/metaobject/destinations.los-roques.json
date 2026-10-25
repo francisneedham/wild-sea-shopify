@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "hero": {
+      "type": "destination-hero",
+      "settings": {
+        "kicker": "Guided fishing expedition",
+        "tagline": "Beyond the flats.",
+        "intro": "Transparent flats, coral islands and a varied Caribbean fly fishery.",
+        "link_label": "Explore the fishing",
+        "link": "#the-fishing"
+      }
+    },
+    "highlights": {
+      "type": "destination-cards",
+      "settings": {
+        "anchor": "the-fishing",
+        "kicker": "The expedition",
+        "heading": "Explore the fishing.",
+        "intro": "Wade clear Caribbean flats for bonefish, permit and tarpon across the islands and cays of the Los Roques Archipelago."
+      },
+      "blocks": {
+        "card_1": {
+          "type": "card",
+          "settings": {
+            "kicker": "The archipelago",
+            "heading": "A world of flats",
+            "text": "<p>Explore shallow flats and island edges on foot or with a guide, from Gran Roque across the archipelago.</p>"
+          }
+        },
+        "card_2": {
+          "type": "card",
+          "settings": {
+            "kicker": "The species",
+            "heading": "Beyond bonefish",
+            "text": "<p>Bonefish are the signature target; permit, tarpon, snook, jacks, barracuda and triggerfish add variety.</p>"
+          }
+        },
+        "card_3": {
+          "type": "card",
+          "settings": {
+            "kicker": "The window",
+            "heading": "Fish year-round",
+            "text": "<p>The legacy guide describes year-round fishing, with different windows favoring bonefish and larger tarpon.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "card_1",
+        "card_2",
+        "card_3"
+      ]
+    },
+    "enquiry": {
+      "type": "destination-cta",
+      "settings": {
+        "kicker": "Get in touch",
+        "heading": "Plan your next trip.",
+        "text": "Tell us your preferred window. Our team will confirm current departures and arrangements.",
+        "link_label": "Enquire about Los Roques",
+        "link": "mailto:fishing@wildseaexpedition.com?subject=Los%20Roques%20expedition"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "highlights",
+    "enquiry"
+  ]
+}

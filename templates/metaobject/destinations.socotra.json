@@ -1,0 +1,734 @@
+{
+  "sections": {
+    "hero": {
+      "type": "destination-hero",
+      "settings": {
+        "original": "socotra-0",
+        "image_alt": "A Wildsea angler with an enormous giant trevally caught in Socotra",
+        "kicker": "Guided fishing expedition",
+        "tagline": "Monster GT.",
+        "intro": "Big poppers. Wild water. Giant trevally.\nSix full fishing days with the guides who know this island.",
+        "button_label": "Book your fishing trip",
+        "scroll_label": "Explore the fishing",
+        "scroll_anchor": "the-fishing"
+      }
+    },
+    "nav": {
+      "type": "destination-nav",
+      "settings": {
+        "label": "Explore this fishing trip"
+      },
+      "blocks": {
+        "link-1": {
+          "type": "link",
+          "settings": {
+            "label": "The fishing",
+            "anchor": "the-fishing"
+          }
+        },
+        "link-2": {
+          "type": "link",
+          "settings": {
+            "label": "Seasons",
+            "anchor": "seasons"
+          }
+        },
+        "link-3": {
+          "type": "link",
+          "settings": {
+            "label": "Trip options",
+            "anchor": "trip-options"
+          }
+        },
+        "link-4": {
+          "type": "link",
+          "settings": {
+            "label": "Boats & camp",
+            "anchor": "boats-camp"
+          }
+        },
+        "link-5": {
+          "type": "link",
+          "settings": {
+            "label": "Gallery",
+            "anchor": "trip-gallery"
+          }
+        },
+        "link-6": {
+          "type": "link",
+          "settings": {
+            "label": "Equipment",
+            "anchor": "equipment"
+          }
+        },
+        "link-7": {
+          "type": "link",
+          "settings": {
+            "label": "What’s included",
+            "anchor": "inclusions"
+          }
+        }
+      },
+      "block_order": [
+        "link-1",
+        "link-2",
+        "link-3",
+        "link-4",
+        "link-5",
+        "link-6",
+        "link-7"
+      ]
+    },
+    "fishing": {
+      "type": "destination-editorial",
+      "settings": {
+        "anchor": "the-fishing",
+        "background": "none",
+        "kicker": "A destination for serious GT anglers",
+        "heading": "Come for the GTs.\nFish beyond\nthe ordinary.",
+        "text": "<p>Cast big poppers and stickbaits into powerful currents along remote reefs. Socotra is a demanding giant-trevally fishery, with shallow water, rocky structure and fish that test every part of your setup.</p><p>Our team has explored these waters for more than a decade. Your guides use their knowledge of the coast, currents and seasonal conditions to shape each fishing day.</p>",
+        "original": "socotra-9",
+        "image_alt": "A large giant trevally caught on a popper in Socotra",
+        "caption": "Actual catches from our Socotra expeditions. Fishing results vary.",
+        "reverse": false
+      },
+      "blocks": {
+        "point-1": {
+          "type": "point",
+          "settings": {
+            "icon": "fish",
+            "text": "Giant trevally as the primary target"
+          }
+        },
+        "point-2": {
+          "type": "point",
+          "settings": {
+            "icon": "compass",
+            "text": "International guides on local boats"
+          }
+        },
+        "point-3": {
+          "type": "point",
+          "settings": {
+            "icon": "waves-horizontal",
+            "text": "Popping, jigging & light casting"
+          }
+        },
+        "button-4": {
+          "type": "button",
+          "settings": {
+            "label": "Plan my fishing trip",
+            "target": "booking",
+            "style": "dark",
+            "icon": "arrow-right"
+          }
+        }
+      },
+      "block_order": [
+        "point-1",
+        "point-2",
+        "point-3",
+        "button-4"
+      ]
+    },
+    "techniques": {
+      "type": "destination-cards",
+      "settings": {
+        "style": "techniques",
+        "background": "sage",
+        "kicker": "What you’ll fish for",
+        "heading": "One island. Many possibilities.",
+        "intro": "Build your trip around giant trevally, with other fishing options when conditions allow.",
+        "strip_label": "Also in these waters",
+        "strip_text": "Spanish mackerel · Yellowfin tuna · Jobfish · Groupers · Coral trout · Emperor"
+      },
+      "blocks": {
+        "card-1": {
+          "type": "card",
+          "settings": {
+            "number": "01",
+            "heading": "Extreme popping",
+            "kicker": "Giant trevally",
+            "text": "<p>Big poppers, sinking stickbaits and strong tackle. Powerful fish, shallow reefs and hard-running currents make this the signature Socotra experience.</p>"
+          }
+        },
+        "card-2": {
+          "type": "card",
+          "settings": {
+            "number": "02",
+            "heading": "Jigging",
+            "kicker": "Trevally, amberjack & reef species",
+            "text": "<p>Work deeper structure for groupers, jobfish, amberjack and trevally. Bring both a lighter and a heavier jigging setup to suit different depths.</p>"
+          }
+        },
+        "card-3": {
+          "type": "card",
+          "settings": {
+            "number": "03",
+            "heading": "Light casting",
+            "kicker": "Reef fish & pelagics",
+            "text": "<p>Explore lighter fishing from the boat or shore for bluefin trevally, snapper and other species. Offshore opportunities can include mackerel, dorado and tuna.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "card-1",
+        "card-2",
+        "card-3"
+      ]
+    },
+    "seasons": {
+      "type": "destination-cards",
+      "settings": {
+        "style": "seasons",
+        "anchor": "seasons",
+        "background": "none",
+        "kicker": "Timing matters",
+        "heading": "Choose your fishing window.",
+        "intro": "Spring and autumn are the core fishing windows. Your guides plan around the conditions on the water.",
+        "note": "Strong winds can limit access to exposed spots outside these windows. Exact departures and the daily fishing plan are confirmed by our team.",
+        "note_icon": "wind"
+      },
+      "blocks": {
+        "card-1": {
+          "type": "card",
+          "settings": {
+            "kicker": "Spring window",
+            "heading": "March — April",
+            "text": "<p>A key window for fishing Socotra’s GT grounds before the summer winds.</p>"
+          }
+        },
+        "card-2": {
+          "type": "card",
+          "settings": {
+            "kicker": "Autumn window",
+            "heading": "October — November",
+            "text": "<p>Another core window for GT fishing. October can also bring Spanish mackerel migrations.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "card-1",
+        "card-2"
+      ]
+    },
+    "options": {
+      "type": "destination-cards",
+      "settings": {
+        "style": "options",
+        "anchor": "trip-options",
+        "background": "stone",
+        "kicker": "Two ways to fish Socotra",
+        "heading": "Choose your expedition.",
+        "note": "Trip pricing, confirmed departures and package details are supplied personally. Choose a preferred window in the enquiry form.",
+        "note_subtle": true
+      },
+      "blocks": {
+        "card-1": {
+          "type": "card",
+          "settings": {
+            "kicker": "The classic Socotra experience",
+            "heading": "Standard expedition.",
+            "text": "<p>Six full fishing days from our coastal base camp. A small-group trip focused on Socotra’s GT fishing, with other techniques available as conditions allow.</p>",
+            "specs": "Fishing | 6 full days\nGroup | 4 anglers\nBoats | 2 local fishing boats\nBase | Coastal tented camp",
+            "button_label": "Enquire about the standard trip",
+            "button_target": "booking"
+          }
+        },
+        "card-2": {
+          "type": "card",
+          "settings": {
+            "kicker": "Go further into the fishery",
+            "heading": "Extreme expedition.",
+            "text": "<p>A tailored trip to more remote GT grounds. The route, logistics and fishing approach are built around your ambitions and the conditions.</p>",
+            "specs": "Duration | 6–13 days\nItinerary | Tailored to your group\nFocus | Remote GT fishing\nPricing | Personal quotation",
+            "dark": true,
+            "button_label": "Build my extreme itinerary",
+            "button_target": "booking"
+          }
+        }
+      },
+      "block_order": [
+        "card-1",
+        "card-2"
+      ]
+    },
+    "boats": {
+      "type": "destination-editorial",
+      "settings": {
+        "anchor": "boats-camp",
+        "background": "none",
+        "kicker": "Small groups. Local knowledge.",
+        "heading": "Four anglers.\nTwo boats.\nOne shared obsession.",
+        "text": "<p>The standard trip fishes from two local fibreglass boats, approximately eight metres long, with international guides accompanying the groups.</p><p>Your fishing day follows the conditions: target GTs with heavy casting tackle, work deeper water with jigs, or explore lighter options when the opportunity is right.</p>",
+        "original": "socotra-11",
+        "image_alt": "Local fishing boats beneath the remote cliffs of Socotra",
+        "caption": "The boats and coastline you’ll fish from.",
+        "reverse": false
+      },
+      "blocks": {
+        "spec-1": {
+          "type": "spec",
+          "settings": {
+            "label": "Boat type",
+            "value": "Local fibreglass fishing boats"
+          }
+        },
+        "spec-2": {
+          "type": "spec",
+          "settings": {
+            "label": "Length",
+            "value": "Approximately 8 metres"
+          }
+        },
+        "spec-3": {
+          "type": "spec",
+          "settings": {
+            "label": "Engine",
+            "value": "40 hp"
+          }
+        },
+        "spec-4": {
+          "type": "spec",
+          "settings": {
+            "label": "Guiding",
+            "value": "International guide with each boat group"
+          }
+        }
+      },
+      "block_order": [
+        "spec-1",
+        "spec-2",
+        "spec-3",
+        "spec-4"
+      ]
+    },
+    "camp": {
+      "type": "destination-editorial",
+      "settings": {
+        "background": "none",
+        "flush_top": true,
+        "kicker": "Your coastal base camp",
+        "heading": "Sleep by the sea.\nWake up to fish.",
+        "text": "<p>Stay in an individual double-size tent with a mattress, sheets and pillows. Shared dining and kitchen tents bring the group together after fishing.</p><p>A camp cook prepares meals from available local ingredients. Fresh-water showers, a generator, an interpreter, a jeep and satellite phones support camp life. Soft drinks are included.</p><p>This is a remote fishing camp with simple facilities and limited supplies. Come for the fishing and the island, with an expedition mindset.</p>",
+        "original": "socotra-5",
+        "image_alt": "Sleeping tents at Wildsea’s Socotra fishing camp",
+        "caption": "A tented camp, not a hotel. The coast is part of the experience.",
+        "reverse": true
+      },
+      "blocks": {
+        "button-1": {
+          "type": "button",
+          "settings": {
+            "label": "Get the full camp & trip details",
+            "target": "brochure",
+            "style": "text",
+            "icon": "download"
+          }
+        }
+      },
+      "block_order": [
+        "button-1"
+      ]
+    },
+    "gallery": {
+      "type": "destination-gallery",
+      "settings": {
+        "anchor": "trip-gallery",
+        "background": "sage",
+        "kicker": "Actual expedition photographs",
+        "heading": "This is why we go.",
+        "intro": "The catches, fishing grounds and camp life from our original Socotra expedition gallery.",
+        "all_label": "All photos",
+        "note": "Open any photograph to view it in full. Catch photographs show past experiences, not guaranteed results."
+      },
+      "blocks": {
+        "photo-1": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-0",
+            "group": "Catches",
+            "caption": "Giant trevally — the fish that brings us to Socotra.",
+            "featured": true
+          }
+        },
+        "photo-2": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-9",
+            "group": "Catches",
+            "caption": "A powerful GT taken on a popper.",
+            "featured": false
+          }
+        },
+        "photo-3": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-13",
+            "group": "Catches",
+            "caption": "A giant trevally and a moment shared on the boat.",
+            "featured": false
+          }
+        },
+        "photo-4": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-12",
+            "group": "Catches",
+            "caption": "Another extraordinary giant trevally encounter.",
+            "featured": false
+          }
+        },
+        "photo-5": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-10",
+            "group": "Catches",
+            "caption": "Yellowfin tuna — there is more to Socotra than GTs.",
+            "featured": false
+          }
+        },
+        "photo-6": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-4",
+            "group": "Catches",
+            "caption": "Another remarkable catch from our Socotra fishing grounds.",
+            "featured": false
+          }
+        },
+        "photo-7": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-11",
+            "group": "On the water",
+            "caption": "Local fishing boats beneath Socotra’s remote cliffs.",
+            "featured": false
+          }
+        },
+        "photo-8": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-1",
+            "group": "On the water",
+            "caption": "A small boat, turquoise water and the island’s wild coast.",
+            "featured": false
+          }
+        },
+        "photo-9": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-3",
+            "group": "On the water",
+            "caption": "The coastlines and fishing grounds of Socotra.",
+            "featured": false
+          }
+        },
+        "photo-10": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-2",
+            "group": "On the water",
+            "caption": "Sunset over the dunes and the Indian Ocean.",
+            "featured": false
+          }
+        },
+        "photo-11": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-14",
+            "group": "On the water",
+            "caption": "Seabirds and a pristine Socotra shoreline.",
+            "featured": false
+          }
+        },
+        "photo-12": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-5",
+            "group": "Base camp",
+            "caption": "Individual sleeping tents at our coastal base camp.",
+            "featured": false
+          }
+        },
+        "photo-13": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-6",
+            "group": "Base camp",
+            "caption": "The camp dining area, right beside the sea.",
+            "featured": false
+          }
+        },
+        "photo-14": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-7",
+            "group": "Base camp",
+            "caption": "Shared meals and stories after a day on the water.",
+            "featured": false
+          }
+        },
+        "photo-15": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-8",
+            "group": "Base camp",
+            "caption": "A generator provides electricity at camp.",
+            "featured": false
+          }
+        },
+        "photo-16": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-16",
+            "group": "Tackle",
+            "caption": "Heavy-duty casting setups, ready for the next session.",
+            "featured": false
+          }
+        },
+        "photo-17": {
+          "type": "photo",
+          "settings": {
+            "original": "socotra-15",
+            "group": "Tackle",
+            "caption": "Fly-fishing equipment on the island.",
+            "featured": false
+          }
+        }
+      },
+      "block_order": [
+        "photo-1",
+        "photo-2",
+        "photo-3",
+        "photo-4",
+        "photo-5",
+        "photo-6",
+        "photo-7",
+        "photo-8",
+        "photo-9",
+        "photo-10",
+        "photo-11",
+        "photo-12",
+        "photo-13",
+        "photo-14",
+        "photo-15",
+        "photo-16",
+        "photo-17"
+      ]
+    },
+    "equipment": {
+      "type": "destination-cards",
+      "settings": {
+        "style": "equipment",
+        "anchor": "equipment",
+        "background": "none",
+        "kicker": "Arrive with the right setup",
+        "heading": "Built for this kind of fishing.",
+        "intro": "Heavy GT fishing demands tackle you can trust. Discuss your equipment with our guides before travelling.",
+        "callout_text": "Want help choosing your tackle? Our guides can check your setup and recommend expedition-ready gear.",
+        "callout_link_label": "Explore the lure selection",
+        "callout_link": "shopify://collections/all",
+        "callout_button_label": "Request equipment checklist",
+        "callout_button_target": "brochure"
+      },
+      "blocks": {
+        "card-1": {
+          "type": "card",
+          "settings": {
+            "kicker": "Heavy casting",
+            "heading": "Popping & stickbaits",
+            "specs": "Rod | PE 10\nLeader | Up to 250 lb + abrasion-resistant bite tippet\nLures | Large poppers, sinking & floating stickbaits\nTerminal | Extra-strong hooks and split rings"
+          }
+        },
+        "card-2": {
+          "type": "card",
+          "settings": {
+            "kicker": "Work the depths",
+            "heading": "Jigging",
+            "specs": "Lighter setup | PE 2–3\nShallower water | 80–150 g jigs · approximately 30–60 m\nHeavier setup | PE 4–5\nDeeper water | 150–300 g jigs"
+          }
+        },
+        "card-3": {
+          "type": "card",
+          "settings": {
+            "kicker": "Explore the reef & shore",
+            "heading": "Light casting",
+            "specs": "Boat setup | PE 3\nShore options | PE 1–1.5 or PE 3\nLures | Minnows, small stickbaits, poppers & metal jigs\nApproach | Matched to species and conditions"
+          }
+        }
+      },
+      "block_order": [
+        "card-1",
+        "card-2",
+        "card-3"
+      ]
+    },
+    "inclusions": {
+      "type": "destination-cards",
+      "settings": {
+        "style": "inclusions",
+        "anchor": "inclusions",
+        "background": "stone",
+        "kicker": "Know what you’re booking",
+        "heading": "The package, clearly.",
+        "note": "Your personal quotation confirms the final itinerary, price, accommodation and all inclusions before booking."
+      },
+      "blocks": {
+        "card-1": {
+          "type": "card",
+          "settings": {
+            "kicker": "Services on the island",
+            "heading": "Included in the trip",
+            "list": "Guided fishing according to your confirmed itinerary\nCoastal camp accommodation\nCamp meals and soft drinks\nLocal services and camp support on Socotra",
+            "list_icon": "check"
+          }
+        },
+        "card-2": {
+          "type": "card",
+          "settings": {
+            "kicker": "Quoted separately",
+            "heading": "Plan for these extras",
+            "list": "Visa, arranged through our team\nFlights to Socotra and international travel\nTips\nOptional single-room accommodation extras, where applicable",
+            "list_icon": "plus"
+          }
+        }
+      },
+      "block_order": [
+        "card-1",
+        "card-2"
+      ]
+    },
+    "faq": {
+      "type": "destination-faq",
+      "settings": {
+        "kicker": "From first enquiry to first cast",
+        "heading": "Plan your trip with our team."
+      },
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "question": "How do I get to Socotra?",
+            "answer": "<p>Our team coordinates the Socotra flight arrangements and helps plan the connections for your departure. The original itinerary refers to routes through Abu Dhabi, Dubai or Cairo; current routes and schedules are confirmed when you book.</p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "question": "What about the visa and passport?",
+            "answer": "<p>We help arrange the Socotra visa using the passport information required for your trip. Ask our team to confirm current entry rules and passport validity requirements.</p>"
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "question": "Is this trip right for my fishing experience?",
+            "answer": "<p>GT popping here is physically demanding and requires strong tackle and confidence handling powerful fish. Tell us about your experience and goals so we can recommend the right trip.</p>"
+          }
+        },
+        "question-4": {
+          "type": "question",
+          "settings": {
+            "question": "What should I know about travel cover and preparation?",
+            "answer": "<p>Travel, medical and evacuation insurance are required for the expedition. Confirm current travel advice and preparation requirements before travelling.</p>"
+          }
+        },
+        "question-5": {
+          "type": "question",
+          "settings": {
+            "question": "Are catches and fishing spots guaranteed?",
+            "answer": "<p>No. Fishing depends on wind, sea conditions, currents and fish activity. Our guides adjust the daily plan around the conditions. Gallery photographs show past experiences, not guaranteed results.</p>"
+          }
+        },
+        "question-6": {
+          "type": "question",
+          "settings": {
+            "question": "How are dates and prices confirmed?",
+            "answer": "<p>Send a booking enquiry with your preferred window. Our team personally confirms departures, space, pricing and terms before anything is booked.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "question-3",
+        "question-4",
+        "question-5",
+        "question-6"
+      ]
+    },
+    "enquiry": {
+      "type": "destination-cta",
+      "settings": {
+        "kicker": "Your next fishing story",
+        "heading": "Make Socotra\nyour next cast.",
+        "text": "Tell us what you want to fish for. We’ll help shape the expedition.",
+        "primary_label": "Book your fishing trip",
+        "secondary_label": "Request the brochure"
+      }
+    },
+    "news": {
+      "type": "home-news",
+      "settings": {
+        "kicker": "Reports from the island",
+        "heading": "Latest news.",
+        "link": "https://www.wildseaexpedition.com/en/news",
+        "link_label": "All news",
+        "color_scheme": "scheme-1"
+      },
+      "blocks": {
+        "responsible_tourism": {
+          "type": "story",
+          "settings": {
+            "heading": "Protecting Socotra through responsible tourism",
+            "text": "How responsible travel can support local communities and help conserve Socotra’s remarkable environment.",
+            "published_on": "2026-06-11",
+            "original": "news-0",
+            "link": "https://www.wildseaexpedition.com/en/news/protecting-socotra-through-responsible-tourism-supporting-communities-conserving-nature-and-building-a-sustainable-future"
+          }
+        },
+        "standing_on_the_edge": {
+          "type": "story",
+          "settings": {
+            "heading": "Standing on the Edge: Giant GTs from the Rocks of Socotra",
+            "text": "Strong winds changed the plan. Fishing from Socotra’s rocks revealed a new chapter in the search for giant trevally.",
+            "published_on": "2026-06-04",
+            "original": "news-1",
+            "link": "https://www.wildseaexpedition.com/en/news/standing-on-the-edge-giant-gts-from-the-rocks-of-socotra"
+          }
+        }
+      },
+      "block_order": [
+        "responsible_tourism",
+        "standing_on_the_edge"
+      ]
+    },
+    "booking": {
+      "type": "destination-booking-bar",
+      "settings": {
+        "title": "Socotra · Monster GT",
+        "summary": "6 fishing days · 4 anglers · Guided expedition",
+        "brochure_label": "Brochure",
+        "book_label": "Book now"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "nav",
+    "fishing",
+    "techniques",
+    "seasons",
+    "options",
+    "boats",
+    "camp",
+    "gallery",
+    "equipment",
+    "inclusions",
+    "faq",
+    "enquiry",
+    "news",
+    "booking"
+  ]
+}

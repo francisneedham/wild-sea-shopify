@@ -1,0 +1,21 @@
+{
+  "productVariantAppendMedia": {
+    "product": {
+      "id": "gid://shopify/Product/15439425863793"
+    },
+    "productVariants": [
+      {
+        "id": "gid://shopify/ProductVariant/67841366818929",
+        "sku": "SQ3261392",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284936052849"
+            }
+          ]
+        }
+      }
+    ],
+    "userErrors": []
+  }
+}

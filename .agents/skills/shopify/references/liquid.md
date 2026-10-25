@@ -261,6 +261,12 @@ Renders a text block with configurable style and alignment.
 - WCAG 2.1 accessibility, semantic HTML (\`<details>\`, \`<summary>\`, \`<dialog>\`)
 - View Transitions API for smooth animations
 
+## Performance
+
+- Fetch the theme performance best practices index: https://shopify.dev/docs/storefronts/themes/best-practices/performance.md
+- ALWAYS apply the practices in its "Essential practices" table
+- For implementation details, fetch a linked page by adding \`.md\` to its URL, or search the docs with the \`liquid\` API
+
 ## Code requirements
 
 - ALWAYS write valid Liquid and HTML code

@@ -1,0 +1,5 @@
+query FindAbout {
+  pages(first: 10, query: "handle:about") {
+    nodes { id title handle isPublished templateSuffix }
+  }
+}

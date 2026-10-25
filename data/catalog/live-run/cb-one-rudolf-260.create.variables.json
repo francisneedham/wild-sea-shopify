@@ -1,0 +1,62 @@
+{
+  "input": {
+    "handle": "cb-one-rudolf-260",
+    "title": "CB One Rudolf 260",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The Rudolph is a floating plug based on the Ryan, which overcomes the drawbacks of a larger body. The larger body also increases the amplitude of the action, but the design minimizes the amplitude, resulting in a swift, agile action that moves quickly over short distances. The slender shape minimizes lateral movement, resulting in light drag and reducing the physical strain of operating a big plug. It can accommodate a wide range of hook weights, and a major advantage is that it allows the use of lighter hooks that penetrate well, especially when targeting yellowtail amberjack. Of course, when targeting large tuna, use thicker, stronger hooks.</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length 260 </span> mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr.175</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Color Mahi Mahi</span></p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ2943196",
+        "price": "130.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.25,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0e880d8f-3fb9-4f4d-9cf7-3143d5faf4f7/rudolf.jpg",
+        "contentType": "IMAGE",
+        "alt": "CB One Rudolf 260"
+      }
+    ]
+  }
+}

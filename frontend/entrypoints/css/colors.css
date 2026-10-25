@@ -1,5 +1,12 @@
-@theme {
-  /*--color-*: initial;*/
+@theme inline {
+  --color-background: var(--theme-background);
+  --color-foreground: var(--theme-text);
+  --color-button: var(--theme-button);
+  --color-button-label: var(--theme-button-text);
+  --color-border: var(--theme-border);
+}
 
-  /*--color-blue: #1F3560;*/
+.color-scheme {
+  color: var(--theme-text);
+  background: var(--theme-background-image, none) var(--theme-background);
 }

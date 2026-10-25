@@ -1,0 +1,123 @@
+{% doc %}
+  Pre-footer: Shopify's native email marketing signup with explicit consent and feedback.
+  Lives in the footer group; hidden on 404 and policy pages like the legacy site.
+
+  @example
+  {% sections 'footer-group' %}
+{% enddoc %}
+
+{%- liquid
+  assign form_id = 'Newsletter-' | append: section.id
+  assign email_id = form_id | append: '-email'
+  assign feedback_id = form_id | append: '-feedback'
+-%}
+
+{% unless request.page_type == '404' or request.page_type == 'policy' %}
+  <section class="newsletter color-scheme color-{{ section.settings.color_scheme }}" aria-labelledby="NewsletterHeading-{{ section.id }}">
+    <div class="newsletter__inner">
+      <div>
+        {% if section.settings.kicker != blank %}<p class="newsletter__kicker">{{ section.settings.kicker | escape }}</p>{% endif %}
+        <h2 class="newsletter__heading" data-reveal="title" id="NewsletterHeading-{{ section.id }}">{{ section.settings.heading | escape | newline_to_br }}</h2>
+        {% if section.settings.text != blank %}<p class="newsletter__text">{{ section.settings.text | escape }}</p>{% endif %}
+      </div>
+      <div>
+        {% form 'customer', id: form_id %}
+          <input type="hidden" name="contact[tags]" value="newsletter">
+          {% if form.posted_successfully? %}
+            <p class="newsletter__message" id="{{ feedback_id }}" role="status" tabindex="-1">{{ 'home.newsletter_success' | t }}</p>
+          {% else %}
+            {% if form.errors %}
+              <div class="newsletter__message" id="{{ feedback_id }}" role="alert">{{ form.errors | default_errors }}</div>
+            {% endif %}
+            <label class="sr-only" for="{{ email_id }}">{{ 'home.email_address' | t }}</label>
+            <div class="newsletter__row">
+              <input
+                type="email"
+                id="{{ email_id }}"
+                name="contact[email]"
+                value="{{ form.email | escape }}"
+                autocomplete="email"
+                autocorrect="off"
+                autocapitalize="off"
+                placeholder="{{ 'home.email_placeholder' | t }}"
+                required
+                {% if form.errors %}aria-invalid="true" aria-describedby="{{ feedback_id }}"{% endif %}
+              >
+              <button type="submit">{{ 'home.sign_up' | t }} {% render 'lucide-icon', name: 'arrow-right' %}</button>
+            </div>
+            <label class="newsletter__consent">
+              <input type="checkbox" name="contact[accepts_marketing]" value="true" required>
+              <span>
+                {{ 'home.newsletter_consent' | t }}
+                {% if shop.privacy_policy != blank %}
+                  <a href="{{ shop.privacy_policy.url }}">{{ 'home.privacy_policy' | t }}</a>
+                {% endif %}
+              </span>
+            </label>
+          {% endif %}
+        {% endform %}
+      </div>
+    </div>
+  </section>
+{% endunless %}
+
+{% stylesheet %}
+  .newsletter { margin-top: 70px; padding-block: 70px; }
+  .newsletter__inner { max-width: var(--page-width); margin: auto; padding-inline: var(--site-gutter); display: grid; grid-template-columns: 1fr 1fr; gap: 70px; align-items: center; }
+  .newsletter__kicker { display: flex; align-items: center; gap: 12px; margin: 0 0 22px; font-size: var(--text-label); font-weight: 600; letter-spacing: .23em; text-transform: uppercase; }
+  .newsletter__kicker::before { content: ''; width: 28px; height: 1px; background: currentColor; }
+  .newsletter__heading { margin: 0 0 12px; font-size: 56px; line-height: .98; letter-spacing: -.02em; text-transform: uppercase; }
+  .newsletter__text { max-width: 380px; margin: 0; font-size: var(--text-sm); line-height: 1.7; }
+  .newsletter__row { display: flex; align-items: center; border-bottom: 1px solid currentColor; }
+  .newsletter__row input { width: 100%; min-width: 0; padding: 15px 0; border: 0; background: none; color: inherit; font-size: var(--text-base); outline-offset: 0; }
+  .newsletter__row input::placeholder { color: inherit; opacity: .6; }
+  .newsletter__row button { display: flex; align-items: center; gap: 20px; padding: 15px 0; border: 0; background: none; color: inherit; font-size: var(--text-label); font-weight: 600; letter-spacing: .08em; text-transform: uppercase; white-space: nowrap; cursor: pointer; }
+  .newsletter__row button svg { width: 15px; height: 15px; }
+  .newsletter__consent { display: flex; gap: 10px; align-items: start; margin-top: 16px; font-size: var(--text-label); line-height: 1.6; }
+  .newsletter__consent input { flex-shrink: 0; width: 14px; height: 14px; margin-top: 2px; accent-color: var(--theme-text); }
+  .newsletter__consent a { text-decoration: underline; }
+  .newsletter__message { margin-block: 1rem; font-size: var(--text-sm); }
+  @media (max-width: 760px) {
+    .newsletter { margin-top: 40px; padding-block: 50px; }
+    .newsletter__inner { grid-template-columns: 1fr; gap: 25px; }
+    .newsletter__kicker { margin-bottom: 18px; }
+    .newsletter__heading { font-size: 50px; }
+  }
+{% endstylesheet %}
+
+{% schema %}
+{
+  "name": "Newsletter signup",
+  "settings": [
+    {
+      "type": "text",
+      "id": "kicker",
+      "label": "Eyebrow",
+      "default": "Stay in the current"
+    },
+    {
+      "type": "textarea",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Your next adventure\nstarts here."
+    },
+    {
+      "type": "textarea",
+      "id": "text",
+      "label": "Description",
+      "default": "Fresh field notes, new expeditions and exceptional gear. Straight from the wild to your inbox."
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "Color scheme",
+      "default": "scheme-3"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Newsletter signup"
+    }
+  ]
+}
+{% endschema %}

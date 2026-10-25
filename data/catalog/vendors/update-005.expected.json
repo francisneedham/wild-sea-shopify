@@ -1,0 +1,72 @@
+{
+  "v0": {
+    "id": "gid://shopify/Product/15439422685297",
+    "handle": "mc-works-explosion-865hf",
+    "title": "MC Works Explosion 865HF",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v1": {
+    "id": "gid://shopify/Product/15439423012977",
+    "handle": "mc-works-explosion-full-contact-843ctr",
+    "title": "MC Works Explosion Full Contact 843CTR",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v2": {
+    "id": "gid://shopify/Product/15439423307889",
+    "handle": "mc-works-raging-bull-104xxstd",
+    "title": "MC Works Raging Bull 104XX STD",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v3": {
+    "id": "gid://shopify/Product/15439423602801",
+    "handle": "mc-works-raging-bull-93xx-trident",
+    "title": "MC Works Raging Bull 93XX Trident",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v4": {
+    "id": "gid://shopify/Product/15439423864945",
+    "handle": "mc-works-rod-cb-98xs2-std",
+    "title": "MC Works Raging Bull 98XS2 STD",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v5": {
+    "id": "gid://shopify/Product/15439424192625",
+    "handle": "mc-works-rod-explosion-807-ctr-standard-model",
+    "title": "MC Works Explosion 807 CTR Standard Model",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v6": {
+    "id": "gid://shopify/Product/15439424585841",
+    "handle": "mc-works-slow-hand-768tsx-all-that-tuna",
+    "title": "MC Works Slow Hand All That Tuna 768TSX",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v7": {
+    "id": "gid://shopify/Product/15439424815217",
+    "handle": "mc-works-slow-hand-all-that-tuna-sh729tsz",
+    "title": "MC Works Slow Hand All That Tuna SH729TSZ",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v8": {
+    "id": "gid://shopify/Product/15439425044593",
+    "handle": "mc-works-x-fish-trippers-village-barbaro-788",
+    "title": "MC Works X Fish Trippers Village Barbaro 788",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  },
+  "v9": {
+    "id": "gid://shopify/Product/15439425437809",
+    "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+    "title": "MC Works x Fish Trippers Village Orquesta 759\\7106",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "MC Works"
+  }
+}

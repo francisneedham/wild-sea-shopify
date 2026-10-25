@@ -1,0 +1,77 @@
+{
+  "input": {
+    "handle": "truth-oceansprinter-856",
+    "title": "Truth Ocean Sprinter 856",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><a href=\"https://truthjapan.jp/products/\" rel=\"noopener\">It is</a> both &quot;light&quot; to <a href=\"https://truthjapan.jp/\" rel=\"noopener\">cast</a> an<a href=\"https://truthjapan.jp/products/\" rel=\"noopener\">d opera</a>te and &quot;tenacity&quot; after hooking.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">It is extremely easy to use for casting to yellowfin tuna up to 40kg class and casting to kingfish using PE5/6. It is the sharpest model in the series and is the one that the development staff uses most frequently for casting to kingfish and yellowfin tuna.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The common development<a href=\"https://truthjapan.jp/\" rel=\"noopener\"> con</a>cep<a href=\"https://truthjapan.jp/products/\" rel=\"noopener\">t for t</a>he OceanSprinter series is that the ease of catching fish and the inherent lifting power of the rod are the most important.<br />An encounter with a large fish can come suddenly.<br />A powerful run that cannot be stopped even under high load.<br />In order to catch such a large fish, we believe that &quot;tenacity&quot; and a &quot;straightforward bend curve&quot; are necessary. This is especially true in stormy or shallow areas with strong currents. The rod is designed to draw a straight bend curve as the load increases, so that the tension on the fish does not change suddenly. This reduces the load fluctuation for the angler, allowing the angler to continue applying stable pressure to the fish from start to finish. Furthermore, by achieving these, we have achieved excellent casting performance, and it has become possible to reduce the burden on the body from small to large lures.<br /><br />Recommended reel: STELLA 14000XG / SALTIGA5500<br />Recommended line: PE5-6 (suitable drag load ~11kg)<br />Recommended lure: 30g-130g (up to 100g can be cast firmly. For lures close to 130g,<br />cast it by placing it on the rod for easier and more comfortable casting)<br /><br />Tested for casting yellowfin tuna in the Goto Islands, Nagasaki and northern Kyushu, and for luring yellowfin tuna off the coast of Mie Prefecture.<br />This model can handle everything from sardine patterns to dolphin fish patterns.<br /><br />Compared to the 838/8110 and models, it puts less strain on the body, so it has a sharper feeling while still having some tenacity, so you can cast more easily through the wind even for long periods of time or against the wind. (up to 100g)<br />This model is also very useful for luring yellowfin tuna up to 40kg.<br /><br />*Regarding the fighting position<br />We do not recommend using the gimbal belt in a low position.<br />This model does not require the use of a gimbal belt when the fight is decided in a short time of about 10 minutes using PE6. (Please use it when you need to fight for a long time, such as with tuna over 40 kg.)<br />When fighting, do not stand too upright, but maintain an angle that puts load on the butt part, and you can draw out the lift power of the blank.<br />Laying it down puts more strain on the body, but also increases the pressure on the fish. There are various factors such as the fight time and the size of the fish, so please respond according to the situation.<br />(There is a possibility that the fish will come off when fixing the rod end to the gimbal belt. Also, fixing the rod end may slow down the response to sudden movements of the fish.)</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "Truth",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ4908688",
+        "price": "750.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a38a0e53-20e1-4b23-86ab-15b63c5b667b/truth+ocean+sprinter+8110.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean Sprinter 856"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a2e33541-aab8-46c6-9ba3-c3da73d804ba/truth+ocean+sprinter.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean Sprinter 856"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d1af936b-f3bb-455e-827b-f20c65c776ab/PHOTO-2021-12-17-22-01-21-1.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean Sprinter 856"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b70e8e1e-c9f0-49ef-bd47-042b2a279f30/DSC_0024.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean Sprinter 856"
+      }
+    ]
+  }
+}

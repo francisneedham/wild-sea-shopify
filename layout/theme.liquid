@@ -3,6 +3,7 @@
     <head>
         {% # Social, title, etc. %}
         {% render 'meta-tags' %}
+        {% render 'theme-styles' %}
 
         {%- liquid
             render 'vite-tag', entry: 'main.css'
@@ -27,6 +28,8 @@
                     render 'vite-tag', entry: 'article.ts'
                 when 'page'
                     render 'vite-tag', entry: 'page.ts'
+                when 'metaobject'
+                    render 'vite-tag', entry: 'metaobject.ts'
                 when '404'
                     render 'vite-tag', entry: '404.ts'
             endcase
@@ -34,7 +37,7 @@
         {{ content_for_header }}
     </head>
 
-    <body>
+    <body class="template-{{ request.page_type }} color-scheme color-{{ settings.default_color_scheme }}">
         <a href="#main-content" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:bg-white focus:px-4 focus:py-2">
             {{ 'general.skip_to_content' | t }}
         </a>

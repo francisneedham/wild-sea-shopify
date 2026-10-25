@@ -1,18 +1,248 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
-    "main": {
+    "hero": {
       "type": "index",
-      "settings": {}
+      "settings": {
+        "image_alt": "An angler casting into the Indian Ocean at sunset",
+        "video": "https://www.youtube.com/watch?v=SzJzxkJoyj4",
+        "kicker": "Remote places. Extraordinary fishing.",
+        "heading": "Beyond\nthe",
+        "accent": "ordinary.",
+        "text": "Some places change the way you see the world.\nWe take you there. One cast at a time.",
+        "link": "/pages/destinations",
+        "link_label": "Explore our expeditions",
+        "location": "Somewhere out there.\nExactly where you belong.",
+        "film_label": "Watch the Wildsea film",
+        "statement": "Not just a trip.\nA story worth living.",
+        "manifesto_text": "We explore the world’s wildest waters, taking passionate anglers to places few have ever fished.",
+        "stat_1_value": "2012",
+        "stat_1_label": "Where our\nstory began",
+        "stat_2_value": "07",
+        "stat_2_label": "Extraordinary\ndestinations"
+      }
+    },
+    "destinations": {
+      "type": "home-card-grid",
+      "settings": {
+        "kicker": "Find your wild",
+        "heading": "Our destinations.",
+        "text": "From the Indian Ocean to the Atlantic coast, discover a different kind of fishing journey.",
+        "layout": "destinations",
+        "link": "/pages/destinations",
+        "link_label": "All destinations",
+        "color_scheme": "scheme-1"
+      },
+      "blocks": {
+        "socotra": {
+          "type": "destination",
+          "settings": {
+            "heading": "Socotra",
+            "kicker": "Yemen · Indian Ocean",
+            "text": "Remote coastlines, strong currents and giant trevally. A fishing expedition into the wild side of the Indian Ocean.",
+            "original": "socotra",
+            "link": "/pages/destinations/socotra-fishing",
+            "link_label": "Discover the expedition"
+          }
+        },
+        "djibouti": {
+          "type": "destination",
+          "settings": {
+            "heading": "Djibouti",
+            "kicker": "Gulf of Aden · Red Sea",
+            "text": "Explore the meeting of two seas, with powerful currents and remote fishing grounds for popping and jigging.",
+            "original": "djibouti",
+            "link": "/pages/destinations/djibouti-popping",
+            "link_label": "Discover the expedition"
+          }
+        },
+        "gabon": {
+          "type": "destination",
+          "settings": {
+            "heading": "Gabon",
+            "kicker": "Loango · Atlantic Ocean",
+            "text": "Where rainforest meets ocean. Discover wild shores and extraordinary wildlife on the coast of Gabon.",
+            "original": "gabon",
+            "link": "/pages/destinations/gabon-fishing-adventure",
+            "link_label": "Discover the expedition"
+          }
+        }
+      },
+      "block_order": [
+        "socotra",
+        "djibouti",
+        "gabon"
+      ]
+    },
+    "story": {
+      "type": "home-story",
+      "settings": {
+        "kicker": "This is Wild Sea",
+        "heading": "Driven by passion. Drawn to the wild.",
+        "text": "<p>Wild Sea Expedition grew from a passion for fishing, travel and unexplored waters. Since 2012, our team has sought out remote saltwater fisheries, from the Red Sea to the Indian Ocean.</p><p>Our journeys bring together fishing, nature and local culture, with experienced guides who share a lasting connection to these places.</p>",
+        "link": "shopify://pages/about",
+        "link_label": "Meet the people behind the adventure",
+        "color_scheme": "scheme-2"
+      }
+    },
+    "shop": {
+      "type": "home-card-grid",
+      "settings": {
+        "kicker": "Tested in wild waters",
+        "heading": "Gear up. Go further.",
+        "text": "Tackle and equipment for your next fishing adventure.",
+        "layout": "categories",
+        "link": "https://www.wildseaexpedition.com/shop",
+        "link_label": "Explore our shop",
+        "color_scheme": "scheme-1"
+      },
+      "blocks": {
+        "lures": {
+          "type": "collection",
+          "settings": {
+            "heading": "Lures",
+            "text": "Make every cast count.",
+            "original": "category-0",
+            "link": "https://www.wildseaexpedition.com/shop/catalog/lures"
+          }
+        },
+        "rods": {
+          "type": "collection",
+          "settings": {
+            "heading": "Rods",
+            "text": "Built for demanding fishing.",
+            "original": "category-1",
+            "link": "https://www.wildseaexpedition.com/shop/catalog/rods"
+          }
+        },
+        "terminal-tackle": {
+          "type": "collection",
+          "settings": {
+            "heading": "Terminal tackle",
+            "text": "Strength in every detail.",
+            "original": "category-2",
+            "link": "https://www.wildseaexpedition.com/shop/catalog"
+          }
+        },
+        "accessories": {
+          "type": "collection",
+          "settings": {
+            "heading": "Accessories",
+            "text": "Ready for the wild.",
+            "original": "category-3",
+            "link": "https://www.wildseaexpedition.com/shop/catalog"
+          }
+        }
+      },
+      "block_order": [
+        "lures",
+        "rods",
+        "terminal-tackle",
+        "accessories"
+      ]
+    },
+    "news": {
+      "type": "home-news",
+      "settings": {
+        "kicker": "Stories from the water",
+        "heading": "Our news.",
+        "link": "https://www.wildseaexpedition.com/en/news",
+        "link_label": "All news",
+        "color_scheme": "scheme-1"
+      },
+      "blocks": {
+        "responsible_tourism": {
+          "type": "story",
+          "settings": {
+            "heading": "Protecting Socotra through responsible tourism",
+            "text": "How responsible travel can support local communities and help conserve Socotra’s remarkable environment.",
+            "published_on": "2026-06-11",
+            "original": "news-0",
+            "link": "https://www.wildseaexpedition.com/en/news/protecting-socotra-through-responsible-tourism-supporting-communities-conserving-nature-and-building-a-sustainable-future"
+          }
+        },
+        "standing_on_the_edge": {
+          "type": "story",
+          "settings": {
+            "heading": "Standing on the Edge: Giant GTs from the Rocks of Socotra",
+            "text": "Strong winds changed the plan. Fishing from Socotra’s rocks revealed a new chapter in the search for giant trevally.",
+            "published_on": "2026-06-04",
+            "original": "news-1",
+            "link": "https://www.wildseaexpedition.com/en/news/standing-on-the-edge-giant-gts-from-the-rocks-of-socotra"
+          }
+        }
+      },
+      "block_order": [
+        "responsible_tourism",
+        "standing_on_the_edge"
+      ]
+    },
+    "social": {
+      "type": "home-card-grid",
+      "settings": {
+        "heading": "Follow Wild Sea.",
+        "text": "A few moments from our journeys. Follow the expeditions on Instagram.",
+        "layout": "gallery",
+        "link": "https://www.instagram.com/wildseaexpedition/",
+        "link_label": "@wildseaexpedition",
+        "color_scheme": "scheme-1"
+      },
+      "blocks": {
+        "photo_1": {
+          "type": "photo",
+          "settings": {
+            "heading": "Moments from a Wild Sea expedition",
+            "original": "about-4",
+            "link": "https://www.instagram.com/wildseaexpedition/"
+          }
+        },
+        "photo_2": {
+          "type": "photo",
+          "settings": {
+            "heading": "Giant trevally fishing in Socotra",
+            "original": "article-1",
+            "link": "https://www.instagram.com/wildseaexpedition/"
+          }
+        },
+        "photo_3": {
+          "type": "photo",
+          "settings": {
+            "heading": "The coastal expedition camp in Socotra",
+            "original": "socotra-5",
+            "link": "https://www.instagram.com/wildseaexpedition/"
+          }
+        },
+        "photo_4": {
+          "type": "photo",
+          "settings": {
+            "heading": "Fishing the remote waters with Wild Sea",
+            "original": "about-3",
+            "link": "https://www.instagram.com/wildseaexpedition/"
+          }
+        },
+        "photo_5": {
+          "type": "photo",
+          "settings": {
+            "heading": "The wild coastline of Socotra",
+            "original": "socotra-2",
+            "link": "https://www.instagram.com/wildseaexpedition/"
+          }
+        }
+      },
+      "block_order": [
+        "photo_1",
+        "photo_2",
+        "photo_3",
+        "photo_4",
+        "photo_5"
+      ]
     }
   },
-  "order": ["main"]
+  "order": [
+    "hero",
+    "destinations",
+    "story",
+    "shop",
+    "news",
+    "social"
+  ]
 }

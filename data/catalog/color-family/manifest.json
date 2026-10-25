@@ -1,0 +1,27 @@
+{
+  "metaobject_type": "wildsea_color_family",
+  "metaobject_definition_id": "gid://shopify/MetaobjectDefinition/37648040049",
+  "metafield": "specs.color_family",
+  "metafield_definition_id": "gid://shopify/MetafieldDefinition/510151819377",
+  "source_color_values": 126,
+  "color_variants": 297,
+  "groups": 14,
+  "write_batches": 13,
+  "verified_assignments": 297,
+  "group_variant_counts": {
+    "Black": 29,
+    "Blue": 31,
+    "Brown": 2,
+    "Gold": 3,
+    "Gray": 9,
+    "Green": 10,
+    "Orange": 3,
+    "Pattern / Natural": 145,
+    "Pink": 24,
+    "Purple": 6,
+    "Red": 6,
+    "Silver": 7,
+    "White": 7,
+    "Yellow": 15
+  }
+}

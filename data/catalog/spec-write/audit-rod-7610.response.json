@@ -1,0 +1,30 @@
+{
+  "product": {
+    "id": "gid://shopify/Product/15439544680561",
+    "handle": "truth-white-insight-7610",
+    "length": {
+      "value": "228.6"
+    },
+    "lengthLabel": {
+      "value": "7'6\""
+    },
+    "peMin": {
+      "value": "8.0"
+    },
+    "peMax": {
+      "value": "10.0"
+    },
+    "castMin": {
+      "value": "60"
+    },
+    "castMax": {
+      "value": "250"
+    },
+    "recommendedDrag": {
+      "value": "18.0"
+    },
+    "madeIn": {
+      "value": "Japan"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/510646452337",
+      "namespace": "specs",
+      "key": "lure_buoyancy",
+      "name": "Lure buoyancy",
+      "type": {
+        "name": "single_line_text_field"
+      },
+      "ownerType": "PRODUCT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

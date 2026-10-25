@@ -1,0 +1,3639 @@
+{
+  "case_counts": {
+    "multi complete": 7,
+    "single complete": 40,
+    "single partial": 3,
+    "multi partial": 3
+  },
+  "products": [
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "title": "Atoll Bonger",
+      "case": "multi complete",
+      "size_option_values": [
+        "190",
+        "230"
+      ],
+      "size_option_means": "length_mm",
+      "description_pairs": [
+        [
+          190,
+          87.0,
+          "description labelled"
+        ],
+        [
+          230,
+          128.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "190": [
+          190,
+          87.0,
+          "description labelled"
+        ],
+        "230": [
+          230,
+          128.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "atlantis-flapper-170f",
+      "title": "Atlantis Flapper 170F",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          170,
+          60.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          170,
+          60.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "atlantis-funky-soda-170-85-gr",
+      "title": "Atlantis Funky Soda 170",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          170,
+          85.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          170,
+          85.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "atoll-giulia",
+      "title": "Atoll Giulia",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          128,
+          50.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          128,
+          50.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "atoll-giulia-plastic",
+      "title": "Atoll Giulia Plastic",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          148,
+          71.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          148,
+          71.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "atoll-misao",
+      "title": "Atoll Misao",
+      "case": "multi complete",
+      "size_option_values": [
+        "215",
+        "230"
+      ],
+      "size_option_means": "length_mm",
+      "description_pairs": [
+        [
+          215,
+          100.0,
+          "description labelled"
+        ],
+        [
+          230,
+          105.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "215": [
+          215,
+          100.0,
+          "description labelled"
+        ],
+        "230": [
+          230,
+          105.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "cb-one-rudolf-260",
+      "title": "CB One Rudolf 260",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          260,
+          175.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          260,
+          175.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "cb-one-ryan-230",
+      "title": "CB One Ryan 230",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          230,
+          130.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          230,
+          130.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "cb-one-zorro-200",
+      "title": "CB One Zorro 200",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          200,
+          60.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          200,
+          60.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "craftbait-gt3-130-gr",
+      "title": "Craftbait GT3 130 gr",
+      "case": "single partial",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [],
+      "mapped": {},
+      "unmapped_size_options": [],
+      "source_description_end": "One of those lures that produce a monster fish. Quality and durability is what makes Craft Bait stands for it is name, we highly recommend them to those who seeks that monster trophy fish!"
+    },
+    {
+      "handle": "fish-trippers-village-espuma-120-gr",
+      "title": "FishTrippers Village Espuma 220",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          220,
+          120.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          220,
+          120.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "title": "FishTrippers Village Liber Tango",
+      "case": "multi partial",
+      "size_option_values": [
+        "200",
+        "220"
+      ],
+      "size_option_means": "length_mm",
+      "description_pairs": [
+        [
+          200,
+          83.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "200": [
+          200,
+          83.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [
+        "220"
+      ],
+      "source_description_end": "Made in Japan by hand in high density polyurethane. It is an excellent lure for kingfish, tuna and pelagic fish. Its swimming action during recovery is ultimate with extreme movements in the water! An important sintillation on its flat sides stimulates the instinct of the big predators. Lenght 200 mm Gr. 83"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "title": "FishTripper Village Le Grand Tango",
+      "case": "multi partial",
+      "size_option_values": [
+        "190",
+        "210",
+        "240"
+      ],
+      "size_option_means": "length_mm",
+      "description_pairs": [
+        [
+          190,
+          85.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "190": [
+          190,
+          85.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [
+        "210",
+        "240"
+      ],
+      "source_description_end": "rsistent success. It is a top-notch diving pencil bait specifically crafted to entice fish that can't easily be found. Fast response time thanks to leading-edge materials. Ensured stability and lift due to superior buoyancy. Wide flat side delivers unmatched dirt stirring and remarkable brightness. Lenght 190 mm Gr. 85"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "title": "FishTrippers Village Concierto 280",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          280,
+          143.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          280,
+          143.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "floating-18cm-75g",
+      "title": "Glide Floating 18cm - 75g",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          180,
+          75.0,
+          "title cm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          180,
+          75.0,
+          "title cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "title": "Glide Floating 22cm - 120g",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          220,
+          120.0,
+          "title cm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          220,
+          120.0,
+          "title cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "title": "Glide Floating 24cm - 150g",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          240,
+          150.0,
+          "title cm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          240,
+          150.0,
+          "title cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "good-bait-bnd-180f",
+      "title": "Good Bait BND 180F",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          180,
+          91.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          180,
+          91.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "good-bait-fzr-188f",
+      "title": "Good Bait FZR 188F",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          188,
+          92.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          188,
+          92.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "good-bait-monsterzone-210f",
+      "title": "Good Bait MonsterZone 210F",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          210,
+          100.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          210,
+          100.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "good-bait-number-five-148f",
+      "title": "Good Bait Number Five 148F",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          148,
+          46.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          148,
+          46.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "good-bait-respect-190f",
+      "title": "Good Bait Respect 190F",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          190,
+          73.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          190,
+          73.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "title": "Hammerhead Sharapoa 250 Slim LV",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          250,
+          115.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          250,
+          115.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "hammerhead-tobi-140-sus",
+      "title": "Hammerhead Tobi 140 SUS",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          245,
+          140.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          245,
+          140.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "indigoblue-musya",
+      "title": "Indigo Blue Musya Pop",
+      "case": "multi complete",
+      "size_option_values": [
+        "210",
+        "240"
+      ],
+      "size_option_means": "length_mm",
+      "description_pairs": [
+        [
+          210,
+          100.0,
+          "description labelled"
+        ],
+        [
+          240,
+          125.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "210": [
+          210,
+          100.0,
+          "description labelled"
+        ],
+        "240": [
+          240,
+          125.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "title": "Jumprize Lalapen",
+      "case": "multi complete",
+      "size_option_values": [
+        "165",
+        "200",
+        "240"
+      ],
+      "size_option_means": "length_mm",
+      "description_pairs": [
+        [
+          165,
+          53.0,
+          "description labelled"
+        ],
+        [
+          200,
+          100.0,
+          "description labelled"
+        ],
+        [
+          240,
+          135.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "165": [
+          165,
+          53.0,
+          "description labelled"
+        ],
+        "200": [
+          200,
+          100.0,
+          "description labelled"
+        ],
+        "240": [
+          240,
+          135.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "kikuchi-craft-bubble-swimmer",
+      "title": "Kikuchi Craft Bubble Swimmer",
+      "case": "multi complete",
+      "size_option_values": [
+        "210",
+        "240"
+      ],
+      "size_option_means": "length_mm",
+      "description_pairs": [
+        [
+          210,
+          71.0,
+          "description labelled"
+        ],
+        [
+          240,
+          106.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "210": [
+          210,
+          71.0,
+          "description labelled"
+        ],
+        "240": [
+          240,
+          106.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "title": "Lazarat Griffon PoP 200",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          200,
+          100.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          200,
+          100.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "lazarat-griffon-diving-200-1",
+      "title": "Lazarat Griffon Diving 200",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          200,
+          100.0,
+          "description inline mm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          200,
+          100.0,
+          "description inline mm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "lazarat-griffon-diving-230",
+      "title": "Lazarat Griffon Diving 230",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          230,
+          145.0,
+          "description inline mm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          230,
+          145.0,
+          "description inline mm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "native-works-gazelle-230",
+      "title": "Native Works Gazelle 230",
+      "case": "single partial",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [],
+      "mapped": {},
+      "unmapped_size_options": [],
+      "source_description_end": "This lures is designed to attract fish when the bite is slow in general. Best action: allow the lure to swim on a slower retrieve in order to create a wider S shape to get the best action out of it. Recommended hooks: BKK Raptor-Z 4/0 or BKK Inline 9/0 on the Belly 7/0 on the tail"
+    },
+    {
+      "handle": "native-works-gazelle-270",
+      "title": "Native Works Gazelle 270",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          270,
+          210.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          270,
+          210.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "title": "Native Works Napalm 200",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          200,
+          90.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          200,
+          90.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "title": "Native Works Napalm 220",
+      "case": "single partial",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [],
+      "mapped": {},
+      "unmapped_size_options": [],
+      "source_description_end": "y to dive and do a big difference when a pencil can not be used. Intense bubble trail and motion. Swims in any sea conditions. DONT MISS OUT of these amazing diving poppers! Proven catcher on many fishes all around the globe. 100% handmade in Japan by Mr Kawauchi Kenichi, his lures are exceptional and undoubtly unique."
+    },
+    {
+      "handle": "native-works-napalm-250",
+      "title": "Native Works Napalm 250",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          250,
+          155.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          250,
+          155.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "native-works-rattler-210",
+      "title": "Native Works Rattler 210",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          210,
+          105.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          210,
+          105.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "native-works-rattler-230",
+      "title": "Native Works Rattler 230",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          230,
+          120.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          230,
+          120.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "title": "Native Works Tank Popper 190",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          190,
+          120.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          190,
+          120.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "title": "Patriot Design Master Bomb Big Cup 90",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          140,
+          90.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          140,
+          90.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "title": "Glide Popper",
+      "case": "multi complete",
+      "size_option_values": [
+        "100",
+        "130",
+        "150"
+      ],
+      "size_option_means": "weight_g",
+      "description_pairs": [
+        [
+          160,
+          100.0,
+          "description cm-g"
+        ],
+        [
+          180,
+          130.0,
+          "description cm-g"
+        ],
+        [
+          200,
+          150.0,
+          "description cm-g"
+        ]
+      ],
+      "mapped": {
+        "130": [
+          180,
+          130.0,
+          "description cm-g"
+        ],
+        "150": [
+          200,
+          150.0,
+          "description cm-g"
+        ],
+        "100": [
+          160,
+          100.0,
+          "description cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "title": "Glide Popper 18cm - 75g",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          180,
+          75.0,
+          "title cm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          180,
+          75.0,
+          "title cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "title": "Glide Popper 22cm - 110g",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          220,
+          110.0,
+          "title cm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          220,
+          110.0,
+          "title cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "rst-supply-nezul-210",
+      "title": "RST Supply Nezul 210",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          210,
+          82.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          210,
+          82.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "rst-supply-rilana-180f",
+      "title": "RST Supply Rilana 180F",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          180,
+          69.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          180,
+          69.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "title": "Glide Sinking 10cm - 50g",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          100,
+          50.0,
+          "title cm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          100,
+          50.0,
+          "title cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "title": "Glide Sinking 14cm - 80g",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          140,
+          80.0,
+          "title cm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          140,
+          80.0,
+          "title cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "sinking-18cm-100g",
+      "title": "Glide Stickbait Sinking 18cm - 100gr",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          180,
+          100.0,
+          "title cm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          180,
+          100.0,
+          "title cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "title": "Glide Stickpop 18cm - 75g",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          180,
+          75.0,
+          "title cm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          180,
+          75.0,
+          "title cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "title": "Glide Stickpop 20cm - 105g",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          200,
+          105.0,
+          "title cm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          200,
+          105.0,
+          "title cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "title": "Glide Stickpop 22cm - 150g",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          220,
+          150.0,
+          "title cm-g"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          220,
+          150.0,
+          "title cm-g"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "title": "Wild Gambler Rigin",
+      "case": "multi complete",
+      "size_option_values": [
+        "160",
+        "180"
+      ],
+      "size_option_means": "length_mm",
+      "description_pairs": [
+        [
+          180,
+          135.0,
+          "description labelled"
+        ],
+        [
+          160,
+          105.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "160": [
+          160,
+          105.0,
+          "description labelled"
+        ],
+        "180": [
+          180,
+          135.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "woodream-akiya-200",
+      "title": "Woodream Akiya 200",
+      "case": "single complete",
+      "size_option_values": [],
+      "size_option_means": "none",
+      "description_pairs": [
+        [
+          200,
+          97.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "all": [
+          200,
+          97.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [],
+      "source_description_end": ""
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "title": "Wooodream Akiya popper",
+      "case": "multi partial",
+      "size_option_values": [
+        "215",
+        "250",
+        "270"
+      ],
+      "size_option_means": "length_mm",
+      "description_pairs": [
+        [
+          250,
+          130.0,
+          "description labelled"
+        ]
+      ],
+      "mapped": {
+        "250": [
+          250,
+          130.0,
+          "description labelled"
+        ]
+      },
+      "unmapped_size_options": [
+        "215",
+        "270"
+      ],
+      "source_description_end": ", slender and easy-to-use popper With the concept of being easy to use and handle, the shape and swimming that have been constantly prototyped and tested. It’s a popper that has the potential to respond to users intended action with less resistance for its size and strong bubble trail when worked. Lenght 250 mm Gr. 130"
+    }
+  ],
+  "variants": [
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ1797578",
+      "size_option": "230",
+      "length_mm": 230,
+      "lure_weight_g": 128.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ0216913",
+      "size_option": "230",
+      "length_mm": 230,
+      "lure_weight_g": 128.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ5475142",
+      "size_option": "230",
+      "length_mm": 230,
+      "lure_weight_g": 128.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ3582499",
+      "size_option": "230",
+      "length_mm": 230,
+      "lure_weight_g": 128.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ2734823",
+      "size_option": "230",
+      "length_mm": 230,
+      "lure_weight_g": 128.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ9463989",
+      "size_option": "230",
+      "length_mm": 230,
+      "lure_weight_g": 128.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ2895747",
+      "size_option": "230",
+      "length_mm": 230,
+      "lure_weight_g": 128.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ5830182",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 87.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ2404280",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 87.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ5833797",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 87.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ3088240",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 87.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ7193431",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 87.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ7496866",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 87.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ0400514",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 87.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atlantis-flapper-170f",
+      "sku": "SQ6919783",
+      "size_option": "",
+      "length_mm": 170,
+      "lure_weight_g": 60.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atlantis-flapper-170f",
+      "sku": "SQ1222574",
+      "size_option": "",
+      "length_mm": 170,
+      "lure_weight_g": 60.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atlantis-flapper-170f",
+      "sku": "SQ2779521",
+      "size_option": "",
+      "length_mm": 170,
+      "lure_weight_g": 60.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atlantis-funky-soda-170-85-gr",
+      "sku": "SQ0080832",
+      "size_option": "",
+      "length_mm": 170,
+      "lure_weight_g": 85.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atlantis-funky-soda-170-85-gr",
+      "sku": "SQ2202787",
+      "size_option": "",
+      "length_mm": 170,
+      "lure_weight_g": 85.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-giulia",
+      "sku": "SQ8425406",
+      "size_option": "",
+      "length_mm": 128,
+      "lure_weight_g": 50.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-giulia",
+      "sku": "SQ1576048",
+      "size_option": "",
+      "length_mm": 128,
+      "lure_weight_g": 50.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-giulia",
+      "sku": "SQ9275255",
+      "size_option": "",
+      "length_mm": 128,
+      "lure_weight_g": 50.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-giulia-plastic",
+      "sku": "SQ5019616",
+      "size_option": "",
+      "length_mm": 148,
+      "lure_weight_g": 71.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-giulia-plastic",
+      "sku": "SQ3038090",
+      "size_option": "",
+      "length_mm": 148,
+      "lure_weight_g": 71.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-giulia-plastic",
+      "sku": "SQ9447993",
+      "size_option": "",
+      "length_mm": 148,
+      "lure_weight_g": 71.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-giulia-plastic",
+      "sku": "SQ4067205",
+      "size_option": "",
+      "length_mm": 148,
+      "lure_weight_g": 71.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ0767144",
+      "size_option": "215",
+      "length_mm": 215,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ7285006",
+      "size_option": "215",
+      "length_mm": 215,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ1884179",
+      "size_option": "215",
+      "length_mm": 215,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ9396740",
+      "size_option": "230",
+      "length_mm": 230,
+      "lure_weight_g": 105.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ5816270",
+      "size_option": "230",
+      "length_mm": 230,
+      "lure_weight_g": 105.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ5280473",
+      "size_option": "230",
+      "length_mm": 230,
+      "lure_weight_g": 105.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "cb-one-rudolf-260",
+      "sku": "SQ2943196",
+      "size_option": "",
+      "length_mm": 260,
+      "lure_weight_g": 175.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "cb-one-ryan-230",
+      "sku": "Black",
+      "size_option": "",
+      "length_mm": 230,
+      "lure_weight_g": 130.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "cb-one-zorro-200",
+      "sku": "SQ0108475",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 60.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "craftbait-gt3-130-gr",
+      "sku": "SQ2495051",
+      "size_option": "",
+      "length_mm": null,
+      "lure_weight_g": 130.0,
+      "evidence": "title states 130 gr"
+    },
+    {
+      "handle": "craftbait-gt3-130-gr",
+      "sku": "SQ6390907",
+      "size_option": "",
+      "length_mm": null,
+      "lure_weight_g": 130.0,
+      "evidence": "title states 130 gr"
+    },
+    {
+      "handle": "craftbait-gt3-130-gr",
+      "sku": "SQ7486479",
+      "size_option": "",
+      "length_mm": null,
+      "lure_weight_g": 130.0,
+      "evidence": "title states 130 gr"
+    },
+    {
+      "handle": "fish-trippers-village-espuma-120-gr",
+      "sku": "SQ9887077",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fish-trippers-village-espuma-120-gr",
+      "sku": "SQ1562135",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fish-trippers-village-espuma-120-gr",
+      "sku": "SQ6027343",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ5719846",
+      "size_option": "200",
+      "length_mm": 200,
+      "lure_weight_g": 83.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ8340518",
+      "size_option": "200",
+      "length_mm": 200,
+      "lure_weight_g": 83.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ2416371",
+      "size_option": "200",
+      "length_mm": 200,
+      "lure_weight_g": 83.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ0653809",
+      "size_option": "200",
+      "length_mm": 200,
+      "lure_weight_g": 83.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ3470066",
+      "size_option": "220",
+      "length_mm": 220,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ9920592",
+      "size_option": "220",
+      "length_mm": 220,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ5225677",
+      "size_option": "220",
+      "length_mm": 220,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ1847202",
+      "size_option": "220",
+      "length_mm": 220,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ3639567",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 85.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ6965070",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 85.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ6491760",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 85.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ4039317",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 85.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ3644600",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 85.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ4350897",
+      "size_option": "190",
+      "length_mm": 190,
+      "lure_weight_g": 85.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ7163674",
+      "size_option": "210",
+      "length_mm": 210,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ7540757",
+      "size_option": "210",
+      "length_mm": 210,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ2763829",
+      "size_option": "210",
+      "length_mm": 210,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ9949874",
+      "size_option": "210",
+      "length_mm": 210,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ1924530",
+      "size_option": "210",
+      "length_mm": 210,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ1070246",
+      "size_option": "210",
+      "length_mm": 210,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ4389930",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ8402685",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ9480444",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ5421325",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ5187126",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ5154028",
+      "size_option": "",
+      "length_mm": 280,
+      "lure_weight_g": 143.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ0986186",
+      "size_option": "",
+      "length_mm": 280,
+      "lure_weight_g": 143.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ1296625",
+      "size_option": "",
+      "length_mm": 280,
+      "lure_weight_g": 143.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ3936196",
+      "size_option": "",
+      "length_mm": 280,
+      "lure_weight_g": 143.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ3922828",
+      "size_option": "",
+      "length_mm": 280,
+      "lure_weight_g": 143.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ3703796",
+      "size_option": "",
+      "length_mm": 280,
+      "lure_weight_g": 143.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "floating-18cm-75g",
+      "sku": "SQ8727577",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-18cm-75g",
+      "sku": "SQ4176743",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-18cm-75g",
+      "sku": "SQ4821465",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-18cm-75g",
+      "sku": "SQ0653018",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-18cm-75g",
+      "sku": "SQ8168902",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ8441079",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ8241258",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ3121307",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ9954176",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ8361686",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ2422357",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ3660400",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ2750120",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ7711059",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ7461328",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ6899363",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ8806675",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ2533420",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ5868404",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 120.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ0962319",
+      "size_option": "",
+      "length_mm": 240,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ3602819",
+      "size_option": "",
+      "length_mm": 240,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ2640495",
+      "size_option": "",
+      "length_mm": 240,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ0412405",
+      "size_option": "",
+      "length_mm": 240,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ1718712",
+      "size_option": "",
+      "length_mm": 240,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ9815424",
+      "size_option": "",
+      "length_mm": 240,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ7294551",
+      "size_option": "",
+      "length_mm": 240,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ5154938",
+      "size_option": "",
+      "length_mm": 240,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ0746987",
+      "size_option": "",
+      "length_mm": 240,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ2703032",
+      "size_option": "",
+      "length_mm": 240,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "good-bait-bnd-180f",
+      "sku": "SQ6280239",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 91.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-fzr-188f",
+      "sku": "SQ9849808",
+      "size_option": "",
+      "length_mm": 188,
+      "lure_weight_g": 92.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-fzr-188f",
+      "sku": "SQ3782824",
+      "size_option": "",
+      "length_mm": 188,
+      "lure_weight_g": 92.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-monsterzone-210f",
+      "sku": "SQ6338628",
+      "size_option": "",
+      "length_mm": 210,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-monsterzone-210f",
+      "sku": "SQ3001944",
+      "size_option": "",
+      "length_mm": 210,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-monsterzone-210f",
+      "sku": "SQ4921310",
+      "size_option": "",
+      "length_mm": 210,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-number-five-148f",
+      "sku": "SQ6785501",
+      "size_option": "",
+      "length_mm": 148,
+      "lure_weight_g": 46.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-number-five-148f",
+      "sku": "SQ1426494",
+      "size_option": "",
+      "length_mm": 148,
+      "lure_weight_g": 46.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-number-five-148f",
+      "sku": "SQ9919896",
+      "size_option": "",
+      "length_mm": 148,
+      "lure_weight_g": 46.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-respect-190f",
+      "sku": "SQ2779949",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 73.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-respect-190f",
+      "sku": "SQ4420567",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 73.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-respect-190f",
+      "sku": "SQ2037100",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 73.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-respect-190f",
+      "sku": "SQ4234089",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 73.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "good-bait-respect-190f",
+      "sku": "SQ8945722",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 73.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "sku": "SQ8930403",
+      "size_option": "",
+      "length_mm": 250,
+      "lure_weight_g": 115.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "sku": "SQ2313758",
+      "size_option": "",
+      "length_mm": 250,
+      "lure_weight_g": 115.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "sku": "SQ9880121",
+      "size_option": "",
+      "length_mm": 250,
+      "lure_weight_g": 115.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "sku": "SQ3589401",
+      "size_option": "",
+      "length_mm": 250,
+      "lure_weight_g": 115.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "hammerhead-tobi-140-sus",
+      "sku": "SQ6888012",
+      "size_option": "",
+      "length_mm": 245,
+      "lure_weight_g": 140.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "hammerhead-tobi-140-sus",
+      "sku": "SQ0095289",
+      "size_option": "",
+      "length_mm": 245,
+      "lure_weight_g": 140.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "hammerhead-tobi-140-sus",
+      "sku": "SQ8584270",
+      "size_option": "",
+      "length_mm": 245,
+      "lure_weight_g": 140.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "hammerhead-tobi-140-sus",
+      "sku": "SQ4745268",
+      "size_option": "",
+      "length_mm": 245,
+      "lure_weight_g": 140.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "indigoblue-musya",
+      "sku": "SQ3416271",
+      "size_option": "210",
+      "length_mm": 210,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "indigoblue-musya",
+      "sku": "SQ6175308",
+      "size_option": "210",
+      "length_mm": 210,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "indigoblue-musya",
+      "sku": "SQ9393439",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": 125.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "indigoblue-musya",
+      "sku": "SQ9506637",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": 125.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ9471621",
+      "size_option": "165",
+      "length_mm": 165,
+      "lure_weight_g": 53.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ0622643",
+      "size_option": "165",
+      "length_mm": 165,
+      "lure_weight_g": 53.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ4437370",
+      "size_option": "165",
+      "length_mm": 165,
+      "lure_weight_g": 53.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ9740868",
+      "size_option": "165",
+      "length_mm": 165,
+      "lure_weight_g": 53.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ2226325",
+      "size_option": "165",
+      "length_mm": 165,
+      "lure_weight_g": 53.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ9081961",
+      "size_option": "200",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ3644597",
+      "size_option": "200",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ3143433",
+      "size_option": "200",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ0277449",
+      "size_option": "200",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ4150438",
+      "size_option": "200",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ6409380",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": 135.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ8194100",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": 135.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ2532620",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": 135.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ0352269",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": 135.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ3464404",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": 135.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "kikuchi-craft-bubble-swimmer",
+      "sku": "SQ5177796",
+      "size_option": "210",
+      "length_mm": 210,
+      "lure_weight_g": 71.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "kikuchi-craft-bubble-swimmer",
+      "sku": "SQ4936759",
+      "size_option": "240",
+      "length_mm": 240,
+      "lure_weight_g": 106.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ0417057",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ7624755",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ9355053",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ0297571",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ5334114",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ5330644",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ0771397",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200-1",
+      "sku": "SQ7328256",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description inline mm-g"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200-1",
+      "sku": "SQ0163718",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 100.0,
+      "evidence": "description inline mm-g"
+    },
+    {
+      "handle": "lazarat-griffon-diving-230",
+      "sku": "SQ3498813",
+      "size_option": "",
+      "length_mm": 230,
+      "lure_weight_g": 145.0,
+      "evidence": "description inline mm-g"
+    },
+    {
+      "handle": "lazarat-griffon-diving-230",
+      "sku": "SQ2270853",
+      "size_option": "",
+      "length_mm": 230,
+      "lure_weight_g": 145.0,
+      "evidence": "description inline mm-g"
+    },
+    {
+      "handle": "lazarat-griffon-diving-230",
+      "sku": "SQ1909163",
+      "size_option": "",
+      "length_mm": 230,
+      "lure_weight_g": 145.0,
+      "evidence": "description inline mm-g"
+    },
+    {
+      "handle": "native-works-gazelle-230",
+      "sku": "SQ3261392",
+      "size_option": "",
+      "length_mm": null,
+      "lure_weight_g": null,
+      "evidence": "review required"
+    },
+    {
+      "handle": "native-works-gazelle-270",
+      "sku": "SQ2106374",
+      "size_option": "",
+      "length_mm": 270,
+      "lure_weight_g": 210.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-gazelle-270",
+      "sku": "SQ7431133",
+      "size_option": "",
+      "length_mm": 270,
+      "lure_weight_g": 210.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-gazelle-270",
+      "sku": "SQ1542471",
+      "size_option": "",
+      "length_mm": 270,
+      "lure_weight_g": 210.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ6101444",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ5456763",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ9271934",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ4669765",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ0857222",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ7588783",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ6202744",
+      "size_option": "",
+      "length_mm": null,
+      "lure_weight_g": null,
+      "evidence": "review required"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ1820657",
+      "size_option": "",
+      "length_mm": null,
+      "lure_weight_g": null,
+      "evidence": "review required"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ8382225",
+      "size_option": "",
+      "length_mm": null,
+      "lure_weight_g": null,
+      "evidence": "review required"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ8732608",
+      "size_option": "",
+      "length_mm": null,
+      "lure_weight_g": null,
+      "evidence": "review required"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ9623535",
+      "size_option": "",
+      "length_mm": null,
+      "lure_weight_g": null,
+      "evidence": "review required"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ4138495",
+      "size_option": "",
+      "length_mm": null,
+      "lure_weight_g": null,
+      "evidence": "review required"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ0782892",
+      "size_option": "",
+      "length_mm": null,
+      "lure_weight_g": null,
+      "evidence": "review required"
+    },
+    {
+      "handle": "native-works-napalm-250",
+      "sku": "SQ7268835",
+      "size_option": "",
+      "length_mm": 250,
+      "lure_weight_g": 155.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-napalm-250",
+      "sku": "SQ5571575",
+      "size_option": "",
+      "length_mm": 250,
+      "lure_weight_g": 155.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-napalm-250",
+      "sku": "SQ4390825",
+      "size_option": "",
+      "length_mm": 250,
+      "lure_weight_g": 155.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-napalm-250",
+      "sku": "SQ1374809",
+      "size_option": "",
+      "length_mm": 250,
+      "lure_weight_g": 155.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-napalm-250",
+      "sku": "SQ0757410",
+      "size_option": "",
+      "length_mm": 250,
+      "lure_weight_g": 155.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-rattler-210",
+      "sku": "SQ0795181",
+      "size_option": "",
+      "length_mm": 210,
+      "lure_weight_g": 105.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-rattler-210",
+      "sku": "SQ5741887",
+      "size_option": "",
+      "length_mm": 210,
+      "lure_weight_g": 105.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-rattler-210",
+      "sku": "SQ0358744",
+      "size_option": "",
+      "length_mm": 210,
+      "lure_weight_g": 105.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-rattler-210",
+      "sku": "SQ3114539",
+      "size_option": "",
+      "length_mm": 210,
+      "lure_weight_g": 105.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-rattler-210",
+      "sku": "SQ3347494",
+      "size_option": "",
+      "length_mm": 210,
+      "lure_weight_g": 105.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-rattler-230",
+      "sku": "SQ6821677",
+      "size_option": "",
+      "length_mm": 230,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-rattler-230",
+      "sku": "SQ6651220",
+      "size_option": "",
+      "length_mm": 230,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-rattler-230",
+      "sku": "SQ2112243",
+      "size_option": "",
+      "length_mm": 230,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-rattler-230",
+      "sku": "SQ2901320",
+      "size_option": "",
+      "length_mm": 230,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ1060796",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ1302102",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ6481537",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ4015776",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ3954638",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ2227887",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ2234384",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ6393804",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ4796736",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ2241956",
+      "size_option": "",
+      "length_mm": 190,
+      "lure_weight_g": 120.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ8875384",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ5417582",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ9259378",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ4370188",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ5182833",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ1762362",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ1396933",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 90.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ6283810",
+      "size_option": "100",
+      "length_mm": 160,
+      "lure_weight_g": 100.0,
+      "evidence": "description cm-g"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ4259113",
+      "size_option": "130",
+      "length_mm": 180,
+      "lure_weight_g": 130.0,
+      "evidence": "description cm-g"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ9777578",
+      "size_option": "150",
+      "length_mm": 200,
+      "lure_weight_g": 150.0,
+      "evidence": "description cm-g"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ8530309",
+      "size_option": "100",
+      "length_mm": 160,
+      "lure_weight_g": 100.0,
+      "evidence": "description cm-g"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ3206746",
+      "size_option": "130",
+      "length_mm": 180,
+      "lure_weight_g": 130.0,
+      "evidence": "description cm-g"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ3321847",
+      "size_option": "150",
+      "length_mm": 200,
+      "lure_weight_g": 150.0,
+      "evidence": "description cm-g"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ2806036",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ1778175",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ2816028",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ4988796",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ2905866",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ8157867",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ5925045",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 110.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ8035429",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 110.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ1785377",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 110.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ6803691",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 110.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ3177287",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 110.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ8842762",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 110.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ4793061",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 110.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ2651929",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 110.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ7245243",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 110.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ8282102",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 110.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "rst-supply-nezul-210",
+      "sku": "SQ5754232",
+      "size_option": "",
+      "length_mm": 210,
+      "lure_weight_g": 82.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "rst-supply-rilana-180f",
+      "sku": "SQ6791078",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 69.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "rst-supply-rilana-180f",
+      "sku": "SQ6074839",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 69.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ8909010",
+      "size_option": "",
+      "length_mm": 100,
+      "lure_weight_g": 50.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ0570592",
+      "size_option": "",
+      "length_mm": 100,
+      "lure_weight_g": 50.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ3679915",
+      "size_option": "",
+      "length_mm": 100,
+      "lure_weight_g": 50.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ8328549",
+      "size_option": "",
+      "length_mm": 100,
+      "lure_weight_g": 50.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ6002304",
+      "size_option": "",
+      "length_mm": 100,
+      "lure_weight_g": 50.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ2629408",
+      "size_option": "",
+      "length_mm": 100,
+      "lure_weight_g": 50.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ4155596",
+      "size_option": "",
+      "length_mm": 100,
+      "lure_weight_g": 50.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ0681038",
+      "size_option": "",
+      "length_mm": 100,
+      "lure_weight_g": 50.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ8371419",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 80.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ6428731",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 80.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ7213301",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 80.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ6283725",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 80.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ4286020",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 80.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ0478688",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 80.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ1274080",
+      "size_option": "",
+      "length_mm": 140,
+      "lure_weight_g": 80.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-18cm-100g",
+      "sku": "SQ4726944",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 100.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-18cm-100g",
+      "sku": "SQ1588900",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 100.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "sinking-18cm-100g",
+      "sku": "SQ3218967",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 100.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ8821546",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ0230919",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ5469331",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ0065414",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ9311074",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ0747067",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ9017232",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ3543332",
+      "size_option": "",
+      "length_mm": 180,
+      "lure_weight_g": 75.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ7581226",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 105.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ2319235",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 105.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ0452227",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 105.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ0859850",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 105.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ7270156",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 105.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ8096117",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 105.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ7885850",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 105.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ4227470",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 105.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ4099842",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ7191530",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ1955957",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ5510682",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ7648587",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ8631115",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ7803890",
+      "size_option": "",
+      "length_mm": 220,
+      "lure_weight_g": 150.0,
+      "evidence": "title cm-g"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ8955977",
+      "size_option": "180",
+      "length_mm": 180,
+      "lure_weight_g": 135.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ7854621",
+      "size_option": "180",
+      "length_mm": 180,
+      "lure_weight_g": 135.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ2278712",
+      "size_option": "180",
+      "length_mm": 180,
+      "lure_weight_g": 135.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ0394094",
+      "size_option": "160",
+      "length_mm": 160,
+      "lure_weight_g": 105.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ8611879",
+      "size_option": "160",
+      "length_mm": 160,
+      "lure_weight_g": 105.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ2502427",
+      "size_option": "160",
+      "length_mm": 160,
+      "lure_weight_g": 105.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "woodream-akiya-200",
+      "sku": "SQ6562399",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 97.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "woodream-akiya-200",
+      "sku": "SQ7648304",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 97.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "woodream-akiya-200",
+      "sku": "SQ7143061",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 97.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "woodream-akiya-200",
+      "sku": "SQ3143650",
+      "size_option": "",
+      "length_mm": 200,
+      "lure_weight_g": 97.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ9590418",
+      "size_option": "215",
+      "length_mm": 215,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ1096296",
+      "size_option": "215",
+      "length_mm": 215,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ7060695",
+      "size_option": "215",
+      "length_mm": 215,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ8547122",
+      "size_option": "250",
+      "length_mm": 250,
+      "lure_weight_g": 130.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ4174714",
+      "size_option": "250",
+      "length_mm": 250,
+      "lure_weight_g": 130.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ3684988",
+      "size_option": "250",
+      "length_mm": 250,
+      "lure_weight_g": 130.0,
+      "evidence": "description labelled"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ1397248",
+      "size_option": "270",
+      "length_mm": 270,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ4418084",
+      "size_option": "270",
+      "length_mm": 270,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ2919639",
+      "size_option": "270",
+      "length_mm": 270,
+      "lure_weight_g": null,
+      "evidence": "Size option = length_mm (product mapping)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650466656369",
+      "handle": "gold",
+      "displayName": "Gold",
+      "fields": [
+        {
+          "key": "label",
+          "value": "Gold"
+        },
+        {
+          "key": "swatch_color",
+          "value": "#C09A4E"
+        }
+      ]
+    },
+    "userErrors": []
+  }
+}

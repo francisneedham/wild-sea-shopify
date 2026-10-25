@@ -1,0 +1,20 @@
+query AuditRodPeFilter($ids: [ID!]!) {
+  nodes(ids: $ids) {
+    ... on Product {
+      id
+      handle
+      productType
+      peMin: metafield(namespace: "specs", key: "rod_pe_min") { value }
+      peMax: metafield(namespace: "specs", key: "rod_pe_max") { value }
+      variants(first: 100) {
+        nodes {
+          id
+          sku
+          peMax: metafield(namespace: "specs", key: "rod_pe_max") { value }
+          supportedPe: metafield(namespace: "specs", key: "rod_pe_supported") { value }
+        }
+        pageInfo { hasNextPage }
+      }
+    }
+  }
+}

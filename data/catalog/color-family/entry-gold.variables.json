@@ -1,0 +1,18 @@
+{
+  "handle": {
+    "type": "wildsea_color_family",
+    "handle": "gold"
+  },
+  "metaobject": {
+    "fields": [
+      {
+        "key": "label",
+        "value": "Gold"
+      },
+      {
+        "key": "swatch_color",
+        "value": "#C09A4E"
+      }
+    ]
+  }
+}

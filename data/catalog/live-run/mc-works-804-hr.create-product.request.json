@@ -1,0 +1,74 @@
+{
+  "input": {
+    "handle": "mc-works-804-hr",
+    "title": "MC Works 804 HR",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>A commitment to the explosive wild. </span>Casting for yellowtail and fishing with plugs.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Our EXPLOSION was born as a rod to support this completely new type of fishing, </span>10 years later, it continues to evolve and is now a lineup that supports a wide variety of targets, from yellowtail to GT and tuna, as well as yellowtail casting.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The basic characteristics are a soft tip and a hard butt, </span>a high level of castability and lifting power. Although there are differences in power class and length, it has linear trajectory characteristics and flight distance, and the repulsive force to lift the target just by supporting it at 45 degrees.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>It is a rod that is unmatched in terms of its high breaking strength, power-to-weight ratio, and strength around the base, and is suitable for yellowtail, the strongest target in the coastal waters.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>An overwhelming lightness that you wouldn't expect from a casting rod that easily clears the DRAG MAX 8KG.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Even if you keep casting all day, you won't get tired at all, and the ease of handling has amazed everyone who has monitored it.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Furthermore, the tip's tracking ability can be operated with the same feeling as the longer 864HR.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The ultimate finesse model that perfects the delicate control of lightweight plugs.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Full titanium K guide.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Titanium single foot model is also available in the CUSTOM MODEL.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>LENGTH 8'0&quot;</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>LINE PE #3-5</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>CAST 40-80G</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>DRAG MAX 8KG</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Made in Japan</span></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "yellowtail",
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ4642026",
+        "price": "580.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d8504f0f-a995-476f-b9a2-8eaa9318c273/A7402642.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works 804 HR"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ab281e86-4262-4d38-8c1a-c6c23003d80e/A7402643.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works 804 HR"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/32fdb87d-9829-4aee-8860-b2ecf17a2d87/A7402650.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works 804 HR"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

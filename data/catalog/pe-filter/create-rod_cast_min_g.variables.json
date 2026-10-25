@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Rod casting minimum (variant)",
+    "namespace": "specs",
+    "key": "rod_cast_min_g",
+    "description": "Lower stated casting weight in grams for rod variant.",
+    "type": "number_integer",
+    "ownerType": "PRODUCTVARIANT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

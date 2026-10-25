@@ -1,0 +1,391 @@
+{
+  "metaobjects": {
+    "nodes": [
+      {
+        "id": "gid://shopify/Metaobject/650226630769",
+        "handle": "socotra-fishing",
+        "displayName": "Socotra",
+        "fields": [
+          {
+            "key": "title",
+            "value": "Socotra"
+          },
+          {
+            "key": "caption",
+            "value": "Wild coastlines. Powerful currents. Extraordinary giant trevally. Discover a fishing expedition unlike anywhere else."
+          },
+          {
+            "key": "season",
+            "value": "March–April / October–November"
+          },
+          {
+            "key": "fishing_days",
+            "value": "6 full fishing days"
+          },
+          {
+            "key": "on_the_water",
+            "value": "Small guided groups"
+          },
+          {
+            "key": "target_species",
+            "value": "Giant trevally"
+          },
+          {
+            "key": "listing_image",
+            "value": "gid://shopify/MediaImage/46288823156849"
+          },
+          {
+            "key": "region",
+            "value": "Yemen · Indian Ocean"
+          },
+          {
+            "key": "technique",
+            "value": "Popping & jigging"
+          },
+          {
+            "key": "status",
+            "value": "available"
+          }
+        ],
+        "capabilities": {
+          "onlineStore": {
+            "templateSuffix": "socotra"
+          },
+          "publishable": {
+            "status": "ACTIVE"
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Metaobject/650324279409",
+        "handle": "djibouti-popping",
+        "displayName": "Djibouti",
+        "fields": [
+          {
+            "key": "title",
+            "value": "Djibouti"
+          },
+          {
+            "key": "caption",
+            "value": "Fish strong currents where the Red Sea meets the Gulf of Aden. Explore GT popping, jigging and shore fishing around Djibouti’s remote islands and reefs."
+          },
+          {
+            "key": "season",
+            "value": null
+          },
+          {
+            "key": "fishing_days",
+            "value": "8 full fishing days"
+          },
+          {
+            "key": "on_the_water",
+            "value": "Liveaboard & shore fishing"
+          },
+          {
+            "key": "target_species",
+            "value": "Giant trevally"
+          },
+          {
+            "key": "listing_image",
+            "value": "gid://shopify/MediaImage/46288939384945"
+          },
+          {
+            "key": "region",
+            "value": "Djibouti · Gulf of Aden"
+          },
+          {
+            "key": "technique",
+            "value": "Popping & jigging"
+          },
+          {
+            "key": "status",
+            "value": "available"
+          }
+        ],
+        "capabilities": {
+          "onlineStore": {
+            "templateSuffix": "djibouti"
+          },
+          "publishable": {
+            "status": "ACTIVE"
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Metaobject/650324443249",
+        "handle": "gabon-fishing-adventure",
+        "displayName": "Gabon",
+        "fields": [
+          {
+            "key": "title",
+            "value": "Gabon"
+          },
+          {
+            "key": "caption",
+            "value": "Where rainforest meets ocean, fish the beaches and estuary around Loango National Park for tarpon, threadfin, jacks and other coastal species."
+          },
+          {
+            "key": "season",
+            "value": "October–April"
+          },
+          {
+            "key": "fishing_days",
+            "value": null
+          },
+          {
+            "key": "on_the_water",
+            "value": "Beach & estuary"
+          },
+          {
+            "key": "target_species",
+            "value": "Tarpon, threadfin & jacks"
+          },
+          {
+            "key": "listing_image",
+            "value": "gid://shopify/MediaImage/46288939417713"
+          },
+          {
+            "key": "region",
+            "value": "Gabon · Atlantic Ocean"
+          },
+          {
+            "key": "technique",
+            "value": "Beach & estuary casting"
+          },
+          {
+            "key": "status",
+            "value": "available"
+          }
+        ],
+        "capabilities": {
+          "onlineStore": {
+            "templateSuffix": "gabon"
+          },
+          "publishable": {
+            "status": "ACTIVE"
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Metaobject/650324607089",
+        "handle": "los-roques",
+        "displayName": "Los Roques",
+        "fields": [
+          {
+            "key": "title",
+            "value": "Los Roques"
+          },
+          {
+            "key": "caption",
+            "value": "Wade clear Caribbean flats for bonefish, permit and tarpon across the islands and cays of the Los Roques Archipelago."
+          },
+          {
+            "key": "season",
+            "value": "Year-round"
+          },
+          {
+            "key": "fishing_days",
+            "value": "6 full fishing days"
+          },
+          {
+            "key": "on_the_water",
+            "value": "Wading & guided boat trips"
+          },
+          {
+            "key": "target_species",
+            "value": "Bonefish, permit & tarpon"
+          },
+          {
+            "key": "listing_image",
+            "value": "gid://shopify/MediaImage/46288939450481"
+          },
+          {
+            "key": "region",
+            "value": "Venezuela · Caribbean Sea"
+          },
+          {
+            "key": "technique",
+            "value": "Fly fishing"
+          },
+          {
+            "key": "status",
+            "value": "available"
+          }
+        ],
+        "capabilities": {
+          "onlineStore": {
+            "templateSuffix": "los-roques"
+          },
+          "publishable": {
+            "status": "ACTIVE"
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Metaobject/650324738161",
+        "handle": "socotra-fly-fishing",
+        "displayName": "Socotra Fly Fishing",
+        "fields": [
+          {
+            "key": "title",
+            "value": "Socotra Fly Fishing"
+          },
+          {
+            "key": "caption",
+            "value": "Explore Socotra’s Indian Ocean shores with a fly rod, from trevally and bonefish to permit, triggerfish and reef species."
+          },
+          {
+            "key": "season",
+            "value": "October / March–April"
+          },
+          {
+            "key": "fishing_days",
+            "value": null
+          },
+          {
+            "key": "on_the_water",
+            "value": "Small guided groups"
+          },
+          {
+            "key": "target_species",
+            "value": "Trevally & reef species"
+          },
+          {
+            "key": "listing_image",
+            "value": "gid://shopify/MediaImage/46288939483249"
+          },
+          {
+            "key": "region",
+            "value": "Yemen · Indian Ocean"
+          },
+          {
+            "key": "technique",
+            "value": "Fly fishing"
+          },
+          {
+            "key": "status",
+            "value": "available"
+          }
+        ],
+        "capabilities": {
+          "onlineStore": {
+            "templateSuffix": "socotra-fly"
+          },
+          "publishable": {
+            "status": "ACTIVE"
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Metaobject/650324869233",
+        "handle": "nubian-reef",
+        "displayName": "Nubian Reef",
+        "fields": [
+          {
+            "key": "title",
+            "value": "Nubian Reef"
+          },
+          {
+            "key": "caption",
+            "value": "A Red Sea liveaboard expedition through remote Sudanese reefs for giant trevally, dogtooth tuna and other reef and pelagic species. Temporarily closed."
+          },
+          {
+            "key": "season",
+            "value": null
+          },
+          {
+            "key": "fishing_days",
+            "value": "6 full fishing days"
+          },
+          {
+            "key": "on_the_water",
+            "value": "Liveaboard"
+          },
+          {
+            "key": "target_species",
+            "value": "Giant trevally & dogtooth tuna"
+          },
+          {
+            "key": "listing_image",
+            "value": "gid://shopify/MediaImage/46288939516017"
+          },
+          {
+            "key": "region",
+            "value": "Sudan · Red Sea"
+          },
+          {
+            "key": "technique",
+            "value": "Popping & jigging"
+          },
+          {
+            "key": "status",
+            "value": "closed"
+          }
+        ],
+        "capabilities": {
+          "onlineStore": {
+            "templateSuffix": "nubian-reef"
+          },
+          "publishable": {
+            "status": "ACTIVE"
+          }
+        }
+      },
+      {
+        "id": "gid://shopify/Metaobject/650325033073",
+        "handle": "nubian-flat",
+        "displayName": "Nubian Flat",
+        "fields": [
+          {
+            "key": "title",
+            "value": "Nubian Flat"
+          },
+          {
+            "key": "caption",
+            "value": "Fly fish Sudan’s remote Red Sea flats for triggerfish, permit, trevally and other reef species. Temporarily closed."
+          },
+          {
+            "key": "season",
+            "value": null
+          },
+          {
+            "key": "fishing_days",
+            "value": "6 full fishing days"
+          },
+          {
+            "key": "on_the_water",
+            "value": "Liveaboard & flats"
+          },
+          {
+            "key": "target_species",
+            "value": "Triggerfish & permit"
+          },
+          {
+            "key": "listing_image",
+            "value": "gid://shopify/MediaImage/46288939548785"
+          },
+          {
+            "key": "region",
+            "value": "Sudan · Red Sea"
+          },
+          {
+            "key": "technique",
+            "value": "Fly fishing"
+          },
+          {
+            "key": "status",
+            "value": "closed"
+          }
+        ],
+        "capabilities": {
+          "onlineStore": {
+            "templateSuffix": "nubian-flat"
+          },
+          "publishable": {
+            "status": "ACTIVE"
+          }
+        }
+      }
+    ]
+  }
+}

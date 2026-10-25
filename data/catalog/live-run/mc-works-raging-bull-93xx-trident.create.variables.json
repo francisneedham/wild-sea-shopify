@@ -1,0 +1,71 @@
+{
+  "input": {
+    "handle": "mc-works-raging-bull-93xx-trident",
+    "title": "MC Works Raging Bull 93XX Trident",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>It is the xx model of the largest power class in the trident series,</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>in terms of material configuration, it is a power-up version of the rb95sd.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The split configuration is a grip joint + center 2 pieces, ensuring high strength.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>For expert anglers who aim for giant fish from the sea and embankments it is max power trident.</span></p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Specifications :<br /><span>Type:&nbsp;Spin&nbsp;<br />Length: 9’3”<br />Line:&nbsp;PE8/10<br />Casting max:&nbsp;gr 200<br />Drag max: 13kg<br />Grips: EVA <br /></span>Guides: Fuji guides</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ0790696",
+        "price": "650.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e316cdf0-7aa5-44e5-8cd1-98c370de5d08/trident+1.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Raging Bull 93XX Trident"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/19235a24-5b00-43b0-b41c-65f1d2a18b9e/trident+2.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Raging Bull 93XX Trident"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7b344285-8ed9-43e5-893d-ba0d5e71e5b7/trident+3.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Raging Bull 93XX Trident"
+      }
+    ]
+  }
+}

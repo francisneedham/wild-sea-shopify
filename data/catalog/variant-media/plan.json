@@ -1,0 +1,2580 @@
+{
+  "ready": [
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ1797578",
+      "color": "Mahimahi",
+      "variantId": "gid://shopify/ProductVariant/67837026140273",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/217c3c71-2eb7-4bbf-b37b-35ff2f2edf2b/IMG_20260513_234758_61600339814989.jpg",
+      "productId": "gid://shopify/Product/15439151366257",
+      "mediaId": "gid://shopify/MediaImage/46283720130673"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ5475142",
+      "color": "SilverBlack",
+      "variantId": "gid://shopify/ProductVariant/67837026205809",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a93846d6-8139-44fb-aa24-23d2d2251781/IMG_20260513_235010_61600376628271.jpg",
+      "productId": "gid://shopify/Product/15439151366257",
+      "mediaId": "gid://shopify/MediaImage/46283720228977"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ3582499",
+      "color": "SilverBlue",
+      "variantId": "gid://shopify/ProductVariant/67837026238577",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6b9a3000-0123-4e68-9bfb-e4e12b481335/IMG_20260513_234723_61600328517541.jpg",
+      "productId": "gid://shopify/Product/15439151366257",
+      "mediaId": "gid://shopify/MediaImage/46283720097905"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ2734823",
+      "color": "SilverOrange",
+      "variantId": "gid://shopify/ProductVariant/67837026271345",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7de4ceab-874d-4a99-8feb-15878c8cc1a1/IMG_20260513_235102_61600405055666.jpg",
+      "productId": "gid://shopify/Product/15439151366257",
+      "mediaId": "gid://shopify/MediaImage/46283720261745"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ9463989",
+      "color": "Fusilier",
+      "variantId": "gid://shopify/ProductVariant/67837026304113",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c169d320-d9e4-4ee1-88f2-f5bfe0ce9722/IMG_20260513_234706_61600314578791.jpg",
+      "productId": "gid://shopify/Product/15439151366257",
+      "mediaId": "gid://shopify/MediaImage/46283720065137"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ2895747",
+      "color": "SilverGoldBlack",
+      "variantId": "gid://shopify/ProductVariant/67837026336881",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0dde55af-e33b-497d-8ed4-36ccc844f763/IMG_20260513_234838_61600349170250.jpg",
+      "productId": "gid://shopify/Product/15439151366257",
+      "mediaId": "gid://shopify/MediaImage/46283720163441"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ5830182",
+      "color": "Mahimahi",
+      "variantId": "gid://shopify/ProductVariant/67837026369649",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/217c3c71-2eb7-4bbf-b37b-35ff2f2edf2b/IMG_20260513_234758_61600339814989.jpg",
+      "productId": "gid://shopify/Product/15439151366257",
+      "mediaId": "gid://shopify/MediaImage/46283720130673"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ5833797",
+      "color": "SilverBlack",
+      "variantId": "gid://shopify/ProductVariant/67837026435185",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a93846d6-8139-44fb-aa24-23d2d2251781/IMG_20260513_235010_61600376628271.jpg",
+      "productId": "gid://shopify/Product/15439151366257",
+      "mediaId": "gid://shopify/MediaImage/46283720228977"
+    },
+    {
+      "handle": "atlantis-flapper-170f",
+      "sku": "SQ6919783",
+      "color": "GlitterPink",
+      "variantId": "gid://shopify/ProductVariant/67841296924785",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/32e57616-498a-4ff3-93c5-ffc2012d0529/Atlantis+Flapper+170+F+silver+pink.jpg",
+      "productId": "gid://shopify/Product/15439412134001",
+      "mediaId": "gid://shopify/MediaImage/46284866027633"
+    },
+    {
+      "handle": "atlantis-flapper-170f",
+      "sku": "SQ1222574",
+      "color": "GlitterBlue",
+      "variantId": "gid://shopify/ProductVariant/67841296957553",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6dae0fc8-53ab-41bc-b867-675c45536875/Atlantis+Flapper+170+blue.jpg",
+      "productId": "gid://shopify/Product/15439412134001",
+      "mediaId": "gid://shopify/MediaImage/46284866093169"
+    },
+    {
+      "handle": "atlantis-flapper-170f",
+      "sku": "SQ2779521",
+      "color": "Candy",
+      "variantId": "gid://shopify/ProductVariant/67841296990321",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2d62ddaf-f7e0-4e34-834a-b8a1e8fde3fb/Atlantis+flapper+170+candy.jpg",
+      "productId": "gid://shopify/Product/15439412134001",
+      "mediaId": "gid://shopify/MediaImage/46284866060401"
+    },
+    {
+      "handle": "atlantis-funky-soda-170-85-gr",
+      "sku": "SQ0080832",
+      "color": "Red Abalone",
+      "variantId": "gid://shopify/ProductVariant/67841298595953",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/363f38f0-8bba-41b7-bd87-743c0ffb5264/Funky+Soda+170+red+abalone.jpg",
+      "productId": "gid://shopify/Product/15439412363377",
+      "mediaId": "gid://shopify/MediaImage/46284867108977"
+    },
+    {
+      "handle": "atlantis-funky-soda-170-85-gr",
+      "sku": "SQ2202787",
+      "color": "Pink Abalone",
+      "variantId": "gid://shopify/ProductVariant/67841298628721",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7f2eb10a-d525-4519-b8eb-ccad70bae1f8/Funky+Soda+170+pink+abalone.jpg",
+      "productId": "gid://shopify/Product/15439412363377",
+      "mediaId": "gid://shopify/MediaImage/46284867141745"
+    },
+    {
+      "handle": "atoll-giulia",
+      "sku": "SQ8425406",
+      "color": "SilverBlue",
+      "variantId": "gid://shopify/ProductVariant/67841300299889",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1d231db8-5190-4f70-9208-98988ad15755/IMG_20260513_235220_61600418897750.jpg",
+      "productId": "gid://shopify/Product/15439412592753",
+      "mediaId": "gid://shopify/MediaImage/46284868780145"
+    },
+    {
+      "handle": "atoll-giulia",
+      "sku": "SQ1576048",
+      "color": "SilverOrange",
+      "variantId": "gid://shopify/ProductVariant/67841300332657",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/53740378-cdad-49dc-a480-7e0f3d5743f1/IMG_20260513_235231_61600431681656.jpg",
+      "productId": "gid://shopify/Product/15439412592753",
+      "mediaId": "gid://shopify/MediaImage/46284868812913"
+    },
+    {
+      "handle": "atoll-giulia",
+      "sku": "SQ9275255",
+      "color": "Fusilier",
+      "variantId": "gid://shopify/ProductVariant/67841300365425",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/bcf7e0c7-08a9-4d40-b330-28c0fea470ac/IMG_20260513_235258_61600443484521.jpg",
+      "productId": "gid://shopify/Product/15439412592753",
+      "mediaId": "gid://shopify/MediaImage/46284868845681"
+    },
+    {
+      "handle": "atoll-giulia-plastic",
+      "sku": "SQ5019616",
+      "color": "PinkHead",
+      "variantId": "gid://shopify/ProductVariant/67841300562033",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d8b47411-6569-4552-8518-ff0dcef96c60/IMG_20260514_000204_61600578014312.jpg",
+      "productId": "gid://shopify/Product/15439412723825",
+      "mediaId": "gid://shopify/MediaImage/46284869501041"
+    },
+    {
+      "handle": "atoll-giulia-plastic",
+      "sku": "SQ3038090",
+      "color": "BlueHead",
+      "variantId": "gid://shopify/ProductVariant/67841300594801",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e831f5b9-e943-4d30-9dd8-4116914746b9/IMG_20260514_000241_61600604794312.jpg",
+      "productId": "gid://shopify/Product/15439412723825",
+      "mediaId": "gid://shopify/MediaImage/46284869566577"
+    },
+    {
+      "handle": "atoll-giulia-plastic",
+      "sku": "SQ9447993",
+      "color": "GreenHead",
+      "variantId": "gid://shopify/ProductVariant/67841300627569",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/40056706-a50d-4ccf-88a7-8d15c234a602/IMG_20260514_000225_61600590497489.jpg",
+      "productId": "gid://shopify/Product/15439412723825",
+      "mediaId": "gid://shopify/MediaImage/46284869533809"
+    },
+    {
+      "handle": "atoll-giulia-plastic",
+      "sku": "SQ4067205",
+      "color": "YellowOrange",
+      "variantId": "gid://shopify/ProductVariant/67841300660337",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/58f3b885-9f5d-41aa-85b0-20adb080853e/IMG_20260514_000300_61600627279052.jpg",
+      "productId": "gid://shopify/Product/15439412723825",
+      "mediaId": "gid://shopify/MediaImage/46284869599345"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ0767144",
+      "color": "SilverOrange",
+      "variantId": "gid://shopify/ProductVariant/67841300758641",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/85ef8c64-d94b-4325-95ae-1ea4d13d958f/IMG_20260514_000026_61600551738583.jpg",
+      "productId": "gid://shopify/Product/15439412822129",
+      "mediaId": "gid://shopify/MediaImage/46284870287473"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ7285006",
+      "color": "Fusilier",
+      "variantId": "gid://shopify/ProductVariant/67841300791409",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/150bfe3f-71f7-4789-b46f-19ca4d4510b7/IMG_20260514_000011_61600533200354.jpg",
+      "productId": "gid://shopify/Product/15439412822129",
+      "mediaId": "gid://shopify/MediaImage/46284870254705"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ1884179",
+      "color": "SilverGoldBlack",
+      "variantId": "gid://shopify/ProductVariant/67841300824177",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6ef8e289-2bbe-47e8-beca-e7855d548fdb/IMG_20260513_235935_61600520807958.jpg",
+      "productId": "gid://shopify/Product/15439412822129",
+      "mediaId": "gid://shopify/MediaImage/46284870221937"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ9396740",
+      "color": "SilverOrange",
+      "variantId": "gid://shopify/ProductVariant/67841300856945",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/85ef8c64-d94b-4325-95ae-1ea4d13d958f/IMG_20260514_000026_61600551738583.jpg",
+      "productId": "gid://shopify/Product/15439412822129",
+      "mediaId": "gid://shopify/MediaImage/46284870287473"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ5816270",
+      "color": "Fusilier",
+      "variantId": "gid://shopify/ProductVariant/67841300889713",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/150bfe3f-71f7-4789-b46f-19ca4d4510b7/IMG_20260514_000011_61600533200354.jpg",
+      "productId": "gid://shopify/Product/15439412822129",
+      "mediaId": "gid://shopify/MediaImage/46284870254705"
+    },
+    {
+      "handle": "atoll-misao",
+      "sku": "SQ5280473",
+      "color": "SilverGoldBlack",
+      "variantId": "gid://shopify/ProductVariant/67841300922481",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6ef8e289-2bbe-47e8-beca-e7855d548fdb/IMG_20260513_235935_61600520807958.jpg",
+      "productId": "gid://shopify/Product/15439412822129",
+      "mediaId": "gid://shopify/MediaImage/46284870221937"
+    },
+    {
+      "handle": "craftbait-gt3-130-gr",
+      "sku": "SQ2495051",
+      "color": "Blacklame",
+      "variantId": "gid://shopify/ProductVariant/67841304428657",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/49a88770-0a9e-4aba-b6e8-1ea99d16748e/img-20241227-wa0124.JPG",
+      "productId": "gid://shopify/Product/15439413674097",
+      "mediaId": "gid://shopify/MediaImage/46284875726961"
+    },
+    {
+      "handle": "craftbait-gt3-130-gr",
+      "sku": "SQ6390907",
+      "color": "Blue Silver Stripe",
+      "variantId": "gid://shopify/ProductVariant/67841304461425",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/42730dc3-9d07-4d64-adf2-bc7450688e56/img-20241227-wa0126.JPG",
+      "productId": "gid://shopify/Product/15439413674097",
+      "mediaId": "gid://shopify/MediaImage/46284875759729"
+    },
+    {
+      "handle": "craftbait-gt3-130-gr",
+      "sku": "SQ7486479",
+      "color": "Green Pink",
+      "variantId": "gid://shopify/ProductVariant/67841304494193",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/61d381aa-7ad6-49a4-89b8-4fbe9351b319/img-20241227-wa0128.JPG",
+      "productId": "gid://shopify/Product/15439413674097",
+      "mediaId": "gid://shopify/MediaImage/46284875792497"
+    },
+    {
+      "handle": "fish-trippers-village-espuma-120-gr",
+      "sku": "SQ9887077",
+      "color": "Silver Black",
+      "variantId": "gid://shopify/ProductVariant/67841306755185",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/54716a1e-3382-4333-9dc1-30d5911aa8a0/Espuma+Silver+Black.jpg",
+      "productId": "gid://shopify/Product/15439414100081",
+      "mediaId": "gid://shopify/MediaImage/46284878610545"
+    },
+    {
+      "handle": "fish-trippers-village-espuma-120-gr",
+      "sku": "SQ1562135",
+      "color": "Silver Blue",
+      "variantId": "gid://shopify/ProductVariant/67841306787953",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/93389476-463f-4937-88e3-849597bc87a7/Espuma+Silver+blue.jpg",
+      "productId": "gid://shopify/Product/15439414100081",
+      "mediaId": "gid://shopify/MediaImage/46284878643313"
+    },
+    {
+      "handle": "fish-trippers-village-espuma-120-gr",
+      "sku": "SQ6027343",
+      "color": "Silver Blue Yellow Head",
+      "variantId": "gid://shopify/ProductVariant/67841306820721",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e2399ae3-1d14-40cd-846c-1eeceb26b525/Espuma+silver_blue+Yellow+head.jpg",
+      "productId": "gid://shopify/Product/15439414100081",
+      "mediaId": "gid://shopify/MediaImage/46284878676081"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ5719846",
+      "color": "Blue",
+      "variantId": "gid://shopify/ProductVariant/67841307836529",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4f01e323-9b6c-4d45-9f68-808e85323626/Grand+Tango+silver+blue.jpg",
+      "productId": "gid://shopify/Product/15439414493297",
+      "mediaId": "gid://shopify/MediaImage/46284880642161"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ8340518",
+      "color": "Rainbow Trout",
+      "variantId": "gid://shopify/ProductVariant/67841307869297",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e7d5764e-75e4-4e56-8ab8-1931c6e6b588/Tango+silver_pink_gree.jpg",
+      "productId": "gid://shopify/Product/15439414493297",
+      "mediaId": "gid://shopify/MediaImage/46284880674929"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ2416371",
+      "color": "Silver Black Yellow Head",
+      "variantId": "gid://shopify/ProductVariant/67841307902065",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b6e09a88-3438-48b2-ab56-8b55a5f960f8/Tango+Silver_black+Yellow+head.jpg",
+      "productId": "gid://shopify/Product/15439414493297",
+      "mediaId": "gid://shopify/MediaImage/46284880707697"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ0653809",
+      "color": "Silver Blue Yellow Head",
+      "variantId": "gid://shopify/ProductVariant/67841307934833",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c7c45d33-9139-4c72-bde9-4f81bd10b6d9/Tango+Silver_blue+Yellow+head.jpg",
+      "productId": "gid://shopify/Product/15439414493297",
+      "mediaId": "gid://shopify/MediaImage/46284880740465"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ3639567",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841309147249",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/33734d66-031b-4244-b6a0-1df2788a704a/IMG-20241227-WA0092sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882542705"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ6965070",
+      "color": "Blue Holographic",
+      "variantId": "gid://shopify/ProductVariant/67841309180017",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/be9183d3-f085-4556-b5a6-a20913d7fa86/IMG-20241227-WA0096sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882608241"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ6491760",
+      "color": "Purple Glitter",
+      "variantId": "gid://shopify/ProductVariant/67841309212785",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/bf892e39-0027-4401-a449-5b9d938e91e0/Purple.jpg",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882673777"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ4039317",
+      "color": "Redhead Glitter",
+      "variantId": "gid://shopify/ProductVariant/67841309245553",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/620ada1d-88af-47e2-bd9e-be554d1a3050/IMG-20241227-WA0088sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882477169"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ3644600",
+      "color": "Green",
+      "variantId": "gid://shopify/ProductVariant/67841309278321",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/88711e30-3a84-4b1f-a421-d234b008179f/IMG-20241227-WA0094sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882575473"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ4350897",
+      "color": "Blue",
+      "variantId": "gid://shopify/ProductVariant/67841309311089",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d2acf3ba-7441-4854-a3f9-f40255869bcd/IMG-20241227-WA0090sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882509937"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ7163674",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841309343857",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/33734d66-031b-4244-b6a0-1df2788a704a/IMG-20241227-WA0092sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882542705"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ7540757",
+      "color": "Blue Holographic",
+      "variantId": "gid://shopify/ProductVariant/67841309376625",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/be9183d3-f085-4556-b5a6-a20913d7fa86/IMG-20241227-WA0096sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882608241"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ2763829",
+      "color": "Purple Glitter",
+      "variantId": "gid://shopify/ProductVariant/67841309409393",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7cc9821a-ac84-4006-9108-5e9ed156dfef/IMG-20241227-WA0011sssdsd-3.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882641009"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ9949874",
+      "color": "Redhead Glitter",
+      "variantId": "gid://shopify/ProductVariant/67841309442161",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/620ada1d-88af-47e2-bd9e-be554d1a3050/IMG-20241227-WA0088sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882477169"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ1924530",
+      "color": "Green",
+      "variantId": "gid://shopify/ProductVariant/67841309474929",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/88711e30-3a84-4b1f-a421-d234b008179f/IMG-20241227-WA0094sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882575473"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ1070246",
+      "color": "Blue",
+      "variantId": "gid://shopify/ProductVariant/67841309507697",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d2acf3ba-7441-4854-a3f9-f40255869bcd/IMG-20241227-WA0090sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882509937"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ4389930",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841309540465",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/33734d66-031b-4244-b6a0-1df2788a704a/IMG-20241227-WA0092sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882542705"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ8402685",
+      "color": "Blue Holographic",
+      "variantId": "gid://shopify/ProductVariant/67841309573233",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/be9183d3-f085-4556-b5a6-a20913d7fa86/IMG-20241227-WA0096sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882608241"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ9480444",
+      "color": "Purple Glitter",
+      "variantId": "gid://shopify/ProductVariant/67841309606001",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7cc9821a-ac84-4006-9108-5e9ed156dfef/IMG-20241227-WA0011sssdsd-3.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882641009"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ5421325",
+      "color": "Redhead Glitter",
+      "variantId": "gid://shopify/ProductVariant/67841309638769",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/620ada1d-88af-47e2-bd9e-be554d1a3050/IMG-20241227-WA0088sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882477169"
+    },
+    {
+      "handle": "fishtripper-village-le-grand-tango-210",
+      "sku": "SQ5187126",
+      "color": "Green",
+      "variantId": "gid://shopify/ProductVariant/67841309671537",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/88711e30-3a84-4b1f-a421-d234b008179f/IMG-20241227-WA0094sssdsd.JPG",
+      "productId": "gid://shopify/Product/15439414820977",
+      "mediaId": "gid://shopify/MediaImage/46284882575473"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ5154028",
+      "color": "MahiMahi",
+      "variantId": "gid://shopify/ProductVariant/67841311211633",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/acda8f1a-39e2-4215-ba91-9c73e462ce02/Concierto+Mahi+Mahi.jpg",
+      "productId": "gid://shopify/Product/15439415148657",
+      "mediaId": "gid://shopify/MediaImage/46284883525745"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ0986186",
+      "color": "MandarinePearch",
+      "variantId": "gid://shopify/ProductVariant/67841311244401",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/16744fb8-6591-400e-8f45-ee359b9b514b/Concierto+Mandarin+Perch.jpg",
+      "productId": "gid://shopify/Product/15439415148657",
+      "mediaId": "gid://shopify/MediaImage/46284883558513"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ1296625",
+      "color": "SilverPink",
+      "variantId": "gid://shopify/ProductVariant/67841311277169",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d7bd54cd-b909-41aa-bd3d-941d7772cc13/concierto+silver_pink.jpg",
+      "productId": "gid://shopify/Product/15439415148657",
+      "mediaId": "gid://shopify/MediaImage/46284883656817"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ3936196",
+      "color": "WhiteSilver",
+      "variantId": "gid://shopify/ProductVariant/67841311309937",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6c34ee73-9f46-4d02-bea0-932ca43fe6d1/Concierto+silver_white.jpg",
+      "productId": "gid://shopify/Product/15439415148657",
+      "mediaId": "gid://shopify/MediaImage/46284883624049"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ3922828",
+      "color": "RainbowTrout",
+      "variantId": "gid://shopify/ProductVariant/67841311342705",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/933cd22c-d721-47da-b991-3df5b1d649c9/Concierto+Raimbow+Trout.jpg",
+      "productId": "gid://shopify/Product/15439415148657",
+      "mediaId": "gid://shopify/MediaImage/46284883591281"
+    },
+    {
+      "handle": "fishtrippers-village-concierto-280",
+      "sku": "SQ3703796",
+      "color": "Fusilier",
+      "variantId": "gid://shopify/ProductVariant/67841311375473",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/eae5fddf-0579-44fc-90a8-3cd900fa6814/concierto.jpg",
+      "productId": "gid://shopify/Product/15439415148657",
+      "mediaId": "gid://shopify/MediaImage/46284883689585"
+    },
+    {
+      "handle": "floating-18cm-75g",
+      "sku": "SQ8727577",
+      "color": "Black",
+      "variantId": "gid://shopify/ProductVariant/67841312555121",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/49ef407d-1d4b-4e1d-8e1a-4e2810924e9a/Glide-Floating-18cm-75g-black.jpeg",
+      "productId": "gid://shopify/Product/15439415443569",
+      "mediaId": "gid://shopify/MediaImage/46284884607089"
+    },
+    {
+      "handle": "floating-18cm-75g",
+      "sku": "SQ4176743",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841312587889",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/906fa7f7-8aa6-4a34-8842-378936433b7a/Glide-Floating-18cm-75g-pink.jpeg",
+      "productId": "gid://shopify/Product/15439415443569",
+      "mediaId": "gid://shopify/MediaImage/46284884639857"
+    },
+    {
+      "handle": "floating-18cm-75g",
+      "sku": "SQ4821465",
+      "color": "Mahi",
+      "variantId": "gid://shopify/ProductVariant/67841312620657",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/94890220-036b-48ef-b891-81a9cdfd0d6e/Glide-Floating-18cm-75g-mahi.jpeg",
+      "productId": "gid://shopify/Product/15439415443569",
+      "mediaId": "gid://shopify/MediaImage/46284884672625"
+    },
+    {
+      "handle": "floating-18cm-75g",
+      "sku": "SQ0653018",
+      "color": "Banana",
+      "variantId": "gid://shopify/ProductVariant/67841312653425",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/af2daa1f-e8a3-4969-9464-8738f3fa1ea3/Glide-Floating-18cm-75g-banana.jpeg",
+      "productId": "gid://shopify/Product/15439415443569",
+      "mediaId": "gid://shopify/MediaImage/46284884705393"
+    },
+    {
+      "handle": "floating-18cm-75g",
+      "sku": "SQ8168902",
+      "color": "YouPop",
+      "variantId": "gid://shopify/ProductVariant/67841312686193",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/77cb8475-e95f-4247-9d43-66a8f8cc0233/Glide-Floating-18cm-75g-youpop.jpeg",
+      "productId": "gid://shopify/Product/15439415443569",
+      "mediaId": "gid://shopify/MediaImage/46284884738161"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ8441079",
+      "color": "Black",
+      "variantId": "gid://shopify/ProductVariant/67841314553969",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ab510058-bf76-4a5c-aedd-b4f2a50c2353/Glide-Floating-22cm-120g-black.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284885917809"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ8241258",
+      "color": "Blackbone",
+      "variantId": "gid://shopify/ProductVariant/67841314586737",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0fd9be37-630d-4412-a9ec-f430e1129b05/Glide-Floating-22cm-120g-blackbone.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284885950577"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ3121307",
+      "color": "Banana",
+      "variantId": "gid://shopify/ProductVariant/67841314619505",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d3d86308-e7b2-47ba-aa85-c6537ec321df/Glide-Floating-22cm-120g-banana.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284885983345"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ9954176",
+      "color": "Coral",
+      "variantId": "gid://shopify/ProductVariant/67841314652273",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/85e24d65-26c1-497b-b13c-1a552b4ea490/Glide-Floating-22cm-120g-coral.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284886016113"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ8361686",
+      "color": "Carbon",
+      "variantId": "gid://shopify/ProductVariant/67841314685041",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/8707c7f1-e0c9-468d-a409-fee863386203/Glide-Floating-22cm-120g-carbon.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284886048881"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ2422357",
+      "color": "Holo black",
+      "variantId": "gid://shopify/ProductVariant/67841314717809",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/fb292656-39ae-47d3-a9dd-bdf733c668d1/Glide-Floating-22cm-120g-holo-black.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284886081649"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ3660400",
+      "color": "Holo blue",
+      "variantId": "gid://shopify/ProductVariant/67841314750577",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/94ffe535-88c0-4dea-835a-9f8ed3db8a50/Glide-Floating-22cm-120g-holo-blue.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284886114417"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ2750120",
+      "color": "Holo pink",
+      "variantId": "gid://shopify/ProductVariant/67841314783345",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f27aa5bb-0f50-48fc-86a9-837d4835344c/Glide-Floating-22cm-120g-holo-pink.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284886147185"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ7711059",
+      "color": "Mahi",
+      "variantId": "gid://shopify/ProductVariant/67841314816113",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/812d986f-49e2-4a48-8d55-402d2989f66d/Glide-Floating-22cm-120g-mahi.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284886179953"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ6899363",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841314881649",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9eb97fce-cb9c-40f8-a20d-c4e30967cd72/Glide-Floating-22cm-120g-pink.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284886245489"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ8806675",
+      "color": "Sarda",
+      "variantId": "gid://shopify/ProductVariant/67841314914417",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2e32f7a6-3899-4ca6-b309-498341de9a4e/Glide-Floating-22cm-120g-sarda.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284886278257"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ2533420",
+      "color": "Shark",
+      "variantId": "gid://shopify/ProductVariant/67841314947185",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b2aba478-d00d-4590-94ce-1b2ddca276b6/Glide-Floating-22cm-120g-shark.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284886311025"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ5868404",
+      "color": "YouPop",
+      "variantId": "gid://shopify/ProductVariant/67841314979953",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4eb28c70-4441-4453-be1b-151e2a8f1b67/Glide-Floating-22cm-120g-youpop.jpeg",
+      "productId": "gid://shopify/Product/15439415771249",
+      "mediaId": "gid://shopify/MediaImage/46284886343793"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ0962319",
+      "color": "Holo Pink",
+      "variantId": "gid://shopify/ProductVariant/67841315471473",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/75127f27-0c90-4c90-bdd8-f9d333c50754/Glide-Floating-24cm-150g-holo-pink.jpeg",
+      "productId": "gid://shopify/Product/15439415869553",
+      "mediaId": "gid://shopify/MediaImage/46284886835313"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ3602819",
+      "color": "Carbon",
+      "variantId": "gid://shopify/ProductVariant/67841315504241",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d70d8dd9-0538-4970-ad6e-bac3df903d38/Glide-Floating-24cm-150g-carbon.jpeg",
+      "productId": "gid://shopify/Product/15439415869553",
+      "mediaId": "gid://shopify/MediaImage/46284886868081"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ2640495",
+      "color": "Holo Black",
+      "variantId": "gid://shopify/ProductVariant/67841315537009",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/cae0d59a-3fcc-4fca-b470-1426a9c290f9/Glide-Floating-24cm-150g-holo-black.jpeg",
+      "productId": "gid://shopify/Product/15439415869553",
+      "mediaId": "gid://shopify/MediaImage/46284886900849"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ0412405",
+      "color": "Holo Blue",
+      "variantId": "gid://shopify/ProductVariant/67841315569777",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1a5fe0ca-86f3-4a5d-9e6b-8ed3dc6768fc/Glide-Floating-24cm-150g-holo-blue.jpeg",
+      "productId": "gid://shopify/Product/15439415869553",
+      "mediaId": "gid://shopify/MediaImage/46284886933617"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ1718712",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841315602545",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e1fec7c7-3c18-4acc-ae17-9e47e23abfc9/Glide-Floating-24cm-150g-pink.jpeg",
+      "productId": "gid://shopify/Product/15439415869553",
+      "mediaId": "gid://shopify/MediaImage/46284886966385"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ9815424",
+      "color": "Nemo",
+      "variantId": "gid://shopify/ProductVariant/67841315635313",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/cc88f7f6-e973-490e-ae98-c510ddc88094/Glide-Floating-24cm-150g-nemo.jpeg",
+      "productId": "gid://shopify/Product/15439415869553",
+      "mediaId": "gid://shopify/MediaImage/46284886999153"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ7294551",
+      "color": "Coral",
+      "variantId": "gid://shopify/ProductVariant/67841315668081",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2c553c75-57bd-4a3a-a547-48be81deb142/Glide-Floating-24cm-150g-coral.jpeg",
+      "productId": "gid://shopify/Product/15439415869553",
+      "mediaId": "gid://shopify/MediaImage/46284887031921"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ5154938",
+      "color": "Mahi",
+      "variantId": "gid://shopify/ProductVariant/67841315700849",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f9217c8f-26ce-4da1-8891-54bf58ea6a7a/Glide-Floating-24cm-150g-mahi.jpeg",
+      "productId": "gid://shopify/Product/15439415869553",
+      "mediaId": "gid://shopify/MediaImage/46284887064689"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ0746987",
+      "color": "Banana",
+      "variantId": "gid://shopify/ProductVariant/67841315733617",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/8e0d69cf-9447-451a-815a-cf59489fc589/Glide-Floating-24cm-150g-banana.jpeg",
+      "productId": "gid://shopify/Product/15439415869553",
+      "mediaId": "gid://shopify/MediaImage/46284887097457"
+    },
+    {
+      "handle": "floating-24cm-150g",
+      "sku": "SQ2703032",
+      "color": "YouPop",
+      "variantId": "gid://shopify/ProductVariant/67841315766385",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/214f34b3-4091-4928-9dd9-3b25daae8e9d/Glide-Floating-24cm-150g-YouPop.jpeg",
+      "productId": "gid://shopify/Product/15439415869553",
+      "mediaId": "gid://shopify/MediaImage/46284887130225"
+    },
+    {
+      "handle": "good-bait-fzr-188f",
+      "sku": "SQ9849808",
+      "color": "SilverRed",
+      "variantId": "gid://shopify/ProductVariant/67841320386673",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1090adbd-5589-4c7e-b845-3dd5f4890d15/fzr2.jpg",
+      "productId": "gid://shopify/Product/15439417016433",
+      "mediaId": "gid://shopify/MediaImage/46284890996849"
+    },
+    {
+      "handle": "good-bait-fzr-188f",
+      "sku": "SQ3782824",
+      "color": "Silver",
+      "variantId": "gid://shopify/ProductVariant/67841320419441",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4cf7b1ff-7855-40cb-95df-899c53f28f41/fzr3.jpg",
+      "productId": "gid://shopify/Product/15439417016433",
+      "mediaId": "gid://shopify/MediaImage/46284890964081"
+    },
+    {
+      "handle": "good-bait-monsterzone-210f",
+      "sku": "SQ6338628",
+      "color": "SmallBait",
+      "variantId": "gid://shopify/ProductVariant/67841321730161",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/966562cb-10c6-43ea-9e66-647e2cffc4ba/monsterzone.jpg",
+      "productId": "gid://shopify/Product/15439417376881",
+      "mediaId": "gid://shopify/MediaImage/46284892110961"
+    },
+    {
+      "handle": "good-bait-monsterzone-210f",
+      "sku": "SQ3001944",
+      "color": "MonsterGold",
+      "variantId": "gid://shopify/ProductVariant/67841321762929",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/afb4bcac-4666-4d1b-ad38-837dd03918e4/monsterzone1.jpg",
+      "productId": "gid://shopify/Product/15439417376881",
+      "mediaId": "gid://shopify/MediaImage/46284892143729"
+    },
+    {
+      "handle": "good-bait-monsterzone-210f",
+      "sku": "SQ4921310",
+      "color": "PilotBlue",
+      "variantId": "gid://shopify/ProductVariant/67841321795697",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3ae6990f-183d-47b3-8b16-bb6503c528d8/monsterzone2.jpg",
+      "productId": "gid://shopify/Product/15439417376881",
+      "mediaId": "gid://shopify/MediaImage/46284892176497"
+    },
+    {
+      "handle": "good-bait-number-five-148f",
+      "sku": "SQ6785501",
+      "color": "SilverPink",
+      "variantId": "gid://shopify/ProductVariant/67841323335793",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1010d5d2-5351-4f80-a29e-c6655f2a223c/nuberfive2.jpg",
+      "productId": "gid://shopify/Product/15439417671793",
+      "mediaId": "gid://shopify/MediaImage/46284893454449"
+    },
+    {
+      "handle": "good-bait-number-five-148f",
+      "sku": "SQ1426494",
+      "color": "SilverBlue",
+      "variantId": "gid://shopify/ProductVariant/67841323368561",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/743fcd04-d2f3-4c90-94b9-f8ec23fb299d/numberfive1.jpg",
+      "productId": "gid://shopify/Product/15439417671793",
+      "mediaId": "gid://shopify/MediaImage/46284893519985"
+    },
+    {
+      "handle": "good-bait-number-five-148f",
+      "sku": "SQ9919896",
+      "color": "YellowHead",
+      "variantId": "gid://shopify/ProductVariant/67841323401329",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e1b2943f-8a32-4c95-b7db-ff8d89ab2430/numberfive.jpg",
+      "productId": "gid://shopify/Product/15439417671793",
+      "mediaId": "gid://shopify/MediaImage/46284893487217"
+    },
+    {
+      "handle": "good-bait-respect-190f",
+      "sku": "SQ2779949",
+      "color": "FlyingFish",
+      "variantId": "gid://shopify/ProductVariant/67841324122225",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3eabd222-e0c2-4f56-a426-ebff5fea7331/respect+2.jpg",
+      "productId": "gid://shopify/Product/15439417835633",
+      "mediaId": "gid://shopify/MediaImage/46284894240881"
+    },
+    {
+      "handle": "good-bait-respect-190f",
+      "sku": "SQ4420567",
+      "color": "SmallBait",
+      "variantId": "gid://shopify/ProductVariant/67841324154993",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d975c767-a618-401f-97d8-1a2a1f8de5cb/respect.jpg",
+      "productId": "gid://shopify/Product/15439417835633",
+      "mediaId": "gid://shopify/MediaImage/46284894273649"
+    },
+    {
+      "handle": "good-bait-respect-190f",
+      "sku": "SQ2037100",
+      "color": "MonsterGold",
+      "variantId": "gid://shopify/ProductVariant/67841324187761",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/640b7f55-317c-40bf-a8a9-ca52c186e926/respect1.jpg",
+      "productId": "gid://shopify/Product/15439417835633",
+      "mediaId": "gid://shopify/MediaImage/46284894306417"
+    },
+    {
+      "handle": "good-bait-respect-190f",
+      "sku": "SQ4234089",
+      "color": "SilverPink",
+      "variantId": "gid://shopify/ProductVariant/67841324220529",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/49a34d31-96df-471e-9ca3-419d87392fdf/respect3.jpg",
+      "productId": "gid://shopify/Product/15439417835633",
+      "mediaId": "gid://shopify/MediaImage/46284894339185"
+    },
+    {
+      "handle": "good-bait-respect-190f",
+      "sku": "SQ8945722",
+      "color": "PurpleYellow",
+      "variantId": "gid://shopify/ProductVariant/67841324253297",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e9b2cfb8-221e-446e-87a5-d842cb5ca276/respectpurple.jpg",
+      "productId": "gid://shopify/Product/15439417835633",
+      "mediaId": "gid://shopify/MediaImage/46284894371953"
+    },
+    {
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "sku": "SQ8930403",
+      "color": "Purple",
+      "variantId": "gid://shopify/ProductVariant/67841325465713",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e0346a26-eba3-4570-a3f5-16080506e949/sharapoa+purple.jpg",
+      "productId": "gid://shopify/Product/15439418097777",
+      "mediaId": "gid://shopify/MediaImage/46284895780977"
+    },
+    {
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "sku": "SQ2313758",
+      "color": "White",
+      "variantId": "gid://shopify/ProductVariant/67841325498481",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4e4e2ad8-3f58-42a5-87fe-defc12e4eb82/sharapoa+white.jpg",
+      "productId": "gid://shopify/Product/15439418097777",
+      "mediaId": "gid://shopify/MediaImage/46284895879281"
+    },
+    {
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "sku": "SQ9880121",
+      "color": "Pink Head",
+      "variantId": "gid://shopify/ProductVariant/67841325531249",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0b67c747-5de8-457c-8804-71b2f2cbad1f/sharapoa+pink+head.jpg",
+      "productId": "gid://shopify/Product/15439418097777",
+      "mediaId": "gid://shopify/MediaImage/46284895846513"
+    },
+    {
+      "handle": "hammerhead-sharapoa-250-slim-lv",
+      "sku": "SQ3589401",
+      "color": "Yellow Blue Snapper",
+      "variantId": "gid://shopify/ProductVariant/67841325564017",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2922470f-3195-42ff-9a51-420f242912ce/sharapoa+yellow+snapper.jpg",
+      "productId": "gid://shopify/Product/15439418097777",
+      "mediaId": "gid://shopify/MediaImage/46284895813745"
+    },
+    {
+      "handle": "hammerhead-tobi-140-sus",
+      "sku": "SQ6888012",
+      "color": "Yellowfin Tuna",
+      "variantId": "gid://shopify/ProductVariant/67841328676977",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9b39cd6e-3228-4d47-9d29-35cbea85269c/tobi4.jpg",
+      "productId": "gid://shopify/Product/15439418458225",
+      "mediaId": "gid://shopify/MediaImage/46284898140273"
+    },
+    {
+      "handle": "hammerhead-tobi-140-sus",
+      "sku": "SQ0095289",
+      "color": "Orange Nemo",
+      "variantId": "gid://shopify/ProductVariant/67841328709745",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/11ae323f-4b4f-4522-a3a0-1f506992810a/tobi5.jpg",
+      "productId": "gid://shopify/Product/15439418458225",
+      "mediaId": "gid://shopify/MediaImage/46284898173041"
+    },
+    {
+      "handle": "hammerhead-tobi-140-sus",
+      "sku": "SQ8584270",
+      "color": "Black",
+      "variantId": "gid://shopify/ProductVariant/67841328742513",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/bd5ffbc5-f64a-4cb2-9443-6c7407ee9748/tobi2.jpg",
+      "productId": "gid://shopify/Product/15439418458225",
+      "mediaId": "gid://shopify/MediaImage/46284898107505"
+    },
+    {
+      "handle": "hammerhead-tobi-140-sus",
+      "sku": "SQ4745268",
+      "color": "Pearl",
+      "variantId": "gid://shopify/ProductVariant/67841328775281",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b81a134c-6d59-4b6c-b23c-6775f02ed07c/tobi3.jpg",
+      "productId": "gid://shopify/Product/15439418458225",
+      "mediaId": "gid://shopify/MediaImage/46284898205809"
+    },
+    {
+      "handle": "indigoblue-musya",
+      "sku": "SQ3416271",
+      "color": "SilverPurple",
+      "variantId": "gid://shopify/ProductVariant/67841330446449",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3712cbfb-3b31-4b1c-996d-a2d58b0fbf78/IMG_20260513_231739_61599961931552.jpg",
+      "productId": "gid://shopify/Product/15439418785905",
+      "mediaId": "gid://shopify/MediaImage/46284899778673"
+    },
+    {
+      "handle": "indigoblue-musya",
+      "sku": "SQ6175308",
+      "color": "SilverRed",
+      "variantId": "gid://shopify/ProductVariant/67841330479217",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ffae9372-26bd-47a1-b686-6acddfed5a95/IMG_20260513_231756_61599975305510.jpg",
+      "productId": "gid://shopify/Product/15439418785905",
+      "mediaId": "gid://shopify/MediaImage/46284899811441"
+    },
+    {
+      "handle": "indigoblue-musya",
+      "sku": "SQ9393439",
+      "color": "SilverPurple",
+      "variantId": "gid://shopify/ProductVariant/67841330511985",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a150007f-1bb6-4a58-8ae5-c8c906471f46/IMG_20260513_231721_61599940179417.jpg",
+      "productId": "gid://shopify/Product/15439418785905",
+      "mediaId": "gid://shopify/MediaImage/46284899745905"
+    },
+    {
+      "handle": "indigoblue-musya",
+      "sku": "SQ9506637",
+      "color": "SilverRed",
+      "variantId": "gid://shopify/ProductVariant/67841330544753",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ffae9372-26bd-47a1-b686-6acddfed5a95/IMG_20260513_231756_61599975305510.jpg",
+      "productId": "gid://shopify/Product/15439418785905",
+      "mediaId": "gid://shopify/MediaImage/46284899811441"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ9471621",
+      "color": "SilverPink",
+      "variantId": "gid://shopify/ProductVariant/67841331921009",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6dce4d4f-9cc6-4736-af57-9015ad56af44/lalapink.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901810289"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ0622643",
+      "color": "Mackarell",
+      "variantId": "gid://shopify/ProductVariant/67841331953777",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1efcaac6-9f90-4fd5-9c3a-5f4740d5f20e/lala3.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901711985"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ4437370",
+      "color": "Silver",
+      "variantId": "gid://shopify/ProductVariant/67841331986545",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/dcc7e663-0fc4-4018-879a-953ae6648a25/lala2.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901679217"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ9740868",
+      "color": "HoloSilver",
+      "variantId": "gid://shopify/ProductVariant/67841332019313",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e4c9c126-3b45-40bd-bb69-01a3d88ce5f9/lala4.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901744753"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ2226325",
+      "color": "SilverBlue",
+      "variantId": "gid://shopify/ProductVariant/67841332052081",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6bb3e32c-ca12-4b61-b5e0-6fa41279406f/lala1.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901646449"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ9081961",
+      "color": "SilverPink",
+      "variantId": "gid://shopify/ProductVariant/67841332084849",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6dce4d4f-9cc6-4736-af57-9015ad56af44/lalapink.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901810289"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ3644597",
+      "color": "Mackarell",
+      "variantId": "gid://shopify/ProductVariant/67841332117617",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1efcaac6-9f90-4fd5-9c3a-5f4740d5f20e/lala3.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901711985"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ3143433",
+      "color": "Silver",
+      "variantId": "gid://shopify/ProductVariant/67841332150385",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/dcc7e663-0fc4-4018-879a-953ae6648a25/lala2.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901679217"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ0277449",
+      "color": "HoloSilver",
+      "variantId": "gid://shopify/ProductVariant/67841332183153",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e4c9c126-3b45-40bd-bb69-01a3d88ce5f9/lala4.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901744753"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ4150438",
+      "color": "SilverBlue",
+      "variantId": "gid://shopify/ProductVariant/67841332215921",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6bb3e32c-ca12-4b61-b5e0-6fa41279406f/lala1.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901646449"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ6409380",
+      "color": "SilverPink",
+      "variantId": "gid://shopify/ProductVariant/67841332248689",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6dce4d4f-9cc6-4736-af57-9015ad56af44/lalapink.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901810289"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ8194100",
+      "color": "Mackarell",
+      "variantId": "gid://shopify/ProductVariant/67841332281457",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1efcaac6-9f90-4fd5-9c3a-5f4740d5f20e/lala3.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901711985"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ2532620",
+      "color": "Silver",
+      "variantId": "gid://shopify/ProductVariant/67841332314225",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/dcc7e663-0fc4-4018-879a-953ae6648a25/lala2.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901679217"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ0352269",
+      "color": "HoloSilver",
+      "variantId": "gid://shopify/ProductVariant/67841332346993",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e4c9c126-3b45-40bd-bb69-01a3d88ce5f9/lala4.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901744753"
+    },
+    {
+      "handle": "jumprize-lalapen",
+      "sku": "SQ3464404",
+      "color": "SilverBlue",
+      "variantId": "gid://shopify/ProductVariant/67841332379761",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6bb3e32c-ca12-4b61-b5e0-6fa41279406f/lala1.jpg",
+      "productId": "gid://shopify/Product/15439419113585",
+      "mediaId": "gid://shopify/MediaImage/46284901646449"
+    },
+    {
+      "handle": "kikuchi-craft-bubble-swimmer",
+      "sku": "SQ5177796",
+      "color": "Sardine",
+      "variantId": "gid://shopify/ProductVariant/67841335525489",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/676109a6-1962-4be0-a12c-74b1a539f10c/kikuci.jpg",
+      "productId": "gid://shopify/Product/15439419703409",
+      "mediaId": "gid://shopify/MediaImage/46284904726641"
+    },
+    {
+      "handle": "kikuchi-craft-bubble-swimmer",
+      "sku": "SQ4936759",
+      "color": "Sardine",
+      "variantId": "gid://shopify/ProductVariant/67841335558257",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/676109a6-1962-4be0-a12c-74b1a539f10c/kikuci.jpg",
+      "productId": "gid://shopify/Product/15439419703409",
+      "mediaId": "gid://shopify/MediaImage/46284904726641"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ0417057",
+      "color": "Mahimahi",
+      "variantId": "gid://shopify/ProductVariant/67841338671217",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b7051cbc-139d-435e-b0b9-6a8211c622fa/mahimahi.jpg",
+      "productId": "gid://shopify/Product/15439420194929",
+      "mediaId": "gid://shopify/MediaImage/46284907708529"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ7624755",
+      "color": "ReadHead",
+      "variantId": "gid://shopify/ProductVariant/67841338703985",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ffcb0244-ca6e-42d6-a79e-4083cbfad80a/redhead.jpg",
+      "productId": "gid://shopify/Product/15439420194929",
+      "mediaId": "gid://shopify/MediaImage/46284907741297"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ9355053",
+      "color": "FlyiiFish",
+      "variantId": "gid://shopify/ProductVariant/67841338736753",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e7b71159-49cb-4f63-af99-74cfb2f29dcb/fly.jpg",
+      "productId": "gid://shopify/Product/15439420194929",
+      "mediaId": "gid://shopify/MediaImage/46284907774065"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ0297571",
+      "color": "NaturalGold",
+      "variantId": "gid://shopify/ProductVariant/67841338769521",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ded5d9a5-1e8a-4c69-aa3a-e37d114d880d/naturalgold.jpg",
+      "productId": "gid://shopify/Product/15439420194929",
+      "mediaId": "gid://shopify/MediaImage/46284907806833"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ5334114",
+      "color": "GreenBaitfish",
+      "variantId": "gid://shopify/ProductVariant/67841338802289",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/8b276d44-f8d4-4477-b2c9-ace1b752952c/greenbackbait.jpg",
+      "productId": "gid://shopify/Product/15439420194929",
+      "mediaId": "gid://shopify/MediaImage/46284907839601"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ5330644",
+      "color": "SpottedBaitfish",
+      "variantId": "gid://shopify/ProductVariant/67841338835057",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c9590948-b125-4978-b3b2-85096b7b0c7b/spotted.jpg",
+      "productId": "gid://shopify/Product/15439420194929",
+      "mediaId": "gid://shopify/MediaImage/46284907872369"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200",
+      "sku": "SQ0771397",
+      "color": "BluebackBaitfish",
+      "variantId": "gid://shopify/ProductVariant/67841338867825",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e75f05c2-e8bf-4191-8db8-3f74a92a2e5d/bluebacknaturalbait.jpg",
+      "productId": "gid://shopify/Product/15439420194929",
+      "mediaId": "gid://shopify/MediaImage/46284907905137"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200-1",
+      "sku": "SQ7328256",
+      "color": "Flying Fish",
+      "variantId": "gid://shopify/ProductVariant/67841340538993",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5349a447-ab6d-450d-9ed4-570c0fef0c33/1000080859.JPG",
+      "productId": "gid://shopify/Product/15439420489841",
+      "mediaId": "gid://shopify/MediaImage/46284909412465"
+    },
+    {
+      "handle": "lazarat-griffon-diving-200-1",
+      "sku": "SQ0163718",
+      "color": "Mahi Mahi",
+      "variantId": "gid://shopify/ProductVariant/67841340571761",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/94676c03-b85f-4c70-9c32-118d117c1ed2/1000080861.JPG",
+      "productId": "gid://shopify/Product/15439420489841",
+      "mediaId": "gid://shopify/MediaImage/46284909445233"
+    },
+    {
+      "handle": "lazarat-griffon-diving-230",
+      "sku": "SQ3498813",
+      "color": "Flying Fish",
+      "variantId": "gid://shopify/ProductVariant/67841341620337",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5349a447-ab6d-450d-9ed4-570c0fef0c33/1000080859.JPG",
+      "productId": "gid://shopify/Product/15439420686449",
+      "mediaId": "gid://shopify/MediaImage/46284910329969"
+    },
+    {
+      "handle": "lazarat-griffon-diving-230",
+      "sku": "SQ2270853",
+      "color": "Mahi Mahi",
+      "variantId": "gid://shopify/ProductVariant/67841341653105",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/94676c03-b85f-4c70-9c32-118d117c1ed2/1000080861.JPG",
+      "productId": "gid://shopify/Product/15439420686449",
+      "mediaId": "gid://shopify/MediaImage/46284910362737"
+    },
+    {
+      "handle": "lazarat-griffon-diving-230",
+      "sku": "SQ1909163",
+      "color": "Green Wood",
+      "variantId": "gid://shopify/ProductVariant/67841341685873",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2a57dc31-e414-483f-aa77-b6222455ad16/1000080862.JPG",
+      "productId": "gid://shopify/Product/15439420686449",
+      "mediaId": "gid://shopify/MediaImage/46284910395505"
+    },
+    {
+      "handle": "native-works-gazelle-270",
+      "sku": "SQ2106374",
+      "color": "Titanium",
+      "variantId": "gid://shopify/ProductVariant/67841369047153",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4177ea5e-2b79-42c8-a240-ade45df3511a/gazelle+270+titanium.jpg",
+      "productId": "gid://shopify/Product/15439426191473",
+      "mediaId": "gid://shopify/MediaImage/46284936970353"
+    },
+    {
+      "handle": "native-works-gazelle-270",
+      "sku": "SQ7431133",
+      "color": "Golden Orange",
+      "variantId": "gid://shopify/ProductVariant/67841369079921",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/92534d76-e94b-440d-a922-ff902db8b77f/gazelle+270+gold+orange.jpg",
+      "productId": "gid://shopify/Product/15439426191473",
+      "mediaId": "gid://shopify/MediaImage/46284936937585"
+    },
+    {
+      "handle": "native-works-gazelle-270",
+      "sku": "SQ1542471",
+      "color": "White Glow",
+      "variantId": "gid://shopify/ProductVariant/67841369112689",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/36a31b40-9589-443f-aeec-4b55fe48dbfe/Gazzelle+270+white.jpg",
+      "productId": "gid://shopify/Product/15439426191473",
+      "mediaId": "gid://shopify/MediaImage/46284937003121"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ6101444",
+      "color": "blackout",
+      "variantId": "gid://shopify/ProductVariant/67841371209841",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d23b93ac-ea12-4f2c-a935-ef035ffab2b0/IMG_20260513_232831+%281%29.jpg",
+      "productId": "gid://shopify/Product/15439426519153",
+      "mediaId": "gid://shopify/MediaImage/46284938117233"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ5456763",
+      "color": "natural wood",
+      "variantId": "gid://shopify/ProductVariant/67841371242609",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/56375824-8432-4c79-990c-a91fd73279f7/img-20241227-wa0071.JPG",
+      "productId": "gid://shopify/Product/15439426519153",
+      "mediaId": "gid://shopify/MediaImage/46284938281073"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ9271934",
+      "color": "Pink Back",
+      "variantId": "gid://shopify/ProductVariant/67841371275377",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/242d33d2-70ea-4472-b250-8bd2cc09359a/napalm+200+pink+back.jpg",
+      "productId": "gid://shopify/Product/15439426519153",
+      "mediaId": "gid://shopify/MediaImage/46284938248305"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ4669765",
+      "color": "Titanium",
+      "variantId": "gid://shopify/ProductVariant/67841371308145",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e9b390d1-6b6e-407c-8b78-a1c75e5773e3/napalm+220+titanium.jpg",
+      "productId": "gid://shopify/Product/15439426519153",
+      "mediaId": "gid://shopify/MediaImage/46284938215537"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ0857222",
+      "color": "Crab",
+      "variantId": "gid://shopify/ProductVariant/67841371340913",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1591ea55-8b3f-44b6-827b-020d84aa3353/napalm+200+crab.jpg",
+      "productId": "gid://shopify/Product/15439426519153",
+      "mediaId": "gid://shopify/MediaImage/46284938150001"
+    },
+    {
+      "handle": "native-works-napalm-200",
+      "sku": "SQ7588783",
+      "color": "Sapphire Abalone Gray",
+      "variantId": "gid://shopify/ProductVariant/67841371373681",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/415a39fd-35d4-4345-8934-448557ac1167/napalm+200+abalone2.jpg",
+      "productId": "gid://shopify/Product/15439426519153",
+      "mediaId": "gid://shopify/MediaImage/46284938051697"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ6202744",
+      "color": "anemone blue",
+      "variantId": "gid://shopify/ProductVariant/67841373438065",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/eb79b0a5-eb86-4df5-8c32-c945adc25340/img-20241227-wa0033.JPG",
+      "productId": "gid://shopify/Product/15439426846833",
+      "mediaId": "gid://shopify/MediaImage/46284939591793"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ1820657",
+      "color": "blackblood",
+      "variantId": "gid://shopify/ProductVariant/67841373470833",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b271ce03-92be-42d7-bd2b-b2cd35bc598c/IMG-20241227-WA0032.JPG",
+      "productId": "gid://shopify/Product/15439426846833",
+      "mediaId": "gid://shopify/MediaImage/46284939493489"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ8382225",
+      "color": "blacknow",
+      "variantId": "gid://shopify/ProductVariant/67841373503601",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b90ffd39-b6a0-4ca2-a7ea-e0da6c53671b/img-20241227-wa0069.JPG",
+      "productId": "gid://shopify/Product/15439426846833",
+      "mediaId": "gid://shopify/MediaImage/46284939526257"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ8732608",
+      "color": "greenshad",
+      "variantId": "gid://shopify/ProductVariant/67841373536369",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3393b96a-a139-4435-9896-f171960578a2/IMG-20241227-WA0008.JPG",
+      "productId": "gid://shopify/Product/15439426846833",
+      "mediaId": "gid://shopify/MediaImage/46284939559025"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ9623535",
+      "color": "Titanium",
+      "variantId": "gid://shopify/ProductVariant/67841373569137",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/644a8592-c7f5-4647-a656-d2fb77afad56/napalm+220+titanium.jpg",
+      "productId": "gid://shopify/Product/15439426846833",
+      "mediaId": "gid://shopify/MediaImage/46284939460721"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ0782892",
+      "color": "Dead Bait",
+      "variantId": "gid://shopify/ProductVariant/67841373634673",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/dd388228-da29-419a-b2f2-ec01f7900298/napalm+220+dead+bait.jpg",
+      "productId": "gid://shopify/Product/15439426846833",
+      "mediaId": "gid://shopify/MediaImage/46284939395185"
+    },
+    {
+      "handle": "native-works-napalm-250",
+      "sku": "SQ7268835",
+      "color": "Yellowfin",
+      "variantId": "gid://shopify/ProductVariant/67841374486641",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/eae9b876-d8fb-4945-bc4a-420412c088cc/Yellowfin%281%29.jpg",
+      "productId": "gid://shopify/Product/15439427076209",
+      "mediaId": "gid://shopify/MediaImage/46284940574833"
+    },
+    {
+      "handle": "native-works-napalm-250",
+      "sku": "SQ5571575",
+      "color": "Greenshad",
+      "variantId": "gid://shopify/ProductVariant/67841374519409",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7138c44e-5358-4638-b96c-60e91a664feb/IMG-20241227-WA0008.JPG",
+      "productId": "gid://shopify/Product/15439427076209",
+      "mediaId": "gid://shopify/MediaImage/46284940673137"
+    },
+    {
+      "handle": "native-works-napalm-250",
+      "sku": "SQ4390825",
+      "color": "Natural Wood",
+      "variantId": "gid://shopify/ProductVariant/67841374552177",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/08d12e5c-68e0-4903-8587-542a89aeb588/img-20241227-wa0071.JPG",
+      "productId": "gid://shopify/Product/15439427076209",
+      "mediaId": "gid://shopify/MediaImage/46284940640369"
+    },
+    {
+      "handle": "native-works-napalm-250",
+      "sku": "SQ1374809",
+      "color": "Blacknow",
+      "variantId": "gid://shopify/ProductVariant/67841374584945",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a45766c2-3b29-4f81-a24d-c01c0cdbeb10/img-20241227-wa0069.JPG",
+      "productId": "gid://shopify/Product/15439427076209",
+      "mediaId": "gid://shopify/MediaImage/46284940705905"
+    },
+    {
+      "handle": "native-works-napalm-250",
+      "sku": "SQ0757410",
+      "color": "Orange Marbled",
+      "variantId": "gid://shopify/ProductVariant/67841374617713",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ca24b181-bbd4-4f82-bc60-4995342da4af/napalm+250+orange.jpg",
+      "productId": "gid://shopify/Product/15439427076209",
+      "mediaId": "gid://shopify/MediaImage/46284940607601"
+    },
+    {
+      "handle": "native-works-rattler-210",
+      "sku": "SQ0795181",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841375338609",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/50e33229-6b39-45fd-8048-546d76c861d4/IMG-20241226-WA0006.jpg",
+      "productId": "gid://shopify/Product/15439427371121",
+      "mediaId": "gid://shopify/MediaImage/46284942147697"
+    },
+    {
+      "handle": "native-works-rattler-210",
+      "sku": "SQ5741887",
+      "color": "Blue",
+      "variantId": "gid://shopify/ProductVariant/67841375371377",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/200c7c3f-8667-48b0-b597-03abca0acee8/IMG_4349-scaled.jpg",
+      "productId": "gid://shopify/Product/15439427371121",
+      "mediaId": "gid://shopify/MediaImage/46284942114929"
+    },
+    {
+      "handle": "native-works-rattler-210",
+      "sku": "SQ0358744",
+      "color": "Greenshad",
+      "variantId": "gid://shopify/ProductVariant/67841375404145",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/917aa377-bd1c-4f44-b53a-b536d8c395cc/IMG-20241227-WA0007.jpg",
+      "productId": "gid://shopify/Product/15439427371121",
+      "mediaId": "gid://shopify/MediaImage/46284942180465"
+    },
+    {
+      "handle": "native-works-rattler-210",
+      "sku": "SQ3114539",
+      "color": "White",
+      "variantId": "gid://shopify/ProductVariant/67841375436913",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1697393e-f1bc-4513-89bc-8face2647ec6/IMG-20241227-WA0068.jpg",
+      "productId": "gid://shopify/Product/15439427371121",
+      "mediaId": "gid://shopify/MediaImage/46284942213233"
+    },
+    {
+      "handle": "native-works-rattler-210",
+      "sku": "SQ3347494",
+      "color": "Yellowfin",
+      "variantId": "gid://shopify/ProductVariant/67841375469681",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/8e862b79-bdc7-4eac-809f-8d42ddacabe6/Yellowfin.jpg",
+      "productId": "gid://shopify/Product/15439427371121",
+      "mediaId": "gid://shopify/MediaImage/46284942246001"
+    },
+    {
+      "handle": "native-works-rattler-230",
+      "sku": "SQ6821677",
+      "color": "Anemone Orange",
+      "variantId": "gid://shopify/ProductVariant/67841375928433",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/44352244-87d3-4a4c-965a-342c017caa7c/IMG-20241227-WA0043.jpg",
+      "productId": "gid://shopify/Product/15439427600497",
+      "mediaId": "gid://shopify/MediaImage/46284943425649"
+    },
+    {
+      "handle": "native-works-rattler-230",
+      "sku": "SQ6651220",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841375961201",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/50e33229-6b39-45fd-8048-546d76c861d4/IMG-20241226-WA0006.jpg",
+      "productId": "gid://shopify/Product/15439427600497",
+      "mediaId": "gid://shopify/MediaImage/46284943458417"
+    },
+    {
+      "handle": "native-works-rattler-230",
+      "sku": "SQ2112243",
+      "color": "Blue",
+      "variantId": "gid://shopify/ProductVariant/67841375993969",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9709ba6f-5a5f-4c1a-a146-502989794ac6/rattler+230.jpg",
+      "productId": "gid://shopify/Product/15439427600497",
+      "mediaId": "gid://shopify/MediaImage/46284943392881"
+    },
+    {
+      "handle": "native-works-rattler-230",
+      "sku": "SQ2901320",
+      "color": "Blue Nemo",
+      "variantId": "gid://shopify/ProductVariant/67841376026737",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4629308b-0550-49c7-a906-862952e444e1/Blue+nemo.jpg",
+      "productId": "gid://shopify/Product/15439427600497",
+      "mediaId": "gid://shopify/MediaImage/46284943523953"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ1060796",
+      "color": "Yellow Fin",
+      "variantId": "gid://shopify/ProductVariant/67841376518257",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2b2d859d-66c7-45be-acc5-4fb5c64aae11/IMG-20241226-WA0020.jpg",
+      "productId": "gid://shopify/Product/15439427862641",
+      "mediaId": "gid://shopify/MediaImage/46284944998513"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ1302102",
+      "color": "Black",
+      "variantId": "gid://shopify/ProductVariant/67841376551025",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/36a54931-e265-45e8-9c98-f1f3a0de56a9/456065308_910720764431887_4016672469317358950_n.jpg",
+      "productId": "gid://shopify/Product/15439427862641",
+      "mediaId": "gid://shopify/MediaImage/46284944932977"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ6481537",
+      "color": "Blue",
+      "variantId": "gid://shopify/ProductVariant/67841376583793",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5afaf27b-8c9b-4a14-a01f-5fa8ab53b082/456140688_910720937765203_3668171412130754604_n.jpg",
+      "productId": "gid://shopify/Product/15439427862641",
+      "mediaId": "gid://shopify/MediaImage/46284944965745"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ4015776",
+      "color": "White Glow",
+      "variantId": "gid://shopify/ProductVariant/67841376616561",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/fc6681a2-9172-4383-957b-dac33e513799/White+Glow.jpg",
+      "productId": "gid://shopify/Product/15439427862641",
+      "mediaId": "gid://shopify/MediaImage/46284945031281"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ2227887",
+      "color": "Titanium",
+      "variantId": "gid://shopify/ProductVariant/67841376682097",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/44277841-b5ae-4926-947b-eb7a9ae2cd65/tank+190+titanium.jpg",
+      "productId": "gid://shopify/Product/15439427862641",
+      "mediaId": "gid://shopify/MediaImage/46284945096817"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ2234384",
+      "color": "Black Snow",
+      "variantId": "gid://shopify/ProductVariant/67841376714865",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5fcd862c-43a0-4236-ae3f-7942bb08632c/tank+190+black+snow.jpg",
+      "productId": "gid://shopify/Product/15439427862641",
+      "mediaId": "gid://shopify/MediaImage/46284945162353"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ6393804",
+      "color": "Pink Back",
+      "variantId": "gid://shopify/ProductVariant/67841376747633",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/20779147-8c6d-4680-bea5-8291d46b15e8/tank+190+pink+back.jpg",
+      "productId": "gid://shopify/Product/15439427862641",
+      "mediaId": "gid://shopify/MediaImage/46284945195121"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ4796736",
+      "color": "Crab",
+      "variantId": "gid://shopify/ProductVariant/67841376780401",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c6e1df5c-69fd-4ea9-a29c-503a6565a07d/tank+190+crab.jpg",
+      "productId": "gid://shopify/Product/15439427862641",
+      "mediaId": "gid://shopify/MediaImage/46284945227889"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ2241956",
+      "color": "Green Shad",
+      "variantId": "gid://shopify/ProductVariant/67841376813169",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/016abdd1-7486-4cd0-aa4b-fb1eb3e61d7e/tank+190+green+shad.jpg",
+      "productId": "gid://shopify/Product/15439427862641",
+      "mediaId": "gid://shopify/MediaImage/46284945129585"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ8875384",
+      "color": "Yellow",
+      "variantId": "gid://shopify/ProductVariant/67841377370225",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/28744932-01c0-497f-b384-13c007826be0/IMG_20260513_230605_61599638974781.jpg",
+      "productId": "gid://shopify/Product/15439428124785",
+      "mediaId": "gid://shopify/MediaImage/46284946473073"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ5417582",
+      "color": "Fusilier",
+      "variantId": "gid://shopify/ProductVariant/67841377402993",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4a0676ac-b053-4e1a-87c9-36a37f188ec6/IMG_20260513_230530_61599630569938.jpg",
+      "productId": "gid://shopify/Product/15439428124785",
+      "mediaId": "gid://shopify/MediaImage/46284946440305"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ9259378",
+      "color": "BgMoray",
+      "variantId": "gid://shopify/ProductVariant/67841377435761",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0d562469-15a5-4e32-b740-1305ec11d96d/IMG_20260513_230628_61599703256969.jpg",
+      "productId": "gid://shopify/Product/15439428124785",
+      "mediaId": "gid://shopify/MediaImage/46284946538609"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ4370188",
+      "color": "Majiora",
+      "variantId": "gid://shopify/ProductVariant/67841377468529",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6f8ec339-d4a5-40ec-acb2-9bf463c7c57f/patriot.jpg",
+      "productId": "gid://shopify/Product/15439428124785",
+      "mediaId": "gid://shopify/MediaImage/46284946669681"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ5182833",
+      "color": "SkipJack",
+      "variantId": "gid://shopify/ProductVariant/67841377501297",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/731d6e94-9a2a-489c-a0af-71360f66ed8b/IMG_20260513_230636_61599728447177.jpg",
+      "productId": "gid://shopify/Product/15439428124785",
+      "mediaId": "gid://shopify/MediaImage/46284946571377"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ1762362",
+      "color": "AbalonColor",
+      "variantId": "gid://shopify/ProductVariant/67841377534065",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3bb22e03-564a-46d5-ab7a-ec43413faf3b/IMG_20260513_230619_61599656687021.jpg",
+      "productId": "gid://shopify/Product/15439428124785",
+      "mediaId": "gid://shopify/MediaImage/46284946505841"
+    },
+    {
+      "handle": "patriot-design-master-bomb-big-cup-90",
+      "sku": "SQ1396933",
+      "color": "NaturalBait",
+      "variantId": "gid://shopify/ProductVariant/67841377566833",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b0d33d2b-addd-4398-a108-bb942ce3b18d/IMG_20260513_230816_61599762410406.jpg",
+      "productId": "gid://shopify/Product/15439428124785",
+      "mediaId": "gid://shopify/MediaImage/46284946604145"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ6283810",
+      "color": "joker",
+      "variantId": "gid://shopify/ProductVariant/67841378222193",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2466bcd7-05ef-46c0-ae89-f20d6158bf3a/IMG_20260908_131010.jpg",
+      "productId": "gid://shopify/Product/15439428354161",
+      "mediaId": "gid://shopify/MediaImage/46284948078705"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ4259113",
+      "color": "carbon",
+      "variantId": "gid://shopify/ProductVariant/67841378254961",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e4bb3d12-d060-4554-90a0-bdf4fe31fbab/IMG_20260908_131040.jpg",
+      "productId": "gid://shopify/Product/15439428354161",
+      "mediaId": "gid://shopify/MediaImage/46284948111473"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ9777578",
+      "color": "carbon",
+      "variantId": "gid://shopify/ProductVariant/67841378287729",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e4bb3d12-d060-4554-90a0-bdf4fe31fbab/IMG_20260908_131040.jpg",
+      "productId": "gid://shopify/Product/15439428354161",
+      "mediaId": "gid://shopify/MediaImage/46284948111473"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ8530309",
+      "color": "carbon",
+      "variantId": "gid://shopify/ProductVariant/67841378320497",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e4bb3d12-d060-4554-90a0-bdf4fe31fbab/IMG_20260908_131040.jpg",
+      "productId": "gid://shopify/Product/15439428354161",
+      "mediaId": "gid://shopify/MediaImage/46284948111473"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ3206746",
+      "color": "joker",
+      "variantId": "gid://shopify/ProductVariant/67841378353265",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2466bcd7-05ef-46c0-ae89-f20d6158bf3a/IMG_20260908_131010.jpg",
+      "productId": "gid://shopify/Product/15439428354161",
+      "mediaId": "gid://shopify/MediaImage/46284948078705"
+    },
+    {
+      "handle": "popper-18cm-130g",
+      "sku": "SQ3321847",
+      "color": "joker",
+      "variantId": "gid://shopify/ProductVariant/67841378386033",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2466bcd7-05ef-46c0-ae89-f20d6158bf3a/IMG_20260908_131010.jpg",
+      "productId": "gid://shopify/Product/15439428354161",
+      "mediaId": "gid://shopify/MediaImage/46284948078705"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ2806036",
+      "color": "Mahi",
+      "variantId": "gid://shopify/ProductVariant/67841379172465",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/79885b88-ece6-4d15-afbb-2861b45c9dad/Glide-Popper-18cm-75g-mahi.jpeg",
+      "productId": "gid://shopify/Product/15439428649073",
+      "mediaId": "gid://shopify/MediaImage/46284949848177"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ1778175",
+      "color": "Banana",
+      "variantId": "gid://shopify/ProductVariant/67841379205233",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/719dbf50-9902-42e7-9a26-108731001a6d/Glide-Popper-18cm-75g-banana.jpg",
+      "productId": "gid://shopify/Product/15439428649073",
+      "mediaId": "gid://shopify/MediaImage/46284949880945"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ2816028",
+      "color": "Black",
+      "variantId": "gid://shopify/ProductVariant/67841379238001",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ac0e12d7-3187-477a-9445-669c39a18d92/Glide-Popper-18cm-75g-black.jpeg",
+      "productId": "gid://shopify/Product/15439428649073",
+      "mediaId": "gid://shopify/MediaImage/46284949913713"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ4988796",
+      "color": "Coral",
+      "variantId": "gid://shopify/ProductVariant/67841379270769",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d6040fab-eab3-4e8c-b5de-c0fa2df24f89/Glide-Popper-18cm-75g-coral.jpeg",
+      "productId": "gid://shopify/Product/15439428649073",
+      "mediaId": "gid://shopify/MediaImage/46284949946481"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ2905866",
+      "color": "Shark",
+      "variantId": "gid://shopify/ProductVariant/67841379303537",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9814ddbf-3d02-4662-8328-810ef8f33aa7/Glide-Popper-18cm-75g-shark.jpeg",
+      "productId": "gid://shopify/Product/15439428649073",
+      "mediaId": "gid://shopify/MediaImage/46284949979249"
+    },
+    {
+      "handle": "popper-18cm-75g",
+      "sku": "SQ8157867",
+      "color": "YouPop",
+      "variantId": "gid://shopify/ProductVariant/67841379336305",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/cd14c4a4-3d0b-4817-91ea-e3580f4ca58c/Glide-Popper-18cm-75g-youpop.jpeg",
+      "productId": "gid://shopify/Product/15439428649073",
+      "mediaId": "gid://shopify/MediaImage/46284950012017"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ5925045",
+      "color": "Banana",
+      "variantId": "gid://shopify/ProductVariant/67841380155505",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e54ef4cb-c219-4494-9e8a-4123bf8ee3cb/Glide-Popper-22cm-110g-banana.jpeg",
+      "productId": "gid://shopify/Product/15439428812913",
+      "mediaId": "gid://shopify/MediaImage/46284950634609"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ8035429",
+      "color": "Black",
+      "variantId": "gid://shopify/ProductVariant/67841380188273",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/43ca076a-b491-4a9e-b5e2-f3f0a700493c/Glide-Popper-22cm-110g-black.jpeg",
+      "productId": "gid://shopify/Product/15439428812913",
+      "mediaId": "gid://shopify/MediaImage/46284950667377"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ1785377",
+      "color": "Carbon",
+      "variantId": "gid://shopify/ProductVariant/67841380221041",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/80c723b0-ddf8-4176-9770-4d175d597b4a/Glide-Popper-22cm-110g-carbon.jpeg",
+      "productId": "gid://shopify/Product/15439428812913",
+      "mediaId": "gid://shopify/MediaImage/46284950700145"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ6803691",
+      "color": "Coral",
+      "variantId": "gid://shopify/ProductVariant/67841380253809",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/fb015693-2cce-4a4c-b097-e1fc83c12ead/Glide-Popper-22cm-110g-coral.jpeg",
+      "productId": "gid://shopify/Product/15439428812913",
+      "mediaId": "gid://shopify/MediaImage/46284950732913"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ3177287",
+      "color": "Mahi",
+      "variantId": "gid://shopify/ProductVariant/67841380286577",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9b310553-5f72-43bd-ae4e-6e8b55c2359a/Glide-Popper-22cm-110g-mahi.jpeg",
+      "productId": "gid://shopify/Product/15439428812913",
+      "mediaId": "gid://shopify/MediaImage/46284950765681"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ8842762",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841380319345",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/42d64294-deb9-420b-a0f6-58bd60009d4d/Glide-Popper-22cm-110g-pink.jpeg",
+      "productId": "gid://shopify/Product/15439428812913",
+      "mediaId": "gid://shopify/MediaImage/46284950798449"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ4793061",
+      "color": "Punk Mackerel",
+      "variantId": "gid://shopify/ProductVariant/67841380352113",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2b7ceb8a-fa11-4cd1-9627-bd5e210ec550/Glide-Popper-22cm-110g-punk-mackerel.jpeg",
+      "productId": "gid://shopify/Product/15439428812913",
+      "mediaId": "gid://shopify/MediaImage/46284950831217"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ2651929",
+      "color": "Sarda",
+      "variantId": "gid://shopify/ProductVariant/67841380384881",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/70b46bd3-61a7-4079-9ad6-a522ae6de34f/Glide-Popper-22cm-110g-sarda.jpeg",
+      "productId": "gid://shopify/Product/15439428812913",
+      "mediaId": "gid://shopify/MediaImage/46284950863985"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ7245243",
+      "color": "Shark",
+      "variantId": "gid://shopify/ProductVariant/67841380417649",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/db5fbe8d-b971-4272-8d48-3f0b0079aca5/Glide-Popper-22cm-110g-shark.jpeg",
+      "productId": "gid://shopify/Product/15439428812913",
+      "mediaId": "gid://shopify/MediaImage/46284950896753"
+    },
+    {
+      "handle": "popper-22cm-110g",
+      "sku": "SQ8282102",
+      "color": "YouPop",
+      "variantId": "gid://shopify/ProductVariant/67841380450417",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f1b3d274-af93-4bc2-a20d-978ef089548c/Glide-Popper-22cm-110g-youpop.jpeg",
+      "productId": "gid://shopify/Product/15439428812913",
+      "mediaId": "gid://shopify/MediaImage/46284950929521"
+    },
+    {
+      "handle": "rst-supply-rilana-180f",
+      "sku": "SQ6791078",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841382318193",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e385a342-edc7-4c18-a4f2-63ab4dd60dc3/rst+rilana+180+pink.jpg",
+      "productId": "gid://shopify/Product/15439429402737",
+      "mediaId": "gid://shopify/MediaImage/46284954140785"
+    },
+    {
+      "handle": "rst-supply-rilana-180f",
+      "sku": "SQ6074839",
+      "color": "Blue",
+      "variantId": "gid://shopify/ProductVariant/67841382350961",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2d0e24dc-f4c3-456a-bc8a-35d45e0f0ef1/rst+rilana+180+blue.jpg",
+      "productId": "gid://shopify/Product/15439429402737",
+      "mediaId": "gid://shopify/MediaImage/46284954108017"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ8909010",
+      "color": "Black",
+      "variantId": "gid://shopify/ProductVariant/67841382482033",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/6df2ff28-239d-4f87-bd65-5c4fde9c2441/Glide-Sinking-10cm-50g-black.jpeg",
+      "productId": "gid://shopify/Product/15439429501041",
+      "mediaId": "gid://shopify/MediaImage/46284954959985"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ0570592",
+      "color": "Coral",
+      "variantId": "gid://shopify/ProductVariant/67841382514801",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d9cd7776-0a9e-452c-8da2-1371b035a1c9/Glide-Sinking-10cm-50g-coral.jpeg",
+      "productId": "gid://shopify/Product/15439429501041",
+      "mediaId": "gid://shopify/MediaImage/46284954992753"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ3679915",
+      "color": "Holo Black",
+      "variantId": "gid://shopify/ProductVariant/67841382547569",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/bd6021bc-2fb1-4823-996f-1177a0d24142/Glide-Sinking-10cm-50g-holo-black.jpeg",
+      "productId": "gid://shopify/Product/15439429501041",
+      "mediaId": "gid://shopify/MediaImage/46284955025521"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ8328549",
+      "color": "Holo Blue",
+      "variantId": "gid://shopify/ProductVariant/67841382580337",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/903fe250-3972-4d50-a869-3c18e5c96adf/Glide-Sinking-10cm-50g-holo-blue.jpeg",
+      "productId": "gid://shopify/Product/15439429501041",
+      "mediaId": "gid://shopify/MediaImage/46284955058289"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ6002304",
+      "color": "Holo Pink",
+      "variantId": "gid://shopify/ProductVariant/67841382613105",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f45a27d6-9edc-427b-a701-c00b04a07d30/Glide-Sinking-10cm-50g-holo-pink.jpeg",
+      "productId": "gid://shopify/Product/15439429501041",
+      "mediaId": "gid://shopify/MediaImage/46284955091057"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ2629408",
+      "color": "Mahi",
+      "variantId": "gid://shopify/ProductVariant/67841382645873",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/57200285-e733-4302-8ac1-1abc1212be2f/Glide-Sinking-10cm-50g-mahi.jpeg",
+      "productId": "gid://shopify/Product/15439429501041",
+      "mediaId": "gid://shopify/MediaImage/46284955123825"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ4155596",
+      "color": "Nemo",
+      "variantId": "gid://shopify/ProductVariant/67841382678641",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/49ea80b4-5c59-4d45-bbe8-2d6249190e37/Glide-Sinking-10cm-50g-nemo.jpeg",
+      "productId": "gid://shopify/Product/15439429501041",
+      "mediaId": "gid://shopify/MediaImage/46284955156593"
+    },
+    {
+      "handle": "sinking-10cm-50g",
+      "sku": "SQ0681038",
+      "color": "Shark",
+      "variantId": "gid://shopify/ProductVariant/67841382711409",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0fe7c6f4-e758-479a-8675-dba6abd5d907/Glide-Sinking-10cm-50g-shark.jpeg",
+      "productId": "gid://shopify/Product/15439429501041",
+      "mediaId": "gid://shopify/MediaImage/46284955189361"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ8371419",
+      "color": "Coral",
+      "variantId": "gid://shopify/ProductVariant/67841382875249",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/49bda153-5a1a-4da5-b48b-ee47528e7df3/Glide-Sinking-14cm-80g-coral.jpeg",
+      "productId": "gid://shopify/Product/15439429664881",
+      "mediaId": "gid://shopify/MediaImage/46284956074097"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ6428731",
+      "color": "Nemo",
+      "variantId": "gid://shopify/ProductVariant/67841382908017",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f8002e2b-5225-4060-9ead-d7369dd459d3/Glide-Sinking-14cm-80g-nemo.jpeg",
+      "productId": "gid://shopify/Product/15439429664881",
+      "mediaId": "gid://shopify/MediaImage/46284956106865"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ7213301",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841382940785",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/798d3d0a-22a2-42ee-8222-a8dccb2b2698/Glide-Sinking-14cm-80g-pink.jpeg",
+      "productId": "gid://shopify/Product/15439429664881",
+      "mediaId": "gid://shopify/MediaImage/46284956139633"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ6283725",
+      "color": "Holo Black",
+      "variantId": "gid://shopify/ProductVariant/67841382973553",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/396bbb13-ff89-4278-9b55-0214450b185c/Glide-Sinking-14cm-80g-holo-black.jpeg",
+      "productId": "gid://shopify/Product/15439429664881",
+      "mediaId": "gid://shopify/MediaImage/46284956172401"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ4286020",
+      "color": "Holo Blue",
+      "variantId": "gid://shopify/ProductVariant/67841383006321",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d036a23c-a309-475a-82c5-646b45b5c47d/Glide-Sinking-14cm-80g-holo-blue.jpeg",
+      "productId": "gid://shopify/Product/15439429664881",
+      "mediaId": "gid://shopify/MediaImage/46284956205169"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ0478688",
+      "color": "Holo Pink",
+      "variantId": "gid://shopify/ProductVariant/67841383039089",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1e3e7250-9147-4893-8907-e0f16b70158e/Glide-Sinking-14cm-80g-holo-pink.jpeg",
+      "productId": "gid://shopify/Product/15439429664881",
+      "mediaId": "gid://shopify/MediaImage/46284956237937"
+    },
+    {
+      "handle": "sinking-14cm-80g",
+      "sku": "SQ1274080",
+      "color": "Mahi",
+      "variantId": "gid://shopify/ProductVariant/67841383071857",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/555a1a91-2df6-4e6f-9541-bd662cb382c4/Glide-Sinking-14cm-80g-mahi.jpeg",
+      "productId": "gid://shopify/Product/15439429664881",
+      "mediaId": "gid://shopify/MediaImage/46284956270705"
+    },
+    {
+      "handle": "sinking-18cm-100g",
+      "sku": "SQ4726944",
+      "color": "Blue Holo Foil",
+      "variantId": "gid://shopify/ProductVariant/67841383661681",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9641c09c-2572-4a23-ab7b-8a124ac02f2d/IMG_20260908_131150.jpg",
+      "productId": "gid://shopify/Product/15439429828721",
+      "mediaId": "gid://shopify/MediaImage/46284957450353"
+    },
+    {
+      "handle": "sinking-18cm-100g",
+      "sku": "SQ1588900",
+      "color": "Pink Holo Foil",
+      "variantId": "gid://shopify/ProductVariant/67841383694449",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a2699621-0a5c-445b-b582-0169bab7892e/IMG_20260908_131136.jpg",
+      "productId": "gid://shopify/Product/15439429828721",
+      "mediaId": "gid://shopify/MediaImage/46284957417585"
+    },
+    {
+      "handle": "sinking-18cm-100g",
+      "sku": "SQ3218967",
+      "color": "Candy Holo Foil",
+      "variantId": "gid://shopify/ProductVariant/67841383727217",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/131f2d44-11ee-454d-8113-cfac301309cc/IMG_20260908_131215.jpg",
+      "productId": "gid://shopify/Product/15439429828721",
+      "mediaId": "gid://shopify/MediaImage/46284957483121"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ8821546",
+      "color": "Banana",
+      "variantId": "gid://shopify/ProductVariant/67841384808561",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7460cf61-4fe9-4cd1-827c-d15b03702e7b/Glide-Stickpop-18cm-75g-banana.jpeg",
+      "productId": "gid://shopify/Product/15439430090865",
+      "mediaId": "gid://shopify/MediaImage/46284958859377"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ0230919",
+      "color": "Blackbone",
+      "variantId": "gid://shopify/ProductVariant/67841384841329",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a09af511-ae5f-4c0d-b92c-be56d389e0a0/Glide-Stickpop-18cm-75g-blackbone.jpeg",
+      "productId": "gid://shopify/Product/15439430090865",
+      "mediaId": "gid://shopify/MediaImage/46284958892145"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ5469331",
+      "color": "Nemo",
+      "variantId": "gid://shopify/ProductVariant/67841384874097",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7a612119-e477-4f73-bd61-e506fc986028/Glide-Stickpop-18cm-75g-nemo.jpeg",
+      "productId": "gid://shopify/Product/15439430090865",
+      "mediaId": "gid://shopify/MediaImage/46284958990449"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ0065414",
+      "color": "Coral",
+      "variantId": "gid://shopify/ProductVariant/67841384906865",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/8ef63cc9-3915-453f-b2fb-26904f575069/Glide-Stickpop-18cm-75g-coral.jpeg",
+      "productId": "gid://shopify/Product/15439430090865",
+      "mediaId": "gid://shopify/MediaImage/46284958924913"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ9311074",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841384939633",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/19638b5a-1365-4035-88d6-41bded220dd1/Glide-Stickpop-18cm-75g-pink.jpeg",
+      "productId": "gid://shopify/Product/15439430090865",
+      "mediaId": "gid://shopify/MediaImage/46284958957681"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ0747067",
+      "color": "Punk Mackerel",
+      "variantId": "gid://shopify/ProductVariant/67841384972401",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ee4f16d4-4027-4c50-b7b2-f6f40461d830/Glide-Stickpop-18cm-75g-punk-mackerel.jpeg",
+      "productId": "gid://shopify/Product/15439430090865",
+      "mediaId": "gid://shopify/MediaImage/46284959023217"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ9017232",
+      "color": "White",
+      "variantId": "gid://shopify/ProductVariant/67841385005169",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/56a01f35-8d07-42bf-b4a5-1aa4d08a2203/Glide-Stickpop-18cm-75g-white.jpeg",
+      "productId": "gid://shopify/Product/15439430090865",
+      "mediaId": "gid://shopify/MediaImage/46284959055985"
+    },
+    {
+      "handle": "stickpop-18cm-75g",
+      "sku": "SQ3543332",
+      "color": "YouPop",
+      "variantId": "gid://shopify/ProductVariant/67841385037937",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5885f0fd-bc60-491d-b5f8-29297c06b4a2/Glide-Stickpop-18cm-75g-YouPop.jpeg",
+      "productId": "gid://shopify/Product/15439430090865",
+      "mediaId": "gid://shopify/MediaImage/46284959088753"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ7581226",
+      "color": "Fusilier",
+      "variantId": "gid://shopify/ProductVariant/67841386512497",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0ab512d1-6e43-4241-992d-d48c722b7355/Glide-Stickpop-20cm-105g-fusilier.jpeg",
+      "productId": "gid://shopify/Product/15439430353009",
+      "mediaId": "gid://shopify/MediaImage/46284960465009"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ2319235",
+      "color": "Mahi",
+      "variantId": "gid://shopify/ProductVariant/67841386545265",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e120cdbb-d85d-4c0e-96a7-f3ae3455bc4a/Glide-Stickpop-20cm-105g-mahi.jpeg",
+      "productId": "gid://shopify/Product/15439430353009",
+      "mediaId": "gid://shopify/MediaImage/46284960497777"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ0452227",
+      "color": "Banana",
+      "variantId": "gid://shopify/ProductVariant/67841386578033",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/076a3a27-f464-47a7-8276-898009db04bc/Glide-Stickpop-20cm-105g-banana.jpeg",
+      "productId": "gid://shopify/Product/15439430353009",
+      "mediaId": "gid://shopify/MediaImage/46284960530545"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ0859850",
+      "color": "Coral",
+      "variantId": "gid://shopify/ProductVariant/67841386610801",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/89c02545-a887-4e7b-b4eb-411f12f41446/Glide-Stickpop-20cm-105g-coral.jpeg",
+      "productId": "gid://shopify/Product/15439430353009",
+      "mediaId": "gid://shopify/MediaImage/46284960563313"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ7270156",
+      "color": "Pink",
+      "variantId": "gid://shopify/ProductVariant/67841386643569",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/cdaee953-1ae8-46b8-bdaf-98ff53da9fab/Glide-Stickpop-20cm-105g-pink.jpeg",
+      "productId": "gid://shopify/Product/15439430353009",
+      "mediaId": "gid://shopify/MediaImage/46284960596081"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ8096117",
+      "color": "Sarda",
+      "variantId": "gid://shopify/ProductVariant/67841386676337",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/43a20827-2c2e-4ade-9c1e-5deeb0d329b0/Glide-Stickpop-20cm-105g-sarda.jpeg",
+      "productId": "gid://shopify/Product/15439430353009",
+      "mediaId": "gid://shopify/MediaImage/46284960661617"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ7885850",
+      "color": "Shark",
+      "variantId": "gid://shopify/ProductVariant/67841386709105",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3912cd65-ea0c-4473-92de-069998703a62/Glide-Stickpop-20cm-105g-shark.jpeg",
+      "productId": "gid://shopify/Product/15439430353009",
+      "mediaId": "gid://shopify/MediaImage/46284960628849"
+    },
+    {
+      "handle": "stickpop-20cm-105g",
+      "sku": "SQ4227470",
+      "color": "YouPop",
+      "variantId": "gid://shopify/ProductVariant/67841386741873",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/eabca78a-c4f6-4652-a0ad-f262419abc3e/Glide-Stickpop-20cm-105g-YouPop.jpeg",
+      "productId": "gid://shopify/Product/15439430353009",
+      "mediaId": "gid://shopify/MediaImage/46284960694385"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ4099842",
+      "color": "Nemo",
+      "variantId": "gid://shopify/ProductVariant/67841387593841",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b11d4abb-4bd2-42c7-a320-a1eedae424a1/Glide-Stickpop-22cm-150g-nemo.jpeg",
+      "productId": "gid://shopify/Product/15439430582385",
+      "mediaId": "gid://shopify/MediaImage/46284961611889"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ7191530",
+      "color": "Black",
+      "variantId": "gid://shopify/ProductVariant/67841387626609",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e5c86080-e4d5-4766-822b-86769b6adbab/Glide-Stickpop-22cm-150g-black.jpeg",
+      "productId": "gid://shopify/Product/15439430582385",
+      "mediaId": "gid://shopify/MediaImage/46284961644657"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ1955957",
+      "color": "Shark",
+      "variantId": "gid://shopify/ProductVariant/67841387659377",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/16c5bc71-9c77-4676-a9fe-0dee6fab6f23/Glide-Stickpop-22cm-150g-shark.jpeg",
+      "productId": "gid://shopify/Product/15439430582385",
+      "mediaId": "gid://shopify/MediaImage/46284961677425"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ5510682",
+      "color": "YouPop",
+      "variantId": "gid://shopify/ProductVariant/67841387692145",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e1867033-30f2-482f-91c3-69846cee351b/Glide-Stickpop-22cm-150g-youpop.jpeg",
+      "productId": "gid://shopify/Product/15439430582385",
+      "mediaId": "gid://shopify/MediaImage/46284961710193"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ7648587",
+      "color": "Punk Mackerel",
+      "variantId": "gid://shopify/ProductVariant/67841387724913",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c8470203-872a-4599-b319-cebb9813f968/Glide-Stickpop-22cm-150g-punk-mackerel.jpeg",
+      "productId": "gid://shopify/Product/15439430582385",
+      "mediaId": "gid://shopify/MediaImage/46284961742961"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ8631115",
+      "color": "Banana",
+      "variantId": "gid://shopify/ProductVariant/67841387757681",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f0507dd1-eae7-48d2-813b-fcd89908acac/Glide-Stickpop-22cm-150g-banana.jpeg",
+      "productId": "gid://shopify/Product/15439430582385",
+      "mediaId": "gid://shopify/MediaImage/46284961808497"
+    },
+    {
+      "handle": "stickpop-22cm-150g",
+      "sku": "SQ7803890",
+      "color": "Carbon",
+      "variantId": "gid://shopify/ProductVariant/67841387790449",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c0110eb3-36ac-4564-9f6d-9c837aefed17/Glide-Stickpop-22cm-150g-carbon.jpeg",
+      "productId": "gid://shopify/Product/15439430582385",
+      "mediaId": "gid://shopify/MediaImage/46284961775729"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ8955977",
+      "color": "Purple",
+      "variantId": "gid://shopify/ProductVariant/67842267381873",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c847b568-dbc2-40d1-916e-a6270ee242b9/IMG_20260922_214354.jpg",
+      "productId": "gid://shopify/Product/15439545139313",
+      "mediaId": "gid://shopify/MediaImage/46285922893937"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ7854621",
+      "color": "Flying Fish",
+      "variantId": "gid://shopify/ProductVariant/67842267414641",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a29844ee-ded8-4663-b299-c69a04ab1eba/IMG_20260922_214332.jpg",
+      "productId": "gid://shopify/Product/15439545139313",
+      "mediaId": "gid://shopify/MediaImage/46285922861169"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ2278712",
+      "color": "Black Back",
+      "variantId": "gid://shopify/ProductVariant/67842267447409",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1d0b4a5a-477e-4d78-b77d-39c8e56e326a/IMG_20260922_214420.jpg",
+      "productId": "gid://shopify/Product/15439545139313",
+      "mediaId": "gid://shopify/MediaImage/46285922926705"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ0394094",
+      "color": "Purple",
+      "variantId": "gid://shopify/ProductVariant/67842267480177",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c847b568-dbc2-40d1-916e-a6270ee242b9/IMG_20260922_214354.jpg",
+      "productId": "gid://shopify/Product/15439545139313",
+      "mediaId": "gid://shopify/MediaImage/46285922893937"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ8611879",
+      "color": "Flying Fish",
+      "variantId": "gid://shopify/ProductVariant/67842267512945",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a29844ee-ded8-4663-b299-c69a04ab1eba/IMG_20260922_214332.jpg",
+      "productId": "gid://shopify/Product/15439545139313",
+      "mediaId": "gid://shopify/MediaImage/46285922861169"
+    },
+    {
+      "handle": "wild-gambler-rigin",
+      "sku": "SQ2502427",
+      "color": "Black Back",
+      "variantId": "gid://shopify/ProductVariant/67842267545713",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1d0b4a5a-477e-4d78-b77d-39c8e56e326a/IMG_20260922_214420.jpg",
+      "productId": "gid://shopify/Product/15439545139313",
+      "mediaId": "gid://shopify/MediaImage/46285922926705"
+    },
+    {
+      "handle": "woodream-akiya-200",
+      "sku": "SQ6562399",
+      "color": "WineBack",
+      "variantId": "gid://shopify/ProductVariant/67842268758129",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3f7d15f0-1d47-4c6b-a8e0-e07ad4aab94c/Woodream+Akiya+200+wineback.jpg",
+      "productId": "gid://shopify/Product/15439545466993",
+      "mediaId": "gid://shopify/MediaImage/46285924958321"
+    },
+    {
+      "handle": "woodream-akiya-200",
+      "sku": "SQ7648304",
+      "color": "BlueBack",
+      "variantId": "gid://shopify/ProductVariant/67842268790897",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e6324e62-3d94-4926-aed8-de4bc9f6267e/Woodream+Akiya+200+bluecack.jpg",
+      "productId": "gid://shopify/Product/15439545466993",
+      "mediaId": "gid://shopify/MediaImage/46285924991089"
+    },
+    {
+      "handle": "woodream-akiya-200",
+      "sku": "SQ7143061",
+      "color": "GreenBack",
+      "variantId": "gid://shopify/ProductVariant/67842268823665",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f9130f41-33cc-46e5-a547-09d1eccd1a3e/Woodream+Akiya+200+greenback.jpg",
+      "productId": "gid://shopify/Product/15439545466993",
+      "mediaId": "gid://shopify/MediaImage/46285925023857"
+    },
+    {
+      "handle": "woodream-akiya-200",
+      "sku": "SQ3143650",
+      "color": "Matte Red Gold",
+      "variantId": "gid://shopify/ProductVariant/67842268856433",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/09d51594-8675-457f-9fb4-6ff9870e7672/akiya+200+matte.jpg",
+      "productId": "gid://shopify/Product/15439545466993",
+      "mediaId": "gid://shopify/MediaImage/46285924925553"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ8547122",
+      "color": "Blueback Silver",
+      "variantId": "gid://shopify/ProductVariant/67842269479025",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/30e0e8e5-4cfd-44b8-8dbf-1b86d1eb4ba9/Woodream+Akiya+popper+250+blueback.jpg",
+      "productId": "gid://shopify/Product/15439545630833",
+      "mediaId": "gid://shopify/MediaImage/46285925744753"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ4174714",
+      "color": "Natural Bait",
+      "variantId": "gid://shopify/ProductVariant/67842269511793",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2c64e0b4-5038-467b-8469-981f9d9cebf4/Woodream+Akiya+popper+250+natural+bait.jpg",
+      "productId": "gid://shopify/Product/15439545630833",
+      "mediaId": "gid://shopify/MediaImage/46285925777521"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ3684988",
+      "color": "GreenBack Yellow",
+      "variantId": "gid://shopify/ProductVariant/67842269544561",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/fc2f8213-2c34-4a8d-9117-a18d50e22939/Woodream+Akiya+popper+250+yellow_greenback.jpg",
+      "productId": "gid://shopify/Product/15439545630833",
+      "mediaId": "gid://shopify/MediaImage/46285925810289"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ1397248",
+      "color": "Blueback Silver",
+      "variantId": "gid://shopify/ProductVariant/67842269577329",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/30e0e8e5-4cfd-44b8-8dbf-1b86d1eb4ba9/Woodream+Akiya+popper+250+blueback.jpg",
+      "productId": "gid://shopify/Product/15439545630833",
+      "mediaId": "gid://shopify/MediaImage/46285925744753"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ4418084",
+      "color": "Natural Bait",
+      "variantId": "gid://shopify/ProductVariant/67842269610097",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2c64e0b4-5038-467b-8469-981f9d9cebf4/Woodream+Akiya+popper+250+natural+bait.jpg",
+      "productId": "gid://shopify/Product/15439545630833",
+      "mediaId": "gid://shopify/MediaImage/46285925777521"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ2919639",
+      "color": "GreenBack Yellow",
+      "variantId": "gid://shopify/ProductVariant/67842269642865",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/fc2f8213-2c34-4a8d-9117-a18d50e22939/Woodream+Akiya+popper+250+yellow_greenback.jpg",
+      "productId": "gid://shopify/Product/15439545630833",
+      "mediaId": "gid://shopify/MediaImage/46285925810289"
+    }
+  ],
+  "unresolved": [
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ0216913",
+      "color": "GoldGreen",
+      "variantId": "gid://shopify/ProductVariant/67837026173041",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/979479c1-8f37-497d-b044-3a3e6a9b2272/IMG_20260513_234928_61600361945510.jpg",
+      "reason": "legacy_image_shared_across_colors"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ2404280",
+      "color": "GoldGreen",
+      "variantId": "gid://shopify/ProductVariant/67837026402417",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/979479c1-8f37-497d-b044-3a3e6a9b2272/IMG_20260513_234928_61600361945510.jpg",
+      "reason": "legacy_image_shared_across_colors"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ3088240",
+      "color": "SilverBlue",
+      "variantId": "gid://shopify/ProductVariant/67837026467953",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/979479c1-8f37-497d-b044-3a3e6a9b2272/IMG_20260513_234928_61600361945510.jpg",
+      "reason": "legacy_image_shared_across_colors"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ7193431",
+      "color": "SilverOrange",
+      "variantId": "gid://shopify/ProductVariant/67837026500721",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/979479c1-8f37-497d-b044-3a3e6a9b2272/IMG_20260513_234928_61600361945510.jpg",
+      "reason": "legacy_image_shared_across_colors"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ7496866",
+      "color": "Fusilier",
+      "variantId": "gid://shopify/ProductVariant/67837026533489",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/979479c1-8f37-497d-b044-3a3e6a9b2272/IMG_20260513_234928_61600361945510.jpg",
+      "reason": "legacy_image_shared_across_colors"
+    },
+    {
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "sku": "SQ0400514",
+      "color": "SilverGoldBlack",
+      "variantId": "gid://shopify/ProductVariant/67837026566257",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/979479c1-8f37-497d-b044-3a3e6a9b2272/IMG_20260513_234928_61600361945510.jpg",
+      "reason": "legacy_image_shared_across_colors"
+    },
+    {
+      "handle": "cb-one-rudolf-260",
+      "sku": "SQ2943196",
+      "color": "",
+      "variantId": "gid://shopify/ProductVariant/67841301643377",
+      "reason": "no_legacy_variant_image"
+    },
+    {
+      "handle": "cb-one-ryan-230",
+      "sku": "Black",
+      "color": "",
+      "variantId": "gid://shopify/ProductVariant/67841302167665",
+      "reason": "no_legacy_variant_image"
+    },
+    {
+      "handle": "cb-one-zorro-200",
+      "sku": "SQ0108475",
+      "color": "",
+      "variantId": "gid://shopify/ProductVariant/67841303707761",
+      "reason": "no_legacy_variant_image"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ3470066",
+      "color": "Blue",
+      "variantId": "gid://shopify/ProductVariant/67841307967601",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c0287819-b9d7-4008-b38b-93b01c41940a/IMG-20241227-WA0086sssdsd.JPG",
+      "reason": "legacy_image_shared_across_colors"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ9920592",
+      "color": "Rainbow Trout",
+      "variantId": "gid://shopify/ProductVariant/67841308000369",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c0287819-b9d7-4008-b38b-93b01c41940a/IMG-20241227-WA0086sssdsd.JPG",
+      "reason": "legacy_image_shared_across_colors"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ5225677",
+      "color": "Silver Black Yellow Head",
+      "variantId": "gid://shopify/ProductVariant/67841308033137",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c0287819-b9d7-4008-b38b-93b01c41940a/IMG-20241227-WA0086sssdsd.JPG",
+      "reason": "legacy_image_shared_across_colors"
+    },
+    {
+      "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+      "sku": "SQ1847202",
+      "color": "Silver Blue Yellow Head",
+      "variantId": "gid://shopify/ProductVariant/67841308065905",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c0287819-b9d7-4008-b38b-93b01c41940a/IMG-20241227-WA0086sssdsd.JPG",
+      "reason": "legacy_image_shared_across_colors"
+    },
+    {
+      "handle": "floating-22cm-120g",
+      "sku": "SQ7461328",
+      "color": "Nemo",
+      "variantId": "gid://shopify/ProductVariant/67841314848881",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/1697634191327-BFC56L3XDL6IB7LJGAJZ/stickpop-22-nemo.jpg",
+      "reason": "shopify_media_match_count_0"
+    },
+    {
+      "handle": "good-bait-bnd-180f",
+      "sku": "SQ6280239",
+      "color": "",
+      "variantId": "gid://shopify/ProductVariant/67841319403633",
+      "reason": "no_legacy_variant_image"
+    },
+    {
+      "handle": "native-works-gazelle-230",
+      "sku": "SQ3261392",
+      "color": "",
+      "variantId": "gid://shopify/ProductVariant/67841366818929",
+      "reason": "no_legacy_variant_image"
+    },
+    {
+      "handle": "native-works-napalm-220",
+      "sku": "SQ4138495",
+      "color": "Sapphire Abalone Yellow",
+      "variantId": "gid://shopify/ProductVariant/67841373601905",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b7ca8e38-1aac-4535-8dc2-fe0a76613d30/napalm+220+yellow+titanium.jpg",
+      "productId": "gid://shopify/Product/15439426846833",
+      "mediaId": "gid://shopify/MediaImage/46284939427953",
+      "reason": "image_filename_names_other_color"
+    },
+    {
+      "handle": "native-works-tank-popper-190",
+      "sku": "SQ3954638",
+      "color": "White Blooded",
+      "variantId": "gid://shopify/ProductVariant/67841376649329",
+      "legacyImageUrl": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/095a5110-3394-40cc-b91d-f20bd914b511/Blooded+White+Glow.jpg",
+      "productId": "gid://shopify/Product/15439427862641",
+      "mediaId": "gid://shopify/MediaImage/46284945064049",
+      "reason": "image_filename_names_other_color"
+    },
+    {
+      "handle": "rst-supply-nezul-210",
+      "sku": "SQ5754232",
+      "color": "",
+      "variantId": "gid://shopify/ProductVariant/67841381597297",
+      "reason": "no_legacy_variant_image"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ9590418",
+      "color": "Blueback Silver",
+      "variantId": "gid://shopify/ProductVariant/67842269380721",
+      "reason": "no_legacy_variant_image"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ1096296",
+      "color": "Natural Bait",
+      "variantId": "gid://shopify/ProductVariant/67842269413489",
+      "reason": "no_legacy_variant_image"
+    },
+    {
+      "handle": "wooodream-akiya-popper-215",
+      "sku": "SQ7060695",
+      "color": "GreenBack Yellow",
+      "variantId": "gid://shopify/ProductVariant/67842269446257",
+      "reason": "no_legacy_variant_image"
+    }
+  ]
+}

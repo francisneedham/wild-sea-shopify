@@ -1,0 +1,13 @@
+{
+  "handle": { "type": "destinations", "handle": "socotra-fishing" },
+  "metaobject": {
+    "fields": [
+      { "key": "season", "value": "Oct–Nov / Mar–Apr" },
+      { "key": "fishing_days", "value": "6 full days · Standard trip" },
+      { "key": "on_the_water", "value": "4 anglers · 2 boats" },
+      { "key": "target_species", "value": "Giant trevally · Popping" },
+      { "key": "booking_url", "value": "mailto:fishing@wildseaexpedition.com?subject=Socotra%20fishing%20trip%20enquiry" },
+      { "key": "brochure_url", "value": "mailto:fishing@wildseaexpedition.com?subject=Socotra%20brochure%20request" }
+    ]
+  }
+}

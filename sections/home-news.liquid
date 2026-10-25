@@ -1,0 +1,176 @@
+{% doc %}
+  Renders the latest two articles from a selected Shopify blog, or curated stories.
+  Uses section blog, heading, link and scheme; fallback blocks can select articles.
+
+  @example
+  Add Latest news, then select the News blog after articles are migrated.
+{% enddoc %}
+
+{% render 'home-styles' %}
+
+{%- liquid
+  assign news_blog = section.settings.blog
+  assign news_link = section.settings.link
+  if news_blog != blank
+    assign news_link = news_blog.url
+  endif
+-%}
+
+<section class="home-section color-scheme color-{{ section.settings.color_scheme }}" aria-labelledby="HomeNews-{{ section.id }}">
+  <div class="home-wrap">
+    <div class="home-top">
+      <div>
+        {% if section.settings.kicker != blank %}<p class="home-kicker">{{ section.settings.kicker | escape }}</p>{% endif %}
+        <h2 class="home-heading" data-reveal="title" id="HomeNews-{{ section.id }}">{{ section.settings.heading | escape }}</h2>
+      </div>
+      {% if news_link != blank and section.settings.link_label != blank %}
+        <a class="home-link" href="{{ news_link | escape }}">{{ section.settings.link_label | escape }}</a>
+      {% endif %}
+    </div>
+    <div class="home-grid home-news-grid">
+      {% if news_blog != blank %}
+        {% for news_article in news_blog.articles limit: 2 %}
+          {%- liquid
+            assign article_text = news_article.excerpt_or_content | strip_html | truncate: 180
+            assign article_date = news_article.published_at | date: '%d %B %Y'
+            assign article_label = 'home.read_story' | t
+          -%}
+          {% render 'home-card', image: news_article.image, heading: news_article.title, text: article_text, kicker: article_date, link: news_article.url, link_label: article_label, sizes: '(min-width: 650px) 50vw, 100vw' %}
+        {% endfor %}
+      {% else %}
+        {% for block in section.blocks %}
+          {%- liquid
+            assign news_article = block.settings.article
+            assign article_image = block.settings.image
+            assign article_title = block.settings.heading
+            assign article_text = block.settings.text
+            assign article_link = block.settings.link
+            assign article_date = block.settings.published_on | date: '%d %B %Y'
+            assign article_original = block.settings.original
+            assign article_label = 'home.read_story' | t
+            if news_article != blank
+              assign article_image = article_image | default: news_article.image
+              assign article_title = news_article.title
+              assign article_text = news_article.excerpt_or_content | strip_html | truncate: 180
+              assign article_link = news_article.url
+              assign article_date = news_article.published_at | date: '%d %B %Y'
+              assign article_original = 'none'
+            endif
+          -%}
+          <div {{ block.shopify_attributes }}>
+            {% render 'home-card', image: article_image, original: article_original, heading: article_title, text: article_text, kicker: article_date, link: article_link, link_label: article_label, sizes: '(min-width: 650px) 50vw, 100vw' %}
+          </div>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Latest news",
+  "max_blocks": 2,
+  "settings": [
+    {
+      "type": "blog",
+      "id": "blog",
+      "label": "Blog"
+    },
+    {
+      "type": "text",
+      "id": "kicker",
+      "label": "Eyebrow",
+      "default": "Stories from the water"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Our news."
+    },
+    {
+      "type": "url",
+      "id": "link",
+      "label": "Fallback news link"
+    },
+    {
+      "type": "text",
+      "id": "link_label",
+      "label": "Link label",
+      "default": "All news"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "Color scheme",
+      "default": "scheme-1"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "story",
+      "name": "Curated story",
+      "settings": [
+        {
+          "type": "article",
+          "id": "article",
+          "label": "Shopify article"
+        },
+        {
+          "type": "text",
+          "id": "heading",
+          "label": "Fallback title"
+        },
+        {
+          "type": "textarea",
+          "id": "text",
+          "label": "Fallback description"
+        },
+        {
+          "type": "text",
+          "id": "published_on",
+          "label": "Fallback date (YYYY-MM-DD)"
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "select",
+          "id": "original",
+          "label": "Original photograph",
+          "options": [
+            {
+              "value": "none",
+              "label": "None"
+            },
+            {
+              "value": "news-0",
+              "label": "Responsible tourism in Socotra"
+            },
+            {
+              "value": "news-1",
+              "label": "GT fishing from the rocks"
+            }
+          ],
+          "default": "none"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "Fallback story link"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Latest news",
+      "settings": {
+        "link": "https://www.wildseaexpedition.com/en/news"
+      }
+    }
+  ]
+}
+{% endschema %}

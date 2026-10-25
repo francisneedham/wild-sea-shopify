@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/509620387953",
+      "namespace": "specs",
+      "key": "rod_pe_min",
+      "name": "Rod PE minimum",
+      "type": {
+        "name": "number_decimal"
+      },
+      "ownerType": "PRODUCT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

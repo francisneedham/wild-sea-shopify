@@ -11,15 +11,37 @@
   "sections": {
     "main": {
       "type": "product",
+      "blocks": {
+        "advice": { "type": "accordion", "settings": { "heading": "Equipment advice", "content": "<p>Our guides can help match your tackle to your destination and fishing style. Email <a href=\"mailto:fishing@wildseaexpedition.com\">fishing@wildseaexpedition.com</a> for rigging recommendations.</p>" } },
+        "delivery": { "type": "accordion", "settings": { "heading": "Ordering & delivery", "content": "<p>Shipping options and costs are shown at checkout.</p>" } }
+      },
+      "block_order": ["advice", "delivery"],
       "settings": {}
     },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {}
+    },
+    "catch-gallery": {
+      "type": "home-card-grid",
+      "settings": {
+        "kicker": "Proof from the water",
+        "heading": "Made for these moments.",
+        "layout": "carousel",
+        "color_scheme": "scheme-1"
+      },
+      "blocks": {
+        "catch-one": { "type": "photo", "settings": { "original": "article-1", "heading": "A catch from a Wildsea expedition" } },
+        "catch-two": { "type": "photo", "settings": { "original": "about-4", "heading": "Anglers on a Wildsea expedition" } },
+        "catch-three": { "type": "photo", "settings": { "original": "socotra-5", "heading": "Expedition base camp" } },
+        "catch-four": { "type": "photo", "settings": { "original": "socotra-2", "heading": "Socotra coastline" } }
+      },
+      "block_order": ["catch-one", "catch-two", "catch-three", "catch-four"]
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "catch-gallery"
   ]
 }

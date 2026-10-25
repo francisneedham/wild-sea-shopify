@@ -1,0 +1,72 @@
+{
+  "v0": {
+    "id": "gid://shopify/Product/15439428649073",
+    "handle": "popper-18cm-75g",
+    "title": "Glide Popper 18cm - 75g",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Glide Tackle"
+  },
+  "v1": {
+    "id": "gid://shopify/Product/15439428812913",
+    "handle": "popper-22cm-110g",
+    "title": "Glide Popper 22cm - 110g",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Glide Tackle"
+  },
+  "v2": {
+    "id": "gid://shopify/Product/15439428976753",
+    "handle": "rodcom-straight-shore-ss-10015-sf047y",
+    "title": "Rodcom Straight Shore Ss-100/15 /Sf047Y",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Rodcom"
+  },
+  "v3": {
+    "id": "gid://shopify/Product/15439429206129",
+    "handle": "rst-supply-nezul-210",
+    "title": "RST Supply Nezul 210",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "RST Supply"
+  },
+  "v4": {
+    "id": "gid://shopify/Product/15439429402737",
+    "handle": "rst-supply-rilana-180f",
+    "title": "RST Supply Rilana 180F",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "RST Supply"
+  },
+  "v5": {
+    "id": "gid://shopify/Product/15439429501041",
+    "handle": "sinking-10cm-50g",
+    "title": "Glide Sinking 10cm - 50g",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Glide Tackle"
+  },
+  "v6": {
+    "id": "gid://shopify/Product/15439429664881",
+    "handle": "sinking-14cm-80g",
+    "title": "Glide Sinking 14cm - 80g",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Glide Tackle"
+  },
+  "v7": {
+    "id": "gid://shopify/Product/15439429828721",
+    "handle": "sinking-18cm-100g",
+    "title": "Glide Stickbait Sinking 18cm - 100gr",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Glide Tackle"
+  },
+  "v8": {
+    "id": "gid://shopify/Product/15439430090865",
+    "handle": "stickpop-18cm-75g",
+    "title": "Glide Stickpop 18cm - 75g",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Glide Tackle"
+  },
+  "v9": {
+    "id": "gid://shopify/Product/15439430353009",
+    "handle": "stickpop-20cm-105g",
+    "title": "Glide Stickpop 20cm - 105g",
+    "oldVendor": "Wild Sea Expeditions",
+    "vendor": "Glide Tackle"
+  }
+}

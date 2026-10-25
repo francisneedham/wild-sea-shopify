@@ -1,208 +1,469 @@
-{% comment %}
-  This section is used in the collection template to render collection page
-  listing all products within a collection.
+{% doc %}
+  Product listing (legacy shopListing): sticky shop category subnav, intro, product-type chips,
+  "Filters & sort" drawer (sort radios + collapsible filter groups), active chips, 4/3/2 grid, numbered pagination.
+  Type chips reuse `collection-filter-remove` so collection.ts swaps the root in place.
+  @example
+  {% section 'collection' %}
+{% enddoc %}
 
-  https://shopify.dev/docs/storefronts/themes/architecture/templates/collection
-{% endcomment %}
+{%- liquid
+  assign range_params = section.settings.range_filters | split: ','
+  assign active_filter_count = 0
+  assign active_color_values = ''
+  for filter in collection.filters
+    if filter.param_name == 'filter.v.m.specs.color_family'
+      assign active_color_values = filter.active_values | map: 'value' | join: ','
+    endif
+  endfor
+  assign type_filter = null
+  for filter in collection.filters
+    assign active_filter_count = active_filter_count | plus: filter.active_values.size
+    if filter.type == 'price_range'
+      if filter.min_value.value or filter.max_value.value
+        assign active_filter_count = active_filter_count | plus: 1
+      endif
+    endif
+    if filter.param_name == 'filter.p.product_type' and filter.values.size > 1
+      assign type_filter = filter
+    endif
+  endfor
+-%}
 
-<h1>{{ collection.title }}</h1>
+<nav class="wildsea-shop-nav" aria-label="Shop categories">
+  <div class="wildsea-shop-nav__inner">
+    {% if section.settings.shop_menu.links != blank %}
+      {% for link in section.settings.shop_menu.links %}
+        <a href="{{ link.url }}" {% if link.current %}class="is-active" aria-current="page"{% endif %}>{{ link.title | escape }}</a>
+      {% endfor %}
+    {% else %}
+      <a href="{{ routes.all_products_collection_url }}" {% if collection.handle == 'all' %}class="is-active" aria-current="page"{% endif %}>{{ 'collections.all_products' | t }}</a>
+      {% for item in collections %}
+        {% unless item.handle == 'all' or item.handle == 'frontpage' %}
+          <a href="{{ item.url }}" {% if item.handle == collection.handle %}class="is-active" aria-current="page"{% endif %}>{{ item.title | escape }}</a>
+        {% endunless %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</nav>
 
-{% paginate collection.products by 20 %}
-  <div data-js="collection-root" data-section-id="{{ section.id }}" class="space-y-5">
-    <p data-js="collection-status" role="status" aria-live="polite" class="text-sm"></p>
-    <p data-js="collection-error" role="alert" class="min-h-5 text-sm text-red-700"></p>
+{% paginate collection.products by section.settings.products_per_page %}
+  <div data-js="collection-root" data-section-id="{{ section.id }}" class="wildsea-collection">
+    <div class="wildsea-collection__intro">
+      <nav class="wildsea-collection__breadcrumb" aria-label="Breadcrumb">
+        <a href="{{ routes.all_products_collection_url }}">Shop</a>
+        {% render 'lucide-icon', name: 'chevron-right' %}
+        <span>{{ collection.title | escape }}</span>
+      </nav>
+      {% if section.settings.eyebrow != blank %}<p class="wildsea-collection__eyebrow">{{ section.settings.eyebrow | escape }}</p>{% endif %}
+      <h1 data-reveal="title">{{ collection.title | escape }}.</h1>
+      {% if collection.description != blank %}
+        <div class="wildsea-collection__description">{{ collection.description }}</div>
+      {% elsif section.settings.intro != blank %}
+        <p class="wildsea-collection__description">{{ section.settings.intro | escape }}</p>
+      {% endif %}
+    </div>
+    <p data-js="collection-status" role="status" aria-live="polite" class="sr-only"></p>
+    <p data-js="collection-error" role="alert" class="wildsea-collection__error"></p>
 
-    <form data-js="collection-controls" class="space-y-4 border-b pb-4" method="get" action="{{ collection.url }}">
-      <div class="flex flex-wrap items-end gap-4">
-        <div>
-          <label for="CollectionSort" class="block text-sm">{{ 'collections.sort_by' | t }}</label>
-          <select id="CollectionSort" name="sort_by" data-js="collection-sort" class="mt-1 border px-3 py-2">
-            {% for option in collection.sort_options %}
-              <option value="{{ option.value | escape }}" {% if option.value == collection.sort_by %}selected{% endif %}>
-                {{ option.name }}
-              </option>
+    <form data-js="collection-controls" method="get" action="{{ collection.url }}">
+      <div class="wildsea-collection__toolbar">
+        <div class="wildsea-collection__chips">
+          {% if type_filter %}
+            <a href="{{ type_filter.url_to_remove }}" data-js="collection-filter-remove" class="wildsea-chip{% if type_filter.active_values.size == 0 %} is-active{% endif %}">{{ section.settings.all_label | default: 'All' | escape }}</a>
+            {% for value in type_filter.values %}
+              {% if value.active %}
+                <a href="{{ value.url_to_remove }}" data-js="collection-filter-remove" class="wildsea-chip is-active" aria-pressed="true">{{ value.label | escape }}</a>
+              {% else %}
+                <a href="{{ value.url_to_add }}" data-js="collection-filter-remove" class="wildsea-chip">{{ value.label | escape }}</a>
+              {% endif %}
             {% endfor %}
-          </select>
+          {% endif %}
         </div>
-
-        <button type="submit" class="border px-3 py-2">{{ 'collections.apply_filters' | t }}</button>
-        <a
-          href="{{ collection.url }}?sort_by={{ collection.sort_by | default: collection.default_sort_by | escape }}"
-          data-js="collection-clear"
-          class="underline"
-        >
-          {{ 'collections.clear_all' | t }}
-        </a>
-
-        {% if collection.filters.size > 0 %}
+        <div class="wildsea-collection__tools">
+          <span>{{ 'collections.product_count' | t: count: paginate.items }}</span>
           <button
             type="button"
             data-js="collection-filters-open"
             aria-haspopup="dialog"
             aria-controls="CollectionFiltersDrawer"
             aria-expanded="false"
-            class="border px-3 py-2 md:hidden"
+            class="wildsea-collection__filter-trigger"
           >
-            {{ 'collections.filters' | t }}
+            {% render 'lucide-icon', name: 'sliders-horizontal' %}{{ 'collections.filters_and_sort' | t }}
+            {% if active_filter_count > 0 %}<span class="wildsea-collection__filter-count">{{ active_filter_count }}</span>{% endif %}
           </button>
-        {% endif %}
+        </div>
       </div>
 
-      {% if collection.filters.size > 0 %}
-        <div
-          id="CollectionFiltersDrawer"
-          data-js="collection-filters-drawer"
-          class="fixed inset-0 z-50"
-          data-open="false"
-        >
-          <div data-js="collection-filters-overlay" class="absolute inset-0 bg-black/40 md:hidden" aria-hidden="true"></div>
+      <div
+        id="CollectionFiltersDrawer"
+        data-js="collection-filters-drawer"
+        class="wildsea-collection__drawer"
+        data-open="false"
+      >
+        <div data-js="collection-filters-overlay" class="wildsea-collection__overlay" aria-hidden="true"></div>
 
-          <div
-            data-js="collection-filters-panel"
-            role="dialog"
-            aria-modal="true"
-            aria-label="{{ 'collections.filters' | t }}"
-            class="absolute right-0 top-0 h-full w-full max-w-xs overflow-y-auto bg-white p-4 shadow-2xl md:static md:h-auto md:w-auto md:max-w-none md:overflow-visible md:bg-transparent md:p-0 md:shadow-none"
-          >
-            <div class="mb-3 flex items-center justify-between md:hidden">
-              <h2 class="text-lg font-semibold">{{ 'collections.filters' | t }}</h2>
-              <button type="button" data-js="collection-filters-close" class="h-9 w-9 border" aria-label="{{ 'collections.close_filters' | t }}">x</button>
+        <div
+          data-js="collection-filters-panel"
+          role="dialog"
+          aria-modal="true"
+          aria-label="{{ 'collections.filters_and_sort' | t }}"
+          class="wildsea-collection__panel"
+        >
+          <div class="wildsea-collection__panel-head">
+            <div>
+              {% if section.settings.drawer_eyebrow != blank %}<p class="wildsea-collection__eyebrow">{{ section.settings.drawer_eyebrow | escape }}</p>{% endif %}
+              <h2>{{ section.settings.drawer_heading | escape }}</h2>
+            </div>
+            <button type="button" data-js="collection-filters-close" aria-label="{{ 'collections.close_filters' | t }}">{% render 'lucide-icon', name: 'x' %}</button>
+          </div>
+
+          <div class="wildsea-collection__filter-list" data-js="collection-filters">
+            {%- assign current_sort = collection.sort_by | default: collection.default_sort_by -%}
+            <div class="wildsea-collection__sort">
+              <label for="CollectionSort">{{ 'collections.sort_heading' | t }}</label>
+              <div class="wildsea-collection__select">
+                <select id="CollectionSort" name="sort_by" data-js="collection-sort">
+                  {% for option in collection.sort_options %}
+                    <option value="{{ option.value | escape }}" {% if option.value == current_sort %}selected{% endif %}>{{ option.name | escape }}</option>
+                  {% endfor %}
+                </select>
+                {% render 'lucide-icon', name: 'chevron-down' %}
+              </div>
             </div>
 
-            <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3" data-js="collection-filters">
-              {% for filter in collection.filters %}
-                <fieldset class="space-y-2 border p-3">
-                  <legend class="text-sm font-medium">{{ filter.label }}</legend>
-
-                  {% case filter.type %}
-                    {% when 'list', 'boolean' %}
+            {% for filter in collection.filters %}
+              <details class="wildsea-collection__filter-group" open>
+                <summary>{{ filter.label | escape }} {% render 'lucide-icon', name: 'chevron-down' %}</summary>
+                {% case filter.type %}
+                  {% when 'list', 'boolean' %}
+                    {%- liquid
+                      assign is_range = false
+                      if filter.values.size > 2
+                        for range_param in range_params
+                          assign range_param_clean = range_param | strip
+                          if range_param_clean != blank and filter.param_name contains range_param_clean
+                            assign is_range = true
+                          endif
+                        endfor
+                      endif
+                    -%}
+                    {% if is_range %}
+                      {%- assign range_unit = '' -%}
+                      {%- if filter.label contains '(' -%}{%- assign range_unit = filter.label | split: '(' | last | split: ')' | first | strip -%}{%- endif -%}
+                      <div class="wildsea-range" data-js="collection-range" data-unit="{{ range_unit | escape }}">
+                        <p class="wildsea-range__output" data-js="collection-range-output" aria-live="polite"></p>
+                        <div class="wildsea-range__track">
+                          <input type="range" data-js="collection-range-min" aria-label="{{ filter.label | escape }} minimum">
+                          <input type="range" data-js="collection-range-max" aria-label="{{ filter.label | escape }} maximum">
+                        </div>
+                      </div>
+                    {% endif %}
+                    <div class="wildsea-collection__filter-options{% if filter.values.size > 6 %} wildsea-collection__filter-options--two{% endif %}{% if is_range %} wildsea-collection__filter-options--range{% endif %}">
                       {% for filter_value in filter.values %}
-                        <label class="flex items-center gap-2 text-sm" for="Filter-{{ filter.param_name }}-{{ forloop.index }}">
+                        <label class="wildsea-collection__filter-option" for="Filter-{{ filter.param_name }}-{{ forloop.index }}">
                           <input
                             id="Filter-{{ filter.param_name }}-{{ forloop.index }}"
                             type="checkbox"
                             name="{{ filter_value.param_name }}"
                             value="{{ filter_value.value }}"
                             {% if filter_value.active %}checked{% endif %}
+                            {% if filter_value.count == 0 and filter_value.active == false %}disabled{% endif %}
                           >
-                          <span>{{ filter_value.label }}</span>
-                          <span class="opacity-60">({{ filter_value.count }})</span>
+                          {% if filter_value.swatch.image %}
+                            <span class="wildsea-collection__swatch" aria-hidden="true">
+                              {{ filter_value.swatch.image | image_url: width: 32, height: 32, crop: 'center' | image_tag: loading: 'lazy', alt: '' }}
+                            </span>
+                          {% elsif filter_value.swatch.color %}
+                            <span class="wildsea-collection__swatch" style="background: {{ filter_value.swatch.color }}" aria-hidden="true"></span>
+                          {% elsif filter_value.label == 'Pattern / Natural' %}
+                            <span class="wildsea-collection__swatch wildsea-collection__swatch--pattern" aria-hidden="true"></span>
+                          {% endif %}
+                          <span>{{ filter_value.label | escape }}</span>
+                          <span class="wildsea-collection__filter-count-label">{{ filter_value.count }}</span>
                         </label>
                       {% endfor %}
-                    {% when 'price_range' %}
-                      <div class="grid grid-cols-2 gap-2">
-                        <label class="text-sm" for="Filter-{{ filter.min_value.param_name }}">
-                          Min
-                          <input
-                            id="Filter-{{ filter.min_value.param_name }}"
-                            type="number"
-                            name="{{ filter.min_value.param_name }}"
-                            min="0"
-                            value="{{ filter.min_value.value }}"
-                            placeholder="0"
-                            class="mt-1 w-full border px-2 py-1"
-                          >
-                        </label>
-                        <label class="text-sm" for="Filter-{{ filter.max_value.param_name }}">
-                          Max
-                          <input
-                            id="Filter-{{ filter.max_value.param_name }}"
-                            type="number"
-                            name="{{ filter.max_value.param_name }}"
-                            min="0"
-                            value="{{ filter.max_value.value }}"
-                            placeholder="{{ filter.range_max | money_without_currency | replace: ',', '' }}"
-                            class="mt-1 w-full border px-2 py-1"
-                          >
-                        </label>
+                    </div>
+                  {% when 'price_range' %}
+                    <div class="wildsea-range" data-js="collection-range" data-mode="price" data-max="{{ filter.range_max | divided_by: 100.0 | ceil }}" data-currency="{{ cart.currency.iso_code }}" data-locale="{{ request.locale.iso_code }}">
+                      <p class="wildsea-range__output" data-js="collection-range-output" aria-live="polite"></p>
+                      <div class="wildsea-range__track">
+                        <input type="range" data-js="collection-range-min" aria-label="{{ filter.label | escape }} minimum">
+                        <input type="range" data-js="collection-range-max" aria-label="{{ filter.label | escape }} maximum">
                       </div>
-                  {% endcase %}
-                </fieldset>
-              {% endfor %}
-            </div>
+                    </div>
+                    <div class="wildsea-collection__price">
+                      <label for="Filter-{{ filter.min_value.param_name }}">
+                        Min
+                        <input
+                          id="Filter-{{ filter.min_value.param_name }}"
+                          type="number"
+                          name="{{ filter.min_value.param_name }}"
+                          min="0"
+                          step="0.01"
+                          value="{% if filter.min_value.value %}{{ filter.min_value.value | divided_by: 100.0 }}{% endif %}"
+                          placeholder="0"
+                        >
+                      </label>
+                      <label for="Filter-{{ filter.max_value.param_name }}">
+                        Max
+                        <input
+                          id="Filter-{{ filter.max_value.param_name }}"
+                          type="number"
+                          name="{{ filter.max_value.param_name }}"
+                          min="0"
+                          step="0.01"
+                          value="{% if filter.max_value.value %}{{ filter.max_value.value | divided_by: 100.0 }}{% endif %}"
+                          placeholder="{{ filter.range_max | divided_by: 100.0 }}"
+                        >
+                      </label>
+                    </div>
+                {% endcase %}
+              </details>
+            {% endfor %}
+          </div>
+          <div class="wildsea-collection__panel-foot">
+            <a href="{{ collection.url }}" data-js="collection-clear">{{ 'collections.clear_all' | t }}</a>
+            <button type="submit" data-js="collection-filters-apply">{{ 'collections.product_count' | t: count: paginate.items }} {% render 'lucide-icon', name: 'arrow-right' %}</button>
           </div>
         </div>
-      {% endif %}
+      </div>
     </form>
 
-    {% assign has_active_filters = false %}
-    {% for filter in collection.filters %}
-      {% if filter.active_values.size > 0 %}
-        {% assign has_active_filters = true %}
-      {% endif %}
-      {% if filter.type == 'price_range' %}
-        {% if filter.min_value.value or filter.max_value.value %}
-          {% assign has_active_filters = true %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    {% if has_active_filters %}
-      <div class="flex flex-wrap gap-2" data-js="collection-active-filters">
+    {% if active_filter_count > 0 %}
+      <div class="wildsea-collection__active" data-js="collection-active-filters">
         {% for filter in collection.filters %}
+          {%- liquid
+            assign is_range = false
+            for range_param in range_params
+              assign range_param_clean = range_param | strip
+              if range_param_clean != blank and filter.param_name contains range_param_clean
+                assign is_range = true
+              endif
+            endfor
+          -%}
+          {% if is_range and filter.active_values.size > 0 %}
+            {%- liquid
+              assign range_min = nil
+              assign range_max = nil
+              for filter_value in filter.active_values
+                assign number = filter_value.value | times: 1.0
+                if range_min == nil or number < range_min
+                  assign range_min = number
+                endif
+                if range_max == nil or number > range_max
+                  assign range_max = number
+                endif
+              endfor
+              assign range_unit = ''
+              if filter.label contains '('
+                assign range_unit = filter.label | split: '(' | last | split: ')' | first | strip
+              endif
+            -%}
+            {%- comment -%} One chip per range filter instead of one per ticked value. {%- endcomment -%}
+            <a href="{{ filter.url_to_remove }}" data-js="collection-filter-remove" class="wildsea-collection__active-chip">
+              {{ range_min | round: 1 | remove: '.0' }} – {{ range_max | round: 1 | remove: '.0' }} {{ range_unit | escape }} {% render 'lucide-icon', name: 'x' %}<span class="sr-only">Remove filter</span>
+            </a>
+            {% continue %}
+          {% endif %}
           {% for filter_value in filter.active_values %}
-            <a href="{{ filter_value.url_to_remove }}" data-js="collection-filter-remove" class="inline-flex items-center gap-1 border px-2 py-1 text-sm">
-              {{ filter_value.label }} <span aria-hidden="true">×</span>
+            <a href="{{ filter_value.url_to_remove }}" data-js="collection-filter-remove" class="wildsea-collection__active-chip">
+              {{ filter_value.label | escape }} {% render 'lucide-icon', name: 'x' %}<span class="sr-only">Remove filter</span>
             </a>
           {% endfor %}
-
           {% if filter.type == 'price_range' %}
             {% if filter.min_value.value or filter.max_value.value %}
-              <a href="{{ filter.url_to_remove }}" data-js="collection-filter-remove" class="inline-flex items-center gap-1 border px-2 py-1 text-sm">
-                {{ filter.min_value.value | default: 0 | money_without_currency }} - {{ filter.max_value.value | default: filter.range_max | money_without_currency }}
-                <span aria-hidden="true">×</span>
+              <a href="{{ filter.url_to_remove }}" data-js="collection-filter-remove" class="wildsea-collection__active-chip">
+                {{ filter.min_value.value | default: 0 | money }} – {{ filter.max_value.value | default: filter.range_max | money }}
+                {% render 'lucide-icon', name: 'x' %}<span class="sr-only">Remove filter</span>
               </a>
             {% endif %}
           {% endif %}
         {% endfor %}
+        <a href="{{ collection.url }}{% if collection.sort_by != blank %}?sort_by={{ collection.sort_by | url_encode }}{% endif %}" data-js="collection-clear" class="wildsea-collection__clear">{{ 'collections.clear_all' | t }}</a>
       </div>
     {% endif %}
 
     <div class="collection-products" data-js="collection-products">
       {% for product in collection.products %}
-        {% render 'product-card', product: product, enable_quick_buy: true %}
+        {% render 'product-card', product: product, enable_quick_buy: section.settings.show_quick_buy, active_colors: active_color_values %}
       {% else %}
-        <p>{{ 'collections.no_products_found' | t }}</p>
+        <div class="wildsea-collection__empty">
+          <h3>{{ 'collections.no_products_found' | t }}</h3>
+          <a href="{{ collection.url }}" data-js="collection-clear">{{ 'collections.clear_all' | t }}</a>
+        </div>
       {% endfor %}
     </div>
 
-    <div class="mt-4" data-js="collection-pagination-wrap">
-      {% if paginate.next %}
-        <button type="button" data-js="collection-load-more" data-next-url="{{ paginate.next.url }}" class="border px-4 py-2">
-          {{ 'collections.load_more' | t }}
-        </button>
-      {% endif %}
-
-      <p data-js="collection-load-status" role="status" aria-live="polite" class="mt-2 text-sm"></p>
-
-      <div data-js="collection-default-pagination" class="mt-2">
-        {{ paginate | default_pagination }}
-      </div>
-    </div>
+    {% if paginate.pages > 1 %}
+      <nav class="wildsea-pagination" data-js="collection-pagination-wrap" aria-label="Pagination">
+        <div data-js="collection-default-pagination" class="wildsea-pagination__inner">
+          {% if paginate.previous %}
+            <a class="wildsea-pagination__step" href="{{ paginate.previous.url }}" rel="prev" aria-label="Previous page">{% render 'lucide-icon', name: 'arrow-right' %}</a>
+          {% else %}
+            <span class="wildsea-pagination__step is-disabled" aria-hidden="true">{% render 'lucide-icon', name: 'arrow-right' %}</span>
+          {% endif %}
+          <ol class="wildsea-pagination__pages">
+            {% for part in paginate.parts %}
+              <li>
+                {% if part.is_link %}
+                  <a href="{{ part.url }}" aria-label="Page {{ part.title }}">{{ part.title }}</a>
+                {% elsif part.title == paginate.current_page %}
+                  <span class="is-current" aria-current="page">{{ part.title }}</span>
+                {% else %}
+                  <span class="is-gap" aria-hidden="true">{{ part.title }}</span>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ol>
+          {% if paginate.next %}
+            <a class="wildsea-pagination__step" href="{{ paginate.next.url }}" rel="next" aria-label="Next page">{% render 'lucide-icon', name: 'arrow-right' %}</a>
+          {% else %}
+            <span class="wildsea-pagination__step is-disabled" aria-hidden="true">{% render 'lucide-icon', name: 'arrow-right' %}</span>
+          {% endif %}
+        </div>
+        <p class="wildsea-pagination__summary">{{ paginate.current_offset | plus: 1 }}–{{ paginate.current_offset | plus: paginate.page_size | at_most: paginate.items }} / {{ 'collections.product_count' | t: count: paginate.items }}</p>
+      </nav>
+    {% endif %}
   </div>
 {% endpaginate %}
 
 {% stylesheet %}
-  .collection-products {
-    display: grid;
-    gap: 1rem;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  }
+  /* Sticky category subnav under the header (legacy .shop-subnav). */
+  .wildsea-shop-nav { position: sticky; top: calc(var(--header-height) - 1px); z-index: 39; border-bottom: 1px solid #102c2d20; background: #f6f5f0; }
+  .wildsea-shop-nav__inner { max-width: var(--page-width); margin: auto; padding-inline: var(--site-gutter); display: flex; align-items: center; gap: 35px; min-height: 54px; overflow-x: auto; scrollbar-width: none; }
+  .wildsea-shop-nav a { position: relative; display: flex; align-items: center; min-height: 54px; white-space: nowrap; color: inherit; text-decoration: none; font-size: var(--text-label); letter-spacing: .08em; text-transform: uppercase; }
+  .wildsea-shop-nav a:hover { color: #91733e; }
+  .wildsea-shop-nav a.is-active { font-weight: 700; }
+  .wildsea-shop-nav a.is-active::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 2px; background: currentColor; }
 
-  [data-js='collection-filters-drawer'][data-open='false'] {
-    display: none;
-  }
+  .wildsea-collection { width: min(100%, var(--page-width)); padding-inline: var(--site-gutter); margin: 0 auto; }
+  .wildsea-collection a { color: inherit; }
+  .wildsea-collection__intro { padding: 75px 0 55px; }
+  .wildsea-collection__breadcrumb { display: flex; align-items: center; gap: 12px; margin-bottom: 35px; font-size: var(--text-label); letter-spacing: .08em; text-transform: uppercase; }
+  .wildsea-collection__breadcrumb a { text-decoration: none; }
+  .wildsea-collection__breadcrumb svg { width: 12px; height: 12px; }
+  .wildsea-collection__eyebrow { display: flex; align-items: center; gap: 12px; margin: 0 0 22px; font-size: var(--text-label); font-weight: 600; letter-spacing: .23em; text-transform: uppercase; }
+  .wildsea-collection__eyebrow::before { content: ''; width: 28px; height: 1px; background: currentColor; }
+  .wildsea-collection h1 { margin: 0 0 25px; font-size: clamp(66px, 8vw, 112px); line-height: .95; letter-spacing: -.02em; text-transform: uppercase; }
+  .wildsea-collection__description { max-width: 540px; font-size: var(--text-sm); line-height: 1.7; color: color-mix(in srgb, var(--theme-text) 70%, transparent); }
+  .wildsea-collection__error:empty { display: none; }
 
-  @media (min-width: 768px) {
-    [data-js='collection-filters-drawer'] {
-      display: contents !important;
-    }
+  .wildsea-collection__toolbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 35px; padding: 20px 0; border-block: 1px solid var(--theme-border); }
+  .wildsea-collection__chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .wildsea-chip { padding: 10px 16px; border: 1px solid #cad1c6; font-size: var(--text-label); text-decoration: none; transition: background .2s, color .2s; }
+  .wildsea-collection .wildsea-chip.is-active, .wildsea-collection .wildsea-chip:hover { background: #102c2d; border-color: #102c2d; color: #fff; }
+  .wildsea-collection__tools { display: flex; align-items: center; gap: 30px; margin-left: auto; font-size: var(--text-sm); }
+  .wildsea-collection__filter-trigger { display: flex; align-items: center; gap: 10px; padding: 12px 17px; border: 1px solid currentColor; background: none; color: inherit; font-size: var(--text-label); font-weight: 600; letter-spacing: .04em; cursor: pointer; }
+  .wildsea-collection__filter-trigger:hover { background: #e9ece3; }
+  .wildsea-collection__filter-trigger svg { width: 15px; height: 15px; }
+  .wildsea-collection__filter-count { display: inline-grid; place-items: center; min-width: 19px; height: 19px; border-radius: 50%; background: #102c2d; color: #fff; font-size: 11px; }
+
+  /* Right-hand drawer (legacy .drawer / .filter-drawer). */
+  .wildsea-collection__drawer { position: fixed; inset: 0; z-index: 60; }
+  .wildsea-collection__drawer[data-open='false'] { display: none; }
+  .wildsea-collection__overlay { position: absolute; inset: 0; background: #041a1ab3; backdrop-filter: blur(4px); }
+  .wildsea-collection__panel { position: absolute; top: 0; right: 0; bottom: 0; width: min(480px, 100%); display: flex; flex-direction: column; overflow: hidden; padding: 36px 32px 0; background: #f6f5f0; color: #102c2d; box-shadow: 0 20px 70px #0003; }
+  .wildsea-collection__panel-head { display: flex; justify-content: space-between; align-items: start; gap: 20px; margin-bottom: 25px; }
+  .wildsea-collection__panel-head .wildsea-collection__eyebrow { margin-bottom: 14px; }
+  .wildsea-collection__panel-head h2 { margin: 0; font-size: 43px; line-height: .98; text-transform: uppercase; }
+  .wildsea-collection__panel-head button { display: inline-flex; padding: 8px; margin: -8px -8px 0 0; border: 0; background: none; color: inherit; cursor: pointer; }
+  .wildsea-collection__panel-head button svg { width: 20px; height: 20px; }
+  .wildsea-collection__filter-list { flex: 1; min-height: 0; overflow-y: auto; padding: 0 5px 25px 0; }
+  .wildsea-collection__sort { display: grid; gap: 10px; padding-bottom: 24px; font-size: var(--text-sm); font-weight: 600; }
+  .wildsea-collection__select { position: relative; }
+  .wildsea-collection__select select { width: 100%; padding: 14px 40px 14px 14px; border: 1px solid #c9d0c4; background: none; color: inherit; font-size: var(--text-base); font-weight: 400; appearance: none; cursor: pointer; }
+  .wildsea-collection__select svg { position: absolute; top: 50%; right: 14px; width: 16px; height: 16px; margin-top: -8px; pointer-events: none; }
+  /* Range filter: two native range inputs over the sorted filter values; JS ticks the matching checkboxes. */
+  .wildsea-range { display: none; padding-bottom: 22px; }
+  .wildsea-range.is-ready { display: block; }
+  .wildsea-range.is-ready + .wildsea-collection__filter-options--range, .wildsea-range.is-ready + .wildsea-collection__price { display: none; }
+  .wildsea-range__output { margin: 0 0 14px; font-size: var(--text-sm); }
+  .wildsea-range__track { position: relative; height: 24px; }
+  .wildsea-range__track::before, .wildsea-range__track::after { content: ''; position: absolute; top: 11px; height: 2px; }
+  .wildsea-range__track::before { left: 0; right: 0; background: #d6dad2; }
+  .wildsea-range__track::after { left: var(--range-from, 0%); right: calc(100% - var(--range-to, 100%)); background: #102c2d; }
+  .wildsea-range__track input { position: absolute; inset: 0; z-index: 1; width: 100%; margin: 0; background: none; pointer-events: none; appearance: none; -webkit-appearance: none; }
+  .wildsea-range__track input::-webkit-slider-thumb { width: 20px; height: 20px; border: 2px solid #102c2d; border-radius: 50%; background: #f6f5f0; pointer-events: auto; cursor: grab; -webkit-appearance: none; }
+  .wildsea-range__track input::-moz-range-thumb { width: 16px; height: 16px; border: 2px solid #102c2d; border-radius: 50%; background: #f6f5f0; pointer-events: auto; cursor: grab; }
+  .wildsea-range__track input::-webkit-slider-runnable-track, .wildsea-range__track input::-moz-range-track { background: none; }
+  .wildsea-collection__filter-group { border-top: 1px solid #d6dad2; }
+  .wildsea-collection__filter-group summary { display: flex; justify-content: space-between; align-items: center; padding-block: 22px; font-size: var(--text-sm); font-weight: 600; list-style: none; cursor: pointer; }
+  .wildsea-collection__filter-group summary::-webkit-details-marker { display: none; }
+  .wildsea-collection__filter-group summary svg { width: 16px; height: 16px; transition: transform .2s; }
+  .wildsea-collection__filter-group[open] summary svg { transform: rotate(180deg); }
+  .wildsea-collection__filter-options { display: grid; gap: 4px; padding-bottom: 20px; }
+  .wildsea-collection__filter-options--two { grid-template-columns: 1fr 1fr; column-gap: 12px; }
+  .wildsea-collection__filter-option { display: flex; align-items: center; gap: 11px; padding: 5px 0; font-size: var(--text-sm); line-height: 1.5; cursor: pointer; }
+  .wildsea-collection__filter-option input { flex-shrink: 0; width: 15px; height: 15px; margin: 0; accent-color: #102c2d; }
+  .wildsea-collection__filter-option:has(input:disabled) { opacity: .4; cursor: default; }
+  .wildsea-collection__filter-count-label { margin-left: auto; color: #6b7976; font-size: var(--text-label); }
+  .wildsea-collection__swatch { flex-shrink: 0; width: 14px; height: 14px; border-radius: 50%; border: 1px solid #0002; }
+  .wildsea-collection__swatch img { display: block; width: 100%; height: 100%; border-radius: inherit; object-fit: cover; }
+  .wildsea-collection__swatch--pattern { background: conic-gradient(#3669a3 0 25%, #e2bc3f 25% 50%, #528566 50% 75%, #dd81a4 75%); }
+  .wildsea-collection__price { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding-bottom: 20px; font-size: var(--text-sm); }
+  .wildsea-collection__price input { width: 100%; margin-top: 6px; padding: 10px; border: 1px solid #cad1c6; background: transparent; font-size: var(--text-base); }
+  .wildsea-collection__panel-foot { display: flex; align-items: center; gap: 18px; padding: 20px 0 24px; border-top: 1px solid #d6dad2; background: #f6f5f0; font-size: var(--text-sm); }
+  .wildsea-collection__panel-foot a { text-decoration: underline; text-underline-offset: .25em; white-space: nowrap; }
+  .wildsea-collection__panel-foot button { flex: 1; display: inline-flex; align-items: center; justify-content: center; gap: 18px; padding: 17px 15px; border: 0; background: #102c2d; color: #fff; font-size: var(--text-label); font-weight: 700; letter-spacing: .1em; text-transform: uppercase; white-space: nowrap; cursor: pointer; }
+  .wildsea-collection__panel-foot button svg { width: 15px; height: 15px; }
+
+  .wildsea-collection__active { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 28px; }
+  .wildsea-collection__active-chip { display: flex; align-items: center; gap: 12px; padding: 8px 12px; border: 1px solid #c9d0c4; background: #e9ece3; font-size: var(--text-label); text-decoration: none; }
+  .wildsea-collection__active-chip svg { width: 13px; height: 13px; }
+  .wildsea-collection__clear { align-self: center; margin-left: 6px; font-size: var(--text-label); text-decoration: underline; text-underline-offset: .25em; }
+
+  .collection-products { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 30px 20px; padding-bottom: 80px; }
+  .wildsea-collection__empty { grid-column: 1 / -1; padding: 65px 25px; text-align: center; }
+  .wildsea-collection__empty h3 { margin: 0 0 16px; font-size: 32px; text-transform: uppercase; }
+  .wildsea-collection__empty a { font-size: var(--text-sm); text-decoration: underline; }
+  .wildsea-pagination { display: flex; flex-direction: column; align-items: center; gap: 16px; padding: 10px 0 90px; }
+  .wildsea-pagination__inner { display: flex; align-items: center; gap: 28px; }
+  .wildsea-pagination__step { display: grid; place-items: center; width: 52px; height: 52px; border: 1px solid currentColor; border-radius: 50%; color: inherit; transition: background .2s, color .2s, opacity .2s; }
+  .wildsea-pagination__step:first-child svg { transform: rotate(180deg); }
+  .wildsea-pagination__step svg { width: 16px; height: 16px; }
+  a.wildsea-pagination__step:hover { background: #102c2d; border-color: #102c2d; color: #fff; }
+  .wildsea-pagination__step.is-disabled { opacity: .25; }
+  .wildsea-pagination__pages { display: flex; align-items: center; gap: 6px; margin: 0; padding: 0; list-style: none; }
+  .wildsea-pagination__pages a, .wildsea-pagination__pages span { position: relative; display: grid; place-items: center; min-width: 36px; height: 44px; font-family: var(--font-heading-family); font-size: 22px; font-weight: 600; text-decoration: none; transition: color .2s; }
+  .wildsea-pagination__pages a { color: color-mix(in srgb, var(--theme-text) 45%, transparent); }
+  .wildsea-pagination__pages a:hover { color: var(--theme-text); }
+  .wildsea-pagination__pages .is-current::after { content: ''; position: absolute; left: 8px; right: 8px; bottom: 4px; height: 2px; background: currentColor; }
+  .wildsea-pagination__pages .is-gap { color: color-mix(in srgb, var(--theme-text) 45%, transparent); }
+  .wildsea-pagination__summary { margin: 0; font-size: var(--text-label); letter-spacing: .12em; text-transform: uppercase; color: color-mix(in srgb, var(--theme-text) 60%, transparent); }
+  .collection-products { scroll-margin-top: calc(var(--header-height) + 80px); }
+
+  @media (max-width: 1100px) { .collection-products { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+  @media (max-width: 760px) {
+    .wildsea-shop-nav__inner { gap: 24px; min-height: 48px; }
+    .wildsea-shop-nav a { min-height: 48px; }
+    .wildsea-collection__intro { padding: 50px 0 35px; }
+    .wildsea-collection h1 { font-size: 75px; }
+    .wildsea-collection__toolbar { gap: 18px; }
+    .wildsea-collection__tools { width: 100%; justify-content: space-between; margin-left: 0; }
+    .wildsea-collection__filter-trigger { padding: 11px 14px; }
+    .wildsea-collection__panel { padding-inline: 24px; }
+    .collection-products { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 30px 15px; padding-bottom: 55px; }
+    .wildsea-pagination__inner { gap: 14px; }
+    .wildsea-pagination__step { width: 44px; height: 44px; }
+    .wildsea-pagination__pages a, .wildsea-pagination__pages span { min-width: 30px; font-size: 20px; }
   }
 {% endstylesheet %}
 
 {% schema %}
 {
   "name": "t:general.collection",
-  "settings": []
+  "settings": [
+    { "type": "link_list", "id": "shop_menu", "label": "Shop categories menu", "info": "Sticky bar under the header. Empty: All gear + every collection." },
+    { "type": "text", "id": "eyebrow", "label": "Eyebrow", "default": "Expedition-tested essentials" },
+    { "type": "textarea", "id": "intro", "label": "Intro (when the collection has no description)", "default": "Handmade poppers and stickbaits. Specialist designs for unforgettable encounters." },
+    { "type": "text", "id": "all_label", "label": "Product type chips: \"all\" label", "default": "All" },
+    { "type": "range", "id": "products_per_page", "label": "Products per page", "min": 8, "max": 48, "step": 4, "default": 24 },
+    { "type": "checkbox", "id": "show_quick_buy", "label": "Show quick buy on cards", "default": false },
+    { "type": "text", "id": "range_filters", "label": "Filters shown as a range slider", "default": "specs.lure_length_mm, specs.lure_weight_g, specs.rod_length_cm", "info": "Comma-separated metafield keys of numeric filters." },
+    { "type": "header", "content": "Filters drawer" },
+    { "type": "text", "id": "drawer_eyebrow", "label": "Eyebrow", "default": "Find your perfect setup" },
+    { "type": "text", "id": "drawer_heading", "label": "Heading", "default": "Filters & sort." }
+  ]
 }
 {% endschema %}

@@ -1,0 +1,36 @@
+{% doc %}
+  Destination FAQ (legacy .faq): heading row + native details with a rotating plus.
+  @example
+  Add this section to a destination template with question blocks.
+{% enddoc %}
+{% render 'destination-styles' %}
+
+<section {% if section.settings.anchor != blank %}id="{{ section.settings.anchor | escape }}" {% endif %}class="destination-wrap destination-section">
+  {% render 'destination-top', kicker: section.settings.kicker, heading: section.settings.heading %}
+  <div class="destination-faq">
+    {% for block in section.blocks %}
+      <details {{ block.shopify_attributes }}>
+        <summary>{{ block.settings.question | escape }} {% render 'lucide-icon', name: 'plus' %}</summary>
+        <div class="destination-body">{{ block.settings.answer }}</div>
+      </details>
+    {% endfor %}
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Destination FAQ",
+  "settings": [
+    { "type": "text", "id": "anchor", "label": "Anchor ID" },
+    { "type": "text", "id": "kicker", "label": "Eyebrow" },
+    { "type": "textarea", "id": "heading", "label": "Heading" }
+  ],
+  "blocks": [
+    { "type": "question", "name": "Question", "settings": [
+      { "type": "text", "id": "question", "label": "Question" },
+      { "type": "richtext", "id": "answer", "label": "Answer" }
+    ] }
+  ],
+  "presets": [{ "name": "Destination FAQ" }]
+}
+{% endschema %}

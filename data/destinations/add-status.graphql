@@ -1,0 +1,6 @@
+mutation AddDestinationStatus($id: ID!, $definition: MetaobjectDefinitionUpdateInput!) {
+  metaobjectDefinitionUpdate(id: $id, definition: $definition) {
+    metaobjectDefinition { id fieldDefinitions { key name type { name } validations { name value } } }
+    userErrors { field message code }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "input": {
+    "handle": "popper-18cm-130g",
+    "title": "Glide Popper",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>Popper 16cm-100g</strong><br />A 16cm-100g popper with a similar shape to the wide-mouthed pop130 and pop150 models, this popper100’s mouth has been designed to produce a loud sound with little effort thanks to a shallow, wide mouth.<br />Its size and weight make it easy to cast for hours and have already replaced the old cone-shaped model on several fishing trips.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>Popper 18cm-130g</strong><br />It has a good diameter of the mouth, it’s a popper that make big pops but with a slightly more contained weight if compared to the 150g.<br />The body has a great buoyancy and a lot of resin to have greater strength and minimize damage from the bites of large predators.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>Popper 20cm-150g</strong><br />The new version of the old 180.<br />The body has a great buoyancy and a lot of resin to have greater strength and minimize damage from the bites of large predators.</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Glide",
+      "glide popper",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          {
+            "name": "100"
+          },
+          {
+            "name": "130"
+          },
+          {
+            "name": "150"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          {
+            "name": "joker"
+          },
+          {
+            "name": "carbon"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6283810",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "100"
+          },
+          {
+            "optionName": "Color",
+            "name": "joker"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.18,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 8
+          }
+        ]
+      },
+      {
+        "sku": "SQ4259113",
+        "price": "100.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "130"
+          },
+          {
+            "optionName": "Color",
+            "name": "carbon"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 13
+          }
+        ]
+      },
+      {
+        "sku": "SQ9777578",
+        "price": "110.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "150"
+          },
+          {
+            "optionName": "Color",
+            "name": "carbon"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.22,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 14
+          }
+        ]
+      },
+      {
+        "sku": "SQ8530309",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "100"
+          },
+          {
+            "optionName": "Color",
+            "name": "carbon"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ3206746",
+        "price": "100.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "130"
+          },
+          {
+            "optionName": "Color",
+            "name": "joker"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ3321847",
+        "price": "110.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Size",
+            "name": "150"
+          },
+          {
+            "optionName": "Color",
+            "name": "joker"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2466bcd7-05ef-46c0-ae89-f20d6158bf3a/IMG_20260908_131010.jpg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e4bb3d12-d060-4554-90a0-bdf4fe31fbab/IMG_20260908_131040.jpg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e4bb3d12-d060-4554-90a0-bdf4fe31fbab/IMG_20260908_131040.jpg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper"
+      }
+    ]
+  }
+}

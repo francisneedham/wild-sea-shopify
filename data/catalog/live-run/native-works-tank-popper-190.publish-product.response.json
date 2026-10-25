@@ -1,0 +1,24 @@
+{
+  "publishablePublish": {
+    "publishable": {
+      "id": "gid://shopify/Product/15439427862641",
+      "resourcePublicationsV2": {
+        "nodes": [
+          {
+            "isPublished": true,
+            "publication": {
+              "id": "gid://shopify/Publication/178400395377"
+            }
+          },
+          {
+            "isPublished": true,
+            "publication": {
+              "id": "gid://shopify/Publication/178400428145"
+            }
+          }
+        ]
+      }
+    },
+    "userErrors": []
+  }
+}

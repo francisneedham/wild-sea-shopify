@@ -1,0 +1,82 @@
+{
+  "input": {
+    "handle": "truth-white-insight-611-12",
+    "title": "Truth White Insight 611 12",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Patible with 100 kg over bluefin tuna and large yellowfin tuna.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">1pc rod with further enhanced breaking strength, short length model aim for over 100kg in the Strait!</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">It enables you to fight for a long time while continuing to give pressure and long-distance castability required for outstanding line omission and invitation.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Guideline for models to be used by size of tuna～30km OceanSprinter844 / 856 WhiteInsight828～50km OceanSprinter856/838/8110 WhiteInsight828/801050 km ~ WhiteInsight828/8010/7210/7610/61112Torrent waters: WhiteInsight 7210/7610/61112</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">·\tLength: 6ft 11inch（2m11㎝）</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">·\tWeight: 475g</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">·\tTip Dia. / Butt Dia. : 3.2mm / 14mm</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">·\tPe: PE8-12</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">·\tLure: 80-250g</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">·\tGuide: All Stainless PMNST16/PMNSG16/PMNSG20/PMNSG25/PMNSG30/PMNSG40</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The rear grip is set to be about 20mm longer than the Ocean Sprinter 838/8110, and it is also compatible with style belts that specialize in long-term fights with tuna. It is about 505mm from the reel foot center to the end. Recommended size Yellowfin tuna 100 kg~Yellowfin tuna compatible models (reference)</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">·\t~ 30 km : OceanSprinter844 / 856 WhiteInsight828</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">·\t~ 50 km : OceanSprinter856 / 838 / 8110 WhiteInsight828 / 8010</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">·\t50 kg ~ : WhiteInsight828 / 8010 / 7210 / 7610 / 61112Proto</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">·\tTorrent sea area: WhiteInsight 7210/7610/61112 Proto</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">(It does not mean that WI828 is stronger than OS838, but it is a guideline based on the balance between longer fight time and drag tension)</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"> </p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "truth",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ4645226",
+        "price": "800.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 6
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c264a4ae-4039-4148-b6c0-db9b0b9a176a/Truth+White+Insight+611+12.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 611 12"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a455e7f9-2043-4123-a1c2-bb930eec990c/Truth+White+Insight+611+122.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 611 12"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2eb86532-d735-436a-b7c6-87f7ad9c36ed/Tuna+France+%2811+of+42%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 611 12"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/28c10bed-8b1c-4e5e-b031-349f8d34180d/Tuna+France+%2831+of+42%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 611 12"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/63b0fd04-45f7-4c07-ae20-4f3e98584f90/Tuna+France+%284+of+42%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth White Insight 611 12"
+      }
+    ]
+  }
+}

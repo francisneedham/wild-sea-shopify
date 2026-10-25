@@ -1,0 +1,9 @@
+{
+  "id": "gid://shopify/MetaobjectDefinition/37090918513",
+  "definition": {
+    "fieldDefinitions": [
+      { "create": { "key": "booking_url", "name": "Booking URL", "type": "url", "description": "Where \"Book\" buttons go (enquiry page, form or mailto:)." } },
+      { "create": { "key": "brochure_url", "name": "Brochure URL", "type": "url", "description": "Brochure PDF or request link." } }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/511515983985",
+      "namespace": "specs",
+      "key": "rod_pe_supported",
+      "name": "Rod supported PE ratings",
+      "type": {
+        "name": "list.single_line_text_field"
+      },
+      "ownerType": "PRODUCTVARIANT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "handle": {
+    "type": "wildsea_color_family",
+    "handle": "silver"
+  },
+  "metaobject": {
+    "fields": [
+      {
+        "key": "label",
+        "value": "Silver"
+      },
+      {
+        "key": "swatch_color",
+        "value": "#B8C1C7"
+      }
+    ]
+  }
+}

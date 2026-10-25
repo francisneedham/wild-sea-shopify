@@ -1,0 +1,33 @@
+{% doc %}
+  Large centred statement on a dark band (legacy .big-quote).
+  @example
+  Add between editorial sections in the Theme Editor.
+{% enddoc %}
+{% render 'destination-styles' %}
+
+<div class="page-quote">
+  <div class="destination-wrap">
+    <blockquote data-reveal="title">{{ section.settings.quote | escape | newline_to_br }}</blockquote>
+    {% if section.settings.caption != blank %}<p class="page-quote__caption">{{ section.settings.caption | escape }}</p>{% endif %}
+  </div>
+</div>
+
+{% stylesheet %}
+  .page-quote { padding-block: 110px; background: #102c2d; color: #dfc89e; text-align: center; }
+  .page-quote blockquote { max-width: 1100px; margin: 0 auto 34px; font-family: var(--font-heading-family); font-size: clamp(52px, 7.4vw, 112px); font-weight: 600; line-height: .92; letter-spacing: -.015em; text-transform: uppercase; text-wrap: balance; }
+  /* Caption: scoped class, because the title reveal wraps lines in spans. */
+  .page-quote__caption { display: inline-flex; align-items: center; gap: 18px; margin: 0; font-size: var(--text-label); font-weight: 600; letter-spacing: .23em; text-transform: uppercase; color: #c0ccc0; }
+  .page-quote__caption::before, .page-quote__caption::after { content: ''; width: 40px; height: 1px; background: currentColor; opacity: .6; }
+  @media (max-width: 760px) { .page-quote { padding-block: 70px; } .page-quote blockquote { font-size: 48px; margin-bottom: 26px; } .page-quote__caption { gap: 12px; } .page-quote__caption::before, .page-quote__caption::after { width: 24px; } }
+{% endstylesheet %}
+
+{% schema %}
+{
+  "name": "Statement",
+  "settings": [
+    { "type": "textarea", "id": "quote", "label": "Statement" },
+    { "type": "text", "id": "caption", "label": "Caption" }
+  ],
+  "presets": [{ "name": "Statement" }]
+}
+{% endschema %}

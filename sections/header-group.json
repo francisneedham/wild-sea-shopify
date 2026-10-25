@@ -13,7 +13,7 @@
   "sections": {
     "header": {
       "type": "header",
-      "settings": {}
+      "settings": { "announcement_link": "/pages/destinations" }
     }
   },
   "order": [

@@ -21,5 +21,11 @@
     "lint:fix": "eslint . --fix",
     "theme-check": "shopify theme check",
     "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "embla-carousel": "^8.6.0",
+    "gsap": "3.13.0",
+    "lenis": "^1.3.27",
+    "lucide": "^1.61.0"
   }
 }

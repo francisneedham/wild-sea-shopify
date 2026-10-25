@@ -1,0 +1,183 @@
+{
+  "input": {
+    "handle": "woodream-akiya-200",
+    "title": "Woodream Akiya 200",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>A floating pencil bait inspired by sardines called tuba in Sagami Bay.&nbsp;A timeless body, durability as fishing gear, and hidden possibilities.&nbsp;Professional tools may be difficult.&nbsp;However, professional tools can become the ultimate tool depending on the angler, and have the potential to respond to the user’s intentions. </span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>A project started with genuine fish lovers in search of fishing results.&nbsp;When the dna of a fisherman and the soul of an angler are fused, Akiya becomes an evolved lure.&nbsp;We are particular about&nbsp;handmade in japan, just as japanese fishermen individually create original items with their own hands.</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>200 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 97</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "fishing lures",
+      "saltwater lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "woodream lures",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "WineBack"
+          },
+          {
+            "name": "BlueBack"
+          },
+          {
+            "name": "GreenBack"
+          },
+          {
+            "name": "Matte Red Gold"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6562399",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "WineBack"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.16,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ7648304",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "BlueBack"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.16,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7143061",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "GreenBack"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.16,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "sku": "SQ3143650",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Matte Red Gold"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.16,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 4
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/09d51594-8675-457f-9fb4-6ff9870e7672/akiya+200+matte.jpg",
+        "contentType": "IMAGE",
+        "alt": "Woodream Akiya 200"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/3f7d15f0-1d47-4c6b-a8e0-e07ad4aab94c/Woodream+Akiya+200+wineback.jpg",
+        "contentType": "IMAGE",
+        "alt": "Woodream Akiya 200"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e6324e62-3d94-4926-aed8-de4bc9f6267e/Woodream+Akiya+200+bluecack.jpg",
+        "contentType": "IMAGE",
+        "alt": "Woodream Akiya 200"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f9130f41-33cc-46e5-a547-09d1eccd1a3e/Woodream+Akiya+200+greenback.jpg",
+        "contentType": "IMAGE",
+        "alt": "Woodream Akiya 200"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/5d81de08-32b9-46bd-b081-57fffd1f8230/IMG_20260513_231527_61599877865094.jpg",
+        "contentType": "IMAGE",
+        "alt": "Woodream Akiya 200"
+      }
+    ]
+  }
+}

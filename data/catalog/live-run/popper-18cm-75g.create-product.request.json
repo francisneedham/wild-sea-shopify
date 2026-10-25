@@ -1,0 +1,245 @@
+{
+  "input": {
+    "handle": "popper-18cm-75g",
+    "title": "Glide Popper 18cm - 75g",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\">18 cm and 75g of weight. It is a small mouth popper that you can retrieve quickly with repeated splashes but if necessary make a nice sound if moved with traditional action on the spot. I designed this popper thinking about rooster or big leerfish or gt that in places with a lot of pressure react badly to the deep bursts of some poppers. obviously it has a weight and a measure that is perfect for tuna. enjoy!</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Glide",
+      "18cm",
+      "75g",
+      "legacy-catalog-import",
+      "legacy-category-lures"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Mahi"
+          },
+          {
+            "name": "Banana"
+          },
+          {
+            "name": "Black"
+          },
+          {
+            "name": "Coral"
+          },
+          {
+            "name": "Shark"
+          },
+          {
+            "name": "YouPop"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ2806036",
+        "price": "45.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Mahi"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1778175",
+        "price": "45.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Banana"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2816028",
+        "price": "45.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Black"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4988796",
+        "price": "45.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Coral"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2905866",
+        "price": "45.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Shark"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8157867",
+        "price": "45.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "YouPop"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/79885b88-ece6-4d15-afbb-2861b45c9dad/Glide-Popper-18cm-75g-mahi.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 18cm - 75g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/719dbf50-9902-42e7-9a26-108731001a6d/Glide-Popper-18cm-75g-banana.jpg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 18cm - 75g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ac0e12d7-3187-477a-9445-669c39a18d92/Glide-Popper-18cm-75g-black.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 18cm - 75g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/d6040fab-eab3-4e8c-b5de-c0fa2df24f89/Glide-Popper-18cm-75g-coral.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 18cm - 75g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9814ddbf-3d02-4662-8328-810ef8f33aa7/Glide-Popper-18cm-75g-shark.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 18cm - 75g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/cd14c4a4-3d0b-4817-91ea-e3580f4ca58c/Glide-Popper-18cm-75g-youpop.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Popper 18cm - 75g"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

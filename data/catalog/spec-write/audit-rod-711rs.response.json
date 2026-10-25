@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    {
+      "id": "gid://shopify/Product/15439543926897",
+      "handle": "truth-oceansprinter-711-rs",
+      "length": {
+        "value": "241.3"
+      },
+      "lengthLabel": {
+        "value": "7'11\""
+      },
+      "peMin": null,
+      "peMax": {
+        "value": "8.0"
+      },
+      "castMin": {
+        "value": "100"
+      },
+      "castMax": {
+        "value": "180"
+      },
+      "recommendedDrag": null,
+      "maxDrag": null,
+      "madeIn": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{% doc %}
+  Destination section heading row (legacy .section-top): eyebrow + title on the left, intro or link on the right.
+
+  @param {string} [kicker] - Eyebrow text.
+  @param {string} heading - Title; line breaks become <br>.
+  @param {string} [intro] - Short intro shown on the right.
+  @param {string} [link_label] - Text link label (right side).
+  @param {string} [link] - Text link URL.
+  @example
+  {% render 'destination-top', kicker: section.settings.kicker, heading: section.settings.heading, intro: section.settings.intro %}
+{% enddoc %}
+
+<div class="destination-top">
+  <div>
+    {% if kicker != blank %}<p class="destination-eyebrow">{{ kicker | escape }}</p>{% endif %}
+    <h2 class="destination-h2" data-reveal="title">{{ heading | escape | newline_to_br }}</h2>
+  </div>
+  {% if intro != blank %}<p class="destination-top__intro">{{ intro | escape }}</p>{% endif %}
+  {% if link_label != blank and link != blank %}
+    {% render 'destination-button', label: link_label, link: link, style: 'text' %}
+  {% endif %}
+</div>

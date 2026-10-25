@@ -1,0 +1,1236 @@
+{
+  "nodes": [
+    {
+      "id": "gid://shopify/Product/15439416033393",
+      "handle": "full-hand-onikiri-100h",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650213232753",
+        "value": "5.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650213199985",
+        "value": "8.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650213167217",
+        "value": "70"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650213134449",
+        "value": "120"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841316356209",
+            "sku": "SQ3239372",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439416361073",
+      "handle": "full-hands-custom-works-kusanagi-p78hh",
+      "productType": "Rods",
+      "peMin": null,
+      "peMax": null,
+      "castMin": null,
+      "castMax": null,
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650213003377",
+        "value": "17.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841317568625",
+            "sku": "SQ5054748",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439419408497",
+      "handle": "jumprize-monster-absorber-82-8",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650212872305",
+        "value": "6.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650212839537",
+        "value": "10.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650212806769",
+        "value": "60"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650212774001",
+        "value": "180"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650212741233",
+        "value": "18.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841333493873",
+            "sku": "SQ5732665",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439420981361",
+      "handle": "mc-works-2023-explosion-817hf-special-model",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650212642929",
+        "value": "6.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650212610161",
+        "value": "10.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650212577393",
+        "value": "100"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650212544625",
+        "value": "200"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650215886961",
+        "value": "18.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841343717489",
+            "sku": "SQ6723507",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439421243505",
+      "handle": "mc-works-804-hr",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650215755889",
+        "value": "3.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650215723121",
+        "value": "5.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650215690353",
+        "value": "40"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650215657585",
+        "value": "80"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650215624817",
+        "value": "8.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841345290353",
+            "sku": "SQ4642026",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439421472881",
+      "handle": "mc-works-black-chrome-bc120htx",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650215493745",
+        "value": "0.8"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650215460977",
+        "value": "2.5"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650215428209",
+        "value": "14"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650215395441",
+        "value": "40"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841346994289",
+            "sku": "SQ0124327",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439421735025",
+      "handle": "mc-works-explosion-817hf",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650215264369",
+        "value": "6.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650215231601",
+        "value": "10.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650215198833",
+        "value": "100"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650215166065",
+        "value": "200"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650215133297",
+        "value": "18.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841349189745",
+            "sku": "SQ8456306",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439422062705",
+      "handle": "mc-works-explosion-818-ctr-sp",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650218442865",
+        "value": "8.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650218410097",
+        "value": "12.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650218377329",
+        "value": "150"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650218344561",
+        "value": "300"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650218311793",
+        "value": "20.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841351057521",
+            "sku": "SQ7991571",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439422357617",
+      "handle": "mc-works-explosion-835ctr-standard-model",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650218180721",
+        "value": "4.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650218147953",
+        "value": "6.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650218115185",
+        "value": "40"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650218082417",
+        "value": "100"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650218049649",
+        "value": "12.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841352859761",
+            "sku": "SQ7276269",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439422685297",
+      "handle": "mc-works-explosion-865hf",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650217918577",
+        "value": "4.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650217885809",
+        "value": "6.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650217853041",
+        "value": "60"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650217820273",
+        "value": "110"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650217787505",
+        "value": "12.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841354170481",
+            "sku": "SQ8944563",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439423012977",
+      "handle": "mc-works-explosion-full-contact-843ctr",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650220474481",
+        "value": "2.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650220441713",
+        "value": "4.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650220408945",
+        "value": "20"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650220376177",
+        "value": "60"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650220343409",
+        "value": "6.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841355186289",
+            "sku": "SQ2026432",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439423307889",
+      "handle": "mc-works-raging-bull-104xxstd",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650220245105",
+        "value": "8.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650220212337",
+        "value": "10.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650220179569",
+        "value": "100"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650220146801",
+        "value": "200"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650220114033",
+        "value": "13.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841355841649",
+            "sku": "SQ6357972",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439423602801",
+      "handle": "mc-works-raging-bull-93xx-trident",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650220015729",
+        "value": "8.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650219982961",
+        "value": "10.0"
+      },
+      "castMin": null,
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650219950193",
+        "value": "200"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650219917425",
+        "value": "13.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841356988529",
+            "sku": "SQ0790696",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439423864945",
+      "handle": "mc-works-rod-cb-98xs2-std",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650219884657",
+        "value": "6.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650219851889",
+        "value": "8.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650219819121",
+        "value": "80"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650219786353",
+        "value": "150"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650222047345",
+        "value": "11.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841357676657",
+            "sku": "SQ9546515",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439424192625",
+      "handle": "mc-works-rod-explosion-807-ctr-standard-model",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650221916273",
+        "value": "6.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650221883505",
+        "value": "10.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650221850737",
+        "value": "80"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650221817969",
+        "value": "150"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650221785201",
+        "value": "18.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841358758001",
+            "sku": "SQ8538348",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439424815217",
+      "handle": "mc-works-slow-hand-all-that-tuna-sh729tsz",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650221654129",
+        "value": "10.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650221621361",
+        "value": "12.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650221588593",
+        "value": "150"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650221555825",
+        "value": "250"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650221523057",
+        "value": "25.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841360658545",
+            "sku": "SQ4295003",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439425044593",
+      "handle": "mc-works-x-fish-trippers-village-barbaro-788",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650221424753",
+        "value": "8.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650221391985",
+        "value": "12.0"
+      },
+      "castMin": null,
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650221359217",
+        "value": "300"
+      },
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650221326449",
+        "value": "20.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841361903729",
+            "sku": "SQ0014654",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439425437809",
+      "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+      "productType": "Rods",
+      "peMin": null,
+      "peMax": null,
+      "castMin": null,
+      "castMax": null,
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841364131953",
+            "sku": "SQ8022087",
+            "peMin": null,
+            "peMax": {
+              "value": "12.0"
+            },
+            "castMin": null,
+            "castMax": {
+              "value": "250"
+            },
+            "dragMax": {
+              "value": "25.0"
+            },
+            "supportedPe": null,
+            "castingWeight": null
+          },
+          {
+            "id": "gid://shopify/ProductVariant/67841364164721",
+            "sku": "SQ3711317",
+            "peMin": null,
+            "peMax": {
+              "value": "8.0"
+            },
+            "castMin": null,
+            "castMax": {
+              "value": "180"
+            },
+            "dragMax": {
+              "value": "15.0"
+            },
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439428976753",
+      "handle": "rodcom-straight-shore-ss-10015-sf047y",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650223784049",
+        "value": "5.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650223751281",
+        "value": "8.0"
+      },
+      "castMin": null,
+      "castMax": null,
+      "dragMax": {
+        "id": "gid://shopify/Metafield/191650223718513",
+        "value": "10.0"
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841381007473",
+            "sku": "SQ4320435",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439430844529",
+      "handle": "truth-ocean-sprinter-7510-standard-black-model",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650223587441",
+        "value": "8.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650223554673",
+        "value": "10.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650223521905",
+        "value": "100"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650223489137",
+        "value": "250"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67841389199473",
+            "sku": "SQ4549114",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439543631985",
+      "handle": "truth-ocean-sprinter-8110",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650223358065",
+        "value": "8.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650223325297",
+        "value": "10.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650223292529",
+        "value": "100"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650223259761",
+        "value": "270"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67842262237297",
+            "sku": "SQ9772854",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439543763057",
+      "handle": "truth-ocean-sprinter-838",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650223161457",
+        "value": "6.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650223128689",
+        "value": "8.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650223095921",
+        "value": "80"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650225684593",
+        "value": "220"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67842262564977",
+            "sku": "SQ3714593",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439543926897",
+      "handle": "truth-oceansprinter-711-rs",
+      "productType": "Rods",
+      "peMin": null,
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650286633073",
+        "value": "8.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650286600305",
+        "value": "100"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650286567537",
+        "value": "180"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67842262990961",
+            "sku": "SQ2879178",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439544057969",
+      "handle": "truth-oceansprinter-856",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650225651825",
+        "value": "5.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650225619057",
+        "value": "6.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650225586289",
+        "value": "30"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650225553521",
+        "value": "130"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67842263384177",
+            "sku": "SQ4908688",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439544156273",
+      "handle": "truth-white-insight-611-12",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650225455217",
+        "value": "8.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650225422449",
+        "value": "12.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650225389681",
+        "value": "80"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650225356913",
+        "value": "250"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67842263908465",
+            "sku": "SQ4645226",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439544287345",
+      "handle": "truth-white-insight-7210-custom-red",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650225258609",
+        "value": "8.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650225225841",
+        "value": "10.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650225193073",
+        "value": "60"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650225160305",
+        "value": "250"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67842264301681",
+            "sku": "SQ4827700",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439544516721",
+      "handle": "truth-white-insight-7210-standard-black-model",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650225062001",
+        "value": "8.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650225029233",
+        "value": "10.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650224996465",
+        "value": "60"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650224963697",
+        "value": "250"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67842265612401",
+            "sku": "SQ3061707",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439544647793",
+      "handle": "truth-white-insight-7415",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650227028081",
+        "value": "12.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650226995313",
+        "value": "15.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650226962545",
+        "value": "70"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650226929777",
+        "value": "250"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67842266071153",
+            "sku": "SQ0498986",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439544680561",
+      "handle": "truth-white-insight-7610",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191649992573041",
+        "value": "8.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191649992540273",
+        "value": "10.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191649992507505",
+        "value": "60"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191649992474737",
+        "value": "250"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67842266103921",
+            "sku": "SQ4564857",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439544877169",
+      "handle": "truth-white-insight-828",
+      "productType": "Rods",
+      "peMin": {
+        "id": "gid://shopify/Metafield/191650226765937",
+        "value": "6.0"
+      },
+      "peMax": {
+        "id": "gid://shopify/Metafield/191650226733169",
+        "value": "8.0"
+      },
+      "castMin": {
+        "id": "gid://shopify/Metafield/191650226700401",
+        "value": "30"
+      },
+      "castMax": {
+        "id": "gid://shopify/Metafield/191650226667633",
+        "value": "200"
+      },
+      "dragMax": null,
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/67842266693745",
+            "sku": "SQ4607428",
+            "peMin": null,
+            "peMax": null,
+            "castMin": null,
+            "castMax": null,
+            "dragMax": null,
+            "supportedPe": null,
+            "castingWeight": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false
+        }
+      }
+    }
+  ]
+}

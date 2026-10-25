@@ -1,0 +1,140 @@
+{
+  "input": {
+    "handle": "craftbait-gt3-130-gr",
+    "title": "Craftbait GT3 130 gr",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>One of those lures that produce a monster fish.</span><br /><span>Quality and durability is what makes Craft Bait stands for it is name, we highly recommend them to those who seeks that monster trophy fish!</span></p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Popper",
+      "tuna",
+      "gia",
+      "king",
+      "Craftbait",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-poppers",
+      "legacy-category-lures-floating"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Blacklame"
+          },
+          {
+            "name": "Blue Silver Stripe"
+          },
+          {
+            "name": "Green Pink"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ2495051",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Blacklame"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ6390907",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Blue Silver Stripe"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7486479",
+        "price": "80.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Green Pink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/49a88770-0a9e-4aba-b6e8-1ea99d16748e/img-20241227-wa0124.JPG",
+        "contentType": "IMAGE",
+        "alt": "Craftbait GT3 130 gr"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/42730dc3-9d07-4d64-adf2-bc7450688e56/img-20241227-wa0126.JPG",
+        "contentType": "IMAGE",
+        "alt": "Craftbait GT3 130 gr"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/61d381aa-7ad6-49a4-89b8-4fbe9351b319/img-20241227-wa0128.JPG",
+        "contentType": "IMAGE",
+        "alt": "Craftbait GT3 130 gr"
+      }
+    ]
+  }
+}

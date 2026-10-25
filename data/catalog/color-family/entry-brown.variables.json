@@ -1,0 +1,18 @@
+{
+  "handle": {
+    "type": "wildsea_color_family",
+    "handle": "brown"
+  },
+  "metaobject": {
+    "fields": [
+      {
+        "key": "label",
+        "value": "Brown"
+      },
+      {
+        "key": "swatch_color",
+        "value": "#8A5C39"
+      }
+    ]
+  }
+}

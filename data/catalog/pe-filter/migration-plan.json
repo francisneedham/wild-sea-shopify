@@ -1,0 +1,511 @@
+[
+  {
+    "handle": "full-hand-onikiri-100h",
+    "sku": "SQ3239372",
+    "variantId": "gid://shopify/ProductVariant/67841316356209",
+    "fields": {
+      "rod_pe_min": "5.0",
+      "rod_pe_max": "8.0",
+      "rod_cast_min_g": "70",
+      "rod_cast_max_g": "120",
+      "rod_pe_supported": [
+        "PE 5",
+        "PE 6",
+        "PE 8"
+      ],
+      "rod_casting_weight": "70–120 g"
+    }
+  },
+  {
+    "handle": "full-hands-custom-works-kusanagi-p78hh",
+    "sku": "SQ5054748",
+    "variantId": "gid://shopify/ProductVariant/67841317568625",
+    "fields": {
+      "rod_drag_max_kg": "17.0"
+    }
+  },
+  {
+    "handle": "jumprize-monster-absorber-82-8",
+    "sku": "SQ5732665",
+    "variantId": "gid://shopify/ProductVariant/67841333493873",
+    "fields": {
+      "rod_pe_min": "6.0",
+      "rod_pe_max": "10.0",
+      "rod_cast_min_g": "60",
+      "rod_cast_max_g": "180",
+      "rod_drag_max_kg": "18.0",
+      "rod_pe_supported": [
+        "PE 6",
+        "PE 8",
+        "PE 10"
+      ],
+      "rod_casting_weight": "60–180 g"
+    }
+  },
+  {
+    "handle": "mc-works-2023-explosion-817hf-special-model",
+    "sku": "SQ6723507",
+    "variantId": "gid://shopify/ProductVariant/67841343717489",
+    "fields": {
+      "rod_pe_min": "6.0",
+      "rod_pe_max": "10.0",
+      "rod_cast_min_g": "100",
+      "rod_cast_max_g": "200",
+      "rod_drag_max_kg": "18.0",
+      "rod_pe_supported": [
+        "PE 6",
+        "PE 8",
+        "PE 10"
+      ],
+      "rod_casting_weight": "100–200 g"
+    }
+  },
+  {
+    "handle": "mc-works-804-hr",
+    "sku": "SQ4642026",
+    "variantId": "gid://shopify/ProductVariant/67841345290353",
+    "fields": {
+      "rod_pe_min": "3.0",
+      "rod_pe_max": "5.0",
+      "rod_cast_min_g": "40",
+      "rod_cast_max_g": "80",
+      "rod_drag_max_kg": "8.0",
+      "rod_pe_supported": [
+        "PE 3",
+        "PE 4",
+        "PE 5"
+      ],
+      "rod_casting_weight": "40–80 g"
+    }
+  },
+  {
+    "handle": "mc-works-black-chrome-bc120htx",
+    "sku": "SQ0124327",
+    "variantId": "gid://shopify/ProductVariant/67841346994289",
+    "fields": {
+      "rod_pe_min": "0.8",
+      "rod_pe_max": "2.5",
+      "rod_cast_min_g": "14",
+      "rod_cast_max_g": "40",
+      "rod_pe_supported": [
+        "PE 0.8",
+        "PE 1",
+        "PE 1.5",
+        "PE 2",
+        "PE 2.5"
+      ],
+      "rod_casting_weight": "14–40 g"
+    }
+  },
+  {
+    "handle": "mc-works-explosion-817hf",
+    "sku": "SQ8456306",
+    "variantId": "gid://shopify/ProductVariant/67841349189745",
+    "fields": {
+      "rod_pe_min": "6.0",
+      "rod_pe_max": "10.0",
+      "rod_cast_min_g": "100",
+      "rod_cast_max_g": "200",
+      "rod_drag_max_kg": "18.0",
+      "rod_pe_supported": [
+        "PE 6",
+        "PE 8",
+        "PE 10"
+      ],
+      "rod_casting_weight": "100–200 g"
+    }
+  },
+  {
+    "handle": "mc-works-explosion-818-ctr-sp",
+    "sku": "SQ7991571",
+    "variantId": "gid://shopify/ProductVariant/67841351057521",
+    "fields": {
+      "rod_pe_min": "8.0",
+      "rod_pe_max": "12.0",
+      "rod_cast_min_g": "150",
+      "rod_cast_max_g": "300",
+      "rod_drag_max_kg": "20.0",
+      "rod_pe_supported": [
+        "PE 8",
+        "PE 10",
+        "PE 12"
+      ],
+      "rod_casting_weight": "150–300 g"
+    }
+  },
+  {
+    "handle": "mc-works-explosion-835ctr-standard-model",
+    "sku": "SQ7276269",
+    "variantId": "gid://shopify/ProductVariant/67841352859761",
+    "fields": {
+      "rod_pe_min": "4.0",
+      "rod_pe_max": "6.0",
+      "rod_cast_min_g": "40",
+      "rod_cast_max_g": "100",
+      "rod_drag_max_kg": "12.0",
+      "rod_pe_supported": [
+        "PE 4",
+        "PE 5",
+        "PE 6"
+      ],
+      "rod_casting_weight": "40–100 g"
+    }
+  },
+  {
+    "handle": "mc-works-explosion-865hf",
+    "sku": "SQ8944563",
+    "variantId": "gid://shopify/ProductVariant/67841354170481",
+    "fields": {
+      "rod_pe_min": "4.0",
+      "rod_pe_max": "6.0",
+      "rod_cast_min_g": "60",
+      "rod_cast_max_g": "110",
+      "rod_drag_max_kg": "12.0",
+      "rod_pe_supported": [
+        "PE 4",
+        "PE 5",
+        "PE 6"
+      ],
+      "rod_casting_weight": "60–110 g"
+    }
+  },
+  {
+    "handle": "mc-works-explosion-full-contact-843ctr",
+    "sku": "SQ2026432",
+    "variantId": "gid://shopify/ProductVariant/67841355186289",
+    "fields": {
+      "rod_pe_min": "2.0",
+      "rod_pe_max": "4.0",
+      "rod_cast_min_g": "20",
+      "rod_cast_max_g": "60",
+      "rod_drag_max_kg": "6.0",
+      "rod_pe_supported": [
+        "PE 2",
+        "PE 2.5",
+        "PE 3",
+        "PE 4"
+      ],
+      "rod_casting_weight": "20–60 g"
+    }
+  },
+  {
+    "handle": "mc-works-raging-bull-104xxstd",
+    "sku": "SQ6357972",
+    "variantId": "gid://shopify/ProductVariant/67841355841649",
+    "fields": {
+      "rod_pe_min": "8.0",
+      "rod_pe_max": "10.0",
+      "rod_cast_min_g": "100",
+      "rod_cast_max_g": "200",
+      "rod_drag_max_kg": "13.0",
+      "rod_pe_supported": [
+        "PE 8",
+        "PE 10"
+      ],
+      "rod_casting_weight": "100–200 g"
+    }
+  },
+  {
+    "handle": "mc-works-raging-bull-93xx-trident",
+    "sku": "SQ0790696",
+    "variantId": "gid://shopify/ProductVariant/67841356988529",
+    "fields": {
+      "rod_pe_min": "8.0",
+      "rod_pe_max": "10.0",
+      "rod_cast_max_g": "200",
+      "rod_drag_max_kg": "13.0",
+      "rod_pe_supported": [
+        "PE 8",
+        "PE 10"
+      ],
+      "rod_casting_weight": "≤200 g"
+    }
+  },
+  {
+    "handle": "mc-works-rod-cb-98xs2-std",
+    "sku": "SQ9546515",
+    "variantId": "gid://shopify/ProductVariant/67841357676657",
+    "fields": {
+      "rod_pe_min": "6.0",
+      "rod_pe_max": "8.0",
+      "rod_cast_min_g": "80",
+      "rod_cast_max_g": "150",
+      "rod_drag_max_kg": "11.0",
+      "rod_pe_supported": [
+        "PE 6",
+        "PE 8"
+      ],
+      "rod_casting_weight": "80–150 g"
+    }
+  },
+  {
+    "handle": "mc-works-rod-explosion-807-ctr-standard-model",
+    "sku": "SQ8538348",
+    "variantId": "gid://shopify/ProductVariant/67841358758001",
+    "fields": {
+      "rod_pe_min": "6.0",
+      "rod_pe_max": "10.0",
+      "rod_cast_min_g": "80",
+      "rod_cast_max_g": "150",
+      "rod_drag_max_kg": "18.0",
+      "rod_pe_supported": [
+        "PE 6",
+        "PE 8",
+        "PE 10"
+      ],
+      "rod_casting_weight": "80–150 g"
+    }
+  },
+  {
+    "handle": "mc-works-slow-hand-all-that-tuna-sh729tsz",
+    "sku": "SQ4295003",
+    "variantId": "gid://shopify/ProductVariant/67841360658545",
+    "fields": {
+      "rod_pe_min": "10.0",
+      "rod_pe_max": "12.0",
+      "rod_cast_min_g": "150",
+      "rod_cast_max_g": "250",
+      "rod_drag_max_kg": "25.0",
+      "rod_pe_supported": [
+        "PE 10",
+        "PE 12"
+      ],
+      "rod_casting_weight": "150–250 g"
+    }
+  },
+  {
+    "handle": "mc-works-x-fish-trippers-village-barbaro-788",
+    "sku": "SQ0014654",
+    "variantId": "gid://shopify/ProductVariant/67841361903729",
+    "fields": {
+      "rod_pe_min": "8.0",
+      "rod_pe_max": "12.0",
+      "rod_cast_max_g": "300",
+      "rod_drag_max_kg": "20.0",
+      "rod_pe_supported": [
+        "PE 8",
+        "PE 10",
+        "PE 12"
+      ],
+      "rod_casting_weight": "≤300 g"
+    }
+  },
+  {
+    "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+    "sku": "SQ8022087",
+    "variantId": "gid://shopify/ProductVariant/67841364131953",
+    "fields": {
+      "rod_pe_max": "12.0",
+      "rod_cast_max_g": "250",
+      "rod_drag_max_kg": "25.0",
+      "rod_pe_supported": [
+        "PE 12"
+      ],
+      "rod_casting_weight": "≤250 g"
+    }
+  },
+  {
+    "handle": "mc-works-x-fish-trippers-village-orquestra-759",
+    "sku": "SQ3711317",
+    "variantId": "gid://shopify/ProductVariant/67841364164721",
+    "fields": {
+      "rod_pe_max": "8.0",
+      "rod_cast_max_g": "180",
+      "rod_drag_max_kg": "15.0",
+      "rod_pe_supported": [
+        "PE 8"
+      ],
+      "rod_casting_weight": "≤180 g"
+    }
+  },
+  {
+    "handle": "rodcom-straight-shore-ss-10015-sf047y",
+    "sku": "SQ4320435",
+    "variantId": "gid://shopify/ProductVariant/67841381007473",
+    "fields": {
+      "rod_pe_min": "5.0",
+      "rod_pe_max": "8.0",
+      "rod_drag_max_kg": "10.0",
+      "rod_pe_supported": [
+        "PE 5",
+        "PE 6",
+        "PE 8"
+      ]
+    }
+  },
+  {
+    "handle": "truth-ocean-sprinter-7510-standard-black-model",
+    "sku": "SQ4549114",
+    "variantId": "gid://shopify/ProductVariant/67841389199473",
+    "fields": {
+      "rod_pe_min": "8.0",
+      "rod_pe_max": "10.0",
+      "rod_cast_min_g": "100",
+      "rod_cast_max_g": "250",
+      "rod_pe_supported": [
+        "PE 8",
+        "PE 10"
+      ],
+      "rod_casting_weight": "100–250 g"
+    }
+  },
+  {
+    "handle": "truth-ocean-sprinter-8110",
+    "sku": "SQ9772854",
+    "variantId": "gid://shopify/ProductVariant/67842262237297",
+    "fields": {
+      "rod_pe_min": "8.0",
+      "rod_pe_max": "10.0",
+      "rod_cast_min_g": "100",
+      "rod_cast_max_g": "270",
+      "rod_pe_supported": [
+        "PE 8",
+        "PE 10"
+      ],
+      "rod_casting_weight": "100–270 g"
+    }
+  },
+  {
+    "handle": "truth-ocean-sprinter-838",
+    "sku": "SQ3714593",
+    "variantId": "gid://shopify/ProductVariant/67842262564977",
+    "fields": {
+      "rod_pe_min": "6.0",
+      "rod_pe_max": "8.0",
+      "rod_cast_min_g": "80",
+      "rod_cast_max_g": "220",
+      "rod_pe_supported": [
+        "PE 6",
+        "PE 8"
+      ],
+      "rod_casting_weight": "80–220 g"
+    }
+  },
+  {
+    "handle": "truth-oceansprinter-711-rs",
+    "sku": "SQ2879178",
+    "variantId": "gid://shopify/ProductVariant/67842262990961",
+    "fields": {
+      "rod_pe_max": "8.0",
+      "rod_cast_min_g": "100",
+      "rod_cast_max_g": "180",
+      "rod_pe_supported": [
+        "PE 8"
+      ],
+      "rod_casting_weight": "100–180 g"
+    }
+  },
+  {
+    "handle": "truth-oceansprinter-856",
+    "sku": "SQ4908688",
+    "variantId": "gid://shopify/ProductVariant/67842263384177",
+    "fields": {
+      "rod_pe_min": "5.0",
+      "rod_pe_max": "6.0",
+      "rod_cast_min_g": "30",
+      "rod_cast_max_g": "130",
+      "rod_pe_supported": [
+        "PE 5",
+        "PE 6"
+      ],
+      "rod_casting_weight": "30–130 g"
+    }
+  },
+  {
+    "handle": "truth-white-insight-611-12",
+    "sku": "SQ4645226",
+    "variantId": "gid://shopify/ProductVariant/67842263908465",
+    "fields": {
+      "rod_pe_min": "8.0",
+      "rod_pe_max": "12.0",
+      "rod_cast_min_g": "80",
+      "rod_cast_max_g": "250",
+      "rod_pe_supported": [
+        "PE 8",
+        "PE 10",
+        "PE 12"
+      ],
+      "rod_casting_weight": "80–250 g"
+    }
+  },
+  {
+    "handle": "truth-white-insight-7210-custom-red",
+    "sku": "SQ4827700",
+    "variantId": "gid://shopify/ProductVariant/67842264301681",
+    "fields": {
+      "rod_pe_min": "8.0",
+      "rod_pe_max": "10.0",
+      "rod_cast_min_g": "60",
+      "rod_cast_max_g": "250",
+      "rod_pe_supported": [
+        "PE 8",
+        "PE 10"
+      ],
+      "rod_casting_weight": "60–250 g"
+    }
+  },
+  {
+    "handle": "truth-white-insight-7210-standard-black-model",
+    "sku": "SQ3061707",
+    "variantId": "gid://shopify/ProductVariant/67842265612401",
+    "fields": {
+      "rod_pe_min": "8.0",
+      "rod_pe_max": "10.0",
+      "rod_cast_min_g": "60",
+      "rod_cast_max_g": "250",
+      "rod_pe_supported": [
+        "PE 8",
+        "PE 10"
+      ],
+      "rod_casting_weight": "60–250 g"
+    }
+  },
+  {
+    "handle": "truth-white-insight-7415",
+    "sku": "SQ0498986",
+    "variantId": "gid://shopify/ProductVariant/67842266071153",
+    "fields": {
+      "rod_pe_min": "12.0",
+      "rod_pe_max": "15.0",
+      "rod_cast_min_g": "70",
+      "rod_cast_max_g": "250",
+      "rod_pe_supported": [
+        "PE 12",
+        "PE 15"
+      ],
+      "rod_casting_weight": "70–250 g"
+    }
+  },
+  {
+    "handle": "truth-white-insight-7610",
+    "sku": "SQ4564857",
+    "variantId": "gid://shopify/ProductVariant/67842266103921",
+    "fields": {
+      "rod_pe_min": "8.0",
+      "rod_pe_max": "10.0",
+      "rod_cast_min_g": "60",
+      "rod_cast_max_g": "250",
+      "rod_pe_supported": [
+        "PE 8",
+        "PE 10"
+      ],
+      "rod_casting_weight": "60–250 g"
+    }
+  },
+  {
+    "handle": "truth-white-insight-828",
+    "sku": "SQ4607428",
+    "variantId": "gid://shopify/ProductVariant/67842266693745",
+    "fields": {
+      "rod_pe_min": "6.0",
+      "rod_pe_max": "8.0",
+      "rod_cast_min_g": "30",
+      "rod_cast_max_g": "200",
+      "rod_pe_supported": [
+        "PE 6",
+        "PE 8"
+      ],
+      "rod_casting_weight": "30–200 g"
+    }
+  }
+]

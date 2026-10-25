@@ -1,0 +1,84 @@
+{
+  "input": {
+    "handle": "mc-works-2023-explosion-817hf-special-model",
+    "title": "MC Works 2023 Explosion 817HF Special Model",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The MC WORKS Explosion series incorporates a medium elastic multi-ply structure enable a rod which is light, responsive and has a powerful backbone. Ideal for casting stickbaits and diving pencils, this series is designed for kingfish and tuna anglers.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>With a higher PE rating and wide casting range, the 817HF is the perfect model for anglers seeking a powerful rod to handle monstrous kingfish and GT’s. The blank enables a comfortable yet powerful fight with an ease of manoeuvrability. The rod will swim lures accurately in addition to superior casting and control.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Handmade in Japan</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length: 8'1 ”</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Line: PE # 6-10</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Cast: 100-200G</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Drag max: 18KG</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Guide: Titanium Hybrid PMNSG + KWSG guide</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Code: #2304EXP817HFSP</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Colourway: Black x titanium pin stripes &amp; pewter wrapping (butt section) &amp; gunmetal</span></p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "stickbaits",
+      "tuna rod",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6723507",
+        "price": "650.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/fa3c9b22-39b6-43f7-8a86-c7e7daaf5d19/Snimka%2Bzaslona%2B2025-01-21%2B122607.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works 2023 Explosion 817HF Special Model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ee184515-277d-4423-afd7-805a44aec4c7/Snimka%2Bzaslona%2B2025-01-21%2B122944.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works 2023 Explosion 817HF Special Model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/a93b78f4-ce61-4624-a064-db1884ebf32d/Snimka%2Bzaslona%2B2025-01-21%2B123014.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works 2023 Explosion 817HF Special Model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/7d7f2a49-e751-49aa-aedc-8dee97077555/A7402845-Editsssdsd-2+%283%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works 2023 Explosion 817HF Special Model"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9f2bcb67-13e0-4c53-8a86-ec8697204253/A7402848-Editsssdsd-2+%283%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works 2023 Explosion 817HF Special Model"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

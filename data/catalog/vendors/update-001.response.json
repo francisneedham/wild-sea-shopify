@@ -1,0 +1,82 @@
+{
+  "v0": {
+    "product": {
+      "id": "gid://shopify/Product/15439151366257",
+      "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+      "vendor": "Atoll"
+    },
+    "userErrors": []
+  },
+  "v1": {
+    "product": {
+      "id": "gid://shopify/Product/15439412134001",
+      "handle": "atlantis-flapper-170f",
+      "vendor": "Atlantis"
+    },
+    "userErrors": []
+  },
+  "v2": {
+    "product": {
+      "id": "gid://shopify/Product/15439412363377",
+      "handle": "atlantis-funky-soda-170-85-gr",
+      "vendor": "Atlantis"
+    },
+    "userErrors": []
+  },
+  "v3": {
+    "product": {
+      "id": "gid://shopify/Product/15439412592753",
+      "handle": "atoll-giulia",
+      "vendor": "Atoll"
+    },
+    "userErrors": []
+  },
+  "v4": {
+    "product": {
+      "id": "gid://shopify/Product/15439412723825",
+      "handle": "atoll-giulia-plastic",
+      "vendor": "Atoll"
+    },
+    "userErrors": []
+  },
+  "v5": {
+    "product": {
+      "id": "gid://shopify/Product/15439412822129",
+      "handle": "atoll-misao",
+      "vendor": "Atoll"
+    },
+    "userErrors": []
+  },
+  "v6": {
+    "product": {
+      "id": "gid://shopify/Product/15439413051505",
+      "handle": "cb-one-rudolf-260",
+      "vendor": "CB One"
+    },
+    "userErrors": []
+  },
+  "v7": {
+    "product": {
+      "id": "gid://shopify/Product/15439413248113",
+      "handle": "cb-one-ryan-230",
+      "vendor": "CB One"
+    },
+    "userErrors": []
+  },
+  "v8": {
+    "product": {
+      "id": "gid://shopify/Product/15439413477489",
+      "handle": "cb-one-zorro-200",
+      "vendor": "CB One"
+    },
+    "userErrors": []
+  },
+  "v9": {
+    "product": {
+      "id": "gid://shopify/Product/15439413674097",
+      "handle": "craftbait-gt3-130-gr",
+      "vendor": "Craftbait"
+    },
+    "userErrors": []
+  }
+}

@@ -1,0 +1,5 @@
+query AuditVendors($ids: [ID!]!) {
+  nodes(ids: $ids) {
+    ... on Product { id handle title vendor }
+  }
+}

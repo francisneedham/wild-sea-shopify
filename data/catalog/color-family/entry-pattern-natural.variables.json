@@ -1,0 +1,14 @@
+{
+  "handle": {
+    "type": "wildsea_color_family",
+    "handle": "pattern-natural"
+  },
+  "metaobject": {
+    "fields": [
+      {
+        "key": "label",
+        "value": "Pattern / Natural"
+      }
+    ]
+  }
+}

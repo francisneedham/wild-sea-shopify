@@ -1,0 +1,382 @@
+{
+  "nodes": [
+    {
+      "id": "gid://shopify/Product/15439416033393",
+      "handle": "full-hand-onikiri-100h",
+      "length": {
+        "value": "300.0"
+      },
+      "lengthLabel": {
+        "value": "3.00 m"
+      },
+      "peMin": {
+        "value": "5.0"
+      },
+      "peMax": {
+        "value": "8.0"
+      },
+      "castMin": {
+        "value": "70"
+      },
+      "castMax": {
+        "value": "120"
+      },
+      "recommendedDrag": null,
+      "maxDrag": null,
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439416361073",
+      "handle": "full-hands-custom-works-kusanagi-p78hh",
+      "length": {
+        "value": "233.68"
+      },
+      "lengthLabel": {
+        "value": "7'8\""
+      },
+      "peMin": null,
+      "peMax": null,
+      "castMin": null,
+      "castMax": null,
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "17.0"
+      },
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439419408497",
+      "handle": "jumprize-monster-absorber-82-8",
+      "length": {
+        "value": "248.92"
+      },
+      "lengthLabel": {
+        "value": "8'2\""
+      },
+      "peMin": {
+        "value": "6.0"
+      },
+      "peMax": {
+        "value": "10.0"
+      },
+      "castMin": {
+        "value": "60"
+      },
+      "castMax": {
+        "value": "180"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "18.0"
+      },
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439420981361",
+      "handle": "mc-works-2023-explosion-817hf-special-model",
+      "length": {
+        "value": "246.38"
+      },
+      "lengthLabel": {
+        "value": "8'1\""
+      },
+      "peMin": {
+        "value": "6.0"
+      },
+      "peMax": {
+        "value": "10.0"
+      },
+      "castMin": {
+        "value": "100"
+      },
+      "castMax": {
+        "value": "200"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "18.0"
+      },
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439421243505",
+      "handle": "mc-works-804-hr",
+      "length": {
+        "value": "243.84"
+      },
+      "lengthLabel": {
+        "value": "8'0\""
+      },
+      "peMin": {
+        "value": "3.0"
+      },
+      "peMax": {
+        "value": "5.0"
+      },
+      "castMin": {
+        "value": "40"
+      },
+      "castMax": {
+        "value": "80"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "8.0"
+      },
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439421472881",
+      "handle": "mc-works-black-chrome-bc120htx",
+      "length": {
+        "value": "365.76"
+      },
+      "lengthLabel": {
+        "value": "12'0\""
+      },
+      "peMin": {
+        "value": "0.8"
+      },
+      "peMax": {
+        "value": "2.5"
+      },
+      "castMin": {
+        "value": "14"
+      },
+      "castMax": {
+        "value": "40"
+      },
+      "recommendedDrag": null,
+      "maxDrag": null,
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439421735025",
+      "handle": "mc-works-explosion-817hf",
+      "length": {
+        "value": "246.38"
+      },
+      "lengthLabel": {
+        "value": "8'1\""
+      },
+      "peMin": {
+        "value": "6.0"
+      },
+      "peMax": {
+        "value": "10.0"
+      },
+      "castMin": {
+        "value": "100"
+      },
+      "castMax": {
+        "value": "200"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "18.0"
+      },
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439422062705",
+      "handle": "mc-works-explosion-818-ctr-sp",
+      "length": {
+        "value": "246.38"
+      },
+      "lengthLabel": {
+        "value": "8'1\""
+      },
+      "peMin": {
+        "value": "8.0"
+      },
+      "peMax": {
+        "value": "12.0"
+      },
+      "castMin": {
+        "value": "150"
+      },
+      "castMax": {
+        "value": "300"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "20.0"
+      },
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439422357617",
+      "handle": "mc-works-explosion-835ctr-standard-model",
+      "length": {
+        "value": "251.46"
+      },
+      "lengthLabel": {
+        "value": "8'3\""
+      },
+      "peMin": {
+        "value": "4.0"
+      },
+      "peMax": {
+        "value": "6.0"
+      },
+      "castMin": {
+        "value": "40"
+      },
+      "castMax": {
+        "value": "100"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "12.0"
+      },
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439422685297",
+      "handle": "mc-works-explosion-865hf",
+      "length": {
+        "value": "259.08"
+      },
+      "lengthLabel": {
+        "value": "8'6\""
+      },
+      "peMin": {
+        "value": "4.0"
+      },
+      "peMax": {
+        "value": "6.0"
+      },
+      "castMin": {
+        "value": "60"
+      },
+      "castMax": {
+        "value": "110"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "12.0"
+      },
+      "madeIn": {
+        "value": "Japan"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15439423012977",
+      "handle": "mc-works-explosion-full-contact-843ctr",
+      "length": {
+        "value": "254.0"
+      },
+      "lengthLabel": {
+        "value": "8'4\""
+      },
+      "peMin": {
+        "value": "2.0"
+      },
+      "peMax": {
+        "value": "4.0"
+      },
+      "castMin": {
+        "value": "20"
+      },
+      "castMax": {
+        "value": "60"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "6.0"
+      },
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439423307889",
+      "handle": "mc-works-raging-bull-104xxstd",
+      "length": {
+        "value": "314.96"
+      },
+      "lengthLabel": {
+        "value": "10'4\""
+      },
+      "peMin": {
+        "value": "8.0"
+      },
+      "peMax": {
+        "value": "10.0"
+      },
+      "castMin": {
+        "value": "100"
+      },
+      "castMax": {
+        "value": "200"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "13.0"
+      },
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439423602801",
+      "handle": "mc-works-raging-bull-93xx-trident",
+      "length": {
+        "value": "281.94"
+      },
+      "lengthLabel": {
+        "value": "9'3\""
+      },
+      "peMin": {
+        "value": "8.0"
+      },
+      "peMax": {
+        "value": "10.0"
+      },
+      "castMin": null,
+      "castMax": {
+        "value": "200"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "13.0"
+      },
+      "madeIn": null
+    },
+    {
+      "id": "gid://shopify/Product/15439423864945",
+      "handle": "mc-works-rod-cb-98xs2-std",
+      "length": null,
+      "lengthLabel": null,
+      "peMin": {
+        "value": "6.0"
+      },
+      "peMax": {
+        "value": "8.0"
+      },
+      "castMin": {
+        "value": "80"
+      },
+      "castMax": {
+        "value": "150"
+      },
+      "recommendedDrag": null,
+      "maxDrag": {
+        "value": "11.0"
+      },
+      "madeIn": {
+        "value": "Japan"
+      }
+    }
+  ]
+}

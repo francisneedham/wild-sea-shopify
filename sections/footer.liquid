@@ -1,56 +1,184 @@
-<footer>
-  <div class="footer__copyright">
-    &copy;
-    {{ 'now' | date: '%Y' }}
-    {{ shop.name | link_to: routes.root_url }}, {{ powered_by_link }}
-  </div>
+{% doc %}
+  Site footer: reassurance strip (blocks), brand + social, two menu columns, contact column, legal bar.
+  Menus are editable link lists; empty menus fall back to legacy links until native resources exist.
 
-  <div class="footer__links">
-    {% for link in section.settings.menu.links %}
-      {{ link.title | link_to: link.url }}
-    {% endfor %}
-  </div>
+  @example
+  {% sections 'footer-group' %}
+{% enddoc %}
 
-  <div class="footer__payment">
-    {% if section.settings.show_payment_icons %}
-      {% for type in shop.enabled_payment_types %}
-        {{ type | payment_type_svg_tag }}
-      {% endfor %}
+{%- liquid
+  assign footer_logo = settings.logo_inverse | default: settings.logo
+  assign has_social = false
+  if settings.social_instagram_link != blank or settings.social_youtube_link != blank or settings.social_facebook_link != blank
+    assign has_social = true
+  endif
+-%}
+
+<footer class="site-footer color-scheme color-{{ section.settings.color_scheme }}">
+  <div class="site-footer__wrap">
+    {% if section.blocks.size > 0 %}
+      <div class="site-footer__assurances">
+        {% for block in section.blocks %}
+          <div class="site-footer__assurance" {{ block.shopify_attributes }}>
+            {% render 'lucide-icon', name: block.settings.icon %}
+            <div>
+              <h3>{{ block.settings.heading | escape }}</h3>
+              {% if block.settings.text != blank %}<p>{{ block.settings.text | escape }}</p>{% endif %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
     {% endif %}
+
+    <div class="site-footer__main">
+      <div class="site-footer__brand">
+        {% render 'site-brand', logo: footer_logo %}
+        {% if section.settings.tagline != blank %}<p>{{ section.settings.tagline | escape | newline_to_br }}</p>{% endif %}
+        {% if has_social %}
+          <nav class="site-footer__social" aria-label="{{ 'general.social_links' | t }}">
+            {% if settings.social_instagram_link != blank %}
+              <a href="{{ settings.social_instagram_link | escape }}" target="_blank" rel="noopener noreferrer" aria-label="Instagram">{% render 'lucide-icon', name: 'instagram' %}</a>
+            {% endif %}
+            {% if settings.social_youtube_link != blank %}
+              <a href="{{ settings.social_youtube_link | escape }}" target="_blank" rel="noopener noreferrer" aria-label="YouTube">{% render 'lucide-icon', name: 'youtube' %}</a>
+            {% endif %}
+            {% if settings.social_facebook_link != blank %}
+              <a href="{{ settings.social_facebook_link | escape }}" target="_blank" rel="noopener noreferrer" aria-label="Facebook">{% render 'lucide-icon', name: 'facebook' %}</a>
+            {% endif %}
+          </nav>
+        {% endif %}
+      </div>
+
+      <div>
+        {% if section.settings.menu_1_heading != blank %}<h2>{{ section.settings.menu_1_heading | escape }}</h2>{% endif %}
+        <div class="site-footer__links">
+          {% for link in section.settings.menu_1.links %}
+            <a href="{{ link.url }}">{{ link.title | escape }}</a>
+          {% else %}
+            <a href="{{ routes.root_url }}pages/destinations">Our destinations</a>
+            <a href="{{ routes.root_url }}pages/about">Our story</a>
+            <a href="https://www.wildseaexpedition.com/en/news">Field notes &amp; news</a>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div>
+        {% if section.settings.menu_2_heading != blank %}<h2>{{ section.settings.menu_2_heading | escape }}</h2>{% endif %}
+        <div class="site-footer__links">
+          {% for link in section.settings.menu_2.links %}
+            <a href="{{ link.url }}">{{ link.title | escape }}</a>
+          {% else %}
+            <a href="{{ routes.all_products_collection_url }}">All products</a>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div>
+        {% if section.settings.contact_heading != blank %}<h2>{{ section.settings.contact_heading | escape }}</h2>{% endif %}
+        <div class="site-footer__links">
+          {% if section.settings.contact_email != blank %}
+            <a href="mailto:{{ section.settings.contact_email | escape }}">{{ section.settings.contact_email | escape }}</a>
+          {% endif %}
+          {% for link in section.settings.contact_menu.links %}
+            <a class="site-footer__arrow-link" href="{{ link.url }}">{{ link.title | escape }} {% render 'lucide-icon', name: 'arrow-up-right' %}</a>
+          {% else %}
+            <a class="site-footer__arrow-link" href="{{ routes.root_url }}pages/destinations">Find your expedition {% render 'lucide-icon', name: 'arrow-up-right' %}</a>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    <div class="site-footer__bottom">
+      <span>&copy; {{ 'now' | date: '%Y' }} {{ shop.name | escape }}. All rights reserved.</span>
+      <div>
+        {% if shop.privacy_policy != blank %}<a href="{{ shop.privacy_policy.url }}">{{ shop.privacy_policy.title | escape }}</a>{% endif %}
+        {% if shop.terms_of_service != blank %}<a href="{{ shop.terms_of_service.url }}">{{ shop.terms_of_service.title | escape }}</a>{% endif %}
+        {% if section.settings.bottom_note != blank %}<span>{{ section.settings.bottom_note | escape }}</span>{% endif %}
+      </div>
+      {% if section.settings.show_payment_icons %}
+        <div class="site-footer__payment">
+          {% for type in shop.enabled_payment_types %}{{ type | payment_type_svg_tag }}{% endfor %}
+        </div>
+      {% endif %}
+    </div>
   </div>
 </footer>
 
 {% stylesheet %}
-  footer {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 2rem;
-  }
-  footer a {
-    text-decoration: none;
-    color: var(--color-foreground);
-  }
-  footer .footer__links,
-  footer .footer__payment {
-    display: flex;
-    gap: 1rem;
+  .site-footer { padding-bottom: 22px; }
+  .site-footer a { color: inherit; text-decoration: none; }
+  .site-footer__wrap { max-width: var(--page-width); margin: auto; padding-inline: var(--site-gutter); }
+  .site-footer h2, .site-footer h3 { font-family: var(--font-body-family); line-height: 1.3; }
+  .site-footer__assurances { display: grid; grid-template-columns: repeat(4, 1fr); gap: 25px; padding-block: 38px; border-bottom: 1px solid color-mix(in srgb, var(--theme-text) 15%, transparent); }
+  .site-footer__assurance { display: flex; gap: 16px; align-items: center; }
+  .site-footer__assurance > svg { flex-shrink: 0; width: 26px; height: 26px; color: var(--theme-button); }
+  .site-footer__assurance h3 { margin: 0 0 6px; font-size: var(--text-sm); font-weight: 500; }
+  .site-footer__assurance p { margin: 0; font-size: var(--text-label); color: color-mix(in srgb, var(--theme-text) 68%, transparent); }
+  .site-footer__main { display: grid; grid-template-columns: 2.1fr 1fr 1fr 1.2fr; gap: 50px; padding-block: 65px; }
+  .site-footer__brand .site-brand { margin-bottom: 23px; }
+  .site-footer__brand p { max-width: 260px; margin: 0 0 16px; font-size: var(--text-sm); line-height: 1.7; color: color-mix(in srgb, var(--theme-text) 66%, transparent); }
+  .site-footer__social { display: flex; gap: 12px; }
+  .site-footer__social a { display: inline-flex; padding: 8px; transition: opacity .2s; }
+  .site-footer__social a:hover { opacity: .65; }
+  .site-footer__social svg { width: 15px; height: 15px; }
+  .site-footer__main h2 { margin: 0 0 22px; font-size: var(--text-label); font-weight: 500; letter-spacing: .15em; text-transform: uppercase; color: var(--theme-button); }
+  .site-footer__links { display: flex; flex-direction: column; align-items: start; gap: 14px; font-size: var(--text-sm); color: color-mix(in srgb, var(--theme-text) 74%, transparent); }
+  .site-footer__links a:hover { color: var(--theme-text); }
+  .site-footer__arrow-link { display: inline-flex; align-items: center; gap: 8px; }
+  .site-footer__arrow-link svg { width: 13px; height: 13px; }
+  .site-footer__bottom { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px 25px; padding-top: 22px; border-top: 1px solid color-mix(in srgb, var(--theme-text) 15%, transparent); font-size: var(--text-label); color: color-mix(in srgb, var(--theme-text) 58%, transparent); }
+  .site-footer__bottom > div { display: flex; flex-wrap: wrap; gap: 25px; }
+  .site-footer__payment { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 8px; }
+  @media (max-width: 1100px) { .site-footer__main { gap: 30px; } }
+  @media (max-width: 760px) {
+    .site-footer__assurances { grid-template-columns: 1fr 1fr; gap: 25px 15px; padding-block: 30px; }
+    .site-footer__assurance { gap: 10px; }
+    .site-footer__assurance > svg { width: 22px; height: 22px; }
+    .site-footer__main { grid-template-columns: 1fr 1fr; gap: 35px 25px; padding-block: 45px; }
+    .site-footer__brand { grid-column: 1 / -1; }
+    .site-footer__bottom { flex-direction: column; }
   }
 {% endstylesheet %}
 
 {% schema %}
 {
   "name": "t:general.footer",
+  "max_blocks": 4,
   "settings": [
+    { "type": "color_scheme", "id": "color_scheme", "label": "t:labels.color_scheme", "default": "scheme-2" },
+    { "type": "textarea", "id": "tagline", "label": "Tagline", "default": "Endless passion for extreme fishing.\nGo further. Feel more. Leave less." },
+    { "type": "header", "content": "Columns" },
+    { "type": "text", "id": "menu_1_heading", "label": "First menu heading", "default": "Explore" },
+    { "type": "link_list", "id": "menu_1", "label": "First menu" },
+    { "type": "text", "id": "menu_2_heading", "label": "Second menu heading", "default": "The shop" },
+    { "type": "link_list", "id": "menu_2", "label": "Second menu" },
+    { "type": "text", "id": "contact_heading", "label": "Contact heading", "default": "Let’s talk adventure" },
+    { "type": "text", "id": "contact_email", "label": "Contact email", "default": "fishing@wildseaexpedition.com" },
+    { "type": "link_list", "id": "contact_menu", "label": "Contact links" },
+    { "type": "header", "content": "Bottom bar" },
+    { "type": "text", "id": "bottom_note", "label": "Note", "default": "Made for the wild." },
+    { "type": "checkbox", "id": "show_payment_icons", "label": "t:labels.show_payment_icons", "default": false }
+  ],
+  "blocks": [
     {
-      "type": "link_list",
-      "id": "menu",
-      "label": "t:labels.menu"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_payment_icons",
-      "label": "t:labels.show_payment_icons",
-      "default": true
+      "type": "assurance",
+      "name": "Assurance",
+      "settings": [
+        {
+          "type": "select",
+          "id": "icon",
+          "label": "Icon",
+          "default": "compass",
+          "options": [
+            { "value": "compass", "label": "Compass" },
+            { "value": "users-round", "label": "Team" },
+            { "value": "fish", "label": "Fish" },
+            { "value": "shield-check", "label": "Shield" }
+          ]
+        },
+        { "type": "text", "id": "heading", "label": "Heading", "default": "Explorers since 2012" },
+        { "type": "text", "id": "text", "label": "Description", "default": "Experience beyond the ordinary" }
+      ]
     }
   ]
 }

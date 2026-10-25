@@ -1,0 +1,630 @@
+[
+  {
+    "handle": "7svpo1nl90mscugevufrnfct0iig9g",
+    "title": "Atoll Bonger",
+    "productId": "gid://shopify/Product/15439151366257",
+    "legacyCategories": [
+      "/lures/diving-poppers"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "atlantis-flapper-170f",
+    "title": "Atlantis Flapper 170F",
+    "productId": "gid://shopify/Product/15439412134001",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "atlantis-funky-soda-170-85-gr",
+    "title": "Atlantis Funky Soda 170",
+    "productId": "gid://shopify/Product/15439412363377",
+    "legacyCategories": [
+      "/lures/diving-poppers",
+      "/lures/floating"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "atoll-giulia",
+    "title": "Atoll Giulia",
+    "productId": "gid://shopify/Product/15439412592753",
+    "legacyCategories": [
+      "/lures/diving-poppers"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "atoll-giulia-plastic",
+    "title": "Atoll Giulia Plastic",
+    "productId": "gid://shopify/Product/15439412723825",
+    "legacyCategories": [
+      "/lures/diving-poppers"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "atoll-misao",
+    "title": "Atoll Misao",
+    "productId": "gid://shopify/Product/15439412822129",
+    "legacyCategories": [
+      "/lures/diving-poppers"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "cb-one-rudolf-260",
+    "title": "CB One Rudolf 260",
+    "productId": "gid://shopify/Product/15439413051505",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "cb-one-ryan-230",
+    "title": "CB One Ryan 230",
+    "productId": "gid://shopify/Product/15439413248113",
+    "legacyCategories": [
+      "/lures/floating",
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "cb-one-zorro-200",
+    "title": "CB One Zorro 200",
+    "productId": "gid://shopify/Product/15439413477489",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "craftbait-gt3-130-gr",
+    "title": "Craftbait GT3 130 gr",
+    "productId": "gid://shopify/Product/15439413674097",
+    "legacyCategories": [
+      "/lures/floating",
+      "/lures/poppers"
+    ],
+    "lureTypes": [
+      "Popper"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "fish-trippers-village-espuma-120-gr",
+    "title": "FishTrippers Village Espuma 220",
+    "productId": "gid://shopify/Product/15439414100081",
+    "legacyCategories": [
+      "/lures/floating",
+      "/lures/poppers"
+    ],
+    "lureTypes": [
+      "Popper"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "fish-trippers-village-liber-tango-220-hd-110-gr",
+    "title": "FishTrippers Village Liber Tango",
+    "productId": "gid://shopify/Product/15439414493297",
+    "legacyCategories": [
+      "/lures/floating",
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "fishtripper-village-le-grand-tango-210",
+    "title": "FishTripper Village Le Grand Tango",
+    "productId": "gid://shopify/Product/15439414820977",
+    "legacyCategories": [
+      "/lures/floating",
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "fishtrippers-village-concierto-280",
+    "title": "FishTrippers Village Concierto 280",
+    "productId": "gid://shopify/Product/15439415148657",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "floating-18cm-75g",
+    "title": "Glide Floating 18cm - 75g",
+    "productId": "gid://shopify/Product/15439415443569",
+    "legacyCategories": [
+      "/lures/floating"
+    ],
+    "lureTypes": [],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "floating-22cm-120g",
+    "title": "Glide Floating 22cm - 120g",
+    "productId": "gid://shopify/Product/15439415771249",
+    "legacyCategories": [
+      "/lures/floating"
+    ],
+    "lureTypes": [],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "floating-24cm-150g",
+    "title": "Glide Floating 24cm - 150g",
+    "productId": "gid://shopify/Product/15439415869553",
+    "legacyCategories": [
+      "/lures/floating"
+    ],
+    "lureTypes": [],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "good-bait-bnd-180f",
+    "title": "Good Bait BND 180F",
+    "productId": "gid://shopify/Product/15439416721521",
+    "legacyCategories": [
+      "/lures/diving-poppers"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "good-bait-fzr-188f",
+    "title": "Good Bait FZR 188F",
+    "productId": "gid://shopify/Product/15439417016433",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "good-bait-monsterzone-210f",
+    "title": "Good Bait MonsterZone 210F",
+    "productId": "gid://shopify/Product/15439417376881",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "good-bait-number-five-148f",
+    "title": "Good Bait Number Five 148F",
+    "productId": "gid://shopify/Product/15439417671793",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "good-bait-respect-190f",
+    "title": "Good Bait Respect 190F",
+    "productId": "gid://shopify/Product/15439417835633",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "hammerhead-sharapoa-250-slim-lv",
+    "title": "Hammerhead Sharapoa 250 Slim LV",
+    "productId": "gid://shopify/Product/15439418097777",
+    "legacyCategories": [
+      "/lures/diving-poppers",
+      "/lures/poppers"
+    ],
+    "lureTypes": [
+      "Popper",
+      "Diving Popper"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "hammerhead-tobi-140-sus",
+    "title": "Hammerhead Tobi 140 SUS",
+    "productId": "gid://shopify/Product/15439418458225",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "indigoblue-musya",
+    "title": "Indigo Blue Musya Pop",
+    "productId": "gid://shopify/Product/15439418785905",
+    "legacyCategories": [
+      "/lures/poppers"
+    ],
+    "lureTypes": [
+      "Popper"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "jumprize-lalapen",
+    "title": "Jumprize Lalapen",
+    "productId": "gid://shopify/Product/15439419113585",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "kikuchi-craft-bubble-swimmer",
+    "title": "Kikuchi Craft Bubble Swimmer",
+    "productId": "gid://shopify/Product/15439419703409",
+    "legacyCategories": [
+      "/lures/diving-poppers"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "lazarat-griffon-diving-200",
+    "title": "Lazarat Griffon PoP 200",
+    "productId": "gid://shopify/Product/15439420194929",
+    "legacyCategories": [
+      "/lures/floating",
+      "/lures/poppers"
+    ],
+    "lureTypes": [
+      "Popper"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "lazarat-griffon-diving-200-1",
+    "title": "Lazarat Griffon Diving 200",
+    "productId": "gid://shopify/Product/15439420489841",
+    "legacyCategories": [
+      "/lures/diving-poppers",
+      "/lures/floating"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "lazarat-griffon-diving-230",
+    "title": "Lazarat Griffon Diving 230",
+    "productId": "gid://shopify/Product/15439420686449",
+    "legacyCategories": [
+      "/lures/diving-poppers",
+      "/lures/floating"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "native-works-gazelle-230",
+    "title": "Native Works Gazelle 230",
+    "productId": "gid://shopify/Product/15439425863793",
+    "legacyCategories": [
+      "/lures"
+    ],
+    "lureTypes": [],
+    "buoyancy": null
+  },
+  {
+    "handle": "native-works-gazelle-270",
+    "title": "Native Works Gazelle 270",
+    "productId": "gid://shopify/Product/15439426191473",
+    "legacyCategories": [
+      "/lures"
+    ],
+    "lureTypes": [],
+    "buoyancy": null
+  },
+  {
+    "handle": "native-works-napalm-200",
+    "title": "Native Works Napalm 200",
+    "productId": "gid://shopify/Product/15439426519153",
+    "legacyCategories": [
+      "/lures/diving-poppers",
+      "/lures/floating"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "native-works-napalm-220",
+    "title": "Native Works Napalm 220",
+    "productId": "gid://shopify/Product/15439426846833",
+    "legacyCategories": [
+      "/lures/diving-poppers",
+      "/lures/floating"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "native-works-napalm-250",
+    "title": "Native Works Napalm 250",
+    "productId": "gid://shopify/Product/15439427076209",
+    "legacyCategories": [
+      "/lures/diving-poppers",
+      "/lures/floating"
+    ],
+    "lureTypes": [
+      "Diving Popper"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "native-works-rattler-210",
+    "title": "Native Works Rattler 210",
+    "productId": "gid://shopify/Product/15439427371121",
+    "legacyCategories": [
+      "/lures/floating",
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "native-works-rattler-230",
+    "title": "Native Works Rattler 230",
+    "productId": "gid://shopify/Product/15439427600497",
+    "legacyCategories": [
+      "/lures/floating",
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "native-works-tank-popper-190",
+    "title": "Native Works Tank Popper 190",
+    "productId": "gid://shopify/Product/15439427862641",
+    "legacyCategories": [
+      "/lures/floating",
+      "/lures/poppers"
+    ],
+    "lureTypes": [
+      "Popper"
+    ],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "patriot-design-master-bomb-big-cup-90",
+    "title": "Patriot Design Master Bomb Big Cup 90",
+    "productId": "gid://shopify/Product/15439428124785",
+    "legacyCategories": [
+      "/lures/poppers"
+    ],
+    "lureTypes": [
+      "Popper"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "popper-18cm-130g",
+    "title": "Glide Popper",
+    "productId": "gid://shopify/Product/15439428354161",
+    "legacyCategories": [
+      "/lures/poppers"
+    ],
+    "lureTypes": [
+      "Popper"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "popper-18cm-75g",
+    "title": "Glide Popper 18cm - 75g",
+    "productId": "gid://shopify/Product/15439428649073",
+    "legacyCategories": [
+      "/lures"
+    ],
+    "lureTypes": [],
+    "buoyancy": null
+  },
+  {
+    "handle": "popper-22cm-110g",
+    "title": "Glide Popper 22cm - 110g",
+    "productId": "gid://shopify/Product/15439428812913",
+    "legacyCategories": [
+      "/lures/floating"
+    ],
+    "lureTypes": [],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "rst-supply-nezul-210",
+    "title": "RST Supply Nezul 210",
+    "productId": "gid://shopify/Product/15439429206129",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "rst-supply-rilana-180f",
+    "title": "RST Supply Rilana 180F",
+    "productId": "gid://shopify/Product/15439429402737",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "sinking-10cm-50g",
+    "title": "Glide Sinking 10cm - 50g",
+    "productId": "gid://shopify/Product/15439429501041",
+    "legacyCategories": [
+      "/lures/sinking"
+    ],
+    "lureTypes": [],
+    "buoyancy": "Sinking"
+  },
+  {
+    "handle": "sinking-14cm-80g",
+    "title": "Glide Sinking 14cm - 80g",
+    "productId": "gid://shopify/Product/15439429664881",
+    "legacyCategories": [
+      "/lures/sinking"
+    ],
+    "lureTypes": [],
+    "buoyancy": "Sinking"
+  },
+  {
+    "handle": "sinking-18cm-100g",
+    "title": "Glide Stickbait Sinking 18cm - 100gr",
+    "productId": "gid://shopify/Product/15439429828721",
+    "legacyCategories": [
+      "/lures/sinking"
+    ],
+    "lureTypes": [],
+    "buoyancy": "Sinking"
+  },
+  {
+    "handle": "stickpop-18cm-75g",
+    "title": "Glide Stickpop 18cm - 75g",
+    "productId": "gid://shopify/Product/15439430090865",
+    "legacyCategories": [
+      "/lures/floating"
+    ],
+    "lureTypes": [],
+    "buoyancy": "Floating"
+  },
+  {
+    "handle": "stickpop-20cm-105g",
+    "title": "Glide Stickpop 20cm - 105g",
+    "productId": "gid://shopify/Product/15439430353009",
+    "legacyCategories": [
+      "/lures"
+    ],
+    "lureTypes": [],
+    "buoyancy": null
+  },
+  {
+    "handle": "stickpop-22cm-150g",
+    "title": "Glide Stickpop 22cm - 150g",
+    "productId": "gid://shopify/Product/15439430582385",
+    "legacyCategories": [
+      "/lures"
+    ],
+    "lureTypes": [],
+    "buoyancy": null
+  },
+  {
+    "handle": "wild-gambler-rigin",
+    "title": "Wild Gambler Rigin",
+    "productId": "gid://shopify/Product/15439545139313",
+    "legacyCategories": [
+      "/lures/poppers"
+    ],
+    "lureTypes": [
+      "Popper"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "woodream-akiya-200",
+    "title": "Woodream Akiya 200",
+    "productId": "gid://shopify/Product/15439545466993",
+    "legacyCategories": [
+      "/lures/stickbait"
+    ],
+    "lureTypes": [
+      "Stickbait"
+    ],
+    "buoyancy": null
+  },
+  {
+    "handle": "wooodream-akiya-popper-215",
+    "title": "Wooodream Akiya popper",
+    "productId": "gid://shopify/Product/15439545630833",
+    "legacyCategories": [
+      "/lures/floating",
+      "/lures/poppers"
+    ],
+    "lureTypes": [
+      "Popper"
+    ],
+    "buoyancy": "Floating"
+  }
+]

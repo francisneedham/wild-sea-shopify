@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Rod PE maximum",
+    "namespace": "specs",
+    "key": "rod_pe_max",
+    "description": "Upper endpoint of stated PE line range; leave blank if absent.",
+    "type": "number_decimal",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

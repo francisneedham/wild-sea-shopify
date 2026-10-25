@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Lure length (mm)",
+    "namespace": "specs",
+    "key": "lure_length_mm",
+    "description": "Lure body length in millimetres for this variant.",
+    "type": "number_integer",
+    "ownerType": "PRODUCTVARIANT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

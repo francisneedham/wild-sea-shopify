@@ -1,0 +1,18 @@
+{
+  "metafieldDefinitionCreate": {
+    "createdDefinition": {
+      "id": "gid://shopify/MetafieldDefinition/509625827441",
+      "namespace": "specs",
+      "key": "rod_drag_recommended_kg",
+      "name": "Rod recommended drag (kg)",
+      "type": {
+        "name": "number_decimal"
+      },
+      "ownerType": "PRODUCT",
+      "access": {
+        "storefront": "PUBLIC_READ"
+      }
+    },
+    "userErrors": []
+  }
+}

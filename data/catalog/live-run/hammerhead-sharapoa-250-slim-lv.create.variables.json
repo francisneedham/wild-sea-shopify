@@ -1,0 +1,176 @@
+{
+  "input": {
+    "handle": "hammerhead-sharapoa-250-slim-lv",
+    "title": "Hammerhead Sharapoa 250 Slim LV",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>When tuna and GT get picky, go slim. The Sharapoa 250 Slim is what you reach for when fish are turning down your regular poppers—conditions where they’re being selective and nothing seems to work. Handmade in Japan with wood specifically chosen for proper buoyancy with heavy hooks, this popper maintains a vertical float that triggers strikes from educated fish. Rig with Decoy Y-S23 7/0 trebles for traditional setups, or run Suteki 5/0 single hooks or plugging double assist for better hook clearance and fewer tangles. The slimmer body profile mimics smaller baitfish without losing the weight needed for long casts (110g gets you the distance). Sits with the head 60-65mm out of the water. Simple deal: pressured fish, slim profile, more bites.</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>250 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr.115</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-poppers",
+      "legacy-category-lures-diving-poppers"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Purple"
+          },
+          {
+            "name": "White"
+          },
+          {
+            "name": "Pink Head"
+          },
+          {
+            "name": "Yellow Blue Snapper"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ8930403",
+        "price": "100.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Purple"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ2313758",
+        "price": "100.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "White"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ9880121",
+        "price": "100.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Pink Head"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "sku": "SQ3589401",
+        "price": "100.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Yellow Blue Snapper"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.2,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e4f94354-55ee-4b28-8156-ef56520be280/Sharapoa+250+insta.jpg",
+        "contentType": "IMAGE",
+        "alt": "Hammerhead Sharapoa 250 Slim LV"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e0346a26-eba3-4570-a3f5-16080506e949/sharapoa+purple.jpg",
+        "contentType": "IMAGE",
+        "alt": "Hammerhead Sharapoa 250 Slim LV"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2922470f-3195-42ff-9a51-420f242912ce/sharapoa+yellow+snapper.jpg",
+        "contentType": "IMAGE",
+        "alt": "Hammerhead Sharapoa 250 Slim LV"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0b67c747-5de8-457c-8804-71b2f2cbad1f/sharapoa+pink+head.jpg",
+        "contentType": "IMAGE",
+        "alt": "Hammerhead Sharapoa 250 Slim LV"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4e4e2ad8-3f58-42a5-87fe-defc12e4eb82/sharapoa+white.jpg",
+        "contentType": "IMAGE",
+        "alt": "Hammerhead Sharapoa 250 Slim LV"
+      }
+    ]
+  }
+}

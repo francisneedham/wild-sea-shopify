@@ -1,0 +1,7 @@
+mutation AppendLureVariantMedia($productId: ID!, $variantMedia: [ProductVariantAppendMediaInput!]!) {
+  productVariantAppendMedia(productId: $productId, variantMedia: $variantMedia) {
+    product { id }
+    productVariants { id sku media(first: 10) { nodes { id } } }
+    userErrors { field message }
+  }
+}

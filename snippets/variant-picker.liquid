@@ -5,27 +5,44 @@
 
   @param {product} product - The product object
   @param {variant} current_variant - The currently selected variant (used for server-side aria-pressed)
+  @example
+  {% render 'variant-picker', product: product, current_variant: product.selected_or_first_available_variant %}
 {% enddoc %}
 
 <input type="hidden" name="id" data-js="variant-id" value="{{ current_variant.id }}">
 
+{% unless product.has_only_default_variant %}
 {% for option in product.options_with_values %}
   <div class="product-option" data-option-group="{{ option.position }}">
     <p>
       {{ option.name }}:
       <span data-js="option-label" data-option-label="{{ option.position }}">{{- option.selected_value -}}</span>
     </p>
+    {% assign option_name = option.name | downcase %}
     {% for value in option.values %}
+      {% assign color_family = nil %}
+      {% if option_name == 'color' or option_name == 'colour' %}
+        {% assign color_family = value.variant.metafields.specs.color_family.value %}
+      {% endif %}
       <button
         type="button"
         data-js="option-value"
         data-option-position="{{ option.position }}"
-        data-option-value="{{ value }}"
+        data-option-value="{{ value | escape }}"
         aria-pressed="{% if option.selected_value == value %}true{% else %}false{% endif %}"
-        class="border"
       >
+        {% if value.swatch.image %}
+          <span class="wildsea-product__swatch" aria-hidden="true">{{ value.swatch.image | image_url: width: 40, height: 40, crop: 'center' | image_tag: loading: 'lazy', alt: '' }}</span>
+        {% elsif value.swatch.color %}
+          <span class="wildsea-product__swatch" style="background: {{ value.swatch.color }}" aria-hidden="true"></span>
+        {% elsif color_family.swatch_color.value != blank %}
+          <span class="wildsea-product__swatch" style="background: {{ color_family.swatch_color.value }}" aria-hidden="true"></span>
+        {% elsif color_family.label.value == 'Pattern / Natural' %}
+          <span class="wildsea-product__swatch wildsea-product__swatch--pattern" aria-hidden="true"></span>
+        {% endif %}
         {{ value }}
       </button>
     {% endfor %}
   </div>
 {% endfor %}
+{% endunless %}

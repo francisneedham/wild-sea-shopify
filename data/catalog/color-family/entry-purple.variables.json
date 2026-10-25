@@ -1,0 +1,18 @@
+{
+  "handle": {
+    "type": "wildsea_color_family",
+    "handle": "purple"
+  },
+  "metaobject": {
+    "fields": [
+      {
+        "key": "label",
+        "value": "Purple"
+      },
+      {
+        "key": "swatch_color",
+        "value": "#8061A5"
+      }
+    ]
+  }
+}

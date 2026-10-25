@@ -1,0 +1,196 @@
+{
+  "metafields": [
+    {
+      "ownerId": "gid://shopify/Product/15439422062705",
+      "namespace": "specs",
+      "key": "rod_length_cm",
+      "type": "number_decimal",
+      "value": "246.38",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422062705",
+      "namespace": "specs",
+      "key": "rod_length_label",
+      "type": "single_line_text_field",
+      "value": "8'1\"",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422062705",
+      "namespace": "specs",
+      "key": "rod_pe_min",
+      "type": "number_decimal",
+      "value": "8",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422062705",
+      "namespace": "specs",
+      "key": "rod_pe_max",
+      "type": "number_decimal",
+      "value": "12",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422062705",
+      "namespace": "specs",
+      "key": "rod_cast_min_g",
+      "type": "number_integer",
+      "value": "150",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422062705",
+      "namespace": "specs",
+      "key": "rod_cast_max_g",
+      "type": "number_integer",
+      "value": "300",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422062705",
+      "namespace": "specs",
+      "key": "rod_drag_max_kg",
+      "type": "number_decimal",
+      "value": "20",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422062705",
+      "namespace": "specs",
+      "key": "rod_made_in",
+      "type": "single_line_text_field",
+      "value": "Japan",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422357617",
+      "namespace": "specs",
+      "key": "rod_length_cm",
+      "type": "number_decimal",
+      "value": "251.46",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422357617",
+      "namespace": "specs",
+      "key": "rod_length_label",
+      "type": "single_line_text_field",
+      "value": "8'3\"",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422357617",
+      "namespace": "specs",
+      "key": "rod_pe_min",
+      "type": "number_decimal",
+      "value": "4",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422357617",
+      "namespace": "specs",
+      "key": "rod_pe_max",
+      "type": "number_decimal",
+      "value": "6",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422357617",
+      "namespace": "specs",
+      "key": "rod_cast_min_g",
+      "type": "number_integer",
+      "value": "40",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422357617",
+      "namespace": "specs",
+      "key": "rod_cast_max_g",
+      "type": "number_integer",
+      "value": "100",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422357617",
+      "namespace": "specs",
+      "key": "rod_drag_max_kg",
+      "type": "number_decimal",
+      "value": "12",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422357617",
+      "namespace": "specs",
+      "key": "rod_made_in",
+      "type": "single_line_text_field",
+      "value": "Japan",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422685297",
+      "namespace": "specs",
+      "key": "rod_length_cm",
+      "type": "number_decimal",
+      "value": "259.08",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422685297",
+      "namespace": "specs",
+      "key": "rod_length_label",
+      "type": "single_line_text_field",
+      "value": "8'6\"",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422685297",
+      "namespace": "specs",
+      "key": "rod_pe_min",
+      "type": "number_decimal",
+      "value": "4",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422685297",
+      "namespace": "specs",
+      "key": "rod_pe_max",
+      "type": "number_decimal",
+      "value": "6",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422685297",
+      "namespace": "specs",
+      "key": "rod_cast_min_g",
+      "type": "number_integer",
+      "value": "60",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422685297",
+      "namespace": "specs",
+      "key": "rod_cast_max_g",
+      "type": "number_integer",
+      "value": "110",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422685297",
+      "namespace": "specs",
+      "key": "rod_drag_max_kg",
+      "type": "number_decimal",
+      "value": "12",
+      "compareDigest": null
+    },
+    {
+      "ownerId": "gid://shopify/Product/15439422685297",
+      "namespace": "specs",
+      "key": "rod_made_in",
+      "type": "single_line_text_field",
+      "value": "Japan",
+      "compareDigest": null
+    }
+  ]
+}

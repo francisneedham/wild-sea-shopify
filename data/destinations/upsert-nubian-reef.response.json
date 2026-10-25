@@ -1,0 +1,60 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650324869233",
+      "handle": "nubian-reef",
+      "displayName": "Nubian Reef",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Nubian Reef"
+        },
+        {
+          "key": "caption",
+          "value": "A Red Sea liveaboard expedition through remote Sudanese reefs for giant trevally, dogtooth tuna and other reef and pelagic species. Temporarily closed."
+        },
+        {
+          "key": "season",
+          "value": null
+        },
+        {
+          "key": "fishing_days",
+          "value": "6 full fishing days"
+        },
+        {
+          "key": "on_the_water",
+          "value": "Liveaboard"
+        },
+        {
+          "key": "target_species",
+          "value": "Giant trevally & dogtooth tuna"
+        },
+        {
+          "key": "listing_image",
+          "value": "gid://shopify/MediaImage/46288939516017"
+        },
+        {
+          "key": "region",
+          "value": "Sudan · Red Sea"
+        },
+        {
+          "key": "technique",
+          "value": "Popping & jigging"
+        },
+        {
+          "key": "status",
+          "value": "closed"
+        }
+      ],
+      "capabilities": {
+        "onlineStore": {
+          "templateSuffix": "nubian-reef"
+        },
+        "publishable": {
+          "status": "ACTIVE"
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

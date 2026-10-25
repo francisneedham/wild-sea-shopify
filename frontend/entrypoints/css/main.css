@@ -4,9 +4,10 @@
 @import "typography.css";
 @import "spacing.css";
 @import "colors.css";
+@import "motion.css";
 
 /* Register sources */
-@source "../../../snippets"
+@source "../../../snippets";
 @source "../../../blocks";
 @source "../../../sections";
 @source "../../../templates";
@@ -30,14 +31,8 @@
     }*/
 
     *:focus-visible {
-      outline: 1px solid var(--color-maptique-blue);
-    }
-
-    @media (hover: none) and (pointer: coarse) {
-      *:focus-visible {
-        outline: none;
-        box-shadow: none;
-      }
+      outline: 2px solid currentColor;
+      outline-offset: 4px;
     }
 
     /* @media (min-width: 768px) {
@@ -46,9 +41,15 @@
     } */
 
     body {
+      color: var(--theme-text);
+      background-color: var(--theme-background);
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
       font-variant-ligatures: none;
+    }
+
+    input:not([type="checkbox"], [type="radio"]), select, textarea {
+      border-radius: var(--input-corner-radius);
     }
 
     img,

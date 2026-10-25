@@ -35,6 +35,7 @@ This file is for any AI coding assistant (Claude, Codex, Cursor, etc.) working i
 │   │       ├── blog.ts
 │   │       ├── article.ts
 │   │       ├── page.ts
+│   │       ├── metaobject.ts
 │   │       ├── 404.ts
 │   │       ├── password.ts
 │   │       ├── gift-card.ts
@@ -80,6 +81,7 @@ because that template uses `{% layout none %}`.
 - Keep behavior and state orchestration in TypeScript modules under `frontend/entrypoints/ts/**`
 - Keep editable markup in Liquid sections/snippets under `sections/**` and `snippets/**`
 - Treat `data-js` attributes as the integration contract between TS and Liquid
+- Font sizes use the type scale tokens in `css/typography.css` (`--text-label` 12px floor, `--text-sm`, `--text-base`, `--text-lg`); never set running text below `--text-label`
 - Do not move markup generation into TS string templates for cart/minicart/search flows
 
 ## Where to Implement Changes
@@ -98,7 +100,7 @@ because that template uses `{% layout none %}`.
 Current interaction ownership:
 - `ts/theme.ts`: global cart drawer bootstrap
 - `ts/product.ts`: PDP variants/media/add-to-cart states
-- `ts/collection.ts`: PLP sort/filter progressive interactions
+- `ts/collection.ts`: PLP sort/filter/pagination progressive interactions (type chips reuse `collection-filter-remove`)
 - `ts/cart.ts`: cart page quantity/remove interactions
 - `ts/search.ts`: predictive search interactions
 
@@ -115,10 +117,19 @@ Any PR introducing a new `data-js` hook must update this table in the same PR.
 
 - Cart drawer: `cart-drawer`, `cart-drawer-panel`, `cart-open`, `cart-close`, `cart-items`, `cart-empty`, `cart-subtotal`, `cart-drawer-status`, `cart-drawer-error`, `cart-drawer-footer`, `cart-qty-dec`, `cart-qty-value`, `cart-qty-inc`, `cart-remove`, `cart-drawer-line-overlay`, `cart-count`
 - Cart page: `cart-page`, `cart-page-items`, `cart-page-empty`, `cart-page-footer`, `cart-page-subtotal`, `cart-page-status`, `cart-page-error`, `cart-page-dec`, `cart-page-qty`, `cart-page-inc`, `cart-page-remove`, `cart-page-line-overlay`, `cart-page-update-form`, `cart-page-update-submit`
-- Product: `product-form`, `product-data`, `variant-prices`, `variant-id`, `option-value`, `option-label`, `thumbnail`, `product-price`, `product-availability`, `add-to-cart`, `cart-status`
-- Collection (PLP root `collection-root`): `collection-controls`, `collection-products`, `collection-pagination-wrap`, `collection-load-more`, `collection-load-status`, `collection-status`, `collection-error`, `collection-sort`, `collection-clear`, `collection-filter-remove`, `collection-active-filters`, `collection-default-pagination`, `collection-filters-open`, `collection-filters-close`, `collection-filters-drawer`, `collection-filters-panel`, `collection-filters-overlay`, `collection-product-card`, `collection-quick-buy`
+- Product: `product-gallery` (Embla, `data-carousel-owned`), `media-item`, `gallery-index`, `product-qty-dec`, `product-qty-inc`, `add-to-cart-label`, `product-form`, `product-data`, `variant-prices`, `variant-compare-prices`, `variant-id`, `option-value`, `option-label`, `thumbnail`, `product-price`, `product-compare-price`, `product-availability`, `product-specifications`, `product-spec-variant`, `add-to-cart`, `cart-status`, `recommendations`, `product-recommendations-root`
+- Collection (PLP root `collection-root`): `collection-controls`, `collection-products`, `collection-pagination-wrap`, `collection-status`, `collection-error`, `collection-sort`, `collection-clear`, `collection-filter-remove`, `collection-active-filters`, `collection-default-pagination`, `collection-filters-open`, `collection-filters-close`, `collection-filters-drawer`, `collection-filters-panel`, `collection-filters-overlay`, `collection-filters-apply` (submit + close drawer), `collection-range`, `collection-range-min`, `collection-range-max`, `collection-range-output`, `collection-product-card`, `collection-quick-buy`
 - Product card (used inside `collection-product-card`, also on PLP grids): `card-price`, `card-variant-picker`, `card-option-value`, `card-product-data`, `card-variant-prices`
 - Search drawer: `search-drawer`, `search-drawer-panel`, `search-open`, `search-close`, `search-drawer-form`, `search-drawer-input`, `search-drawer-status`, `search-drawer-error`, `search-drawer-loader`, `search-drawer-empty`, `search-drawer-results`, `search-drawer-groups`
+- Header: `site-header` (scroll state), `mobile-menu`, `mobile-menu-close`; icons use `data-lucide` and are hydrated by `ts/theme.ts`.
+- Motion (`ts/utils/motion.ts`): GSAP + ScrollTrigger + SplitText, Lenis on the GSAP ticker. `data-reveal` presets: default (rise + fade), `title` (SplitText per-line mask, yPercent 105→0), `image` (inner img scale 1.12→1, no opacity), `fade`; optional `data-reveal-delay` / `-start` / `-duration` / `-stagger`. Hidden states set by JS only. `data-parallax` (ScrollTrigger scrub on `--parallax-y`), `data-lenis-prevent` (opt a scroll container out of Lenis; dialogs are excluded automatically).
+- Carousels (`ts/utils/carousel.ts`, Embla): `data-carousel` root (optional JSON options), `data-carousel-viewport`, `data-carousel-prev`, `data-carousel-next`; `data-carousel-owned` = a page module inits it (generic ones are lazy-loaded by `ts/theme.ts`); `data-carousel-static` is set when nothing scrolls.
+- Entrypoints start via `onReady()` (`ts/utils/ready.ts`), never a bare `DOMContentLoaded` listener: in Vite dev the module can evaluate after the event.
+- Destination pages (`ts/metaobject.ts`, page_type `metaobject`): `destination-nav`, `destination-gallery`, `gallery-filter`, `gallery-count`, `gallery-photo`, `gallery-lightbox`, `gallery-lightbox-image`, `gallery-lightbox-caption`, `gallery-lightbox-index`, `gallery-prev`, `gallery-next`, `gallery-close`, `destination-booking`. Destination buttons read the metaobject `booking_url` / `brochure_url` when their own link is empty.
+- Slideshow (`ts/utils/slideshow.ts`, lazy-loaded by theme.ts): `data-slideshow` (optional `data-interval` ms), `data-slide`, `data-slide-to` dots. `data-parallax-target` moves a whole slideshow layer instead of the first img.
+- Generic modal (`ts/theme.ts`): `data-dialog-open="<dialog id>"` opens a `<dialog data-dialog>`; `data-dialog-close` or a backdrop click closes it. Only `dialog[data-dialog]` is handled (cart/search drawers keep their own logic).
+- Title reveal wraps forced line breaks in `span.reveal-break`; style accent words with `span:not(.reveal-break)`, never a bare `h1 span`.
+- Home hero (`ts/index.ts`): `hero-video`, `hero-film`, `hero-film-open`, `hero-film-close`, `hero-film-frame`
 
 ## Theme Preview
 
@@ -276,6 +287,9 @@ For branches connected directly to a Shopify theme, generated assets must be com
 | @display-studio/vite-plugin-shopify-theme | ^0.7.0 | Explicit entries, `vite-tag` snippet, `dev` CLI |
 | @display-studio/vite-plugin-shopify-devtools | ^0.4.0 | Liquid inspector in Vite DevTools |
 | Tailwind CSS | ^4 | CSS utility framework |
+| Lenis | ^1 | Smooth scroll on GSAP ticker (`ts/utils/motion.ts`) |
+| Embla Carousel | ^8.6 | Carousels (`ts/utils/carousel.ts`) |
+| GSAP | 3.13.0 | ScrollTrigger reveals/parallax, SplitText title masks |
 | Bun | latest | Package manager |
 
 ## Reference Repos
@@ -303,10 +317,20 @@ For branches connected directly to a Shopify theme, generated assets must be com
 ## Suggested Work Loop for AI
 
 1. Read this file (`AGENTS.md`) and `README.md`.
+   Read `docs/README.md`, `docs/BRIEF.md`, `docs/HANDOFF.md`, and `docs/TODO.md` before starting work.
 2. Edit TS behavior and Liquid markup in their correct layers.
 3. Preserve `data-js` hooks unless intentionally migrating both TS + Liquid.
 4. Run typecheck/build.
 5. Update docs/todo when architecture contracts change.
+
+## Project Tracking
+
+- Follow the tracking workflow in [docs/README.md](docs/README.md).
+- Keep confirmed scope and scope changes in `docs/BRIEF.md`; label unknowns and proposals explicitly.
+- Maintain task status and completion criteria in `docs/TODO.md` using stable task IDs.
+- After each work session, append changes and actual validation results to `docs/PROGRESS.md` and refresh `docs/HANDOFF.md` with current state, blockers, and the next action.
+- Record consequential decisions and rationale in `docs/DECISIONS.md`.
+- Do not invent historical completion, approved scope, or successful checks. Keep contributor rules in this file rather than duplicating them in tracking documents.
 
 ## Skill Workflow for Non-Trivial Changes
 

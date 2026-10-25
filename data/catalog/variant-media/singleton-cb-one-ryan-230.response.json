@@ -1,0 +1,21 @@
+{
+  "productVariantAppendMedia": {
+    "product": {
+      "id": "gid://shopify/Product/15439413248113"
+    },
+    "productVariants": [
+      {
+        "id": "gid://shopify/ProductVariant/67841302167665",
+        "sku": "Black",
+        "media": {
+          "nodes": [
+            {
+              "id": "gid://shopify/MediaImage/46284872679537"
+            }
+          ]
+        }
+      }
+    ],
+    "userErrors": []
+  }
+}

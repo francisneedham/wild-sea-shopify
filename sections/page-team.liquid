@@ -1,0 +1,112 @@
+{% doc %}
+  Team grid (legacy .team-grid): portrait, name, role and short bio per member block; "Read more" opens the full bio in a modal.
+  @example
+  Add to the About template and create one Member block per guide.
+{% enddoc %}
+{% render 'destination-styles' %}
+
+<section {% if section.settings.anchor != blank %}id="{{ section.settings.anchor | escape }}" {% endif %}class="destination-wrap destination-section">
+  {% render 'destination-top', kicker: section.settings.kicker, heading: section.settings.heading, intro: section.settings.intro %}
+  <div class="page-team">
+    {% for block in section.blocks %}
+      <article {{ block.shopify_attributes }}>
+        <div class="page-team__photo" data-reveal="image">
+          {% if block.settings.image != blank %}
+            {{ block.settings.image | image_url: width: 900 | image_tag: widths: '400, 600, 900', sizes: '(min-width: 1440px) 440px, (min-width: 761px) 30vw, 50vw', alt: block.settings.name, loading: 'lazy' }}
+          {% elsif block.settings.original != 'none' %}
+            {% render 'home-image', original: block.settings.original, alt: block.settings.name, sizes: '(min-width: 1440px) 440px, (min-width: 761px) 30vw, 50vw' %}
+          {% endif %}
+        </div>
+        <h3>{{ block.settings.name | escape }}</h3>
+        {% if block.settings.role != blank %}<span class="destination-kicker">{{ block.settings.role | escape }}</span>{% endif %}
+        {% if block.settings.bio != blank %}<div class="destination-body">{{ block.settings.bio }}</div>{% endif %}
+        {% if block.settings.bio_full != blank %}
+          {%- assign dialog_id = 'TeamBio-' | append: block.id -%}
+          <button type="button" class="page-team__more" data-dialog-open="{{ dialog_id }}" aria-haspopup="dialog">{{ section.settings.more_label | escape }} {% render 'lucide-icon', name: 'arrow-right' %}</button>
+          <dialog class="page-team__dialog" data-dialog id="{{ dialog_id }}" aria-labelledby="{{ dialog_id }}-name">
+            <button type="button" class="page-team__close" data-dialog-close aria-label="{{ 'general.close' | t }}">{% render 'lucide-icon', name: 'x' %}</button>
+            <div class="page-team__dialog-grid">
+              <div class="page-team__dialog-photo">
+                {% if block.settings.image != blank %}
+                  {{ block.settings.image | image_url: width: 1200 | image_tag: widths: '600, 900, 1200', sizes: '(min-width: 900px) 540px, 100vw', alt: block.settings.name, loading: 'lazy' }}
+                {% elsif block.settings.original != 'none' %}
+                  {% render 'home-image', original: block.settings.original, alt: block.settings.name, sizes: '(min-width: 900px) 540px, 100vw' %}
+                {% endif %}
+              </div>
+              <div class="page-team__dialog-text">
+                {% if block.settings.role != blank %}<p class="destination-eyebrow">{{ block.settings.role | escape }}</p>{% endif %}
+                <h3 id="{{ dialog_id }}-name">{{ block.settings.name | escape }}</h3>
+                <div class="destination-body">{{ block.settings.bio_full }}</div>
+              </div>
+            </div>
+          </dialog>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+{% stylesheet %}
+  .page-team { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 40px 25px; }
+  .page-team__photo { overflow: hidden; background: #d6dad2; }
+  .page-team__photo img { display: block; width: 100%; height: 350px; object-fit: cover; }
+  .page-team h3 { margin: 20px 0 7px; font-size: 31px; line-height: .98; text-transform: uppercase; }
+  .page-team .destination-kicker { margin-bottom: 10px; }
+  .page-team__more { display: inline-flex; align-items: center; gap: 14px; margin-top: 4px; padding: 10px 0; border: 0; border-bottom: 1px solid currentColor; background: none; color: inherit; font-size: var(--text-label); font-weight: 700; letter-spacing: .13em; text-transform: uppercase; cursor: pointer; }
+  .page-team__more svg { width: 14px; height: 14px; transition: transform .2s; }
+  .page-team__more:hover svg { transform: translateX(3px); }
+  /* Bio modal: sticky portrait left, scrolling text right. */
+  .page-team__dialog { width: min(1100px, calc(100% - 30px)); max-width: none; max-height: 90svh; margin: auto; padding: 0; border: 0; overflow-y: auto; background: #f6f5f0; color: #102c2d; box-shadow: 0 20px 70px #0004; }
+  .page-team__dialog::backdrop { background: #041a1ab3; backdrop-filter: blur(4px); }
+  .page-team__close { position: sticky; top: 0; z-index: 2; float: right; display: inline-flex; margin: 12px 12px -54px 0; padding: 10px; border: 0; border-radius: 50%; background: #f6f5f0; color: inherit; cursor: pointer; }
+  .page-team__close svg { width: 22px; height: 22px; }
+  .page-team__dialog-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); align-items: start; }
+  .page-team__dialog-photo { position: sticky; top: 0; height: 90svh; max-height: 760px; background: #d6dad2; }
+  .page-team__dialog-photo img { display: block; width: 100%; height: 100%; object-fit: cover; }
+  .page-team__dialog-text { padding: 60px 50px 50px; }
+  .page-team__dialog-text h3 { margin: 0 0 24px; font-size: clamp(40px, 4vw, 58px); line-height: .95; text-transform: uppercase; }
+  .page-team__dialog-text .destination-body { font-size: var(--text-base); }
+  @media (max-width: 760px) {
+    .page-team { grid-template-columns: 1fr 1fr; gap: 30px 15px; }
+    .page-team__photo img { height: 250px; }
+    .page-team h3 { font-size: 27px; }
+    .page-team__dialog-grid { grid-template-columns: 1fr; }
+    .page-team__dialog-photo { position: static; height: 320px; }
+    .page-team__dialog-text { padding: 30px 22px 40px; }
+  }
+{% endstylesheet %}
+
+{% schema %}
+{
+  "name": "Team",
+  "settings": [
+    { "type": "text", "id": "anchor", "label": "Anchor ID", "default": "team" },
+    { "type": "text", "id": "kicker", "label": "Eyebrow" },
+    { "type": "textarea", "id": "heading", "label": "Heading" },
+    { "type": "textarea", "id": "intro", "label": "Intro" },
+    { "type": "text", "id": "more_label", "label": "Read more label", "default": "Read more" }
+  ],
+  "blocks": [
+    {
+      "type": "member",
+      "name": "Member",
+      "settings": [
+        { "type": "image_picker", "id": "image", "label": "Portrait" },
+        { "type": "select", "id": "original", "label": "Bundled portrait (used when no image is picked)", "default": "none", "options": [
+          { "value": "none", "label": "None" },
+          { "value": "about-10", "label": "Nicola Vitali" },
+          { "value": "about-11", "label": "Joshua Wareham" },
+          { "value": "about-12", "label": "Robert Pljuscec" },
+          { "value": "about-13", "label": "Johan Persson Friberg" },
+          { "value": "about-14", "label": "Gareth Sims" }
+        ] },
+        { "type": "text", "id": "name", "label": "Name" },
+        { "type": "text", "id": "role", "label": "Role" },
+        { "type": "richtext", "id": "bio", "label": "Short bio (card)" },
+        { "type": "richtext", "id": "bio_full", "label": "Full bio (opens in a modal)" }
+      ]
+    }
+  ],
+  "presets": [{ "name": "Team" }]
+}
+{% endschema %}

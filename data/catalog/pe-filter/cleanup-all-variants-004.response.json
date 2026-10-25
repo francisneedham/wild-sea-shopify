@@ -1,0 +1,580 @@
+{
+  "productVariants": {
+    "edges": [
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NzYyNjYwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzg3NjI2NjA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841387626609",
+          "sku": "SQ7191530",
+          "product": {
+            "handle": "stickpop-22cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NzY1OTM3NywibGFzdF92YWx1ZSI6IjY3ODQxMzg3NjU5Mzc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841387659377",
+          "sku": "SQ1955957",
+          "product": {
+            "handle": "stickpop-22cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NzY5MjE0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzg3NjkyMTQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841387692145",
+          "sku": "SQ5510682",
+          "product": {
+            "handle": "stickpop-22cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NzcyNDkxMywibGFzdF92YWx1ZSI6IjY3ODQxMzg3NzI0OTEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841387724913",
+          "sku": "SQ7648587",
+          "product": {
+            "handle": "stickpop-22cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4Nzc1NzY4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzg3NzU3NjgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841387757681",
+          "sku": "SQ8631115",
+          "product": {
+            "handle": "stickpop-22cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4Nzc5MDQ0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzg3NzkwNDQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841387790449",
+          "sku": "SQ7803890",
+          "product": {
+            "handle": "stickpop-22cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4OTE5OTQ3MywibGFzdF92YWx1ZSI6IjY3ODQxMzg5MTk5NDczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841389199473",
+          "sku": "SQ4549114",
+          "product": {
+            "handle": "truth-ocean-sprinter-7510-standard-black-model",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "100"
+          },
+          "castMax": {
+            "value": "250"
+          },
+          "castingWeight": {
+            "value": "100–250 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2MjIzNzI5NywibGFzdF92YWx1ZSI6IjY3ODQyMjYyMjM3Mjk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842262237297",
+          "sku": "SQ9772854",
+          "product": {
+            "handle": "truth-ocean-sprinter-8110",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "100"
+          },
+          "castMax": {
+            "value": "270"
+          },
+          "castingWeight": {
+            "value": "100–270 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2MjU2NDk3NywibGFzdF92YWx1ZSI6IjY3ODQyMjYyNTY0OTc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842262564977",
+          "sku": "SQ3714593",
+          "product": {
+            "handle": "truth-ocean-sprinter-838",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "80"
+          },
+          "castMax": {
+            "value": "220"
+          },
+          "castingWeight": {
+            "value": "80–220 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2Mjk5MDk2MSwibGFzdF92YWx1ZSI6IjY3ODQyMjYyOTkwOTYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842262990961",
+          "sku": "SQ2879178",
+          "product": {
+            "handle": "truth-oceansprinter-711-rs",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "100"
+          },
+          "castMax": {
+            "value": "180"
+          },
+          "castingWeight": {
+            "value": "100–180 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2MzM4NDE3NywibGFzdF92YWx1ZSI6IjY3ODQyMjYzMzg0MTc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842263384177",
+          "sku": "SQ4908688",
+          "product": {
+            "handle": "truth-oceansprinter-856",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "30"
+          },
+          "castMax": {
+            "value": "130"
+          },
+          "castingWeight": {
+            "value": "30–130 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2MzkwODQ2NSwibGFzdF92YWx1ZSI6IjY3ODQyMjYzOTA4NDY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842263908465",
+          "sku": "SQ4645226",
+          "product": {
+            "handle": "truth-white-insight-611-12",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "80"
+          },
+          "castMax": {
+            "value": "250"
+          },
+          "castingWeight": {
+            "value": "80–250 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2NDMwMTY4MSwibGFzdF92YWx1ZSI6IjY3ODQyMjY0MzAxNjgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842264301681",
+          "sku": "SQ4827700",
+          "product": {
+            "handle": "truth-white-insight-7210-custom-red",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "60"
+          },
+          "castMax": {
+            "value": "250"
+          },
+          "castingWeight": {
+            "value": "60–250 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2NTYxMjQwMSwibGFzdF92YWx1ZSI6IjY3ODQyMjY1NjEyNDAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842265612401",
+          "sku": "SQ3061707",
+          "product": {
+            "handle": "truth-white-insight-7210-standard-black-model",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "60"
+          },
+          "castMax": {
+            "value": "250"
+          },
+          "castingWeight": {
+            "value": "60–250 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2NjA3MTE1MywibGFzdF92YWx1ZSI6IjY3ODQyMjY2MDcxMTUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842266071153",
+          "sku": "SQ0498986",
+          "product": {
+            "handle": "truth-white-insight-7415",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "70"
+          },
+          "castMax": {
+            "value": "250"
+          },
+          "castingWeight": {
+            "value": "70–250 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2NjEwMzkyMSwibGFzdF92YWx1ZSI6IjY3ODQyMjY2MTAzOTIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842266103921",
+          "sku": "SQ4564857",
+          "product": {
+            "handle": "truth-white-insight-7610",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "60"
+          },
+          "castMax": {
+            "value": "250"
+          },
+          "castingWeight": {
+            "value": "60–250 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2NjY5Mzc0NSwibGFzdF92YWx1ZSI6IjY3ODQyMjY2NjkzNzQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842266693745",
+          "sku": "SQ4607428",
+          "product": {
+            "handle": "truth-white-insight-828",
+            "productType": "Rods"
+          },
+          "castMin": {
+            "value": "30"
+          },
+          "castMax": {
+            "value": "200"
+          },
+          "castingWeight": {
+            "value": "30–200 g"
+          }
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2NzM4MTg3MywibGFzdF92YWx1ZSI6IjY3ODQyMjY3MzgxODczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842267381873",
+          "sku": "SQ8955977",
+          "product": {
+            "handle": "wild-gambler-rigin",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2NzQxNDY0MSwibGFzdF92YWx1ZSI6IjY3ODQyMjY3NDE0NjQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842267414641",
+          "sku": "SQ7854621",
+          "product": {
+            "handle": "wild-gambler-rigin",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2NzQ0NzQwOSwibGFzdF92YWx1ZSI6IjY3ODQyMjY3NDQ3NDA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842267447409",
+          "sku": "SQ2278712",
+          "product": {
+            "handle": "wild-gambler-rigin",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2NzQ4MDE3NywibGFzdF92YWx1ZSI6IjY3ODQyMjY3NDgwMTc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842267480177",
+          "sku": "SQ0394094",
+          "product": {
+            "handle": "wild-gambler-rigin",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2NzUxMjk0NSwibGFzdF92YWx1ZSI6IjY3ODQyMjY3NTEyOTQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842267512945",
+          "sku": "SQ8611879",
+          "product": {
+            "handle": "wild-gambler-rigin",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2NzU0NTcxMywibGFzdF92YWx1ZSI6IjY3ODQyMjY3NTQ1NzEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842267545713",
+          "sku": "SQ2502427",
+          "product": {
+            "handle": "wild-gambler-rigin",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2ODc1ODEyOSwibGFzdF92YWx1ZSI6IjY3ODQyMjY4NzU4MTI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842268758129",
+          "sku": "SQ6562399",
+          "product": {
+            "handle": "woodream-akiya-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2ODc5MDg5NywibGFzdF92YWx1ZSI6IjY3ODQyMjY4NzkwODk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842268790897",
+          "sku": "SQ7648304",
+          "product": {
+            "handle": "woodream-akiya-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2ODgyMzY2NSwibGFzdF92YWx1ZSI6IjY3ODQyMjY4ODIzNjY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842268823665",
+          "sku": "SQ7143061",
+          "product": {
+            "handle": "woodream-akiya-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2ODg1NjQzMywibGFzdF92YWx1ZSI6IjY3ODQyMjY4ODU2NDMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842268856433",
+          "sku": "SQ3143650",
+          "product": {
+            "handle": "woodream-akiya-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2OTM4MDcyMSwibGFzdF92YWx1ZSI6IjY3ODQyMjY5MzgwNzIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842269380721",
+          "sku": "SQ9590418",
+          "product": {
+            "handle": "wooodream-akiya-popper-215",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2OTQxMzQ4OSwibGFzdF92YWx1ZSI6IjY3ODQyMjY5NDEzNDg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842269413489",
+          "sku": "SQ1096296",
+          "product": {
+            "handle": "wooodream-akiya-popper-215",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2OTQ0NjI1NywibGFzdF92YWx1ZSI6IjY3ODQyMjY5NDQ2MjU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842269446257",
+          "sku": "SQ7060695",
+          "product": {
+            "handle": "wooodream-akiya-popper-215",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2OTQ3OTAyNSwibGFzdF92YWx1ZSI6IjY3ODQyMjY5NDc5MDI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842269479025",
+          "sku": "SQ8547122",
+          "product": {
+            "handle": "wooodream-akiya-popper-215",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2OTUxMTc5MywibGFzdF92YWx1ZSI6IjY3ODQyMjY5NTExNzkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842269511793",
+          "sku": "SQ4174714",
+          "product": {
+            "handle": "wooodream-akiya-popper-215",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2OTU0NDU2MSwibGFzdF92YWx1ZSI6IjY3ODQyMjY5NTQ0NTYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842269544561",
+          "sku": "SQ3684988",
+          "product": {
+            "handle": "wooodream-akiya-popper-215",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2OTU3NzMyOSwibGFzdF92YWx1ZSI6IjY3ODQyMjY5NTc3MzI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842269577329",
+          "sku": "SQ1397248",
+          "product": {
+            "handle": "wooodream-akiya-popper-215",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2OTYxMDA5NywibGFzdF92YWx1ZSI6IjY3ODQyMjY5NjEwMDk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842269610097",
+          "sku": "SQ4418084",
+          "product": {
+            "handle": "wooodream-akiya-popper-215",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MjI2OTY0Mjg2NSwibGFzdF92YWx1ZSI6IjY3ODQyMjY5NjQyODY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67842269642865",
+          "sku": "SQ2919639",
+          "product": {
+            "handle": "wooodream-akiya-popper-215",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      }
+    ],
+    "pageInfo": {
+      "hasNextPage": false,
+      "endCursor": "eyJsYXN0X2lkIjo2Nzg0MjI2OTY0Mjg2NSwibGFzdF92YWx1ZSI6IjY3ODQyMjY5NjQyODY1In0="
+    }
+  }
+}

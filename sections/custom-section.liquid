@@ -1,4 +1,12 @@
-<div class="custom-section full-width">
+{% doc %}
+  Renders an editable section of theme blocks with optional background image.
+  Uses section background-image and color-scheme settings.
+
+  @example
+  Add Custom section through the Theme Editor section picker.
+{% enddoc %}
+
+<div class="custom-section full-width color-scheme color-{{ section.settings.color_scheme }}">
   {% if section.settings.background_image %}
     <div class="custom-section__background">
       {{ section.settings.background_image | image_url: width: 2000 | image_tag }}
@@ -20,7 +28,7 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    z-index: -1;
+    inset: 0;
     overflow: hidden;
   }
   .custom-section__background img {
@@ -32,8 +40,9 @@
     transform: translate(-50%, -50%);
   }
   .custom-section__content {
+    position: relative;
     display: grid;
-    grid-template-columns: var(--content-grid);
+    grid-template-columns: minmax(var(--page-margin), 1fr) minmax(0, var(--page-width)) minmax(var(--page-margin), 1fr);
   }
   .custom-section__content > * {
     grid-column: 2;
@@ -45,6 +54,12 @@
   "name": "t:general.custom_section",
   "blocks": [{ "type": "@theme" }],
   "settings": [
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:labels.color_scheme",
+      "default": "scheme-1"
+    },
     {
       "type": "image_picker",
       "id": "background_image",

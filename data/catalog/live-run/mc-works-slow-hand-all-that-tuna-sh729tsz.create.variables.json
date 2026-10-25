@@ -1,0 +1,72 @@
+{
+  "input": {
+    "handle": "mc-works-slow-hand-all-that-tuna-sh729tsz",
+    "title": "MC Works Slow Hand All That Tuna SH729TSZ",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">HIGH-TORQUE FAST TAPER TSZ WITH A VIEW TO THE 200KG CLASS.<br />DEPENDING ON THE USER, IT IS POSSIBLE TO ACHIEVE A SHORT FIGHT TIME<br />IT WILL BE A HIGH-POWER MODEL.</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">LENGTH 7'2′′<br />LINE PE #10-12<br />CAST RANGE 150-250G<br />DRAG MAX 25KG</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ4295003",
+        "price": "720.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/621def1f-7ef7-4cc5-8c19-3a11c09d4005/sh+729+tsx.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Slow Hand All That Tuna SH729TSZ"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/79845856-a1b1-4ed4-9c14-e7932ec06d28/sh+768+tsx+2.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Slow Hand All That Tuna SH729TSZ"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/4fea4351-2616-45e0-a45a-8ee10d760ea0/sh+768+tsx+3.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Slow Hand All That Tuna SH729TSZ"
+      }
+    ]
+  }
+}

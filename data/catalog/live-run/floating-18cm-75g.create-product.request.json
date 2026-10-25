@@ -1,0 +1,211 @@
+{
+  "input": {
+    "handle": "floating-18cm-75g",
+    "title": "Glide Floating 18cm - 75g",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\">A PE5 to 8 floating stick of 18 cm and 75g of weight.</p><p style=\"white-space:pre-wrap;\">Very pleasant to use when armed with a front treble hook, frantic swimming, it feels very good in the tip of the rod during the action.</p><p style=\"white-space:pre-wrap;\">Best hook setup: 3/0 or 4/0 treble in front and inline hooks bkk diablo 9/0 or same weight back.</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Glide",
+      "18cm",
+      "75g",
+      "Floating",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-floating"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Black"
+          },
+          {
+            "name": "Pink"
+          },
+          {
+            "name": "Mahi"
+          },
+          {
+            "name": "Banana"
+          },
+          {
+            "name": "YouPop"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ8727577",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Black"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4176743",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Pink"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4821465",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Mahi"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ0653018",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Banana"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8168902",
+        "price": "50.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "YouPop"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/49ef407d-1d4b-4e1d-8e1a-4e2810924e9a/Glide-Floating-18cm-75g-black.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 18cm - 75g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/906fa7f7-8aa6-4a34-8842-378936433b7a/Glide-Floating-18cm-75g-pink.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 18cm - 75g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/94890220-036b-48ef-b891-81a9cdfd0d6e/Glide-Floating-18cm-75g-mahi.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 18cm - 75g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/af2daa1f-e8a3-4969-9464-8738f3fa1ea3/Glide-Floating-18cm-75g-banana.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 18cm - 75g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/77cb8475-e95f-4247-9d43-66a8f8cc0233/Glide-Floating-18cm-75g-youpop.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Floating 18cm - 75g"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

@@ -1,0 +1,60 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650324607089",
+      "handle": "los-roques",
+      "displayName": "Los Roques",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Los Roques"
+        },
+        {
+          "key": "caption",
+          "value": "Wade clear Caribbean flats for bonefish, permit and tarpon across the islands and cays of the Los Roques Archipelago."
+        },
+        {
+          "key": "season",
+          "value": "Year-round"
+        },
+        {
+          "key": "fishing_days",
+          "value": "6 full fishing days"
+        },
+        {
+          "key": "on_the_water",
+          "value": "Wading & guided boat trips"
+        },
+        {
+          "key": "target_species",
+          "value": "Bonefish, permit & tarpon"
+        },
+        {
+          "key": "listing_image",
+          "value": "gid://shopify/MediaImage/46288939450481"
+        },
+        {
+          "key": "region",
+          "value": "Venezuela · Caribbean Sea"
+        },
+        {
+          "key": "technique",
+          "value": "Fly fishing"
+        },
+        {
+          "key": "status",
+          "value": "available"
+        }
+      ],
+      "capabilities": {
+        "onlineStore": {
+          "templateSuffix": "los-roques"
+        },
+        "publishable": {
+          "status": "ACTIVE"
+        }
+      }
+    },
+    "userErrors": []
+  }
+}

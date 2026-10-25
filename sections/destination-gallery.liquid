@@ -1,0 +1,248 @@
+{% doc %}
+  Destination photo gallery (legacy expedition gallery): group filter chips, photo count, featured tile, full-screen lightbox.
+  Filtering and lightbox live in `ts/metaobject.ts`.
+  @example
+  Add photo blocks with a Group to get filter chips.
+{% enddoc %}
+{% render 'destination-styles' %}
+
+{%- liquid
+  assign groups = ''
+  for block in section.blocks
+    assign group = block.settings.group | strip
+    if group != blank
+      assign token = '|' | append: group | append: '|'
+      unless groups contains token
+        assign groups = groups | append: token
+      endunless
+    endif
+  endfor
+  assign group_list = groups | split: '|' | compact
+-%}
+
+<div {% if section.settings.anchor != blank %}id="{{ section.settings.anchor | escape }}" {% endif %}class="destination-bg--{{ section.settings.background }}">
+  <section class="destination-wrap destination-section" data-js="destination-gallery">
+    {% render 'destination-top', kicker: section.settings.kicker, heading: section.settings.heading, intro: section.settings.intro %}
+
+    {% if group_list.size > 0 %}
+      <div class="destination-gallery__filters">
+        <button type="button" class="destination-chip" data-js="gallery-filter" data-group="" aria-pressed="true">{{ section.settings.all_label | escape }}</button>
+        {% for group in group_list %}
+          {% if group != blank %}<button type="button" class="destination-chip" data-js="gallery-filter" data-group="{{ group | escape }}" aria-pressed="false">{{ group | escape }}</button>{% endif %}
+        {% endfor %}
+        <span class="destination-gallery__count" data-js="gallery-count" aria-live="polite">{{ section.blocks.size }} photographs</span>
+      </div>
+    {% endif %}
+
+    <div class="destination-gallery__grid">
+      {% for block in section.blocks %}
+        <button
+          type="button"
+          class="destination-gallery__photo{% if block.settings.featured %} destination-gallery__photo--featured{% endif %}"
+          data-js="gallery-photo"
+          data-group="{{ block.settings.group | strip | escape }}"
+          data-caption="{{ block.settings.caption | escape }}"
+          aria-label="Open photo: {{ block.settings.caption | escape }}"
+          {{ block.shopify_attributes }}
+        >
+          {%- if block.settings.featured -%}
+            {%- assign photo_sizes = '(min-width: 1440px) 650px, (min-width: 761px) 46vw, calc(100vw - 44px)' -%}
+          {%- else -%}
+            {%- assign photo_sizes = '(min-width: 1440px) 320px, (min-width: 761px) 23vw, 50vw' -%}
+          {%- endif -%}
+          {% render 'destination-photo', image: block.settings.image, original: block.settings.original, alt: block.settings.caption, sizes: photo_sizes %}
+          {% if block.settings.group != blank %}<span class="destination-gallery__label">{{ block.settings.group | escape }} {% render 'lucide-icon', name: 'maximize-2' %}</span>{% endif %}
+        </button>
+      {% endfor %}
+    </div>
+
+    {% if section.settings.note != blank %}<p class="destination-note destination-note--subtle">{{ section.settings.note | escape }}</p>{% endif %}
+
+    <dialog class="destination-lightbox" data-js="gallery-lightbox" aria-label="{{ section.settings.heading | escape }}">
+      <button type="button" class="destination-lightbox__close" data-js="gallery-close" aria-label="{{ 'general.close' | t }}">{% render 'lucide-icon', name: 'x' %}</button>
+      <img class="destination-lightbox__image" data-js="gallery-lightbox-image" src="data:," alt="" width="1500" height="1000">
+      <div class="destination-lightbox__bottom">
+        <p data-js="gallery-lightbox-caption"></p>
+        <div class="destination-lightbox__controls">
+          <button type="button" data-js="gallery-prev" aria-label="Previous photo">{% render 'lucide-icon', name: 'arrow-left' %}</button>
+          <span data-js="gallery-lightbox-index"></span>
+          <button type="button" data-js="gallery-next" aria-label="Next photo">{% render 'lucide-icon', name: 'arrow-right' %}</button>
+        </div>
+      </div>
+    </dialog>
+  </section>
+</div>
+
+{% schema %}
+{
+  "name": "Destination gallery",
+  "settings": [
+    {
+      "type": "text",
+      "id": "anchor",
+      "label": "Anchor ID"
+    },
+    {
+      "type": "select",
+      "id": "background",
+      "label": "Background",
+      "default": "sage",
+      "options": [
+        {
+          "value": "none",
+          "label": "Page"
+        },
+        {
+          "value": "sage",
+          "label": "Sage"
+        },
+        {
+          "value": "stone",
+          "label": "Stone"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "kicker",
+      "label": "Eyebrow"
+    },
+    {
+      "type": "textarea",
+      "id": "heading",
+      "label": "Heading"
+    },
+    {
+      "type": "textarea",
+      "id": "intro",
+      "label": "Intro"
+    },
+    {
+      "type": "text",
+      "id": "all_label",
+      "label": "\"All\" filter label",
+      "default": "All photos"
+    },
+    {
+      "type": "textarea",
+      "id": "note",
+      "label": "Note under the grid"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "photo",
+      "name": "Photo",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "select",
+          "id": "original",
+          "label": "Bundled photo (used when no image is picked)",
+          "default": "none",
+          "options": [
+            {
+              "value": "none",
+              "label": "None"
+            },
+            {
+              "value": "socotra-0",
+              "label": "Socotra photo 0"
+            },
+            {
+              "value": "socotra-1",
+              "label": "Socotra photo 1"
+            },
+            {
+              "value": "socotra-2",
+              "label": "Socotra photo 2"
+            },
+            {
+              "value": "socotra-3",
+              "label": "Socotra photo 3"
+            },
+            {
+              "value": "socotra-4",
+              "label": "Socotra photo 4"
+            },
+            {
+              "value": "socotra-5",
+              "label": "Socotra photo 5"
+            },
+            {
+              "value": "socotra-6",
+              "label": "Socotra photo 6"
+            },
+            {
+              "value": "socotra-7",
+              "label": "Socotra photo 7"
+            },
+            {
+              "value": "socotra-8",
+              "label": "Socotra photo 8"
+            },
+            {
+              "value": "socotra-9",
+              "label": "Socotra photo 9"
+            },
+            {
+              "value": "socotra-10",
+              "label": "Socotra photo 10"
+            },
+            {
+              "value": "socotra-11",
+              "label": "Socotra photo 11"
+            },
+            {
+              "value": "socotra-12",
+              "label": "Socotra photo 12"
+            },
+            {
+              "value": "socotra-13",
+              "label": "Socotra photo 13"
+            },
+            {
+              "value": "socotra-14",
+              "label": "Socotra photo 14"
+            },
+            {
+              "value": "socotra-15",
+              "label": "Socotra photo 15"
+            },
+            {
+              "value": "socotra-16",
+              "label": "Socotra photo 16"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "group",
+          "label": "Group",
+          "info": "Filter chip, e.g. Catches, On the water, Base camp, Tackle."
+        },
+        {
+          "type": "text",
+          "id": "caption",
+          "label": "Caption (also the image description)"
+        },
+        {
+          "type": "checkbox",
+          "id": "featured",
+          "label": "Large tile",
+          "default": false
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Destination gallery"
+    }
+  ]
+}
+{% endschema %}

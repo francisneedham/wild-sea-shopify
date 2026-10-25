@@ -1,0 +1,1410 @@
+{
+  "productVariants": {
+    "edges": [
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MTM3MzY4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzcxMzczNjgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841371373681",
+          "sku": "SQ7588783",
+          "product": {
+            "handle": "native-works-napalm-200",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MzQzODA2NSwibGFzdF92YWx1ZSI6IjY3ODQxMzczNDM4MDY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841373438065",
+          "sku": "SQ6202744",
+          "product": {
+            "handle": "native-works-napalm-220",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MzQ3MDgzMywibGFzdF92YWx1ZSI6IjY3ODQxMzczNDcwODMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841373470833",
+          "sku": "SQ1820657",
+          "product": {
+            "handle": "native-works-napalm-220",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MzUwMzYwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzczNTAzNjAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841373503601",
+          "sku": "SQ8382225",
+          "product": {
+            "handle": "native-works-napalm-220",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MzUzNjM2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzczNTM2MzY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841373536369",
+          "sku": "SQ8732608",
+          "product": {
+            "handle": "native-works-napalm-220",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MzU2OTEzNywibGFzdF92YWx1ZSI6IjY3ODQxMzczNTY5MTM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841373569137",
+          "sku": "SQ9623535",
+          "product": {
+            "handle": "native-works-napalm-220",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MzYwMTkwNSwibGFzdF92YWx1ZSI6IjY3ODQxMzczNjAxOTA1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841373601905",
+          "sku": "SQ4138495",
+          "product": {
+            "handle": "native-works-napalm-220",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3MzYzNDY3MywibGFzdF92YWx1ZSI6IjY3ODQxMzczNjM0NjczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841373634673",
+          "sku": "SQ0782892",
+          "product": {
+            "handle": "native-works-napalm-220",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NDQ4NjY0MSwibGFzdF92YWx1ZSI6IjY3ODQxMzc0NDg2NjQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841374486641",
+          "sku": "SQ7268835",
+          "product": {
+            "handle": "native-works-napalm-250",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NDUxOTQwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzc0NTE5NDA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841374519409",
+          "sku": "SQ5571575",
+          "product": {
+            "handle": "native-works-napalm-250",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NDU1MjE3NywibGFzdF92YWx1ZSI6IjY3ODQxMzc0NTUyMTc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841374552177",
+          "sku": "SQ4390825",
+          "product": {
+            "handle": "native-works-napalm-250",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NDU4NDk0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzc0NTg0OTQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841374584945",
+          "sku": "SQ1374809",
+          "product": {
+            "handle": "native-works-napalm-250",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NDYxNzcxMywibGFzdF92YWx1ZSI6IjY3ODQxMzc0NjE3NzEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841374617713",
+          "sku": "SQ0757410",
+          "product": {
+            "handle": "native-works-napalm-250",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NTMzODYwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzc1MzM4NjA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841375338609",
+          "sku": "SQ0795181",
+          "product": {
+            "handle": "native-works-rattler-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NTM3MTM3NywibGFzdF92YWx1ZSI6IjY3ODQxMzc1MzcxMzc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841375371377",
+          "sku": "SQ5741887",
+          "product": {
+            "handle": "native-works-rattler-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NTQwNDE0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzc1NDA0MTQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841375404145",
+          "sku": "SQ0358744",
+          "product": {
+            "handle": "native-works-rattler-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NTQzNjkxMywibGFzdF92YWx1ZSI6IjY3ODQxMzc1NDM2OTEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841375436913",
+          "sku": "SQ3114539",
+          "product": {
+            "handle": "native-works-rattler-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NTQ2OTY4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzc1NDY5NjgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841375469681",
+          "sku": "SQ3347494",
+          "product": {
+            "handle": "native-works-rattler-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NTkyODQzMywibGFzdF92YWx1ZSI6IjY3ODQxMzc1OTI4NDMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841375928433",
+          "sku": "SQ6821677",
+          "product": {
+            "handle": "native-works-rattler-230",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NTk2MTIwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzc1OTYxMjAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841375961201",
+          "sku": "SQ6651220",
+          "product": {
+            "handle": "native-works-rattler-230",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NTk5Mzk2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzc1OTkzOTY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841375993969",
+          "sku": "SQ2112243",
+          "product": {
+            "handle": "native-works-rattler-230",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NjAyNjczNywibGFzdF92YWx1ZSI6IjY3ODQxMzc2MDI2NzM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841376026737",
+          "sku": "SQ2901320",
+          "product": {
+            "handle": "native-works-rattler-230",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NjUxODI1NywibGFzdF92YWx1ZSI6IjY3ODQxMzc2NTE4MjU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841376518257",
+          "sku": "SQ1060796",
+          "product": {
+            "handle": "native-works-tank-popper-190",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NjU1MTAyNSwibGFzdF92YWx1ZSI6IjY3ODQxMzc2NTUxMDI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841376551025",
+          "sku": "SQ1302102",
+          "product": {
+            "handle": "native-works-tank-popper-190",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NjU4Mzc5MywibGFzdF92YWx1ZSI6IjY3ODQxMzc2NTgzNzkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841376583793",
+          "sku": "SQ6481537",
+          "product": {
+            "handle": "native-works-tank-popper-190",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NjYxNjU2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzc2NjE2NTYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841376616561",
+          "sku": "SQ4015776",
+          "product": {
+            "handle": "native-works-tank-popper-190",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NjY0OTMyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzc2NjQ5MzI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841376649329",
+          "sku": "SQ3954638",
+          "product": {
+            "handle": "native-works-tank-popper-190",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NjY4MjA5NywibGFzdF92YWx1ZSI6IjY3ODQxMzc2NjgyMDk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841376682097",
+          "sku": "SQ2227887",
+          "product": {
+            "handle": "native-works-tank-popper-190",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NjcxNDg2NSwibGFzdF92YWx1ZSI6IjY3ODQxMzc2NzE0ODY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841376714865",
+          "sku": "SQ2234384",
+          "product": {
+            "handle": "native-works-tank-popper-190",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3Njc0NzYzMywibGFzdF92YWx1ZSI6IjY3ODQxMzc2NzQ3NjMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841376747633",
+          "sku": "SQ6393804",
+          "product": {
+            "handle": "native-works-tank-popper-190",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3Njc4MDQwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzc2NzgwNDAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841376780401",
+          "sku": "SQ4796736",
+          "product": {
+            "handle": "native-works-tank-popper-190",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NjgxMzE2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzc2ODEzMTY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841376813169",
+          "sku": "SQ2241956",
+          "product": {
+            "handle": "native-works-tank-popper-190",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NzM3MDIyNSwibGFzdF92YWx1ZSI6IjY3ODQxMzc3MzcwMjI1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841377370225",
+          "sku": "SQ8875384",
+          "product": {
+            "handle": "patriot-design-master-bomb-big-cup-90",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NzQwMjk5MywibGFzdF92YWx1ZSI6IjY3ODQxMzc3NDAyOTkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841377402993",
+          "sku": "SQ5417582",
+          "product": {
+            "handle": "patriot-design-master-bomb-big-cup-90",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NzQzNTc2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzc3NDM1NzYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841377435761",
+          "sku": "SQ9259378",
+          "product": {
+            "handle": "patriot-design-master-bomb-big-cup-90",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NzQ2ODUyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzc3NDY4NTI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841377468529",
+          "sku": "SQ4370188",
+          "product": {
+            "handle": "patriot-design-master-bomb-big-cup-90",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NzUwMTI5NywibGFzdF92YWx1ZSI6IjY3ODQxMzc3NTAxMjk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841377501297",
+          "sku": "SQ5182833",
+          "product": {
+            "handle": "patriot-design-master-bomb-big-cup-90",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NzUzNDA2NSwibGFzdF92YWx1ZSI6IjY3ODQxMzc3NTM0MDY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841377534065",
+          "sku": "SQ1762362",
+          "product": {
+            "handle": "patriot-design-master-bomb-big-cup-90",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3NzU2NjgzMywibGFzdF92YWx1ZSI6IjY3ODQxMzc3NTY2ODMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841377566833",
+          "sku": "SQ1396933",
+          "product": {
+            "handle": "patriot-design-master-bomb-big-cup-90",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3ODIyMjE5MywibGFzdF92YWx1ZSI6IjY3ODQxMzc4MjIyMTkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841378222193",
+          "sku": "SQ6283810",
+          "product": {
+            "handle": "popper-18cm-130g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3ODI1NDk2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzc4MjU0OTYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841378254961",
+          "sku": "SQ4259113",
+          "product": {
+            "handle": "popper-18cm-130g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3ODI4NzcyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzc4Mjg3NzI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841378287729",
+          "sku": "SQ9777578",
+          "product": {
+            "handle": "popper-18cm-130g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3ODMyMDQ5NywibGFzdF92YWx1ZSI6IjY3ODQxMzc4MzIwNDk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841378320497",
+          "sku": "SQ8530309",
+          "product": {
+            "handle": "popper-18cm-130g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3ODM1MzI2NSwibGFzdF92YWx1ZSI6IjY3ODQxMzc4MzUzMjY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841378353265",
+          "sku": "SQ3206746",
+          "product": {
+            "handle": "popper-18cm-130g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3ODM4NjAzMywibGFzdF92YWx1ZSI6IjY3ODQxMzc4Mzg2MDMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841378386033",
+          "sku": "SQ3321847",
+          "product": {
+            "handle": "popper-18cm-130g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3OTE3MjQ2NSwibGFzdF92YWx1ZSI6IjY3ODQxMzc5MTcyNDY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841379172465",
+          "sku": "SQ2806036",
+          "product": {
+            "handle": "popper-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3OTIwNTIzMywibGFzdF92YWx1ZSI6IjY3ODQxMzc5MjA1MjMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841379205233",
+          "sku": "SQ1778175",
+          "product": {
+            "handle": "popper-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3OTIzODAwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzc5MjM4MDAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841379238001",
+          "sku": "SQ2816028",
+          "product": {
+            "handle": "popper-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3OTI3MDc2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzc5MjcwNzY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841379270769",
+          "sku": "SQ4988796",
+          "product": {
+            "handle": "popper-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3OTMwMzUzNywibGFzdF92YWx1ZSI6IjY3ODQxMzc5MzAzNTM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841379303537",
+          "sku": "SQ2905866",
+          "product": {
+            "handle": "popper-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM3OTMzNjMwNSwibGFzdF92YWx1ZSI6IjY3ODQxMzc5MzM2MzA1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841379336305",
+          "sku": "SQ8157867",
+          "product": {
+            "handle": "popper-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MDE1NTUwNSwibGFzdF92YWx1ZSI6IjY3ODQxMzgwMTU1NTA1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841380155505",
+          "sku": "SQ5925045",
+          "product": {
+            "handle": "popper-22cm-110g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MDE4ODI3MywibGFzdF92YWx1ZSI6IjY3ODQxMzgwMTg4MjczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841380188273",
+          "sku": "SQ8035429",
+          "product": {
+            "handle": "popper-22cm-110g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MDIyMTA0MSwibGFzdF92YWx1ZSI6IjY3ODQxMzgwMjIxMDQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841380221041",
+          "sku": "SQ1785377",
+          "product": {
+            "handle": "popper-22cm-110g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MDI1MzgwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzgwMjUzODA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841380253809",
+          "sku": "SQ6803691",
+          "product": {
+            "handle": "popper-22cm-110g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MDI4NjU3NywibGFzdF92YWx1ZSI6IjY3ODQxMzgwMjg2NTc3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841380286577",
+          "sku": "SQ3177287",
+          "product": {
+            "handle": "popper-22cm-110g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MDMxOTM0NSwibGFzdF92YWx1ZSI6IjY3ODQxMzgwMzE5MzQ1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841380319345",
+          "sku": "SQ8842762",
+          "product": {
+            "handle": "popper-22cm-110g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MDM1MjExMywibGFzdF92YWx1ZSI6IjY3ODQxMzgwMzUyMTEzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841380352113",
+          "sku": "SQ4793061",
+          "product": {
+            "handle": "popper-22cm-110g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MDM4NDg4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzgwMzg0ODgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841380384881",
+          "sku": "SQ2651929",
+          "product": {
+            "handle": "popper-22cm-110g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MDQxNzY0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzgwNDE3NjQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841380417649",
+          "sku": "SQ7245243",
+          "product": {
+            "handle": "popper-22cm-110g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MDQ1MDQxNywibGFzdF92YWx1ZSI6IjY3ODQxMzgwNDUwNDE3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841380450417",
+          "sku": "SQ8282102",
+          "product": {
+            "handle": "popper-22cm-110g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MTAwNzQ3MywibGFzdF92YWx1ZSI6IjY3ODQxMzgxMDA3NDczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841381007473",
+          "sku": "SQ4320435",
+          "product": {
+            "handle": "rodcom-straight-shore-ss-10015-sf047y",
+            "productType": "Rods"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MTU5NzI5NywibGFzdF92YWx1ZSI6IjY3ODQxMzgxNTk3Mjk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841381597297",
+          "sku": "SQ5754232",
+          "product": {
+            "handle": "rst-supply-nezul-210",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MjMxODE5MywibGFzdF92YWx1ZSI6IjY3ODQxMzgyMzE4MTkzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382318193",
+          "sku": "SQ6791078",
+          "product": {
+            "handle": "rst-supply-rilana-180f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MjM1MDk2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzgyMzUwOTYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382350961",
+          "sku": "SQ6074839",
+          "product": {
+            "handle": "rst-supply-rilana-180f",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MjQ4MjAzMywibGFzdF92YWx1ZSI6IjY3ODQxMzgyNDgyMDMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382482033",
+          "sku": "SQ8909010",
+          "product": {
+            "handle": "sinking-10cm-50g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MjUxNDgwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzgyNTE0ODAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382514801",
+          "sku": "SQ0570592",
+          "product": {
+            "handle": "sinking-10cm-50g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MjU0NzU2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzgyNTQ3NTY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382547569",
+          "sku": "SQ3679915",
+          "product": {
+            "handle": "sinking-10cm-50g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MjU4MDMzNywibGFzdF92YWx1ZSI6IjY3ODQxMzgyNTgwMzM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382580337",
+          "sku": "SQ8328549",
+          "product": {
+            "handle": "sinking-10cm-50g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MjYxMzEwNSwibGFzdF92YWx1ZSI6IjY3ODQxMzgyNjEzMTA1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382613105",
+          "sku": "SQ6002304",
+          "product": {
+            "handle": "sinking-10cm-50g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MjY0NTg3MywibGFzdF92YWx1ZSI6IjY3ODQxMzgyNjQ1ODczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382645873",
+          "sku": "SQ2629408",
+          "product": {
+            "handle": "sinking-10cm-50g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MjY3ODY0MSwibGFzdF92YWx1ZSI6IjY3ODQxMzgyNjc4NjQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382678641",
+          "sku": "SQ4155596",
+          "product": {
+            "handle": "sinking-10cm-50g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MjcxMTQwOSwibGFzdF92YWx1ZSI6IjY3ODQxMzgyNzExNDA5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382711409",
+          "sku": "SQ0681038",
+          "product": {
+            "handle": "sinking-10cm-50g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4Mjg3NTI0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzgyODc1MjQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382875249",
+          "sku": "SQ8371419",
+          "product": {
+            "handle": "sinking-14cm-80g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MjkwODAxNywibGFzdF92YWx1ZSI6IjY3ODQxMzgyOTA4MDE3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382908017",
+          "sku": "SQ6428731",
+          "product": {
+            "handle": "sinking-14cm-80g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4Mjk0MDc4NSwibGFzdF92YWx1ZSI6IjY3ODQxMzgyOTQwNzg1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382940785",
+          "sku": "SQ7213301",
+          "product": {
+            "handle": "sinking-14cm-80g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4Mjk3MzU1MywibGFzdF92YWx1ZSI6IjY3ODQxMzgyOTczNTUzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841382973553",
+          "sku": "SQ6283725",
+          "product": {
+            "handle": "sinking-14cm-80g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MzAwNjMyMSwibGFzdF92YWx1ZSI6IjY3ODQxMzgzMDA2MzIxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841383006321",
+          "sku": "SQ4286020",
+          "product": {
+            "handle": "sinking-14cm-80g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MzAzOTA4OSwibGFzdF92YWx1ZSI6IjY3ODQxMzgzMDM5MDg5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841383039089",
+          "sku": "SQ0478688",
+          "product": {
+            "handle": "sinking-14cm-80g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MzA3MTg1NywibGFzdF92YWx1ZSI6IjY3ODQxMzgzMDcxODU3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841383071857",
+          "sku": "SQ1274080",
+          "product": {
+            "handle": "sinking-14cm-80g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MzY2MTY4MSwibGFzdF92YWx1ZSI6IjY3ODQxMzgzNjYxNjgxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841383661681",
+          "sku": "SQ4726944",
+          "product": {
+            "handle": "sinking-18cm-100g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MzY5NDQ0OSwibGFzdF92YWx1ZSI6IjY3ODQxMzgzNjk0NDQ5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841383694449",
+          "sku": "SQ1588900",
+          "product": {
+            "handle": "sinking-18cm-100g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4MzcyNzIxNywibGFzdF92YWx1ZSI6IjY3ODQxMzgzNzI3MjE3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841383727217",
+          "sku": "SQ3218967",
+          "product": {
+            "handle": "sinking-18cm-100g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NDgwODU2MSwibGFzdF92YWx1ZSI6IjY3ODQxMzg0ODA4NTYxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841384808561",
+          "sku": "SQ8821546",
+          "product": {
+            "handle": "stickpop-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NDg0MTMyOSwibGFzdF92YWx1ZSI6IjY3ODQxMzg0ODQxMzI5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841384841329",
+          "sku": "SQ0230919",
+          "product": {
+            "handle": "stickpop-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NDg3NDA5NywibGFzdF92YWx1ZSI6IjY3ODQxMzg0ODc0MDk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841384874097",
+          "sku": "SQ5469331",
+          "product": {
+            "handle": "stickpop-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NDkwNjg2NSwibGFzdF92YWx1ZSI6IjY3ODQxMzg0OTA2ODY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841384906865",
+          "sku": "SQ0065414",
+          "product": {
+            "handle": "stickpop-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NDkzOTYzMywibGFzdF92YWx1ZSI6IjY3ODQxMzg0OTM5NjMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841384939633",
+          "sku": "SQ9311074",
+          "product": {
+            "handle": "stickpop-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NDk3MjQwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzg0OTcyNDAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841384972401",
+          "sku": "SQ0747067",
+          "product": {
+            "handle": "stickpop-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NTAwNTE2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzg1MDA1MTY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841385005169",
+          "sku": "SQ9017232",
+          "product": {
+            "handle": "stickpop-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NTAzNzkzNywibGFzdF92YWx1ZSI6IjY3ODQxMzg1MDM3OTM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841385037937",
+          "sku": "SQ3543332",
+          "product": {
+            "handle": "stickpop-18cm-75g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NjUxMjQ5NywibGFzdF92YWx1ZSI6IjY3ODQxMzg2NTEyNDk3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841386512497",
+          "sku": "SQ7581226",
+          "product": {
+            "handle": "stickpop-20cm-105g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NjU0NTI2NSwibGFzdF92YWx1ZSI6IjY3ODQxMzg2NTQ1MjY1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841386545265",
+          "sku": "SQ2319235",
+          "product": {
+            "handle": "stickpop-20cm-105g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NjU3ODAzMywibGFzdF92YWx1ZSI6IjY3ODQxMzg2NTc4MDMzIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841386578033",
+          "sku": "SQ0452227",
+          "product": {
+            "handle": "stickpop-20cm-105g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NjYxMDgwMSwibGFzdF92YWx1ZSI6IjY3ODQxMzg2NjEwODAxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841386610801",
+          "sku": "SQ0859850",
+          "product": {
+            "handle": "stickpop-20cm-105g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NjY0MzU2OSwibGFzdF92YWx1ZSI6IjY3ODQxMzg2NjQzNTY5In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841386643569",
+          "sku": "SQ7270156",
+          "product": {
+            "handle": "stickpop-20cm-105g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NjY3NjMzNywibGFzdF92YWx1ZSI6IjY3ODQxMzg2Njc2MzM3In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841386676337",
+          "sku": "SQ8096117",
+          "product": {
+            "handle": "stickpop-20cm-105g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NjcwOTEwNSwibGFzdF92YWx1ZSI6IjY3ODQxMzg2NzA5MTA1In0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841386709105",
+          "sku": "SQ7885850",
+          "product": {
+            "handle": "stickpop-20cm-105g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4Njc0MTg3MywibGFzdF92YWx1ZSI6IjY3ODQxMzg2NzQxODczIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841386741873",
+          "sku": "SQ4227470",
+          "product": {
+            "handle": "stickpop-20cm-105g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      },
+      {
+        "cursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NzU5Mzg0MSwibGFzdF92YWx1ZSI6IjY3ODQxMzg3NTkzODQxIn0=",
+        "node": {
+          "id": "gid://shopify/ProductVariant/67841387593841",
+          "sku": "SQ4099842",
+          "product": {
+            "handle": "stickpop-22cm-150g",
+            "productType": "Lures"
+          },
+          "castMin": null,
+          "castMax": null,
+          "castingWeight": null
+        }
+      }
+    ],
+    "pageInfo": {
+      "hasNextPage": true,
+      "endCursor": "eyJsYXN0X2lkIjo2Nzg0MTM4NzU5Mzg0MSwibGFzdF92YWx1ZSI6IjY3ODQxMzg3NTkzODQxIn0="
+    }
+  }
+}

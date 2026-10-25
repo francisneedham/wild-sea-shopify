@@ -1,0 +1,72 @@
+{
+  "input": {
+    "handle": "truth-oceansprinter-711-rs",
+    "title": "Truth Ocean sprinter 711RS",
+    "descriptionHtml": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>This model offers a sharp casting feeling, outstanding distance, manual operation feel and speedy lift.<br /><br />For anglers who prefer a faster action.</strong></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The current OceanSprinter 838/8110 was developed with the primary focus on ease of catching fish and ease of control.<br /><br />The new 711 is designed for ease of casting and operability, especially for poppers (HAMMERHEAD C/D/E and other diving poppers (HAMMERHEAD Jakure / NativeWorks The tone is specialized for the operability of Napalm 220, 250, etc.<br />Of course, with ingenuity and fine-tuning on the angler's side, it can also be used for diving pencil operation.<br /><br />The blank repulsion has been increased, improving the response of manual operation of lures and other actions.<br />It is set to a short length so that it can be used comfortably for long periods of time.<br /><br />After a hit, the blank repulsion is used to create a tone that can handle faster developments.<br />The degree of completion is high from the prototype No. 1, and in 2019, we have been fishing in various fields with the help of our collaborators.<br /><br />There is no room for improvement in the development concept, and it has been completed as a wonderful model.<br /><br />As you can imagine, when casting, the release point and sweet spot are also narrow. (Personally, I think that around 140g is the easiest and most comfortable way to cast.) If you are confident in your strength, you can cast it further than the indication below.<br /><br />It is also possible to perform a diving pencil action that cannot be expressed with a soft tip.<br />I feel that it is also effective for casting yellowtail that preys on large bait.<br /><br />(RS: response It is an abbreviation for &quot;Reaction&quot;, &quot;Response&quot;, and &quot;Good response!&quot;.<br /><br />Note: Although it is a hard and resilient blank, it is not as sticky as the WhiteInsight series, so please be careful not to stand it up too much when fighting directly below.</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ2879178",
+        "price": "800.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/91558ce4-eee6-4bfa-a9f8-4b4ebf3cb757/sprinter+711+1.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean sprinter 711RS"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b11588ca-730b-4b32-9414-495ebaaac066/sprinter+711+2.jpg",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean sprinter 711RS"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9fc5e072-655b-48e3-aafb-c18906799543/DSC_0581sssdsd.JPG",
+        "contentType": "IMAGE",
+        "alt": "Truth Ocean sprinter 711RS"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

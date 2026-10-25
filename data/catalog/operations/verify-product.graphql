@@ -1,0 +1,17 @@
+query VerifyLegacyProduct($id: ID!, $locationId: ID!) { product(id: $id) { ...CatalogProductFields } }
+fragment CatalogProductFields on Product {
+  id handle status title
+  resourcePublicationsV2(first: 50) { nodes { isPublished publication { id } } pageInfo { hasNextPage } }
+  variants(first: 100) {
+    nodes {
+      id sku price compareAtPrice inventoryPolicy
+      selectedOptions { name value }
+      inventoryItem {
+        tracked requiresShipping measurement { weight { value unit } }
+        inventoryLevel(locationId: $locationId) { quantities(names: ["available"]) { name quantity } }
+      }
+    }
+    pageInfo { hasNextPage }
+  }
+  media(first: 100) { nodes { id status mediaErrors { code message } } pageInfo { hasNextPage } }
+}

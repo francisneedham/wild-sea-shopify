@@ -1,0 +1,20 @@
+{
+  "metaobjectUpsert": {
+    "metaobject": {
+      "id": "gid://shopify/Metaobject/650467836017",
+      "handle": "silver",
+      "displayName": "Silver",
+      "fields": [
+        {
+          "key": "label",
+          "value": "Silver"
+        },
+        {
+          "key": "swatch_color",
+          "value": "#B8C1C7"
+        }
+      ]
+    },
+    "userErrors": []
+  }
+}

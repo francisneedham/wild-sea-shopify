@@ -1,0 +1,175 @@
+{
+  "input": {
+    "handle": "hammerhead-tobi-140-sus",
+    "title": "Hammerhead Tobi 140 SUS",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>One of the most popular pencil popper, on fast retrieve the lure skip water creating a trail behind initiating the ultimate topwater strikes!</span><br /><span>One of the most popular GT fishing lure, target species, GT, Tuna, Pelagic.</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length 245 </span> mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr. 140</p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Yellowfin Tuna"
+          },
+          {
+            "name": "Orange Nemo"
+          },
+          {
+            "name": "Black"
+          },
+          {
+            "name": "Pearl"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6888012",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Yellowfin Tuna"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.23,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "sku": "SQ0095289",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Orange Nemo"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.23,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8584270",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Black"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.23,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ4745268",
+        "price": "90.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Pearl"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.23,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9ae0c63d-edd2-44eb-bc67-b304a5661e25/tobi1.jpg",
+        "contentType": "IMAGE",
+        "alt": "Hammerhead Tobi 140 SUS"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/bd5ffbc5-f64a-4cb2-9443-6c7407ee9748/tobi2.jpg",
+        "contentType": "IMAGE",
+        "alt": "Hammerhead Tobi 140 SUS"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/9b39cd6e-3228-4d47-9d29-35cbea85269c/tobi4.jpg",
+        "contentType": "IMAGE",
+        "alt": "Hammerhead Tobi 140 SUS"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/11ae323f-4b4f-4522-a3a0-1f506992810a/tobi5.jpg",
+        "contentType": "IMAGE",
+        "alt": "Hammerhead Tobi 140 SUS"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b81a134c-6d59-4b6c-b23c-6775f02ed07c/tobi3.jpg",
+        "contentType": "IMAGE",
+        "alt": "Hammerhead Tobi 140 SUS"
+      }
+    ]
+  }
+}

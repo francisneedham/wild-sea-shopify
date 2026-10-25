@@ -4,6 +4,13 @@ This guide is split so each part fits in a single read. The other parts sit in t
 directory — `onboarding-merchant.md` — and you should read the ones relevant to your task.
 
 ---
+Preserve those references when changing the palette, then inspect any explicit page, button, section, or block colour overrides that still need adjustment. Do not assume every Horizon version has exactly four values or that every element inherits the palette. Older versions can use `current.color_schemes` instead; follow the installed schema and the schemes assigned to the affected sections. Check text and button contrast, including hover and focus states, after changing colours.
+
+### Visual review: screenshot → compare → correct → repeat
+
+- If a browser capable of rendering the storefront and capturing screenshots is available, inspect the starting page before editing and capture the refreshed result after each meaningful design change has been pushed. Use the merchant's reference image or store when supplied, or their stated design goals otherwise.
+- Review desktop and mobile layouts: the hero and image crops, typography, spacing, colours and contrast, navigation, and product cards. Correct visible mismatches, rerun Theme Check for code changes, and inspect again. Stop when the requested changes look right or a concrete blocker prevents further review; explain remaining issues.
+- Use a development or unpublished-theme preview for visual review before publishing changes to a store that is already selling. Keep onboarding-store access through the existing preview session; do not bypass storefront access controls.
 - Browser tooling is an optional capability, not a dependency on a specific vendor or paid service. If it is unavailable, continue with focused edits and code validation, say that the appearance has not been visually verified, and ask the merchant to refresh and review the preview or share a screenshot. Never claim to have seen or matched a page you could not inspect.
 
 ---

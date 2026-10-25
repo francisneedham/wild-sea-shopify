@@ -1,0 +1,69 @@
+{
+  "input": {
+    "handle": "cb-one-ryan-230",
+    "title": "CB One Ryan 230",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">CB One Ryan is a handcrafted wooden decoy with realistic and highly detailed paint finishes.</p><p style=\"text-align: justify; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">The S-swim action creates a lot of flash to mimic a fleeing baitfish.<br />Floating lure with tail down rest position.</p><p style=\"text-align: justify; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Excellent for tuna and pelagics!</p><ul data-rte-list=\"default\"><li><p style=\"text-align: justify; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length 230 mm</span></p></li><li><p style=\"text-align: justify; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Gr. 130</span></p></li></ul><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">A must for EXOTIC FISHING</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "tuna",
+      "king",
+      "ye",
+      "blue",
+      "CB One",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-floating",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "Black",
+        "price": "100.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.21,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/ce266768-d169-40b8-a1e9-f51b3812e058/IMG_20260513_234225+%281%29.jpg",
+        "contentType": "IMAGE",
+        "alt": "CB One Ryan 230"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

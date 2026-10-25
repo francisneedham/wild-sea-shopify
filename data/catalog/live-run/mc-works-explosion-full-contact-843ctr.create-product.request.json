@@ -1,0 +1,63 @@
+{
+  "input": {
+    "handle": "mc-works-explosion-full-contact-843ctr",
+    "title": "MC Works Explosion Full Contact 843CTR",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>The MC Works Explosion Full Contact EX843CTR is a lightweight, high-performance spinning rod designed for topwater casting.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Built with a soft tip for easy pencil and stickbait manipulation, paired with a powerful progressive butt section.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Engineered for high lift and heavy drag handling despite its slim, light blank profile, capable of handling fish over 10 kg.</span></p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Specifications :<br /><span>Type:&nbsp;Spin&nbsp;<br />Length: 8’4”<br />Line:&nbsp;PE2/4<br />Casting max:&nbsp;gr 20/60<br />Drag max: 6kg<br />Grips: EVA<br /></span>Guides:Fuji Taitanium</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ2026432",
+        "price": "450.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 2
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/52689154-7bb7-46bb-9c98-28fe962c14c8/explosion+843.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Explosion Full Contact 843CTR"
+      }
+    ]
+  },
+  "locationId": "gid://shopify/Location/80787898481"
+}

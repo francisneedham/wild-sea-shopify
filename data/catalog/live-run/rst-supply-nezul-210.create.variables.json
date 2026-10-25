@@ -1,0 +1,74 @@
+{
+  "input": {
+    "handle": "rst-supply-nezul-210",
+    "title": "RST Supply Nezul 210",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>RST Supply Nezul 210 is a highly sought after handmade Japanese wooden lure used to target a large range of pelagic fish.&nbsp;<br /></span><br /><span>The Nezul 210mm delivers performance through enhanced buoyancy that produces unconventional diving behaviour. Occasionally, the lure may mis-dive during retrieval—this is intentional design, not a flaw. Rather than stopping your technique, persist with steady working action. This lure transcends traditional pencil popper classification, offering increased strikes from cautious fish.<br /></span><br /><span>Baitfish such as flying fish will jump out and escape while splashing on surface fleeing from predators, the Nezul has been designed to mimic this unexpected action.</span><br /><span>RST believe walking the dog action and skipping is not a mistake. There are many actions you can use with Nezul such as sliding, skipping and walking the dog etc. The Nezul is a lure that is versatile and surprising that will wake fish up in the most pickiest situations&nbsp;</span></p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><span>Length </span>210 mm</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Gr.82</p></li><li><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Color Pink</p></li></ul>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "saltwater lures",
+      "fishing lures",
+      "offshore fishing",
+      "inshore fishing",
+      "spinning fishing",
+      "predator fishing",
+      "offshore lure",
+      "legacy-catalog-import",
+      "legacy-category-lures",
+      "legacy-category-lures-stickbait"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ5754232",
+        "price": "100.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.14,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 3
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/51faad15-fd03-4b9d-9831-5f3f8a463f16/IMG_20260513_225659_61599587014469.jpg",
+        "contentType": "IMAGE",
+        "alt": "RST Supply Nezul 210"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/0861baa2-2db3-4c5b-bd75-399ca0fd76d1/IMG_20260513_225827_61599594003896.jpg",
+        "contentType": "IMAGE",
+        "alt": "RST Supply Nezul 210"
+      }
+    ]
+  }
+}

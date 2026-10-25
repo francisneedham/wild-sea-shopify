@@ -1,0 +1,72 @@
+{
+  "input": {
+    "handle": "mc-works-raging-bull-104xxstd",
+    "title": "MC Works Raging Bull 104XX STD",
+    "descriptionHtml": "<p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Introducing the MC Works Raging Bull 104XX STD Ultimate Rock Shore. With its monster-compatible design, this rod is perfect for veteran giant fish hunters in need of strength and reach. As the strongest model in RAGING BULL history, it's a must-have for any serious angler. Upgrade your fishing game with the 104XX.</p><p style=\"text-align: start; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">POWER 9<br />LENGTH 10'4″<br />LINE PE#8-10<br />CAST 100-200G<br />DRAG MAX 13KG</p>",
+    "status": "ACTIVE",
+    "productType": "Rods",
+    "tags": [
+      "MC Works",
+      "legacy-catalog-import",
+      "legacy-category-rods"
+    ],
+    "productOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          {
+            "name": "Default Title"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ6357972",
+        "price": "650.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Title",
+            "name": "Default Title"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 10.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/2db9cd6b-2e85-45eb-9cef-57a952199dd0/bull+1.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Raging Bull 104XX STD"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/36c86a96-bb4a-4305-9f0a-051c9037190e/bull3.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Raging Bull 104XX STD"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e863808f-2e27-4528-83e8-c017e48139e5/bull2.jpg",
+        "contentType": "IMAGE",
+        "alt": "MC Works Raging Bull 104XX STD"
+      }
+    ]
+  }
+}

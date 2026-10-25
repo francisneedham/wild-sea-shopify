@@ -1,0 +1,6 @@
+mutation CreateAbout($page: PageCreateInput!) {
+  pageCreate(page: $page) {
+    page { id title handle isPublished templateSuffix }
+    userErrors { field message code }
+  }
+}

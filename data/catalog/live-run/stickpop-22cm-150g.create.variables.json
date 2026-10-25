@@ -1,0 +1,281 @@
+{
+  "input": {
+    "handle": "stickpop-22cm-150g",
+    "title": "Glide Stickpop 22cm - 150g",
+    "descriptionHtml": "<p style=\"white-space:pre-wrap;\">22cm and 150g of weight.<br />Very simple to use, make liters of bubbles and amazing swimming action.<br />It needs inline hooks bkk diablo 11/0 or same weight, front and rear.</p>",
+    "status": "ACTIVE",
+    "productType": "Lures",
+    "tags": [
+      "Glide",
+      "22cm",
+      "150g",
+      "Stickpop",
+      "legacy-catalog-import",
+      "legacy-category-lures"
+    ],
+    "productOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          {
+            "name": "Nemo"
+          },
+          {
+            "name": "Black"
+          },
+          {
+            "name": "Shark"
+          },
+          {
+            "name": "YouPop"
+          },
+          {
+            "name": "Punk Mackerel"
+          },
+          {
+            "name": "Banana"
+          },
+          {
+            "name": "Carbon"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SQ4099842",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Nemo"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7191530",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Black"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ1955957",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Shark"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ5510682",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "YouPop"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7648587",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Punk Mackerel"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ8631115",
+        "price": "60.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Banana"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "sku": "SQ7803890",
+        "price": "70.00",
+        "inventoryPolicy": "DENY",
+        "optionValues": [
+          {
+            "optionName": "Color",
+            "name": "Carbon"
+          }
+        ],
+        "inventoryItem": {
+          "tracked": true,
+          "requiresShipping": true,
+          "measurement": {
+            "weight": {
+              "value": 0.0,
+              "unit": "KILOGRAMS"
+            }
+          }
+        },
+        "inventoryQuantities": [
+          {
+            "locationId": "gid://shopify/Location/80787898481",
+            "name": "available",
+            "quantity": 0
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/b11d4abb-4bd2-42c7-a320-a1eedae424a1/Glide-Stickpop-22cm-150g-nemo.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Stickpop 22cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e5c86080-e4d5-4766-822b-86769b6adbab/Glide-Stickpop-22cm-150g-black.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Stickpop 22cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/16c5bc71-9c77-4676-a9fe-0dee6fab6f23/Glide-Stickpop-22cm-150g-shark.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Stickpop 22cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/e1867033-30f2-482f-91c3-69846cee351b/Glide-Stickpop-22cm-150g-youpop.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Stickpop 22cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c8470203-872a-4599-b319-cebb9813f968/Glide-Stickpop-22cm-150g-punk-mackerel.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Stickpop 22cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/c0110eb3-36ac-4564-9f6d-9c837aefed17/Glide-Stickpop-22cm-150g-carbon.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Stickpop 22cm - 150g"
+      },
+      {
+        "originalSource": "https://images.squarespace-cdn.com/content/v1/5ff069cde136752810907ec8/f0507dd1-eae7-48d2-813b-fcd89908acac/Glide-Stickpop-22cm-150g-banana.jpeg",
+        "contentType": "IMAGE",
+        "alt": "Glide Stickpop 22cm - 150g"
+      }
+    ]
+  }
+}

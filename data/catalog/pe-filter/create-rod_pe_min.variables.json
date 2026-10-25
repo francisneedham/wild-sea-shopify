@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Rod PE minimum (variant)",
+    "namespace": "specs",
+    "key": "rod_pe_min",
+    "description": "Lower stated PE rating for rod variant.",
+    "type": "number_decimal",
+    "ownerType": "PRODUCTVARIANT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

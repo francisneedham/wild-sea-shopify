@@ -1,0 +1,95 @@
+{
+  "productId": "gid://shopify/Product/15439419113585",
+  "variantMedia": [
+    {
+      "variantId": "gid://shopify/ProductVariant/67841331921009",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901810289"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841331953777",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901711985"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841331986545",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901679217"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332019313",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901744753"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332052081",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901646449"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332084849",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901810289"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332117617",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901711985"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332150385",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901679217"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332183153",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901744753"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332215921",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901646449"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332248689",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901810289"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332281457",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901711985"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332314225",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901679217"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332346993",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901744753"
+      ]
+    },
+    {
+      "variantId": "gid://shopify/ProductVariant/67841332379761",
+      "mediaIds": [
+        "gid://shopify/MediaImage/46284901646449"
+      ]
+    }
+  ]
+}

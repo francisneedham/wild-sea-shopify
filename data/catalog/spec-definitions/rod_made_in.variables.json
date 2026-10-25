@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "name": "Rod made in",
+    "namespace": "specs",
+    "key": "rod_made_in",
+    "description": "Country explicitly stated by source; do not infer from brand.",
+    "type": "single_line_text_field",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+}

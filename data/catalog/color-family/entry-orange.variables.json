@@ -1,0 +1,18 @@
+{
+  "handle": {
+    "type": "wildsea_color_family",
+    "handle": "orange"
+  },
+  "metaobject": {
+    "fields": [
+      {
+        "key": "label",
+        "value": "Orange"
+      },
+      {
+        "key": "swatch_color",
+        "value": "#D97A35"
+      }
+    ]
+  }
+}
