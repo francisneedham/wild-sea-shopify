@@ -1,0 +1,7 @@
+assets/vite-manifest.json
+node_modules/*
+frontend/*
+vite.config.*
+.vite-shopify-theme.json
+.vite-shopify-theme.lock
+.shopify-devtools/*
